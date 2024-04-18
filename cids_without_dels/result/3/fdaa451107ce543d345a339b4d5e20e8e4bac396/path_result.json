@@ -1,0 +1,1 @@
+{"sound/soc/amd/acp-pcm-dma.c": [{"patch_file_name": "sound/soc/amd/acp-pcm-dma.c", "func_decl_name": "acp_audio_probe", "is_cond": true, "line_numbers": [1053, 1054], "line_cids": ["", ""], "line_strs": ["", "\taudio_drv_data = devm_kzalloc(&pdev->dev, sizeof(struct audio_drv_data),"]}]}

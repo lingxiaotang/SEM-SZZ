@@ -1,0 +1,1 @@
+{"drivers/media/platform/s5p-mfc/s5p_mfc_pm.c": [{"patch_file_name": "drivers/media/platform/s5p-mfc/s5p_mfc_pm.c", "func_decl_name": "s5p_mfc_init_pm", "is_cond": true, "line_numbers": [34, 34], "line_cids": ["", ""], "line_strs": ["\tfor (i = 0; i < pm->num_clocks; i++) {", "\tfor (i = 0; i < pm->num_clocks; i++) {"]}]}

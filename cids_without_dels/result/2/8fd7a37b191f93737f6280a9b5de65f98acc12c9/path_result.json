@@ -1,0 +1,1 @@
+{"drivers/gpu/drm/mediatek/mtk_dsi.c": [{"patch_file_name": "drivers/gpu/drm/mediatek/mtk_dsi.c", "func_decl_name": "mtk_dsi_destroy_conn_enc", "is_cond": true, "line_numbers": [846, 847], "line_cids": ["", ""], "line_strs": ["\t\tdrm_connector_cleanup(&dsi->conn);", "}"]}]}

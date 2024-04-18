@@ -1,0 +1,1 @@
+{"drivers/infiniband/core/uverbs_cmd.c": [{"patch_file_name": "drivers/infiniband/core/uverbs_cmd.c", "func_decl_name": "ib_uverbs_alloc_pd", "is_cond": false, "line_numbers": [442, 444], "line_cids": ["", ""], "line_strs": ["\tib_dealloc_pd(pd);", "\tkfree(pd);"]}]}

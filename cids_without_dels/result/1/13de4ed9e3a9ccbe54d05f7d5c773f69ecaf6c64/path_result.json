@@ -1,0 +1,1 @@
+{"net/core/skbuff.c": [{"patch_file_name": "net/core/skbuff.c", "func_decl_name": "skb_mpls_dec_ttl", "is_cond": true, "line_numbers": [5788, 5789], "line_cids": ["", ""], "line_strs": ["", "\tlse = be32_to_cpu(mpls_hdr(skb)->label_stack_entry);"]}]}

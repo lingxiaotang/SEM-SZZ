@@ -1,0 +1,1 @@
+{"drivers/gpu/drm/mcde/mcde_dsi.c": [{"patch_file_name": "drivers/gpu/drm/mcde/mcde_dsi.c", "func_decl_name": "mcde_dsi_bind", "is_cond": false, "line_numbers": [1111, 1111], "line_cids": ["", ""], "line_strs": ["\t\t\tbridge = of_drm_find_bridge(child);", "\t\t\tbridge = of_drm_find_bridge(child);"]}]}

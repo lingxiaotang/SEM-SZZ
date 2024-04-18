@@ -1,0 +1,1 @@
+{"drivers/dma/tegra20-apb-dma.c": [{"patch_file_name": "drivers/dma/tegra20-apb-dma.c", "func_decl_name": "tegra_dma_synchronize", "is_cond": true, "line_numbers": [818, 819], "line_cids": ["", ""], "line_strs": ["\tstruct tegra_dma_channel *tdc = to_tegra_dma_chan(dc);", ""]}]}

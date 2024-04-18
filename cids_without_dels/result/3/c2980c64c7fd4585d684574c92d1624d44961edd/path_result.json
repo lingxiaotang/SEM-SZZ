@@ -1,0 +1,1 @@
+{"drivers/iio/adc/mt6577_auxadc.c": [{"patch_file_name": "drivers/iio/adc/mt6577_auxadc.c", "func_decl_name": "mt6577_auxadc_read_raw", "is_cond": false, "line_numbers": [193, 193], "line_cids": ["", ""], "line_strs": ["\t\t\t*val = mt_auxadc_get_cali_data(*val, true);", "\t\t\t*val = mt_auxadc_get_cali_data(*val, true);"]}]}

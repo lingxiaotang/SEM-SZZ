@@ -1,0 +1,1 @@
+{"net/can/j1939/transport.c": [{"patch_file_name": "net/can/j1939/transport.c", "func_decl_name": "j1939_tp_cmd_recv", "is_cond": true, "line_numbers": [2025, 2026], "line_cids": ["", ""], "line_strs": ["\tcase J1939_TP_CMD_BAM:", "\t\tfallthrough;"]}]}

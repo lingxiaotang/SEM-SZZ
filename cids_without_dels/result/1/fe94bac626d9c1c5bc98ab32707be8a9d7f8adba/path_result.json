@@ -1,0 +1,1 @@
+{"net/mac80211/tx.c": [{"patch_file_name": "net/mac80211/tx.c", "func_decl_name": "ieee80211_amsdu_aggregate", "is_cond": true, "line_numbers": [3382, 3383], "line_cids": ["", ""], "line_strs": ["", "\t/*"]}]}

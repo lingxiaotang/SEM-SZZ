@@ -1,0 +1,1 @@
+{"drivers/net/ethernet/qlogic/qed/qed_ll2.c": [{"patch_file_name": "drivers/net/ethernet/qlogic/qed/qed_ll2.c", "func_decl_name": "qed_ll2b_complete_rx_packet", "is_cond": true, "line_numbers": [233, 233], "line_cids": ["", ""], "line_strs": ["\tif (cdev->ll2->cbs && cdev->ll2->cbs->rx_cb) {", "\tif (cdev->ll2->cbs && cdev->ll2->cbs->rx_cb) {"]}]}

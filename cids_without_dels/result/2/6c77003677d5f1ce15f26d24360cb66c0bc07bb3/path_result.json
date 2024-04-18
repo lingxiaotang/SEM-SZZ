@@ -1,0 +1,1 @@
+{"drivers/cpufreq/cpufreq.c": [{"patch_file_name": "drivers/cpufreq/cpufreq.c", "func_decl_name": "cpufreq_register_driver", "is_cond": false, "line_numbers": [2465, 2465], "line_cids": ["", ""], "line_strs": ["\tif (ret)", "\tif (ret)"]}]}

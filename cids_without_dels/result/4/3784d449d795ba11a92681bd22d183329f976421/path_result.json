@@ -1,0 +1,1 @@
+{"sound/usb/endpoint.c": [{"patch_file_name": "sound/usb/endpoint.c", "func_decl_name": "snd_usb_endpoint_configure", "is_cond": true, "line_numbers": [1254, 1255], "line_cids": ["", ""], "line_strs": ["\tif (!ep->iface_ref->need_setup) {", "\t\terr = snd_usb_endpoint_set_params(chip, ep);"]}]}

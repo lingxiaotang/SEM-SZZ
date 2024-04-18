@@ -1,0 +1,1 @@
+{"drivers/firmware/efi/efibc.c": [{"patch_file_name": "drivers/firmware/efi/efibc.c", "func_decl_name": "efibc_reboot_notifier_call", "is_cond": true, "line_numbers": [50, 51], "line_cids": ["", ""], "line_strs": ["\twdata = kmalloc(MAX_DATA_LEN * sizeof(efi_char16_t), GFP_KERNEL);", "\tfor (l = 0; l < MAX_DATA_LEN - 1 && str[l] != '\\0'; l++)"]}]}

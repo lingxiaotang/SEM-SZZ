@@ -1,0 +1,1 @@
+{"drivers/usb/host/ehci-mxc.c": [{"patch_file_name": "drivers/usb/host/ehci-mxc.c", "func_decl_name": "ehci_mxc_drv_probe", "is_cond": true, "line_numbers": [52, 53], "line_cids": ["", ""], "line_strs": ["\tirq = platform_get_irq(pdev, 0);", ""]}]}

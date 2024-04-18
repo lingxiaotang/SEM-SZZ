@@ -1,0 +1,1 @@
+{"drivers/net/wwan/iosm/iosm_ipc_wwan.c": [{"patch_file_name": "drivers/net/wwan/iosm/iosm_ipc_wwan.c", "func_decl_name": "ipc_wwan_setup", "is_cond": false, "line_numbers": [170, 172], "line_cids": ["", ""], "line_strs": ["\tiosm_dev->flags = IFF_POINTOPOINT | IFF_NOARP;", "\tiosm_dev->netdev_ops = &ipc_inm_ops;"]}]}

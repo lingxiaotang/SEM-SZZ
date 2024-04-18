@@ -1,0 +1,1 @@
+{"sound/soc/codecs/wcd938x.c": [{"patch_file_name": "sound/soc/codecs/wcd938x.c", "func_decl_name": "wcd938x_readonly_register", "is_cond": true, "line_numbers": [1176, 1177], "line_cids": ["", ""], "line_strs": ["\tcase WCD938X_DIGITAL_INTR_STATUS_2:", "\tcase WCD938X_DIGITAL_SWR_HM_TEST_0:"]}]}

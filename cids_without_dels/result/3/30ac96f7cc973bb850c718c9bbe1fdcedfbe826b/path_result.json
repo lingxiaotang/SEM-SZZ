@@ -1,0 +1,1 @@
+{"net/mac80211/s1g.c": [{"patch_file_name": "net/mac80211/s1g.c", "func_decl_name": "ieee80211_s1g_rx_twt_setup", "is_cond": false, "line_numbers": [106, 115], "line_cids": ["", ""], "line_strs": ["\tif (twt->control & IEEE80211_TWT_CONTROL_NEG_TYPE_BROADCAST) {", "\tdrv_add_twt_setup(sdata->local, sdata, &sta->sta, twt);"]}]}

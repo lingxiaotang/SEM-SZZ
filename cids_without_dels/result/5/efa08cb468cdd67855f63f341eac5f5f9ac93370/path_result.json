@@ -1,0 +1,1 @@
+{"drivers/virtio/virtio_vdpa.c": [{"patch_file_name": "drivers/virtio/virtio_vdpa.c", "func_decl_name": "virtio_vdpa_setup_vq", "is_cond": true, "line_numbers": [193, 194], "line_cids": ["", ""], "line_strs": ["", "\tops->set_vq_ready(vdpa, index, 1);"]}]}

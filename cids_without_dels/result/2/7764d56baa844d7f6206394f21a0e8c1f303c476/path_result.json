@@ -1,0 +1,1 @@
+{"fs/btrfs/inode-map.c": [{"patch_file_name": "fs/btrfs/inode-map.c", "func_decl_name": "start_caching", "is_cond": false, "line_numbers": [147, 148], "line_cids": ["", ""], "line_strs": ["\t\troot->ino_cache_state = BTRFS_CACHE_FINISHED;", "\t\tspin_unlock(&root->ino_cache_lock);"]}]}

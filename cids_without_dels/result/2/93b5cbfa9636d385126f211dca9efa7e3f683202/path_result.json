@@ -1,0 +1,1 @@
+{"drivers/net/ethernet/qualcomm/rmnet/rmnet_config.c": [{"patch_file_name": "drivers/net/ethernet/qualcomm/rmnet/rmnet_config.c", "func_decl_name": "rmnet_newlink", "is_cond": true, "line_numbers": [137, 138], "line_cids": ["", ""], "line_strs": ["", "\treal_dev = __dev_get_by_index(src_net, nla_get_u32(tb[IFLA_LINK]));"]}]}

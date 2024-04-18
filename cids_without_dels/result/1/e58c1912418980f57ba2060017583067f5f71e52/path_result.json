@@ -1,0 +1,1 @@
+{"drivers/net/slip/slip.c": [{"patch_file_name": "drivers/net/slip/slip.c", "func_decl_name": "slip_open", "is_cond": false, "line_numbers": [857, 858], "line_cids": ["", ""], "line_strs": ["\tclear_bit(SLF_INUSE, &sl->flags);", "\tfree_netdev(sl->dev);"]}]}

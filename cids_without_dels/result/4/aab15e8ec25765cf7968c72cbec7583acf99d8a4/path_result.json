@@ -1,0 +1,1 @@
+{"fs/btrfs/file.c": [{"patch_file_name": "fs/btrfs/file.c", "func_decl_name": "btrfs_sync_file", "is_cond": true, "line_numbers": [2096, 2096], "line_cids": ["", ""], "line_strs": ["\tif (ret) {", "\tif (ret) {"]}]}

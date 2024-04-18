@@ -1,0 +1,1 @@
+{"drivers/hwmon/coretemp.c": [{"patch_file_name": "drivers/hwmon/coretemp.c", "func_decl_name": "coretemp_cpu_offline", "is_cond": true, "line_numbers": [656, 657], "line_cids": ["", ""], "line_strs": ["", "\t/* If the physical CPU device does not exist, just return */"]}]}

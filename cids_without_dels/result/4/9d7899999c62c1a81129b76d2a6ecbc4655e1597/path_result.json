@@ -1,0 +1,1 @@
+{"mm/page_alloc.c": [{"patch_file_name": "mm/page_alloc.c", "func_decl_name": "has_unmovable_pages", "is_cond": true, "line_numbers": [7790, 7791], "line_cids": ["", ""], "line_strs": ["", "\t\t/*"]}]}

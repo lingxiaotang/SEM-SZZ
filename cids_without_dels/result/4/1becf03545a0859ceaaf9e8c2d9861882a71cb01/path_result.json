@@ -1,0 +1,1 @@
+{"drivers/cpufreq/intel_pstate.c": [{"patch_file_name": "drivers/cpufreq/intel_pstate.c", "func_decl_name": "core_get_max_pstate", "is_cond": true, "line_numbers": [815, 816], "line_cids": ["", ""], "line_strs": ["", "\t\t\tif (tdp_ratio - 1 == tar) {"]}]}

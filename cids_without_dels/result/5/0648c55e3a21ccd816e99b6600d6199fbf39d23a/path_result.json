@@ -1,0 +1,1 @@
+{"drivers/soc/qcom/mdt_loader.c": [{"patch_file_name": "drivers/soc/qcom/mdt_loader.c", "func_decl_name": "__qcom_mdt_load", "is_cond": true, "line_numbers": [263, 264], "line_cids": ["", ""], "line_strs": ["", "\t\t\trelease_firmware(seg_fw);"]}]}

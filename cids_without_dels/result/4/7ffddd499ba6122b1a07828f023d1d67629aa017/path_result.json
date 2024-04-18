@@ -1,0 +1,1 @@
+{"mm/hugetlb.c": [{"patch_file_name": "mm/hugetlb.c", "func_decl_name": "dissolve_free_huge_page", "is_cond": true, "line_numbers": [1773, 1774], "line_cids": ["", ""], "line_strs": ["\t\t\tgoto out;", "\t\t/*"]}]}

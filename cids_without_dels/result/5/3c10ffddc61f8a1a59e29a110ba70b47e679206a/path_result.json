@@ -1,0 +1,1 @@
+{"net/xfrm/xfrm_user.c": [{"patch_file_name": "net/xfrm/xfrm_user.c", "func_decl_name": "xfrm_get_default", "is_cond": true, "line_numbers": [2007, 2008], "line_cids": ["", ""], "line_strs": ["", "\tr_up = nlmsg_data(r_nlh);"]}]}

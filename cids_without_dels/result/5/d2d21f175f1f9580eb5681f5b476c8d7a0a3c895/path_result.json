@@ -1,0 +1,1 @@
+{"net/mptcp/pm_userspace.c": [{"patch_file_name": "net/mptcp/pm_userspace.c", "func_decl_name": "mptcp_nl_cmd_sf_destroy", "is_cond": false, "line_numbers": [412, 417], "line_cids": ["", ""], "line_strs": ["\t\tmptcp_close_ssk(sk, ssk, subflow);", "\trelease_sock(sk);"]}]}

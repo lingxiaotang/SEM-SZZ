@@ -1,0 +1,1 @@
+{"drivers/net/ethernet/broadcom/bnxt/bnxt_ethtool.c": [{"patch_file_name": "drivers/net/ethernet/broadcom/bnxt/bnxt_ethtool.c", "func_decl_name": "bnxt_get_nvram_directory", "is_cond": true, "line_numbers": [2325, 2326], "line_cids": ["", ""], "line_strs": ["", "\t/* Insert 2 bytes of directory info (count and size of entries) */"]}]}

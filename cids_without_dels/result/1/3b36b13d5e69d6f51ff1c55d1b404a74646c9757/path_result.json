@@ -1,0 +1,1 @@
+{"sound/pci/hda/patch_realtek.c": [{"patch_file_name": "sound/pci/hda/patch_realtek.c", "func_decl_name": "patch_alc269", "is_cond": false, "line_numbers": [7966, 7966], "line_cids": ["", ""], "line_strs": ["\tswitch (codec->core.vendor_id) {", "\tswitch (codec->core.vendor_id) {"]}]}

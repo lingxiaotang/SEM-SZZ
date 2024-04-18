@@ -1,0 +1,1 @@
+{"drivers/md/dm-crypt.c": [{"patch_file_name": "drivers/md/dm-crypt.c", "func_decl_name": "crypt_ctr_optional", "is_cond": true, "line_numbers": [2587, 2588], "line_cids": ["", ""], "line_strs": ["\t\t\t}", "\t\t\tcc->sector_shift = __ffs(cc->sector_size) - SECTOR_SHIFT;"]}]}

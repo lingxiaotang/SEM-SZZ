@@ -1,0 +1,1 @@
+{"virt/kvm/arm/arch_timer.c": [{"patch_file_name": "virt/kvm/arm/arch_timer.c", "func_decl_name": "kvm_timer_vcpu_load", "is_cond": true, "line_numbers": [504, 505], "line_cids": ["", ""], "line_strs": ["\tphys_timer_emulate(vcpu);", "}"]}]}

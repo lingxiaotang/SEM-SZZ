@@ -1,0 +1,1 @@
+{"drivers/infiniband/hw/hns/hns_roce_hw_v2.c": [{"patch_file_name": "drivers/infiniband/hw/hns/hns_roce_hw_v2.c", "func_decl_name": "hns_roce_v2_modify_srq", "is_cond": true, "line_numbers": [5120, 5121], "line_cids": ["", ""], "line_strs": ["", "\tif (srq_attr_mask & IB_SRQ_LIMIT) {"]}]}

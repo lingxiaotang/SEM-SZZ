@@ -1,0 +1,1 @@
+{"drivers/infiniband/hw/hfi1/sdma.c": [{"patch_file_name": "drivers/infiniband/hw/hfi1/sdma.c", "func_decl_name": "sdma_flush", "is_cond": true, "line_numbers": [417, 418], "line_cids": ["", ""], "line_strs": ["\t\tcomplete_tx(sde, txp, SDMA_TXREQ_S_ABORTED);", "}"]}]}

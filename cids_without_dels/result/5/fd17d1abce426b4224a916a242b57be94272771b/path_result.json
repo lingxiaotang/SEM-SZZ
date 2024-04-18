@@ -1,0 +1,1 @@
+{"drivers/dma/dmatest.c": [{"patch_file_name": "drivers/dma/dmatest.c", "func_decl_name": "dmatest_run_set", "is_cond": true, "line_numbers": [1178, 1179], "line_cids": ["", ""], "line_strs": ["\t\t\tpr_info(\"No channels configured, continue with any\\n\");", "\t\t\tadd_threaded_test(info);"]}]}

@@ -1,0 +1,1 @@
+{"net/netlink/af_netlink.c": [{"patch_file_name": "net/netlink/af_netlink.c", "func_decl_name": "netlink_sendmsg", "is_cond": true, "line_numbers": [1846, 1847], "line_cids": ["", ""], "line_strs": ["\t\terr = -EINVAL;", "\t\tif (addr->nl_family != AF_NETLINK)"]}]}

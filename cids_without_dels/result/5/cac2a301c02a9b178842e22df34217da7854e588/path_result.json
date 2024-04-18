@@ -1,0 +1,1 @@
+{"drivers/infiniband/core/uverbs_uapi.c": [{"patch_file_name": "drivers/infiniband/core/uverbs_uapi.c", "func_decl_name": "uapi_add_elm", "is_cond": true, "line_numbers": [24, 25], "line_cids": ["", ""], "line_strs": ["\telm = kzalloc(alloc_size, GFP_KERNEL);", "\trc = radix_tree_insert(&uapi->radix, key, elm);"]}]}

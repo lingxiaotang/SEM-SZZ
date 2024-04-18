@@ -1,0 +1,1 @@
+{"sound/firewire/motu/motu.c": [{"patch_file_name": "sound/firewire/motu/motu.c", "func_decl_name": "do_registration", "is_cond": false, "line_numbers": [130, 131], "line_cids": ["", ""], "line_strs": ["\tsnd_motu_transaction_unregister(motu);", "\tsnd_card_free(motu->card);"]}]}

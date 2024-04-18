@@ -1,0 +1,1 @@
+{"net/smc/smc_close.c": [{"patch_file_name": "net/smc/smc_close.c", "func_decl_name": "smc_close_active", "is_cond": true, "line_numbers": [230, 231], "line_cids": ["", ""], "line_strs": ["\t\t\tsk->sk_state = SMC_PEERCLOSEWAIT1;", "\t\t} else {"]}]}

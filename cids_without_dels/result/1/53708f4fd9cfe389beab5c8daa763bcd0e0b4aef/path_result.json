@@ -1,0 +1,1 @@
+{"drivers/net/wireless/marvell/mwifiex/sdio.c": [{"patch_file_name": "drivers/net/wireless/marvell/mwifiex/sdio.c", "func_decl_name": "mwifiex_alloc_sdio_mpa_buffers", "is_cond": false, "line_numbers": [2404, 2405], "line_cids": ["", ""], "line_strs": ["\t\tcard->mpa_tx.buf_size = 0;", "\t\tcard->mpa_rx.buf_size = 0;"]}]}

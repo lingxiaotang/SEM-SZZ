@@ -1,0 +1,1 @@
+{"drivers/net/usb/smsc95xx.c": [{"patch_file_name": "drivers/net/usb/smsc95xx.c", "func_decl_name": "smsc95xx_handle_link_change", "is_cond": false, "line_numbers": [1181], "line_cids": [""], "line_strs": ["\tphy_print_status(net->phydev);"]}]}

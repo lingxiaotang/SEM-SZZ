@@ -1,0 +1,1 @@
+{"drivers/hsi/controllers/omap_ssi_core.c": [{"patch_file_name": "drivers/hsi/controllers/omap_ssi_core.c", "func_decl_name": "ssi_probe", "is_cond": false, "line_numbers": [523, 523], "line_cids": ["", ""], "line_strs": ["\t\tchildpdev = of_platform_device_create(child, NULL, &pd->dev);", "\t\tchildpdev = of_platform_device_create(child, NULL, &pd->dev);"]}]}

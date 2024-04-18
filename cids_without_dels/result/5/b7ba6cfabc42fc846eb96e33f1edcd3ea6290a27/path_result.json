@@ -1,0 +1,1 @@
+{"drivers/net/ethernet/marvell/octeontx2/af/rvu_cgx.c": [{"patch_file_name": "drivers/net/ethernet/marvell/octeontx2/af/rvu_cgx.c", "func_decl_name": "rvu_mbox_handler_cgx_mac_addr_get", "is_cond": true, "line_numbers": [487, 488], "line_cids": ["", ""], "line_strs": ["", "\trvu_get_cgx_lmac_id(rvu->pf2cgxlmac_map[pf], &cgx_id, &lmac_id);"]}]}

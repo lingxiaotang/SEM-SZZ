@@ -1,0 +1,1 @@
+{"drivers/media/platform/qcom/venus/vdec.c": [{"patch_file_name": "drivers/media/platform/qcom/venus/vdec.c", "func_decl_name": "vdec_try_fmt_common", "is_cond": true, "line_numbers": [185, 186], "line_cids": ["", ""], "line_strs": ["\t\tfmt = find_format(inst, pixmp->pixelformat, f->type);", "\t}"]}]}

@@ -1,0 +1,1 @@
+{"sound/soc/qcom/lpass-cpu.c": [{"patch_file_name": "sound/soc/qcom/lpass-cpu.c", "func_decl_name": "asoc_qcom_lpass_cpu_platform_probe", "is_cond": false, "line_numbers": [1092, 1092], "line_cids": ["", ""], "line_strs": ["\tif (dsp_of_node) {", "\tif (dsp_of_node) {"]}]}

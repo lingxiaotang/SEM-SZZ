@@ -1,0 +1,1 @@
+{"virt/kvm/arm/vgic/vgic-v2.c": [{"patch_file_name": "virt/kvm/arm/vgic/vgic-v2.c", "func_decl_name": "vgic_v2_populate_lr", "is_cond": true, "line_numbers": [151, 152], "line_cids": ["", ""], "line_strs": ["\t\tval |= irq->hwintid << GICH_LR_PHYSID_CPUID_SHIFT;", "\t} else {"]}]}

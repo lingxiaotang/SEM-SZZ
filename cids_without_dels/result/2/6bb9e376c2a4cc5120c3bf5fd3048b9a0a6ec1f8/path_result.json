@@ -1,0 +1,1 @@
+{"drivers/net/dsa/microchip/ksz_common.c": [{"patch_file_name": "drivers/net/dsa/microchip/ksz_common.c", "func_decl_name": "ksz_mib_read_work", "is_cond": true, "line_numbers": [85, 86], "line_cids": ["", ""], "line_strs": ["\tfor (i = 0; i < dev->mib_port_cnt; i++) {", "\t\tp = &dev->ports[i];"]}]}

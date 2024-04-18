@@ -1,0 +1,1 @@
+{"drivers/infiniband/core/device.c": [{"patch_file_name": "drivers/infiniband/core/device.c", "func_decl_name": "ib_register_device", "is_cond": true, "line_numbers": [359, 359], "line_cids": ["", ""], "line_strs": ["\tif (ret) {", "\tif (ret) {"]}]}

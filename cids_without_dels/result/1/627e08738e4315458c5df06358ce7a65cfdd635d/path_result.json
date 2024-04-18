@@ -1,0 +1,1 @@
+{"fs/btrfs/extent-tree.c": [{"patch_file_name": "fs/btrfs/extent-tree.c", "func_decl_name": "btrfs_discard_extent", "is_cond": true, "line_numbers": [2146, 2146], "line_cids": ["", ""], "line_strs": ["\t\tfor (i = 0; i < bbio->num_stripes; i++, stripe++) {", "\t\tfor (i = 0; i < bbio->num_stripes; i++, stripe++) {"]}]}

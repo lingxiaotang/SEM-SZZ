@@ -1,0 +1,1 @@
+{"drivers/net/ethernet/faraday/ftgmac100.c": [{"patch_file_name": "drivers/net/ethernet/faraday/ftgmac100.c", "func_decl_name": "ftgmac100_probe", "is_cond": true, "line_numbers": [1819, 1820], "line_cids": ["", ""], "line_strs": ["\t\tpriv->is_aspeed = true;", "\t} else {"]}]}

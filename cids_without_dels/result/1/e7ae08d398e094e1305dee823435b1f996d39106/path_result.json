@@ -1,0 +1,1 @@
+{"drivers/bus/ti-sysc.c": [{"patch_file_name": "drivers/bus/ti-sysc.c", "func_decl_name": "sysc_wait_softreset", "is_cond": true, "line_numbers": [229, 230], "line_cids": ["", ""], "line_strs": ["", "\tsyss_offset = ddata->offsets[SYSC_SYSSTATUS];"]}]}

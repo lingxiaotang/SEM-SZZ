@@ -1,0 +1,1 @@
+{"drivers/dma/owl-dma.c": [{"patch_file_name": "drivers/dma/owl-dma.c", "func_decl_name": "owl_dma_remove", "is_cond": false, "line_numbers": [1246, 1248], "line_cids": ["", ""], "line_strs": ["\towl_dma_free(od);", "\tclk_disable_unprepare(od->clk);"]}]}

@@ -1,0 +1,1 @@
+{"drivers/net/ethernet/qlogic/qed/qed_sriov.c": [{"patch_file_name": "drivers/net/ethernet/qlogic/qed/qed_sriov.c", "func_decl_name": "qed_sp_vf_start", "is_cond": true, "line_numbers": [73, 74], "line_cids": ["", ""], "line_strs": ["\tcase QED_PCI_ETH_ROCE:", "\t\tp_ramrod->personality = PERSONALITY_RDMA_AND_ETH;"]}]}

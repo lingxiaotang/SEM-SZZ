@@ -1,0 +1,1 @@
+{"drivers/gpu/drm/bridge/synopsys/dw-hdmi.c": [{"patch_file_name": "drivers/gpu/drm/bridge/synopsys/dw-hdmi.c", "func_decl_name": "dw_hdmi_clear_overflow", "is_cond": true, "line_numbers": [1664, 1665], "line_cids": ["", ""], "line_strs": ["\tcase 0x132a:", "\t\tcount = 1;"]}]}

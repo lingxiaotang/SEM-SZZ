@@ -1,0 +1,1 @@
+{"net/wireless/nl80211.c": [{"patch_file_name": "net/wireless/nl80211.c", "func_decl_name": "cfg80211_ch_switch_notify", "is_cond": true, "line_numbers": [18560, 18561], "line_cids": ["", ""], "line_strs": ["\t\tbreak;", "\tdefault:"]}]}

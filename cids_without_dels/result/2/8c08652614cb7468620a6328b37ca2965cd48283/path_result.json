@@ -1,0 +1,1 @@
+{"sound/soc/sof/intel/hda-dai.c": [{"patch_file_name": "sound/soc/sof/intel/hda-dai.c", "func_decl_name": "ssp_dai_hw_params", "is_cond": true, "line_numbers": [428, 429], "line_cids": ["", ""], "line_strs": ["", "\tlist_for_each_entry(sof_dai, &sdev->dai_list, list) {"]}]}

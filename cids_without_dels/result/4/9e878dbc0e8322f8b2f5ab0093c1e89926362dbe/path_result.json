@@ -1,0 +1,1 @@
+{"drivers/iio/inkern.c": [{"patch_file_name": "drivers/iio/inkern.c", "func_decl_name": "devm_of_iio_channel_get_by_name", "is_cond": true, "line_numbers": [414, 415], "line_cids": ["", ""], "line_strs": ["\t\treturn channel;", ""]}]}

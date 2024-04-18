@@ -1,0 +1,1 @@
+{"sound/soc/sh/rcar/ssiu.c": [{"patch_file_name": "sound/soc/sh/rcar/ssiu.c", "func_decl_name": "rsnd_ssiu_probe", "is_cond": true, "line_numbers": [517, 518], "line_cids": ["", ""], "line_strs": ["", "\tssiu\t= devm_kcalloc(dev, nr, sizeof(*ssiu), GFP_KERNEL);"]}]}

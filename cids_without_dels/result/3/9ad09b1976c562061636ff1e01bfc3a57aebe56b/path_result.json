@@ -1,0 +1,1 @@
+{"fs/fuse/cuse.c": [{"patch_file_name": "fs/fuse/cuse.c", "func_decl_name": "cuse_channel_open", "is_cond": false, "line_numbers": [521, 521], "line_cids": ["", ""], "line_strs": ["\trc = cuse_send_init(cc);", "\trc = cuse_send_init(cc);"]}]}

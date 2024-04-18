@@ -1,0 +1,1 @@
+{"drivers/interconnect/core.c": [{"patch_file_name": "drivers/interconnect/core.c", "func_decl_name": "icc_get", "is_cond": true, "line_numbers": [581, 582], "line_cids": ["", ""], "line_strs": ["\tpath->name = kasprintf(GFP_KERNEL, \"%s-%s\", src->name, dst->name);", "out:"]}]}

@@ -1,0 +1,1 @@
+{"arch/x86/kvm/x86.c": [{"patch_file_name": "arch/x86/kvm/x86.c", "func_decl_name": "kvm_deliver_exception_payload", "is_cond": false, "line_numbers": [440, 447], "line_cids": ["", ""], "line_strs": ["\t\tvcpu->arch.dr6 ^= payload & DR6_RTM;", "\tvcpu->arch.exception.has_payload = false;"]}]}

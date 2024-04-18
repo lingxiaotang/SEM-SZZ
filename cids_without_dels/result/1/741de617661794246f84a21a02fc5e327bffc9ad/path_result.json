@@ -1,0 +1,1 @@
+{"arch/powerpc/platforms/powernv/opal-nvram.c": [{"patch_file_name": "arch/powerpc/platforms/powernv/opal-nvram.c", "func_decl_name": "opal_nvram_write", "is_cond": true, "line_numbers": [61, 62], "line_cids": ["", ""], "line_strs": ["\t}", "\t*index += count;"]}]}

@@ -1,0 +1,1 @@
+{"arch/x86/kvm/emulate.c": [{"patch_file_name": "arch/x86/kvm/emulate.c", "func_decl_name": "em_xsetbv", "is_cond": true, "line_numbers": [4134, 4135], "line_cids": ["", ""], "line_strs": ["", "\teax = reg_read(ctxt, VCPU_REGS_RAX);"]}], "arch/x86/kvm/x86.c": []}

@@ -1,0 +1,1 @@
+{"drivers/net/ethernet/hisilicon/hns3/hns3pf/hclge_mbx.c": [{"patch_file_name": "drivers/net/ethernet/hisilicon/hns3/hns3pf/hclge_mbx.c", "func_decl_name": "hclge_send_mbx_msg", "is_cond": true, "line_numbers": [96, 97], "line_cids": ["", ""], "line_strs": ["", "\tresp_pf_to_vf = (struct hclge_mbx_pf_to_vf_cmd *)desc.data;"]}]}

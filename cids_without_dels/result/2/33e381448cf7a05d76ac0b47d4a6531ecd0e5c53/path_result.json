@@ -1,0 +1,1 @@
+{"drivers/net/ethernet/atheros/alx/main.c": [{"patch_file_name": "drivers/net/ethernet/atheros/alx/main.c", "func_decl_name": "alx_probe", "is_cond": false, "line_numbers": [1851, 1853], "line_cids": ["", ""], "line_strs": ["\tpci_release_mem_regions(pdev);", "\tpci_disable_device(pdev);"]}]}

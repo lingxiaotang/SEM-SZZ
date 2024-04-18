@@ -1,0 +1,1 @@
+{"drivers/tty/serial/sh-sci.c": [{"patch_file_name": "drivers/tty/serial/sh-sci.c", "func_decl_name": "sci_set_termios", "is_cond": true, "line_numbers": [2374, 2375], "line_cids": ["", ""], "line_strs": ["\t}", ""]}]}

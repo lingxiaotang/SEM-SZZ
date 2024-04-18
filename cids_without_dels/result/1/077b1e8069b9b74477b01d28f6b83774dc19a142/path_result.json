@@ -1,0 +1,1 @@
+{"drivers/net/ethernet/mellanox/mlx5/core/en_fs_ethtool.c": [{"patch_file_name": "drivers/net/ethernet/mellanox/mlx5/core/en_fs_ethtool.c", "func_decl_name": "set_flow_attrs", "is_cond": false, "line_numbers": [248, 250], "line_cids": ["", ""], "line_strs": ["\tif (fs->flow_type & FLOW_MAC_EXT &&", "\t\tether_addr_copy(MLX5_ADDR_OF(fte_match_set_lyr_2_4,"]}]}

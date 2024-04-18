@@ -1,0 +1,1 @@
+{"net/ceph/osdmap.c": [{"patch_file_name": "net/ceph/osdmap.c", "func_decl_name": "crush_decode", "is_cond": true, "line_numbers": [348, 348], "line_cids": ["", ""], "line_strs": ["\t\tfor (j = 0; j < r->len; j++) {", "\t\tfor (j = 0; j < r->len; j++) {"]}]}

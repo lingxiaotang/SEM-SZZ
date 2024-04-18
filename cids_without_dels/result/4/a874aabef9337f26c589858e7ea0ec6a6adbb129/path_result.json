@@ -1,0 +1,1 @@
+{"drivers/media/platform/coda/imx-vdoa.c": [{"patch_file_name": "drivers/media/platform/coda/imx-vdoa.c", "func_decl_name": "vdoa_probe", "is_cond": true, "line_numbers": [316, 317], "line_cids": ["", ""], "line_strs": ["\tres = platform_get_resource(pdev, IORESOURCE_IRQ, 0);", "\tvdoa->irq = devm_request_threaded_irq(&pdev->dev, res->start, NULL,"]}]}

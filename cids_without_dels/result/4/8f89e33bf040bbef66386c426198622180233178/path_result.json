@@ -1,0 +1,1 @@
+{"drivers/iio/adc/mcp3911.c": [{"patch_file_name": "drivers/iio/adc/mcp3911.c", "func_decl_name": "mcp3911_read_raw", "is_cond": false, "line_numbers": [111, 111], "line_cids": ["", ""], "line_strs": ["\t\tret = mcp3911_read(adc,", "\t\tret = mcp3911_read(adc,"]}]}

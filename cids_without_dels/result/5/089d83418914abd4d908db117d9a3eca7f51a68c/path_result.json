@@ -1,0 +1,1 @@
+{"drivers/gpu/drm/vc4/vc4_kms.c": [{"patch_file_name": "drivers/gpu/drm/vc4/vc4_kms.c", "func_decl_name": "vc4_atomic_check", "is_cond": true, "line_numbers": [622, 623], "line_cids": ["", ""], "line_strs": ["", "\tfor_each_new_crtc_in_state(state, crtc, crtc_state, i) {"]}]}

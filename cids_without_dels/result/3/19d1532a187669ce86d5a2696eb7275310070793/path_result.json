@@ -1,0 +1,1 @@
+{"drivers/net/hamradio/6pack.c": [{"patch_file_name": "drivers/net/hamradio/6pack.c", "func_decl_name": "decode_data", "is_cond": true, "line_numbers": [829, 830], "line_cids": ["", ""], "line_strs": ["", "\tbuf = sp->raw_buf;"]}]}

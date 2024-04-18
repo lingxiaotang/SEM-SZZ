@@ -1,0 +1,1 @@
+{"fs/nfsd/nfsctl.c": [{"patch_file_name": "fs/nfsd/nfsctl.c", "func_decl_name": "nfsd_client_rmdir", "is_cond": false, "line_numbers": [1336, 1337], "line_cids": ["", ""], "line_strs": ["\tfsnotify_rmdir(dir, dentry);", "\td_delete(dentry);"]}]}

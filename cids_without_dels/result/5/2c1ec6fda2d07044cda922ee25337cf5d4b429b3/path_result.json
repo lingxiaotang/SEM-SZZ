@@ -1,0 +1,1 @@
+{"drivers/ata/libata-scsi.c": [{"patch_file_name": "drivers/ata/libata-scsi.c", "func_decl_name": "ata_scsi_pass_thru", "is_cond": true, "line_numbers": [3318, 3319], "line_cids": ["", ""], "line_strs": ["", "\t/* sanity check for pio multi commands */"]}]}

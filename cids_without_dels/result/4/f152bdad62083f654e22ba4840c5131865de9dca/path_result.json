@@ -1,0 +1,1 @@
+{"drivers/net/wireless/marvell/mwifiex/cfg80211.c": [{"patch_file_name": "drivers/net/wireless/marvell/mwifiex/cfg80211.c", "func_decl_name": "mwifiex_add_virtual_intf", "is_cond": true, "line_numbers": [2867, 2868], "line_cids": ["", ""], "line_strs": ["\t\t\t       HostCmd_ACT_GEN_SET, 0, NULL, true);", "\t\treturn ERR_PTR(ret);"]}]}

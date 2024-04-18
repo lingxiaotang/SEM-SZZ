@@ -1,0 +1,1 @@
+{"tools/testing/selftests/bpf/test_progs.c": [{"patch_file_name": "tools/testing/selftests/bpf/test_progs.c", "func_decl_name": "test_stacktrace_build_id_nmi", "is_cond": true, "line_numbers": [1438, 1439], "line_cids": ["", ""], "line_strs": ["", "\tif (CHECK(build_id_matches < 1, \"build id match\","]}]}

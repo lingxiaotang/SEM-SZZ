@@ -1,0 +1,1 @@
+{"net/netfilter/xt_IDLETIMER.c": [{"patch_file_name": "net/netfilter/xt_IDLETIMER.c", "func_decl_name": "idletimer_tg_create", "is_cond": true, "line_numbers": [126, 127], "line_cids": ["", ""], "line_strs": ["", "\tsysfs_attr_init(&info->timer->attr.attr);"]}]}

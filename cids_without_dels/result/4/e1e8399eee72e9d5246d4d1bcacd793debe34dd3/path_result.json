@@ -1,0 +1,1 @@
+{"fs/nfsd/nfs4state.c": [{"patch_file_name": "fs/nfsd/nfs4state.c", "func_decl_name": "find_or_allocate_block", "is_cond": false, "line_numbers": [269, 270], "line_cids": ["", ""], "line_strs": ["\t\tif (nbl) {", "\t\t\tfh_copy_shallow(&nbl->nbl_fh, fh);"]}]}

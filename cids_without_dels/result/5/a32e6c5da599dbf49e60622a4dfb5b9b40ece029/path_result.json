@@ -1,0 +1,1 @@
+{"tools/perf/util/intel-pt-decoder/intel-pt-decoder.c": [{"patch_file_name": "tools/perf/util/intel-pt-decoder/intel-pt-decoder.c", "func_decl_name": "intel_pt_walk_trace", "is_cond": true, "line_numbers": [2964, 2964], "line_cids": ["", ""], "line_strs": ["\t\tswitch (decoder->packet.type) {", "\t\tswitch (decoder->packet.type) {"]}]}

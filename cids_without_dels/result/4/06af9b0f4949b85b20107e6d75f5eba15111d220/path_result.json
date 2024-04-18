@@ -1,0 +1,1 @@
+{"crypto/asymmetric_keys/pkcs7_parser.c": [{"patch_file_name": "crypto/asymmetric_keys/pkcs7_parser.c", "func_decl_name": "pkcs7_sig_note_digest_algo", "is_cond": true, "line_numbers": [239, 240], "line_cids": ["", ""], "line_strs": ["\t\tctx->sinfo->sig.hash_algo = \"sha224\";", "\tdefault:"]}]}

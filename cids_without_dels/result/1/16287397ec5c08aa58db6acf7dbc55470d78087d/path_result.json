@@ -1,0 +1,1 @@
+{"drivers/crypto/qcom-rng.c": [{"patch_file_name": "drivers/crypto/qcom-rng.c", "func_decl_name": "qcom_rng_read", "is_cond": true, "line_numbers": [67, 68], "line_cids": ["", ""], "line_strs": ["\t\t\tmemcpy(data, &val, max - currsize);", "\t\t}"]}]}

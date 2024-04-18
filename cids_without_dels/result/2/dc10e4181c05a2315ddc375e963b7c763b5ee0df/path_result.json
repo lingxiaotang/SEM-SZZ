@@ -1,0 +1,1 @@
+{"drivers/char/tpm/tpm2-cmd.c": [{"patch_file_name": "drivers/char/tpm/tpm2-cmd.c", "func_decl_name": "tpm2_init_bank_info", "is_cond": false, "line_numbers": [509, 528], "line_cids": ["", ""], "line_strs": ["\tstruct tpm_bank_info *bank = chip->allocated_banks + bank_index;", "\treturn tpm2_pcr_read(chip, 0, &digest, &bank->digest_size);"]}]}

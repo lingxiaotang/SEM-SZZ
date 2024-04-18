@@ -1,0 +1,1 @@
+{"arch/mips/cavium-octeon/octeon-irq.c": [{"patch_file_name": "arch/mips/cavium-octeon/octeon-irq.c", "func_decl_name": "octeon_irq_cib_map", "is_cond": true, "line_numbers": [2201, 2202], "line_cids": ["", ""], "line_strs": ["\tcd = kzalloc(sizeof(*cd), GFP_KERNEL);", "\tcd->host_data = host_data;"]}]}

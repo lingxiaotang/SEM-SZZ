@@ -1,0 +1,1 @@
+{"arch/x86/kernel/cpu/intel_rdt_ctrlmondata.c": [{"patch_file_name": "arch/x86/kernel/cpu/intel_rdt_ctrlmondata.c", "func_decl_name": "parse_line", "is_cond": true, "line_numbers": [197, 198], "line_cids": ["", ""], "line_strs": ["", "next:"]}]}

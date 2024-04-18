@@ -1,0 +1,1 @@
+{"drivers/net/netdevsim/dev.c": [{"patch_file_name": "drivers/net/netdevsim/dev.c", "func_decl_name": "nsim_dev_take_snapshot_write", "is_cond": false, "line_numbers": [71, 71], "line_cids": ["", ""], "line_strs": ["\terr = nsim_dev_take_snapshot(devlink, NULL, &dummy_data);", "\terr = nsim_dev_take_snapshot(devlink, NULL, &dummy_data);"]}]}

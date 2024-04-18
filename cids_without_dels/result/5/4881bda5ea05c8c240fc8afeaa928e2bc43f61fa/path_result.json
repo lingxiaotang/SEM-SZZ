@@ -1,0 +1,1 @@
+{"sound/pci/ac97/ac97_codec.c": [{"patch_file_name": "sound/pci/ac97/ac97_codec.c", "func_decl_name": "snd_ac97_dev_register", "is_cond": false, "line_numbers": [2011, 2012], "line_cids": ["", ""], "line_strs": ["\t\tac97_err(ac97, \"Can't register ac97 bus\\n\");", "\t\tac97->dev.bus = NULL;"]}]}

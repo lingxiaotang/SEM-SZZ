@@ -1,0 +1,1 @@
+{"arch/powerpc/kernel/eeh.c": [{"patch_file_name": "arch/powerpc/kernel/eeh.c", "func_decl_name": "eeh_add_device_late", "is_cond": true, "line_numbers": [1117, 1118], "line_cids": ["", ""], "line_strs": ["", "\t/*"]}]}

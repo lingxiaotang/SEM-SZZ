@@ -1,0 +1,1 @@
+{"drivers/nvdimm/bus.c": [{"patch_file_name": "drivers/nvdimm/bus.c", "func_decl_name": "nd_device_unregister", "is_cond": true, "line_numbers": [556, 557], "line_cids": ["", ""], "line_strs": ["\tcase ND_SYNC:", "\t\tnd_synchronize();"]}]}

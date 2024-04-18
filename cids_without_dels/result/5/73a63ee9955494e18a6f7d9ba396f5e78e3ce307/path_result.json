@@ -1,0 +1,1 @@
+{"drivers/net/ethernet/pensando/ionic/ionic_lif.c": [{"patch_file_name": "drivers/net/ethernet/pensando/ionic/ionic_lif.c", "func_decl_name": "ionic_lif_alloc", "is_cond": false, "line_numbers": [1696, 1696], "line_cids": ["", ""], "line_strs": ["\tif (err)", "\tif (err)"]}]}

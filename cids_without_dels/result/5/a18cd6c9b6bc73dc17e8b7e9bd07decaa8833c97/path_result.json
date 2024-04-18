@@ -1,0 +1,1 @@
+{"drivers/usb/core/sysfs.c": [{"patch_file_name": "drivers/usb/core/sysfs.c", "func_decl_name": "read_descriptors", "is_cond": true, "line_numbers": [892, 893], "line_cids": ["", ""], "line_strs": ["", "\t/* The binary attribute begins with the device descriptor."]}]}

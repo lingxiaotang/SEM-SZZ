@@ -1,0 +1,1 @@
+{"drivers/net/ethernet/mellanox/mlx5/core/sf/dev/dev.c": [{"patch_file_name": "drivers/net/ethernet/mellanox/mlx5/core/sf/dev/dev.c", "func_decl_name": "mlx5_sf_dev_state_change_handler", "is_cond": true, "line_numbers": [165, 166], "line_cids": ["", ""], "line_strs": ["\tswitch (event->new_vhca_state) {", "\tcase MLX5_VHCA_STATE_ALLOCATED:"]}]}

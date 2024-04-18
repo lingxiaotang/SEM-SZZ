@@ -1,0 +1,1 @@
+{"arch/x86/kvm/svm.c": [{"patch_file_name": "arch/x86/kvm/svm.c", "func_decl_name": "svm_refresh_apicv_exec_ctrl", "is_cond": true, "line_numbers": [5234, 5235], "line_cids": ["", ""], "line_strs": ["", "\tif (activated) {"]}]}

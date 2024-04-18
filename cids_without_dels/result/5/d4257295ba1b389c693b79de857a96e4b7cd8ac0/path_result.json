@@ -1,0 +1,1 @@
+{"net/ipv6/ip6_gre.c": [{"patch_file_name": "net/ipv6/ip6_gre.c", "func_decl_name": "ip6gre_tunnel_uninit", "is_cond": false, "line_numbers": [361, 363], "line_cids": ["", ""], "line_strs": ["\tstruct ip6gre_net *ign = net_generic(t->net, ip6gre_net_id);", "\tip6gre_tunnel_unlink(ign, t);"]}]}

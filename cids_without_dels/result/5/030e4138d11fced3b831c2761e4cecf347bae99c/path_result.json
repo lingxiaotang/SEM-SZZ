@@ -1,0 +1,1 @@
+{"drivers/scsi/be2iscsi/be_main.c": [{"patch_file_name": "drivers/scsi/be2iscsi/be_main.c", "func_decl_name": "beiscsi_dev_probe", "is_cond": false, "line_numbers": [5746], "line_cids": [""], "line_strs": ["\tpci_set_drvdata(pcidev, NULL);"]}]}

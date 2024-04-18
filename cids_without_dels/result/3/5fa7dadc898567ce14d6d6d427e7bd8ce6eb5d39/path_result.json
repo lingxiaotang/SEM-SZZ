@@ -1,0 +1,1 @@
+{"drivers/crypto/talitos.c": [{"patch_file_name": "drivers/crypto/talitos.c", "func_decl_name": "talitos_alg_alloc", "is_cond": false, "line_numbers": [2767, 2815], "line_cids": ["", ""], "line_strs": ["\tswitch (t_alg->algt.type) {", "\t\tdev_err(dev, \"unknown algorithm type %d\\n\", t_alg->algt.type);"]}]}

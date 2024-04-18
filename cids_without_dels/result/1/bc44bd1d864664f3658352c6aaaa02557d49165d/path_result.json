@@ -1,0 +1,1 @@
+{"drivers/infiniband/ulp/srp/ib_srp.c": [{"patch_file_name": "drivers/infiniband/ulp/srp/ib_srp.c", "func_decl_name": "srp_create_target", "is_cond": true, "line_numbers": [3298, 3299], "line_cids": ["", ""], "line_strs": ["\tscsi_host_put(target->scsi_host);", ""]}]}

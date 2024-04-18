@@ -1,0 +1,1 @@
+{"drivers/net/ethernet/qlogic/qed/qed_mcp.c": [{"patch_file_name": "drivers/net/ethernet/qlogic/qed/qed_mcp.c", "func_decl_name": "qed_mcp_handle_link_change", "is_cond": true, "line_numbers": [1216, 1216], "line_cids": ["", ""], "line_strs": ["\tif (p_link->link_up && p_link->speed)", "\tif (p_link->link_up && p_link->speed)"]}]}

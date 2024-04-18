@@ -1,0 +1,1 @@
+{"drivers/gpu/drm/ast/ast_mode.c": [{"patch_file_name": "drivers/gpu/drm/ast/ast_mode.c", "func_decl_name": "ast_crtc_helper_atomic_check", "is_cond": true, "line_numbers": [804, 805], "line_cids": ["", ""], "line_strs": ["", "\tast_state = to_ast_crtc_state(state);"]}]}

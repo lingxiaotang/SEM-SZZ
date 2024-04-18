@@ -1,0 +1,1 @@
+{"drivers/hid/wacom_wac.c": [{"patch_file_name": "drivers/hid/wacom_wac.c", "func_decl_name": "wacom_intuos_general", "is_cond": true, "line_numbers": [848, 849], "line_cids": ["", ""], "line_strs": ["\t}", "\tinput_report_abs(input, ABS_X, x);"]}]}

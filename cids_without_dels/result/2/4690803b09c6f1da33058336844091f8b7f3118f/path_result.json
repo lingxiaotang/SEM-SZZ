@@ -1,0 +1,1 @@
+{"drivers/gpu/drm/sun4i/sun4i_backend.c": [{"patch_file_name": "drivers/gpu/drm/sun4i/sun4i_backend.c", "func_decl_name": "sun4i_backend_update_layer_buffer", "is_cond": false, "line_numbers": [217, 220], "line_cids": ["", ""], "line_strs": ["\tDRM_DEBUG_DRIVER(\"Setting buffer address to %pad\\n\", &paddr);", "\tlo_paddr = paddr << 3;"]}]}

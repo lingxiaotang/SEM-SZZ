@@ -1,0 +1,1 @@
+{"arch/arm64/kernel/signal.c": [{"patch_file_name": "arch/arm64/kernel/signal.c", "func_decl_name": "parse_user_sigframe", "is_cond": true, "line_numbers": [346, 347], "line_cids": ["", ""], "line_strs": ["\t\t\tlimit = extra_size;", "\t\t\tcontinue;"]}]}

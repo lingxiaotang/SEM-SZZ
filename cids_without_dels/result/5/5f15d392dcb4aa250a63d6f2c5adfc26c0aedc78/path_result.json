@@ -1,0 +1,1 @@
+{"drivers/net/dsa/qca8k.c": [{"patch_file_name": "drivers/net/dsa/qca8k.c", "func_decl_name": "qca8k_setup", "is_cond": true, "line_numbers": [1111, 1112], "line_cids": ["", ""], "line_strs": ["", "\t/* Enable CPU Port */"]}]}

@@ -1,0 +1,1 @@
+{"drivers/uwb/i1480/dfu/usb.c": [{"patch_file_name": "drivers/uwb/i1480/dfu/usb.c", "func_decl_name": "i1480_usb_probe", "is_cond": true, "line_numbers": [364, 365], "line_cids": ["", ""], "line_strs": ["", "\tresult = -ENOMEM;"]}]}

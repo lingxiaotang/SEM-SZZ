@@ -1,0 +1,1 @@
+{"net/netfilter/nf_conntrack_core.c": [{"patch_file_name": "net/netfilter/nf_conntrack_core.c", "func_decl_name": "nf_ct_resolve_clash", "is_cond": true, "line_numbers": [648, 649], "line_cids": ["", ""], "line_strs": ["\tif (l4proto->allow_clash &&", "\t    !nf_ct_is_dying(ct) &&"]}]}

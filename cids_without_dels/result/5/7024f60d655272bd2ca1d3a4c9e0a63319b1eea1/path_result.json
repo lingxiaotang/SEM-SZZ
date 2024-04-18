@@ -1,0 +1,1 @@
+{"arch/x86/kernel/sev-es.c": [{"patch_file_name": "arch/x86/kernel/sev-es.c", "func_decl_name": "vc_read_mem", "is_cond": true, "line_numbers": [337, 338], "line_cids": ["", ""], "line_strs": ["", "\tswitch (size) {"]}]}

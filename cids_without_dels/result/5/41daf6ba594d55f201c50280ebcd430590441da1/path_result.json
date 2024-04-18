@@ -1,0 +1,1 @@
+{"sound/soc/soc-core.c": [{"patch_file_name": "sound/soc/soc-core.c", "func_decl_name": "fmt_single_name", "is_cond": true, "line_numbers": [2227, 2228], "line_cids": ["", ""], "line_strs": ["\tname = devm_kstrdup(dev, devname, GFP_KERNEL);", ""]}]}

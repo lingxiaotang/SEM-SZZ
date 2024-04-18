@@ -1,0 +1,1 @@
+{"lib/crypto/chacha20poly1305.c": [{"patch_file_name": "lib/crypto/chacha20poly1305.c", "func_decl_name": "chacha20poly1305_crypt_sg_inplace", "is_cond": true, "line_numbers": [237, 238], "line_cids": ["", ""], "line_strs": ["", "\tchacha_load_key(b.k, key);"]}]}

@@ -1,0 +1,1 @@
+{"net/ipv6/addrconf.c": [{"patch_file_name": "net/ipv6/addrconf.c", "func_decl_name": "addrconf_dev_config", "is_cond": true, "line_numbers": [3349, 3350], "line_cids": ["", ""], "line_strs": ["\t\t/* Alas, we support only Ethernet autoconfiguration. */", "\t\treturn;"]}]}

@@ -1,0 +1,1 @@
+{"drivers/net/ethernet/intel/fm10k/fm10k_pci.c": [{"patch_file_name": "drivers/net/ethernet/intel/fm10k/fm10k_pci.c", "func_decl_name": "fm10k_probe", "is_cond": false, "line_numbers": [2230], "line_cids": [""], "line_strs": ["\tpci_release_mem_regions(pdev);"]}]}

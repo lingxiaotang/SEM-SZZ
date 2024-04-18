@@ -1,0 +1,1 @@
+{"drivers/spi/spi-zynq-qspi.c": [{"patch_file_name": "drivers/spi/spi-zynq-qspi.c", "func_decl_name": "zynq_qspi_exec_mem_op", "is_cond": true, "line_numbers": [572, 573], "line_cids": ["", ""], "line_strs": ["\t\ttmpbuf = kzalloc(op->dummy.nbytes, GFP_KERNEL);", "\t\tmemset(tmpbuf, 0xff, op->dummy.nbytes);"]}]}

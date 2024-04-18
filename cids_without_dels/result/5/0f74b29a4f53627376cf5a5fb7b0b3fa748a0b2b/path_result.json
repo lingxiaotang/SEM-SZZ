@@ -1,0 +1,1 @@
+{"drivers/atm/eni.c": [{"patch_file_name": "drivers/atm/eni.c", "func_decl_name": "do_tx", "is_cond": true, "line_numbers": [1114, 1115], "line_cids": ["", ""], "line_strs": ["\t\t\t       DMA_TO_DEVICE);", "\tENI_PRV_PADDR(skb) = paddr;"]}]}

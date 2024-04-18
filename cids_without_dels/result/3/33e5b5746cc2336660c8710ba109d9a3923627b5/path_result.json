@@ -1,0 +1,1 @@
+{"arch/riscv/kvm/main.c": [{"patch_file_name": "arch/riscv/kvm/main.c", "func_decl_name": "kvm_arch_hardware_disable", "is_cond": false, "line_numbers": [61], "line_cids": [""], "line_strs": ["\tcsr_write(CSR_HEDELEG, 0);"]}]}

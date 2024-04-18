@@ -1,0 +1,1 @@
+{"drivers/net/dsa/b53/b53_common.c": [{"patch_file_name": "drivers/net/dsa/b53/b53_common.c", "func_decl_name": "b53_arl_rw_op", "is_cond": true, "line_numbers": [1476, 1477], "line_cids": ["", ""], "line_strs": ["\t\treg &= ~ARLTBL_RW;", "\tb53_write8(dev, B53_ARLIO_PAGE, B53_ARLTBL_RW_CTRL, reg);"]}]}

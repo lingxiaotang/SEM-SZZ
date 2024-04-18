@@ -1,0 +1,1 @@
+{"drivers/pwm/pwm-zx.c": [{"patch_file_name": "drivers/pwm/pwm-zx.c", "func_decl_name": "zx_pwm_probe", "is_cond": false, "line_numbers": [236, 236], "line_cids": ["", ""], "line_strs": ["\tret = pwmchip_add(&zpc->chip);", "\tret = pwmchip_add(&zpc->chip);"]}]}

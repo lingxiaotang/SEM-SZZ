@@ -1,0 +1,1 @@
+{"fs/btrfs/ioctl.c": [{"patch_file_name": "fs/btrfs/ioctl.c", "func_decl_name": "btrfs_extent_same_range", "is_cond": true, "line_numbers": [3490, 3491], "line_cids": ["", ""], "line_strs": ["\t\t\tlen = round_down(i_size_read(src), sz) - loff;", "\t\t\tolen = len;"]}]}

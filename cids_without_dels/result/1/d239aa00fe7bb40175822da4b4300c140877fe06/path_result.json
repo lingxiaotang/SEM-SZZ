@@ -1,0 +1,1 @@
+{"drivers/staging/media/hantro/hantro_postproc.c": [{"patch_file_name": "drivers/staging/media/hantro/hantro_postproc.c", "func_decl_name": "hantro_postproc_disable", "is_cond": true, "line_numbers": [140, 141], "line_cids": ["", ""], "line_strs": ["", "\tHANTRO_PP_REG_WRITE_S(vpu, pipeline_en, 0x0);"]}]}

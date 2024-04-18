@@ -1,0 +1,1 @@
+{"fs/afs/misc.c": [{"patch_file_name": "fs/afs/misc.c", "func_decl_name": "afs_abort_to_error", "is_cond": true, "line_numbers": [85, 86], "line_cids": ["", ""], "line_strs": ["\tcase UAELOOP:\t\t\treturn -ELOOP;", "\tcase UAENOMEDIUM:\t\treturn -ENOMEDIUM;"]}]}

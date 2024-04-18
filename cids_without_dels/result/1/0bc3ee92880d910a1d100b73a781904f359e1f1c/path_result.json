@@ -1,0 +1,1 @@
+{"drivers/usb/typec/tcpm/tcpm.c": [{"patch_file_name": "drivers/usb/typec/tcpm/tcpm.c", "func_decl_name": "tcpm_pd_ext_msg_request", "is_cond": true, "line_numbers": [2719, 2720], "line_cids": ["", ""], "line_strs": ["", "\tif (!(le16_to_cpu(msg->ext_msg.header) & PD_EXT_HDR_CHUNKED)) {"]}]}

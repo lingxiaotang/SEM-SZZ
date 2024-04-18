@@ -1,0 +1,1 @@
+{"drivers/iommu/ipmmu-vmsa.c": [{"patch_file_name": "drivers/iommu/ipmmu-vmsa.c", "func_decl_name": "ipmmu_domain_destroy_context", "is_cond": true, "line_numbers": [500, 501], "line_cids": ["", ""], "line_strs": ["{", "\t/*"]}]}

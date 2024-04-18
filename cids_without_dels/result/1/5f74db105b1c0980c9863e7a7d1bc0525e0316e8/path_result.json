@@ -1,0 +1,1 @@
+{"drivers/spi/spi-omap2-mcspi.c": [{"patch_file_name": "drivers/spi/spi-omap2-mcspi.c", "func_decl_name": "omap2_mcspi_set_cs", "is_cond": true, "line_numbers": [257, 258], "line_cids": ["", ""], "line_strs": ["\tif (spi->controller_state) {", "\t\tl = mcspi_cached_chconf0(spi);"]}]}

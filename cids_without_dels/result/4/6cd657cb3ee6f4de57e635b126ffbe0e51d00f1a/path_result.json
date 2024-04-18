@@ -1,0 +1,1 @@
+{"drivers/net/ethernet/broadcom/bnxt/bnxt.c": [{"patch_file_name": "drivers/net/ethernet/broadcom/bnxt/bnxt.c", "func_decl_name": "bnxt_fw_reset_task", "is_cond": true, "line_numbers": [11994, 11995], "line_cids": ["", ""], "line_strs": ["\t\trtnl_lock();", "\t\tbnxt_fw_reset_close(bp);"]}]}

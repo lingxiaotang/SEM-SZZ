@@ -1,0 +1,1 @@
+{"drivers/gpio/gpio-mt7621.c": [{"patch_file_name": "drivers/gpio/gpio-mt7621.c", "func_decl_name": "mediatek_gpio_bank_probe", "is_cond": true, "line_numbers": [246, 247], "line_cids": ["", ""], "line_strs": ["\t\t\t\t\tdev_name(dev), bank);", ""]}]}

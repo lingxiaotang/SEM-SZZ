@@ -1,0 +1,1 @@
+{"arch/x86/kvm/cpuid.c": [{"patch_file_name": "arch/x86/kvm/cpuid.c", "func_decl_name": "kvm_cpuid_check_equal", "is_cond": true, "line_numbers": [132, 132], "line_cids": ["", ""], "line_strs": ["\tfor (i = 0; i < nent; i++) {", "\tfor (i = 0; i < nent; i++) {"]}]}

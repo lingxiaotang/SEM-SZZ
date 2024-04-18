@@ -1,0 +1,1 @@
+{"net/netfilter/nfnetlink_queue.c": [{"patch_file_name": "net/netfilter/nfnetlink_queue.c", "func_decl_name": "nfqnl_reinject", "is_cond": true, "line_numbers": [235, 236], "line_cids": ["", ""], "line_strs": ["\tif (verdict == NF_ACCEPT ||", "\t    verdict == NF_STOP) {"]}]}

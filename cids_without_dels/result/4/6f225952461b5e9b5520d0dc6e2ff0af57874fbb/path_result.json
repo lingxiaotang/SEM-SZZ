@@ -1,0 +1,1 @@
+{"net/openvswitch/flow_netlink.c": [{"patch_file_name": "net/openvswitch/flow_netlink.c", "func_decl_name": "metadata_from_nlattrs", "is_cond": true, "line_numbers": [818, 819], "line_cids": ["", ""], "line_strs": ["", "\t\tSW_FLOW_KEY_PUT(match, ct.state, ct_state, is_mask);"]}]}

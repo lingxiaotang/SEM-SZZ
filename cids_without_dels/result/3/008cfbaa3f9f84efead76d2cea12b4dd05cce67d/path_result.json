@@ -1,0 +1,1 @@
+{"net/dsa/tag_sja1105.c": [{"patch_file_name": "net/dsa/tag_sja1105.c", "func_decl_name": "sja1105_rcv_meta_state_machine", "is_cond": false, "line_numbers": [190, 191], "line_cids": ["", ""], "line_strs": ["\t\tstampable_skb = sp->data->stampable_skb;", "\t\tsp->data->stampable_skb = NULL;"]}]}

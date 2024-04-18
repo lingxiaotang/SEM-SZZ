@@ -1,0 +1,1 @@
+{"arch/powerpc/kvm/book3s_hv_uvmem.c": [{"patch_file_name": "arch/powerpc/kvm/book3s_hv_uvmem.c", "func_decl_name": "kvmppc_uvmem_free", "is_cond": true, "line_numbers": [808, 809], "line_cids": ["", ""], "line_strs": ["{", "\tmemunmap_pages(&kvmppc_uvmem_pgmap);"]}]}

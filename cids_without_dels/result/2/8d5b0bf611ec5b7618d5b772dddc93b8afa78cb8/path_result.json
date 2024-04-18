@@ -1,0 +1,1 @@
+{"drivers/net/ethernet/socionext/netsec.c": [{"patch_file_name": "drivers/net/ethernet/socionext/netsec.c", "func_decl_name": "netsec_uninit_pkt_dring", "is_cond": true, "line_numbers": [957, 958], "line_cids": ["", ""], "line_strs": ["\tdring->pkt_cnt = 0;", "}"]}]}

@@ -1,0 +1,1 @@
+{"net/core/rtnetlink.c": [{"patch_file_name": "net/core/rtnetlink.c", "func_decl_name": "rtnetlink_rcv_msg", "is_cond": true, "line_numbers": [4223, 4224], "line_cids": ["", ""], "line_strs": ["", "\tflags = READ_ONCE(handlers[type].flags);"]}]}

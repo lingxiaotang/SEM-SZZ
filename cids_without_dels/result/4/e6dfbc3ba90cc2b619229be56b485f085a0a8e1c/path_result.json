@@ -1,0 +1,1 @@
+{"drivers/net/wireless/ath/ath10k/wmi.c": [{"patch_file_name": "drivers/net/wireless/ath/ath10k/wmi.c", "func_decl_name": "ath10k_wmi_event_mgmt_rx", "is_cond": true, "line_numbers": [2612, 2613], "line_cids": ["", ""], "line_strs": ["", "\tath10k_dbg(ar, ATH10K_DBG_MGMT,"]}]}

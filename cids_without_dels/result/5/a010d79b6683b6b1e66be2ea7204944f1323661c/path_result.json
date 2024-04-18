@@ -1,0 +1,1 @@
+{"lib/buildid.c": [{"patch_file_name": "lib/buildid.c", "func_decl_name": "parse_build_id", "is_cond": true, "line_numbers": [32, 34], "line_cids": ["", ""], "line_strs": ["\t\tif (nhdr->n_type == BUILD_ID &&", "\t\t    nhdr->n_descsz > 0 &&"]}]}

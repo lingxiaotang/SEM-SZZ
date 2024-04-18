@@ -1,0 +1,1 @@
+{"arch/x86/kernel/apic/apic.c": [{"patch_file_name": "arch/x86/kernel/apic/apic.c", "func_decl_name": "skx_deadline_rev", "is_cond": true, "line_numbers": [575, 576], "line_cids": ["", ""], "line_strs": ["", "\treturn ~0U;"]}]}

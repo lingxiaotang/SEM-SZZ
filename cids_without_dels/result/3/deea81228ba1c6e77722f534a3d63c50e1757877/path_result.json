@@ -1,0 +1,1 @@
+{"tools/testing/selftests/bpf/test_verifier.c": [{"patch_file_name": "tools/testing/selftests/bpf/test_verifier.c", "func_decl_name": "get_unpriv_disabled", "is_cond": true, "line_numbers": [11715, 11716], "line_cids": ["", ""], "line_strs": ["\tfd = fopen(\"/proc/sys/\"UNPRIV_SYSCTL, \"r\");", "\tif (fgets(buf, 2, fd) == buf && atoi(buf))"]}]}

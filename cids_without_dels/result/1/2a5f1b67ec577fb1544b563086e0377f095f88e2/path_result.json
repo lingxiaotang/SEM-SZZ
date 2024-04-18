@@ -1,0 +1,1 @@
+{"arch/arm64/kvm/sys_regs.c": [{"patch_file_name": "arch/arm64/kvm/sys_regs.c", "func_decl_name": "reset_pmcr", "is_cond": true, "line_numbers": [596, 597], "line_cids": ["", ""], "line_strs": ["", "\tpmcr = read_sysreg(pmcr_el0);"]}]}

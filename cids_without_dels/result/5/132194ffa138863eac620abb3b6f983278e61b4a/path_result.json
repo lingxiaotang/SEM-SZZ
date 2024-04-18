@@ -1,0 +1,1 @@
+{"arch/x86/kvm/vmx/vmx.c": [{"patch_file_name": "arch/x86/kvm/vmx/vmx.c", "func_decl_name": "vmx_vcpu_pi_load", "is_cond": true, "line_numbers": [1270, 1271], "line_cids": ["", ""], "line_strs": ["", "\t/* The full case.  */"]}]}

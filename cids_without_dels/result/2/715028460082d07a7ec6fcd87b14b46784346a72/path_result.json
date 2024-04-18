@@ -1,0 +1,1 @@
+{"net/netfilter/ipset/ip_set_core.c": [{"patch_file_name": "net/netfilter/ipset/ip_set_core.c", "func_decl_name": "ip_set_elem_len", "is_cond": true, "line_numbers": [462, 463], "line_cids": ["", ""], "line_strs": ["\t\t\tcontinue;", "\t\tlen = ALIGN(len, ip_set_extensions[id].align);"]}]}

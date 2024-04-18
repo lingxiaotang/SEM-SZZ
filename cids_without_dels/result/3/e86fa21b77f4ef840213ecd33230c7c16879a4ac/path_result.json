@@ -1,0 +1,1 @@
+{"drivers/gpu/drm/drm_plane.c": [{"patch_file_name": "drivers/gpu/drm/drm_plane.c", "func_decl_name": "drm_mode_page_flip_ioctl", "is_cond": true, "line_numbers": [900, 901], "line_cids": ["", ""], "line_strs": ["\t\tdrm_crtc_vblank_put(crtc);", "\tif (crtc->primary->old_fb)"]}]}

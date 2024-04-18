@@ -1,0 +1,1 @@
+{"drivers/char/tpm/tpm_tis_i2c_cr50.c": [{"patch_file_name": "drivers/char/tpm/tpm_tis_i2c_cr50.c", "func_decl_name": "tpm_cr50_i2c_tis_recv", "is_cond": false, "line_numbers": [476, 477], "line_cids": ["", ""], "line_strs": ["\trc = tpm_cr50_i2c_read(chip, addr, buf, burstcnt);", "\tif (rc < 0) {"]}]}

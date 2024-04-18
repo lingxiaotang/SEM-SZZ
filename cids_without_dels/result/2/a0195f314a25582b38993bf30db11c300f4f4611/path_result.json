@@ -1,0 +1,1 @@
+{"arch/x86/kernel/cpu/resctrl/rdtgroup.c": [{"patch_file_name": "arch/x86/kernel/cpu/resctrl/rdtgroup.c", "func_decl_name": "__rdtgroup_move_task", "is_cond": true, "line_numbers": [548, 549], "line_cids": ["", ""], "line_strs": ["{", "\t/*"]}]}

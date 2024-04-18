@@ -1,0 +1,1 @@
+{"arch/powerpc/mm/book3s64/pkeys.c": [{"patch_file_name": "arch/powerpc/mm/book3s64/pkeys.c", "func_decl_name": "scan_pkey_feature", "is_cond": true, "line_numbers": [75, 76], "line_cids": ["", ""], "line_strs": ["", "\tret = of_scan_flat_dt(dt_scan_storage_keys, &pkeys_total);"]}]}

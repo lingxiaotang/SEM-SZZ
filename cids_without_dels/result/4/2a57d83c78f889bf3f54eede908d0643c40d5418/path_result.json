@@ -1,0 +1,1 @@
+{"mm/memory-failure.c": [{"patch_file_name": "mm/memory-failure.c", "func_decl_name": "soft_offline_page", "is_cond": false, "line_numbers": [2229, 2229], "line_cids": ["", ""], "line_strs": ["\tret = get_hwpoison_page(page, flags);", "\tret = get_hwpoison_page(page, flags);"]}]}

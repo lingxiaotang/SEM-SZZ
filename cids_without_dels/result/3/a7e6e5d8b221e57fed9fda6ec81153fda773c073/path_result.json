@@ -1,0 +1,1 @@
+{"drivers/crypto/bcm/spu2.c": [{"patch_file_name": "drivers/crypto/bcm/spu2.c", "func_decl_name": "spu2_hash_xlate", "is_cond": true, "line_numbers": [304, 305], "line_cids": ["", ""], "line_strs": ["\t\t*spu2_type = SPU2_HASH_TYPE_SHA3_512;", "\tcase HASH_ALG_LAST:"]}]}

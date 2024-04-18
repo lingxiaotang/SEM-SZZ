@@ -1,0 +1,1 @@
+{"drivers/net/can/m_can/m_can.c": [{"patch_file_name": "drivers/net/can/m_can/m_can.c", "func_decl_name": "m_can_fifo_write", "is_cond": true, "line_numbers": [348, 349], "line_cids": ["", ""], "line_strs": ["", "\treturn cdev->ops->write_fifo(cdev, addr_offset, val, val_count);"]}]}

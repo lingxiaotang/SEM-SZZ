@@ -1,0 +1,1 @@
+{"drivers/staging/media/sunxi/cedrus/cedrus_h265.c": [{"patch_file_name": "drivers/staging/media/sunxi/cedrus/cedrus_h265.c", "func_decl_name": "cedrus_h265_frame_info_write_dpb", "is_cond": true, "line_numbers": [149, 150], "line_cids": ["", ""], "line_strs": ["", "\t\tcedrus_h265_frame_info_write_single(ctx, i, dpb[i].field_pic,"]}]}

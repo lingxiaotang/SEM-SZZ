@@ -1,0 +1,1 @@
+{"arch/arm64/kernel/process.c": [{"patch_file_name": "arch/arm64/kernel/process.c", "func_decl_name": "ssbs_thread_switch", "is_cond": true, "line_numbers": [468, 469], "line_cids": ["", ""], "line_strs": ["", "\t/* If the mitigation is enabled, then we leave SSBS clear. */"]}]}

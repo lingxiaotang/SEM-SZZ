@@ -1,0 +1,1 @@
+{"drivers/gpio/gpio-mvebu.c": [{"patch_file_name": "drivers/gpio/gpio-mvebu.c", "func_decl_name": "mvebu_pwm_probe", "is_cond": false, "line_numbers": [770, 772], "line_cids": ["", ""], "line_strs": ["\tmvpwm->chip.npwm = mvchip->chip.ngpio;", "\tspin_lock_init(&mvpwm->lock);"]}]}

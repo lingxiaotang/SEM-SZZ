@@ -1,0 +1,1 @@
+{"virt/kvm/arm/vgic/vgic-its.c": [{"patch_file_name": "virt/kvm/arm/vgic/vgic-its.c", "func_decl_name": "vgic_its_restore_collection_table", "is_cond": true, "line_numbers": [2266, 2267], "line_cids": ["", ""], "line_strs": ["\t}", "\treturn ret;"]}]}

@@ -1,0 +1,1 @@
+{"drivers/fsi/fsi-sbefifo.c": [{"patch_file_name": "drivers/fsi/fsi-sbefifo.c", "func_decl_name": "sbefifo_dump_ffdc", "is_cond": false, "line_numbers": [148], "line_cids": [""], "line_strs": ["\tmutex_lock(&sbefifo_ffdc_mutex);"]}]}

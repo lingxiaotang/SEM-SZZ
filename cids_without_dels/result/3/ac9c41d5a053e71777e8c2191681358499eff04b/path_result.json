@@ -1,0 +1,1 @@
+{"net/ethtool/strset.c": [{"patch_file_name": "net/ethtool/strset.c", "func_decl_name": "strset_prepare_data", "is_cond": true, "line_numbers": [234, 234], "line_cids": ["", ""], "line_strs": ["\t\tfor (i = 0; i < ETH_SS_COUNT; i++) {", "\t\tfor (i = 0; i < ETH_SS_COUNT; i++) {"]}]}

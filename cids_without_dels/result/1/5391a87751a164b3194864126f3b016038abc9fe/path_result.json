@@ -1,0 +1,1 @@
+{"net/tipc/socket.c": [{"patch_file_name": "net/tipc/socket.c", "func_decl_name": "tipc_wait_for_connect", "is_cond": true, "line_numbers": [2443, 2444], "line_cids": ["", ""], "line_strs": ["\t\t\treturn sock_intr_errno(*timeo_p);", ""]}]}

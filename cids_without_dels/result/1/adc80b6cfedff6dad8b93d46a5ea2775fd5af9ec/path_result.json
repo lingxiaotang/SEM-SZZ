@@ -1,0 +1,1 @@
+{"drivers/net/ethernet/mellanox/mlxsw/core.c": [{"patch_file_name": "drivers/net/ethernet/mellanox/mlxsw/core.c", "func_decl_name": "mlxsw_core_bus_device_unregister", "is_cond": true, "line_numbers": [2066, 2067], "line_cids": ["", ""], "line_strs": ["\tmlxsw_core->bus->fini(mlxsw_core->bus_priv);", ""]}]}

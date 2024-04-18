@@ -1,0 +1,1 @@
+{"arch/x86/kernel/apic/io_apic.c": [{"patch_file_name": "arch/x86/kernel/apic/io_apic.c", "func_decl_name": "mp_map_pin_to_irq", "is_cond": true, "line_numbers": [1034, 1035], "line_cids": ["", ""], "line_strs": ["\t\tlegacy = mp_is_legacy_irq(irq);", "\t}"]}]}

@@ -1,0 +1,1 @@
+{"drivers/net/ethernet/mediatek/mtk_eth_soc.c": [{"patch_file_name": "drivers/net/ethernet/mediatek/mtk_eth_soc.c", "func_decl_name": "mtk_mac_config", "is_cond": true, "line_numbers": [263, 264], "line_cids": ["", ""], "line_strs": ["\t\tcase PHY_INTERFACE_MODE_MII:", "\t\t\tge_mode = 1;"]}]}

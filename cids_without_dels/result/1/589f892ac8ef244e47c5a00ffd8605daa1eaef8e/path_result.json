@@ -1,0 +1,1 @@
+{"drivers/tty/serial/meson_uart.c": [{"patch_file_name": "drivers/tty/serial/meson_uart.c", "func_decl_name": "meson_uart_startup", "is_cond": false, "line_numbers": [278], "line_cids": [""], "line_strs": ["\tval = readl(port->membase + AML_UART_CONTROL);"]}]}

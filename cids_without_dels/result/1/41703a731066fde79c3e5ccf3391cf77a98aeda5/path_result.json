@@ -1,0 +1,1 @@
+{"net/core/filter.c": [{"patch_file_name": "net/core/filter.c", "func_decl_name": "bpf_helper_changes_pkt_data", "is_cond": true, "line_numbers": [2277, 2284], "line_cids": ["", ""], "line_strs": ["\tif (func == bpf_skb_vlan_push ||", "\t    func == bpf_l3_csum_replace ||"]}]}

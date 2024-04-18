@@ -1,0 +1,1 @@
+{"sound/soc/sof/intel/hda-pcm.c": [{"patch_file_name": "sound/soc/sof/intel/hda-pcm.c", "func_decl_name": "hda_dsp_pcm_open", "is_cond": true, "line_numbers": [317, 318], "line_cids": ["", ""], "line_strs": ["\tif (hda_always_enable_dmi_l1 ||", "\t    spcm->stream[substream->stream].d0i3_compatible)"]}]}

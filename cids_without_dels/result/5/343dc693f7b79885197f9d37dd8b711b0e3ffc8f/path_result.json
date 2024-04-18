@@ -1,0 +1,1 @@
+{"drivers/misc/pci_endpoint_test.c": [{"patch_file_name": "drivers/misc/pci_endpoint_test.c", "func_decl_name": "pci_endpoint_test_read", "is_cond": true, "line_numbers": [371, 372], "line_cids": ["", ""], "line_strs": ["", "\torig_addr = dma_alloc_coherent(dev, size + alignment, &orig_phys_addr,"]}]}

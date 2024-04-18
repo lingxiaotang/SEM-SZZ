@@ -1,0 +1,1 @@
+{"drivers/net/ethernet/aquantia/atlantic/hw_atl/hw_atl_utils.c": [{"patch_file_name": "drivers/net/ethernet/aquantia/atlantic/hw_atl/hw_atl_utils.c", "func_decl_name": "hw_atl_utils_init_ucp", "is_cond": true, "line_numbers": [143, 144], "line_cids": ["", ""], "line_strs": ["\t\t\t\t     aq_hw_read_reg(self, 0x18U));", "\treturn err;"]}]}

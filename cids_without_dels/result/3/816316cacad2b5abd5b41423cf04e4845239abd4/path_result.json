@@ -1,0 +1,1 @@
+{"drivers/net/ipa/ipa_endpoint.c": [{"patch_file_name": "drivers/net/ipa/ipa_endpoint.c", "func_decl_name": "ipa_endpoint_modem_hol_block_clear_all", "is_cond": true, "line_numbers": [880, 880], "line_cids": ["", ""], "line_strs": ["\tfor (i = 0; i < IPA_ENDPOINT_MAX; i++) {", "\tfor (i = 0; i < IPA_ENDPOINT_MAX; i++) {"]}]}

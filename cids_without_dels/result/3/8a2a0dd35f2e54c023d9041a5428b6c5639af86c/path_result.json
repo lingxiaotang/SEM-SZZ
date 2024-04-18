@@ -1,0 +1,1 @@
+{"drivers/crypto/caam/caampkc.c": [{"patch_file_name": "drivers/crypto/caam/caampkc.c", "func_decl_name": "rsa_edesc_alloc", "is_cond": true, "line_numbers": [180, 181], "line_cids": ["", ""], "line_strs": ["\tint src_nents, dst_nents;", ""]}]}

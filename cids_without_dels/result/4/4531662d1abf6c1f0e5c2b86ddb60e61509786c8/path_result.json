@@ -1,0 +1,1 @@
+{"arch/x86/kvm/vmx.c": [{"patch_file_name": "arch/x86/kvm/vmx.c", "func_decl_name": "vmx_set_msr", "is_cond": true, "line_numbers": [3281, 3282], "line_cids": ["", ""], "line_strs": ["\t\t\treturn 1;", "\t\tvmcs_write64(GUEST_BNDCFGS, data);"]}]}

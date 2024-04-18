@@ -1,0 +1,1 @@
+{"net/packet/af_packet.c": [{"patch_file_name": "net/packet/af_packet.c", "func_decl_name": "packet_snd", "is_cond": true, "line_numbers": [2880, 2881], "line_cids": ["", ""], "line_strs": ["\t\tskb_reserve(skb, -reserve);", "\t}"]}]}

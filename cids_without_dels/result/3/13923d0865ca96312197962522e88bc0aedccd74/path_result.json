@@ -1,0 +1,1 @@
+{"security/keys/encrypted-keys/encrypted.c": [{"patch_file_name": "security/keys/encrypted-keys/encrypted.c", "func_decl_name": "request_user_key", "is_cond": true, "line_numbers": [311, 312], "line_cids": ["", ""], "line_strs": ["\tupayload = user_key_payload_locked(ukey);", "\t*master_key = upayload->data;"]}]}

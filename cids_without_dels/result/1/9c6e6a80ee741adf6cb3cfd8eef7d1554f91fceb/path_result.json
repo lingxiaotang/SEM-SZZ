@@ -1,0 +1,1 @@
+{"tools/lib/bpf/xsk.c": [{"patch_file_name": "tools/lib/bpf/xsk.c", "func_decl_name": "xsk_umem__delete", "is_cond": true, "line_numbers": [1201, 1202], "line_cids": ["", ""], "line_strs": ["", "\tclose(umem->fd);"]}]}

@@ -1,0 +1,1 @@
+{"drivers/net/team/team_mode_loadbalance.c": [{"patch_file_name": "drivers/net/team/team_mode_loadbalance.c", "func_decl_name": "lb_exit", "is_cond": false, "line_numbers": [638, 640], "line_cids": ["", ""], "line_strs": ["\tstruct lb_priv *lb_priv = get_lb_priv(team);", "\tteam_options_unregister(team, lb_options,"]}]}

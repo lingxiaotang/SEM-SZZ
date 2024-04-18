@@ -1,0 +1,1 @@
+{"drivers/media/usb/uvc/uvc_video.c": [{"patch_file_name": "drivers/media/usb/uvc/uvc_video.c", "func_decl_name": "uvc_video_start_transfer", "is_cond": true, "line_numbers": [1965, 1966], "line_cids": ["", ""], "line_strs": ["", "\t\tret = uvc_init_video_bulk(stream, ep, gfp_flags);"]}]}

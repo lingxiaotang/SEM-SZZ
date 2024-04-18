@@ -1,0 +1,1 @@
+{"drivers/infiniband/hw/mlx5/qp.c": [{"patch_file_name": "drivers/infiniband/hw/mlx5/qp.c", "func_decl_name": "mlx5_ib_create_rwq_ind_table", "is_cond": true, "line_numbers": [4817, 4818], "line_cids": ["", ""], "line_strs": ["", "\tmin_resp_len = offsetof(typeof(resp), reserved) + sizeof(resp.reserved);"]}]}

@@ -1,0 +1,1 @@
+{"drivers/dma/fsl-edma.c": [{"patch_file_name": "drivers/dma/fsl-edma.c", "func_decl_name": "fsl_edma_tx_handler", "is_cond": true, "line_numbers": [47, 48], "line_cids": ["", ""], "line_strs": ["\t\t\tspin_lock(&fsl_chan->vchan.lock);", "\t\t\tif (!fsl_chan->edesc->iscyclic) {"]}]}

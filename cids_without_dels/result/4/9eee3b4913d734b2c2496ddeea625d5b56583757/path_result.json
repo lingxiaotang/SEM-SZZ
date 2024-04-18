@@ -1,0 +1,1 @@
+{"net/ipv6/route.c": [{"patch_file_name": "net/ipv6/route.c", "func_decl_name": "ip6_route_multipath_add", "is_cond": true, "line_numbers": [4999, 4999], "line_cids": ["", ""], "line_strs": ["\twhile (rtnh_ok(rtnh, remaining)) {", "\twhile (rtnh_ok(rtnh, remaining)) {"]}]}

@@ -1,0 +1,1 @@
+{"net/can/j1939/main.c": [{"patch_file_name": "net/can/j1939/main.c", "func_decl_name": "j1939_can_recv", "is_cond": true, "line_numbers": [77, 78], "line_cids": ["", ""], "line_strs": ["\tskcb->addr.type = J1939_TP;", "\tif (j1939_pgn_is_pdu1(skcb->addr.pgn)) {"]}]}

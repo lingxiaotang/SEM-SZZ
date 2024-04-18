@@ -1,0 +1,1 @@
+{"drivers/tty/serial/8250/8250_omap.c": [{"patch_file_name": "drivers/tty/serial/8250/8250_omap.c", "func_decl_name": "omap8250_remove", "is_cond": false, "line_numbers": [1462, 1472], "line_cids": ["", ""], "line_strs": ["\tstruct omap8250_priv *priv = platform_get_drvdata(pdev);", "\tserial8250_unregister_port(priv->line);"]}]}

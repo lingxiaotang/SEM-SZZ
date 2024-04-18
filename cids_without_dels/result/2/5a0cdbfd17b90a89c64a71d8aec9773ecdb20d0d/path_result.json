@@ -1,0 +1,1 @@
+{"arch/powerpc/kernel/eeh_driver.c": [{"patch_file_name": "arch/powerpc/kernel/eeh_driver.c", "func_decl_name": "eeh_dev_restore_state", "is_cond": true, "line_numbers": [314, 315], "line_cids": ["", ""], "line_strs": ["", "\tpdev = eeh_dev_to_pci_dev(edev);"]}]}

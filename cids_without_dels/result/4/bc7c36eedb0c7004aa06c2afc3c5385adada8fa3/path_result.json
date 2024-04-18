@@ -1,0 +1,1 @@
+{"drivers/clocksource/exynos_mct.c": [{"patch_file_name": "drivers/clocksource/exynos_mct.c", "func_decl_name": "exynos4_mct_dying_cpu", "is_cond": false, "line_numbers": [491], "line_cids": [""], "line_strs": ["\t\tper_cpu_ptr(&percpu_mct_tick, cpu);"]}]}

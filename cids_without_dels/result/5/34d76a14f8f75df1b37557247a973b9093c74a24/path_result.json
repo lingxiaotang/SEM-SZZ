@@ -1,0 +1,1 @@
+{"net/wireless/nl80211.c": [{"patch_file_name": "net/wireless/nl80211.c", "func_decl_name": "nl80211_associate", "is_cond": true, "line_numbers": [10815, 10816], "line_cids": ["", ""], "line_strs": ["", "\t\tkfree(attrs);"]}]}

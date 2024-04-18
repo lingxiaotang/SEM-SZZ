@@ -1,0 +1,1 @@
+{"drivers/media/platform/qcom/venus/pm_helpers.c": [{"patch_file_name": "drivers/media/platform/qcom/venus/pm_helpers.c", "func_decl_name": "min_loaded_core", "is_cond": true, "line_numbers": [519, 519], "line_cids": ["", ""], "line_strs": ["\tif (cores_max < VIDC_CORE_ID_2 || core->res->vcodec_num < 2) {", "\tif (cores_max < VIDC_CORE_ID_2 || core->res->vcodec_num < 2) {"]}]}

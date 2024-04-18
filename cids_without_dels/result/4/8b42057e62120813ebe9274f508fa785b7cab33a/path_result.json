@@ -1,0 +1,1 @@
+{"drivers/gpu/drm/omapdrm/dss/dss.c": [{"patch_file_name": "drivers/gpu/drm/omapdrm/dss/dss.c", "func_decl_name": "dss_init_ports", "is_cond": true, "line_numbers": [1190, 1190], "line_cids": ["", ""], "line_strs": ["\tfor (i = 0; i < dss->feat->num_ports; i++) {", "\tfor (i = 0; i < dss->feat->num_ports; i++) {"]}]}

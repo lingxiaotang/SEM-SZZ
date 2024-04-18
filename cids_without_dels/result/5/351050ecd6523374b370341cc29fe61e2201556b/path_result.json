@@ -1,0 +1,1 @@
+{"net/kcm/kcmsock.c": [{"patch_file_name": "net/kcm/kcmsock.c", "func_decl_name": "kcm_attach", "is_cond": true, "line_numbers": [1385, 1386], "line_cids": ["", ""], "line_strs": ["", "\tpsock = kmem_cache_zalloc(kcm_psockp, GFP_KERNEL);"]}]}

@@ -1,0 +1,1 @@
+{"crypto/asymmetric_keys/x509_cert_parser.c": [{"patch_file_name": "crypto/asymmetric_keys/x509_cert_parser.c", "func_decl_name": "x509_note_signature", "is_cond": true, "line_numbers": [251, 252], "line_cids": ["", ""], "line_strs": ["", "\tctx->cert->raw_sig = value;"]}]}

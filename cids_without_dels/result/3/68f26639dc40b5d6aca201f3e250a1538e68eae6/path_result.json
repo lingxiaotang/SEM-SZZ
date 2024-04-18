@@ -1,0 +1,1 @@
+{"sound/soc/codecs/wsa883x.c": [{"patch_file_name": "sound/soc/codecs/wsa883x.c", "func_decl_name": "wsa883x_spkr_event", "is_cond": true, "line_numbers": [1206, 1207], "line_cids": ["", ""], "line_strs": ["\t\t\t\t\t\t       WSA883X_DRE_PROG_DELAY_MASK, 0x9);", "\t\tdefault:"]}]}

@@ -1,0 +1,1 @@
+{"mm/hugetlb.c": [{"patch_file_name": "mm/hugetlb.c", "func_decl_name": "hugetlb_sysfs_add_hstate", "is_cond": false, "line_numbers": [3846, 3846], "line_cids": ["", ""], "line_strs": ["\tif (retval) {", "\tif (retval) {"]}]}

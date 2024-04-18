@@ -1,0 +1,1 @@
+{"drivers/infiniband/ulp/ipoib/ipoib_ib.c": [{"patch_file_name": "drivers/infiniband/ulp/ipoib/ipoib_ib.c", "func_decl_name": "__ipoib_ib_dev_flush", "is_cond": true, "line_numbers": [1165, 1166], "line_cids": ["", ""], "line_strs": ["\t\tipoib_mcast_dev_flush(dev);", "\t\tipoib_flush_ah(dev);"]}]}

@@ -1,0 +1,1 @@
+{"drivers/net/ethernet/hisilicon/hns3/hns3_debugfs.c": [{"patch_file_name": "drivers/net/ethernet/hisilicon/hns3/hns3_debugfs.c", "func_decl_name": "hns3_dbg_page_pool_info", "is_cond": true, "line_numbers": [1108, 1109], "line_cids": ["", ""], "line_strs": ["", "\tfor (i = 0; i < ARRAY_SIZE(page_pool_info_items); i++)"]}]}

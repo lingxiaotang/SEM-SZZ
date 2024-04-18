@@ -1,0 +1,1 @@
+{"net/l2tp/l2tp_core.c": [{"patch_file_name": "net/l2tp/l2tp_core.c", "func_decl_name": "l2tp_validate_socket", "is_cond": true, "line_numbers": [1460, 1461], "line_cids": ["", ""], "line_strs": ["", "\tif ((encap == L2TP_ENCAPTYPE_UDP && sk->sk_protocol != IPPROTO_UDP) ||"]}]}

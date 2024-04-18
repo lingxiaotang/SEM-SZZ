@@ -1,0 +1,1 @@
+{"kernel/trace/ring_buffer.c": [{"patch_file_name": "kernel/trace/ring_buffer.c", "func_decl_name": "__rb_reserve_next", "is_cond": true, "line_numbers": [2399, 2400], "line_cids": ["", ""], "line_strs": ["", "\t/* See if we shot pass the end of this buffer page */"]}]}

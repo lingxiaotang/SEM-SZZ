@@ -1,0 +1,1 @@
+{"kernel/sched/deadline.c": [{"patch_file_name": "kernel/sched/deadline.c", "func_decl_name": "dl_check_constrained_dl", "is_cond": true, "line_numbers": [943, 944], "line_cids": ["", ""], "line_strs": ["\t\tdl_se->dl_throttled = 1;", "\t}"]}]}

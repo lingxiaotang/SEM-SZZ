@@ -1,0 +1,1 @@
+{"drivers/usb/gadget/function/f_uac1.c": [{"patch_file_name": "drivers/usb/gadget/function/f_uac1.c", "func_decl_name": "f_audio_disable", "is_cond": false, "line_numbers": [500, 502], "line_cids": ["", ""], "line_strs": ["\tuac1->as_in_alt = 0;", "\tu_audio_stop_capture(&uac1->g_audio);"]}]}

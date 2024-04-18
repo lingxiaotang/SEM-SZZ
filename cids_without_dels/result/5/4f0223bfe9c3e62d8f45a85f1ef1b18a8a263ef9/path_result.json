@@ -1,0 +1,1 @@
+{"net/wireless/nl80211.c": [{"patch_file_name": "net/wireless/nl80211.c", "func_decl_name": "nl80211_update_ft_ies", "is_cond": true, "line_numbers": [12101, 12102], "line_cids": ["", ""], "line_strs": ["\tif (!info->attrs[NL80211_ATTR_MDID] ||", "\t    !is_valid_ie_attr(info->attrs[NL80211_ATTR_IE]))"]}]}

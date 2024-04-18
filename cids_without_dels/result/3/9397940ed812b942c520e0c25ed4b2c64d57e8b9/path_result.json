@@ -1,0 +1,1 @@
+{"drivers/usb/class/cdc-acm.c": [{"patch_file_name": "drivers/usb/class/cdc-acm.c", "func_decl_name": "acm_pre_reset", "is_cond": false, "line_numbers": [1642, 1644], "line_cids": ["", ""], "line_strs": ["\tstruct acm *acm = usb_get_intfdata(intf);", "\tclear_bit(EVENT_RX_STALL, &acm->flags);"]}]}

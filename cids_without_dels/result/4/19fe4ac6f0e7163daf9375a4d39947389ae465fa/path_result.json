@@ -1,0 +1,1 @@
+{"drivers/gpu/drm/i915/i915_drv.c": [{"patch_file_name": "drivers/gpu/drm/i915/i915_drv.c", "func_decl_name": "i915_driver_shutdown", "is_cond": false, "line_numbers": [1049], "line_cids": [""], "line_strs": ["\ti915_gem_suspend(i915);"]}]}

@@ -1,0 +1,1 @@
+{"drivers/scsi/qla2xxx/qla_init.c": [{"patch_file_name": "drivers/scsi/qla2xxx/qla_init.c", "func_decl_name": "qla_post_els_plogi_work", "is_cond": false, "line_numbers": [535, 535], "line_cids": ["", ""], "line_strs": ["\tfcport->flags |= FCF_ASYNC_ACTIVE;", "\tfcport->flags |= FCF_ASYNC_ACTIVE;"]}]}

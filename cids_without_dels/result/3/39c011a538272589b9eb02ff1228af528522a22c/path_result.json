@@ -1,0 +1,1 @@
+{"drivers/infiniband/core/uverbs_main.c": [{"patch_file_name": "drivers/infiniband/core/uverbs_main.c", "func_decl_name": "uverbs_user_mmap_disassociate", "is_cond": true, "line_numbers": [814, 814], "line_cids": ["", ""], "line_strs": ["\t\twhile (!list_empty(&ufile->umaps)) {", "\t\twhile (!list_empty(&ufile->umaps)) {"]}]}

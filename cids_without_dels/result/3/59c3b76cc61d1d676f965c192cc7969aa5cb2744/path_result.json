@@ -1,0 +1,1 @@
+{"fs/fuse/file.c": [{"patch_file_name": "fs/fuse/file.c", "func_decl_name": "fuse_write_end", "is_cond": true, "line_numbers": [1987, 1988], "line_cids": ["", ""], "line_strs": ["", "\tif (!PageUptodate(page)) {"]}]}

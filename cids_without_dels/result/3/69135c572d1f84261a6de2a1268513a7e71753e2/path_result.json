@@ -1,0 +1,1 @@
+{"net/tls/tls_main.c": [{"patch_file_name": "net/tls/tls_main.c", "func_decl_name": "tls_update", "is_cond": true, "line_numbers": [923, 924], "line_cids": ["", ""], "line_strs": ["", "\tctx = tls_get_ctx(sk);"]}]}

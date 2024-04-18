@@ -1,0 +1,1 @@
+{"tools/objtool/check.c": [{"patch_file_name": "tools/objtool/check.c", "func_decl_name": "update_cfi_state", "is_cond": true, "line_numbers": [1985, 1986], "line_cids": ["", ""], "line_strs": ["", "\t\t\tbreak;"]}]}

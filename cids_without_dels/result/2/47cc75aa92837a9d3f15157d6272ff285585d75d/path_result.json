@@ -1,0 +1,1 @@
+{"kernel/module/tracking.c": [{"patch_file_name": "kernel/module/tracking.c", "func_decl_name": "try_add_tainted_module", "is_cond": true, "line_numbers": [24, 25], "line_cids": ["", ""], "line_strs": ["", "\tlist_for_each_entry_rcu(mod_taint, &unloaded_tainted_modules, list,"]}]}

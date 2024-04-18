@@ -1,0 +1,1 @@
+{"drivers/net/ethernet/mellanox/mlx4/eq.c": [{"patch_file_name": "drivers/net/ethernet/mellanox/mlx4/eq.c", "func_decl_name": "mlx4_test_interrupts", "is_cond": true, "line_numbers": [1366, 1367], "line_cids": ["", ""], "line_strs": ["\tfor(i = 0; !err && (i < dev->caps.num_comp_vectors); ++i) {", "\t\t/* Temporary use polling for command completions */"]}]}

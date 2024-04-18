@@ -1,0 +1,1 @@
+{"drivers/pinctrl/mediatek/pinctrl-mtk-common-v2.c": [{"patch_file_name": "drivers/pinctrl/mediatek/pinctrl-mtk-common-v2.c", "func_decl_name": "mtk_is_virt_gpio", "is_cond": true, "line_numbers": [261, 262], "line_cids": ["", ""], "line_strs": ["", "\tif (desc->funcs && !desc->funcs[desc->eint.eint_m].name)"]}]}

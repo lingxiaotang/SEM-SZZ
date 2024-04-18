@@ -1,0 +1,1 @@
+{"drivers/infiniband/core/sysfs.c": [{"patch_file_name": "drivers/infiniband/core/sysfs.c", "func_decl_name": "setup_hw_stats", "is_cond": true, "line_numbers": [931, 932], "line_cids": ["", ""], "line_strs": ["\thsag->attrs[i] = alloc_hsa_lifespan(\"lifespan\", port_num);", ""]}]}

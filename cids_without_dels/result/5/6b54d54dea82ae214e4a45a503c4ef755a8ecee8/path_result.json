@@ -1,0 +1,1 @@
+{"drivers/infiniband/hw/cxgb4/device.c": [{"patch_file_name": "drivers/infiniband/hw/cxgb4/device.c", "func_decl_name": "c4iw_rdev_open", "is_cond": false, "line_numbers": [693, 695], "line_cids": ["", ""], "line_strs": ["\trdev->status_page = (struct t4_dev_status_page *)", "\tif (!rdev->status_page) {"]}]}

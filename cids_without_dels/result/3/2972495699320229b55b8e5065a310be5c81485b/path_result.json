@@ -1,0 +1,1 @@
+{"net/core/dev.c": [{"patch_file_name": "net/core/dev.c", "func_decl_name": "netif_receive_generic_xdp", "is_cond": true, "line_numbers": [4323, 4324], "line_cids": ["", ""], "line_strs": ["", "\tswitch (act) {"]}]}

@@ -1,0 +1,1 @@
+{"drivers/xen/gntdev-dmabuf.c": [{"patch_file_name": "drivers/xen/gntdev-dmabuf.c", "func_decl_name": "dmabuf_imp_to_refs", "is_cond": true, "line_numbers": [615, 616], "line_cids": ["", ""], "line_strs": ["", "\t/* Check number of pages that imported buffer has. */"]}]}

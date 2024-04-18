@@ -1,0 +1,1 @@
+{"drivers/mmc/host/sdhci-pci-o2micro.c": [{"patch_file_name": "drivers/mmc/host/sdhci-pci-o2micro.c", "func_decl_name": "sdhci_o2_get_cd", "is_cond": false, "line_numbers": [153, 156], "line_cids": ["", ""], "line_strs": ["\tif (!(sdhci_readw(host, O2_PLL_DLL_WDT_CONTROL1) & O2_PLL_LOCK_STATUS))", "\treturn !!(sdhci_readl(host, SDHCI_PRESENT_STATE) & SDHCI_CARD_PRESENT);"]}]}

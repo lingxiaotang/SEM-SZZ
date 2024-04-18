@@ -1,0 +1,1 @@
+{"drivers/net/ethernet/qlogic/qlcnic/qlcnic_sysfs.c": [{"patch_file_name": "drivers/net/ethernet/qlogic/qlcnic/qlcnic_sysfs.c", "func_decl_name": "qlcnic_83xx_sysfs_flash_write_handler", "is_cond": true, "line_numbers": [1130, 1131], "line_cids": ["", ""], "line_strs": ["\tret = kstrtoul(buf, 16, &data);", ""]}]}

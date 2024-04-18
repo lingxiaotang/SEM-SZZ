@@ -1,0 +1,1 @@
+{"drivers/md/bcache/request.c": [{"patch_file_name": "drivers/md/bcache/request.c", "func_decl_name": "detached_dev_do_request", "is_cond": true, "line_numbers": [1107, 1108], "line_cids": ["", ""], "line_strs": ["\tddip = kzalloc(sizeof(struct detached_dev_io_private), GFP_NOIO);", "\tddip->d = d;"]}]}

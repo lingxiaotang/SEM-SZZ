@@ -1,0 +1,1 @@
+{"drivers/md/md.c": [{"patch_file_name": "drivers/md/md.c", "func_decl_name": "super_90_load", "is_cond": true, "line_numbers": [1160, 1163], "line_cids": ["", ""], "line_strs": ["\tif (sb->level == LEVEL_MULTIPATH ||", "\t\t ((1<<MD_DISK_SYNC) | (1 << MD_DISK_ACTIVE))))"]}]}

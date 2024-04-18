@@ -1,0 +1,1 @@
+{"sound/soc/soc-topology.c": [{"patch_file_name": "sound/soc/soc-topology.c", "func_decl_name": "soc_tplg_kcontrol_bind_io", "is_cond": true, "line_numbers": [594, 595], "line_cids": ["", ""], "line_strs": ["", "\t\text_ops = tplg->bytes_ext_ops;"]}]}

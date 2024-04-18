@@ -1,0 +1,1 @@
+{"drivers/scsi/bfa/bfad.c": [{"patch_file_name": "drivers/scsi/bfa/bfad.c", "func_decl_name": "bfad_pci_init", "is_cond": true, "line_numbers": [750, 750], "line_cids": ["", ""], "line_strs": ["\tif (bfad->pci_bar0_kva == NULL) {", "\tif (bfad->pci_bar0_kva == NULL) {"]}]}

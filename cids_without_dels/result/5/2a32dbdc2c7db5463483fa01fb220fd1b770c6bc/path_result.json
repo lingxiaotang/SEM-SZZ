@@ -1,0 +1,1 @@
+{"drivers/gpu/drm/rcar-du/rcar_du_vsp.c": [{"patch_file_name": "drivers/gpu/drm/rcar-du/rcar_du_vsp.c", "func_decl_name": "rcar_du_vsp_init", "is_cond": true, "line_numbers": [359, 360], "line_cids": ["", ""], "line_strs": ["", "\tret = vsp1_du_init(vsp->vsp);"]}]}

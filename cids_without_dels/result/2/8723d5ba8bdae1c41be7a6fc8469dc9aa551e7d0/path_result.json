@@ -1,0 +1,1 @@
+{"fs/xfs/xfs_itable.c": [{"patch_file_name": "fs/xfs/xfs_itable.c", "func_decl_name": "xfs_bulkstat_one", "is_cond": true, "line_numbers": [170, 171], "line_cids": ["", ""], "line_strs": ["", "\tASSERT(breq->icount == 1);"]}]}

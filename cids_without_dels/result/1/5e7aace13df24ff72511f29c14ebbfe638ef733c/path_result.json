@@ -1,0 +1,1 @@
+{"sound/soc/codecs/wm8997.c": [{"patch_file_name": "sound/soc/codecs/wm8997.c", "func_decl_name": "wm8997_probe", "is_cond": false, "line_numbers": [1171, 1175], "line_cids": ["", ""], "line_strs": ["\tret = devm_snd_soc_register_component(&pdev->dev,", "\tif (ret < 0) {"]}]}

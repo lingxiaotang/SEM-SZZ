@@ -1,0 +1,1 @@
+{"drivers/net/ethernet/intel/iavf/iavf_virtchnl.c": [{"patch_file_name": "drivers/net/ethernet/intel/iavf/iavf_virtchnl.c", "func_decl_name": "iavf_virtchnl_completion", "is_cond": true, "line_numbers": [2059, 2060], "line_cids": ["", ""], "line_strs": ["\t\tcase VIRTCHNL_OP_ENABLE_VLAN_STRIPPING:", "\t\tcase VIRTCHNL_OP_DISABLE_VLAN_STRIPPING:"]}]}

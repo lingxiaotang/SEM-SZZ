@@ -1,0 +1,1 @@
+{"fs/ubifs/tnc_misc.c": [{"patch_file_name": "fs/ubifs/tnc_misc.c", "func_decl_name": "read_znode", "is_cond": false, "line_numbers": [284, 286], "line_cids": ["", ""], "line_strs": ["\terr = ubifs_node_check_hash(c, idx, zzbr->hash);", "\t\tubifs_bad_hash(c, idx, zzbr->hash, lnum, offs);"]}]}

@@ -1,0 +1,1 @@
+{"virt/kvm/arm/mmio.c": [{"patch_file_name": "virt/kvm/arm/mmio.c", "func_decl_name": "io_mem_abort", "is_cond": true, "line_numbers": [183, 196], "line_cids": ["", ""], "line_strs": ["\t\tret = kvm_io_bus_read(vcpu, KVM_MMIO_BUS, fault_ipa, len,", "\t\tvcpu->stat.mmio_exit_kernel++;"]}]}

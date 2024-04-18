@@ -1,0 +1,1 @@
+{"drivers/tty/serial/ar933x_uart.c": [{"patch_file_name": "drivers/tty/serial/ar933x_uart.c", "func_decl_name": "ar933x_config_rs485", "is_cond": true, "line_numbers": [585, 586], "line_cids": ["", ""], "line_strs": ["{", "\treturn 0;"]}]}

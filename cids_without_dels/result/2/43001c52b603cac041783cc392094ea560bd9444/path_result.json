@@ -1,0 +1,1 @@
+{"arch/powerpc/platforms/pseries/papr_scm.c": [{"patch_file_name": "arch/powerpc/platforms/pseries/papr_scm.c", "func_decl_name": "papr_scm_probe", "is_cond": true, "line_numbers": [284, 285], "line_cids": ["", ""], "line_strs": ["", "\tp = kzalloc(sizeof(*p), GFP_KERNEL);"]}]}

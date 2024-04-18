@@ -1,0 +1,1 @@
+{"net/core/devlink.c": [{"patch_file_name": "net/core/devlink.c", "func_decl_name": "devlink_nl_cmd_region_read_dumpit", "is_cond": true, "line_numbers": [3988, 3989], "line_cids": ["", ""], "line_strs": ["", "\thdr = genlmsg_put(skb, NETLINK_CB(cb->skb).portid, cb->nlh->nlmsg_seq,"]}]}

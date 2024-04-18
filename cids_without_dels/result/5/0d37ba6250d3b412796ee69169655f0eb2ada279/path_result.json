@@ -1,0 +1,1 @@
+{"drivers/media/usb/em28xx/em28xx-video.c": [{"patch_file_name": "drivers/media/usb/em28xx/em28xx-video.c", "func_decl_name": "em28xx_v4l2_init", "is_cond": true, "line_numbers": [2727, 2727], "line_cids": ["", ""], "line_strs": ["\tif (video_is_registered(&v4l2->vbi_dev))", "\tif (video_is_registered(&v4l2->vbi_dev))"]}]}

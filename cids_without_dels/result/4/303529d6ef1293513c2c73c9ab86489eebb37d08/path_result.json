@@ -1,0 +1,1 @@
+{"drivers/pci/hotplug/pnv_php.c": [{"patch_file_name": "drivers/pci/hotplug/pnv_php.c", "func_decl_name": "pnv_php_enable_irq", "is_cond": true, "line_numbers": [828, 829], "line_cids": ["", ""], "line_strs": ["", "\tret = pci_enable_device(pdev);"]}]}

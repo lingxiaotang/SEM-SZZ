@@ -1,0 +1,1 @@
+{"drivers/media/platform/mtk-jpeg/mtk_jpeg_core.c": [{"patch_file_name": "drivers/media/platform/mtk-jpeg/mtk_jpeg_core.c", "func_decl_name": "mtk_jpeg_clk_init", "is_cond": false, "line_numbers": [1303, 1308], "line_cids": ["", ""], "line_strs": ["\tjpeg->larb = &pdev->dev;", "\t\tdev_err(&pdev->dev, \"failed to get jpeg clock:%d\\n\", ret);"]}]}

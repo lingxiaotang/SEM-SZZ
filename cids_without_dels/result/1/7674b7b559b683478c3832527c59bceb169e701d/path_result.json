@@ -1,0 +1,1 @@
+{"drivers/net/ethernet/amd/xgbe/xgbe-drv.c": [{"patch_file_name": "drivers/net/ethernet/amd/xgbe/xgbe-drv.c", "func_decl_name": "xgbe_stop_timers", "is_cond": false, "line_numbers": [721, 724], "line_cids": ["", ""], "line_strs": ["\t\tif (!channel->tx_ring)", "\t\tdel_timer_sync(&channel->tx_timer);"]}]}

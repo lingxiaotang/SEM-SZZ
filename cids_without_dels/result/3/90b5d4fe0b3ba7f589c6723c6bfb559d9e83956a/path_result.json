@@ -1,0 +1,1 @@
+{"arch/powerpc/platforms/powernv/rng.c": [{"patch_file_name": "arch/powerpc/platforms/powernv/rng.c", "func_decl_name": "powernv_get_random_real_mode", "is_cond": true, "line_numbers": [65, 66], "line_cids": ["", ""], "line_strs": ["\trng = raw_cpu_read(powernv_rng);", ""]}]}

@@ -1,0 +1,1 @@
+{"drivers/net/phy/phylink.c": [{"patch_file_name": "drivers/net/phy/phylink.c", "func_decl_name": "phylink_get_mac_state", "is_cond": false, "line_numbers": [322, 323], "line_cids": ["", ""], "line_strs": ["\tstate->an_enabled = pl->link_config.an_enabled;", "\tstate->link = 1;"]}]}

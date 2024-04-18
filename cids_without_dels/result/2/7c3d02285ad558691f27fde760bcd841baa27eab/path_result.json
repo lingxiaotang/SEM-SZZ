@@ -1,0 +1,1 @@
+{"drivers/usb/serial/ch341.c": [{"patch_file_name": "drivers/usb/serial/ch341.c", "func_decl_name": "ch341_get_divisor", "is_cond": true, "line_numbers": [207, 208], "line_cids": ["", ""], "line_strs": ["", "\treturn (0x100 - div) << 8 | fact << 2 | ps;"]}]}

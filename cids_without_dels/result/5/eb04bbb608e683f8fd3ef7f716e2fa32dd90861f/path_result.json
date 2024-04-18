@@ -1,0 +1,1 @@
+{"kernel/bpf/btf.c": [{"patch_file_name": "kernel/bpf/btf.c", "func_decl_name": "btf_enum_check_meta", "is_cond": true, "line_numbers": [1757, 1758], "line_cids": ["", ""], "line_strs": ["", "\tbtf_verifier_log_type(env, t, NULL);"]}]}

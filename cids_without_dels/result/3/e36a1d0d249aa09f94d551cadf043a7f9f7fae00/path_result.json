@@ -1,0 +1,1 @@
+{"sound/soc/soc-dapm.c": [{"patch_file_name": "sound/soc/soc-dapm.c", "func_decl_name": "dapm_connect_dai_link_widgets", "is_cond": true, "line_numbers": [4089, 4090], "line_cids": ["", ""], "line_strs": ["\t\t\t\t\t\t\t\tcodec);", ""]}]}

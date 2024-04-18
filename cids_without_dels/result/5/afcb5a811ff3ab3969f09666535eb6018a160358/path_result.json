@@ -1,0 +1,1 @@
+{"drivers/auxdisplay/img-ascii-lcd.c": [{"patch_file_name": "drivers/auxdisplay/img-ascii-lcd.c", "func_decl_name": "img_ascii_lcd_display", "is_cond": true, "line_numbers": [282, 283], "line_cids": ["", ""], "line_strs": ["", "\tnew_msg = devm_kmalloc(&ctx->pdev->dev, count + 1, GFP_KERNEL);"]}]}

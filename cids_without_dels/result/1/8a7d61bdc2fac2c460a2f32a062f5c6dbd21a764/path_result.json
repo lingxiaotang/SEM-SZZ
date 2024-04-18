@@ -1,0 +1,1 @@
+{"tools/testing/selftests/bpf/xskxceiver.c": [{"patch_file_name": "tools/testing/selftests/bpf/xskxceiver.c", "func_decl_name": "ifobject_delete", "is_cond": true, "line_numbers": [1619, 1620], "line_cids": ["", ""], "line_strs": ["{", "\tfree(ifobj->umem);"]}]}

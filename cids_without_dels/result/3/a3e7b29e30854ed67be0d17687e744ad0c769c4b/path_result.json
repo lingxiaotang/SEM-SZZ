@@ -1,0 +1,1 @@
+{"net/vmw_vsock/af_vsock.c": [{"patch_file_name": "net/vmw_vsock/af_vsock.c", "func_decl_name": "vsock_connect_timeout", "is_cond": false, "line_numbers": [1288, 1289], "line_cids": ["", ""], "line_strs": ["\t\tsk->sk_state = TCP_CLOSE;", "\t\tsk->sk_err = ETIMEDOUT;"]}]}

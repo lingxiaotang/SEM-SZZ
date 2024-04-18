@@ -1,0 +1,1 @@
+{"net/compat.c": [{"patch_file_name": "net/compat.c", "func_decl_name": "get_compat_msghdr", "is_cond": true, "line_numbers": [51, 52], "line_cids": ["", ""], "line_strs": ["\t\treturn -EFAULT;", "\tif (kmsg->msg_namelen > sizeof(struct sockaddr_storage))"]}]}

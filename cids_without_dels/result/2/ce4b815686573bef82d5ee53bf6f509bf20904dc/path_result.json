@@ -1,0 +1,1 @@
+{"fs/erofs/fscache.c": [{"patch_file_name": "fs/erofs/fscache.c", "func_decl_name": "erofs_domain_register_cookie", "is_cond": false, "line_numbers": [590, 593], "line_cids": ["", ""], "line_strs": ["\tstruct super_block *psb = erofs_pseudo_mnt->mnt_sb;", "\tlist_for_each_entry(inode, &psb->s_inodes, i_sb_list) {"]}]}

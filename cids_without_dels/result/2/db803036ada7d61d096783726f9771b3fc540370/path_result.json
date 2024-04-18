@@ -1,0 +1,1 @@
+{"kernel/umh.c": [{"patch_file_name": "kernel/umh.c", "func_decl_name": "umh_clean_and_save_pid", "is_cond": true, "line_numbers": [477, 478], "line_cids": ["", ""], "line_strs": ["", "\targv_free(info->argv);"]}]}

@@ -1,0 +1,1 @@
+{"sound/core/pcm_native.c": [{"patch_file_name": "sound/core/pcm_native.c", "func_decl_name": "snd_pcm_link", "is_cond": true, "line_numbers": [2178, 2179], "line_cids": ["", ""], "line_strs": ["\tsubstream1 = pcm_file->substream;", "\tgroup = kzalloc(sizeof(*group), GFP_KERNEL);"]}]}

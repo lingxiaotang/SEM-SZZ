@@ -1,0 +1,1 @@
+{"drivers/net/wireless/realtek/rtw88/fw.c": [{"patch_file_name": "drivers/net/wireless/realtek/rtw88/fw.c", "func_decl_name": "rtw_hw_scan_update_probe_req", "is_cond": true, "line_numbers": [1864, 1864], "line_cids": ["", ""], "line_strs": ["\tfor (i = 0; i < num; i++) {", "\tfor (i = 0; i < num; i++) {"]}]}

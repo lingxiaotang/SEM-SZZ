@@ -1,0 +1,1 @@
+{"drivers/nfc/pn533/uart.c": [{"patch_file_name": "drivers/nfc/pn533/uart.c", "func_decl_name": "pn532_uart_remove", "is_cond": false, "line_numbers": [312, 313], "line_cids": ["", ""], "line_strs": ["\tpn53x_common_clean(pn532->priv);", "\tkfree_skb(pn532->recv_skb);"]}]}

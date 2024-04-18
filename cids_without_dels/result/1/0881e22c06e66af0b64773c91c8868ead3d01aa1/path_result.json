@@ -1,0 +1,1 @@
+{"drivers/usb/phy/phy-twl6030-usb.c": [{"patch_file_name": "drivers/usb/phy/phy-twl6030-usb.c", "func_decl_name": "twl6030_usb_probe", "is_cond": true, "line_numbers": [350, 351], "line_cids": ["", ""], "line_strs": ["", "\ttwl->comparator.set_vbus\t= twl6030_set_vbus;"]}]}

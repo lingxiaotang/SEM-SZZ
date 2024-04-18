@@ -1,0 +1,1 @@
+{"drivers/irqchip/irq-loongson-liointc.c": [{"patch_file_name": "drivers/irqchip/irq-loongson-liointc.c", "func_decl_name": "liointc_set_type", "is_cond": true, "line_numbers": [116, 116], "line_cids": ["", ""], "line_strs": ["\tdefault:", "\tdefault:"]}]}

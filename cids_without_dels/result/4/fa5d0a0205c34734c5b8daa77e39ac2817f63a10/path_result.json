@@ -1,0 +1,1 @@
+{"drivers/gpu/drm/mediatek/mtk_dsi.c": [{"patch_file_name": "drivers/gpu/drm/mediatek/mtk_dsi.c", "func_decl_name": "mtk_dsi_poweroff", "is_cond": false, "line_numbers": [690, 692], "line_cids": ["", ""], "line_strs": ["\tmtk_dsi_clk_ulp_mode_enter(dsi);", "\tmtk_dsi_disable(dsi);"]}]}

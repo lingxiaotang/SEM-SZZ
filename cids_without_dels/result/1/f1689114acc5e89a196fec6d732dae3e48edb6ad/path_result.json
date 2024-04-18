@@ -1,0 +1,1 @@
+{"drivers/char/tpm/tpm2-cmd.c": [{"patch_file_name": "drivers/char/tpm/tpm2-cmd.c", "func_decl_name": "tpm2_get_cc_attrs_tbl", "is_cond": true, "line_numbers": [941, 942], "line_cids": ["", ""], "line_strs": ["\t\t\t\t\t  GFP_KERNEL);", ""]}]}

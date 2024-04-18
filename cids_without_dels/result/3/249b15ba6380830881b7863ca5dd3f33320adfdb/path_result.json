@@ -1,0 +1,1 @@
+{"drivers/scsi/constants.c": [{"patch_file_name": "drivers/scsi/constants.c", "func_decl_name": "scsi_extd_sense_format", "is_cond": false, "line_numbers": [1286], "line_cids": [""], "line_strs": ["\treturn NULL;"]}]}

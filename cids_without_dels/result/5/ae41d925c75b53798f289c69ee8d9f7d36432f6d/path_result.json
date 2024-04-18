@@ -1,0 +1,1 @@
+{"drivers/gpu/drm/rockchip/cdn-dp-core.c": [{"patch_file_name": "drivers/gpu/drm/rockchip/cdn-dp-core.c", "func_decl_name": "cdn_dp_grf_write", "is_cond": false, "line_numbers": [73, 75], "line_cids": ["", ""], "line_strs": ["\tret = regmap_write(dp->grf, reg, val);", "\t\tDRM_DEV_ERROR(dp->dev, \"Could not write to GRF: %d\\n\", ret);"]}]}

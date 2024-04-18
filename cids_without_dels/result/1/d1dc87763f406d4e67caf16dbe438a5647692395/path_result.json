@@ -1,0 +1,1 @@
+{"lib/assoc_array.c": [{"patch_file_name": "lib/assoc_array.c", "func_decl_name": "assoc_array_gc", "is_cond": true, "line_numbers": [1607, 1608], "line_cids": ["", ""], "line_strs": ["", "\tpr_devel(\"after: %lu\\n\", new_n->nr_leaves_on_branch);"]}]}

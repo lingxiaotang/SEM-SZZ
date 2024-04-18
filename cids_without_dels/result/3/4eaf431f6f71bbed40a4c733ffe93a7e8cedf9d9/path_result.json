@@ -1,0 +1,1 @@
+{"mm/memcontrol.c": [{"patch_file_name": "mm/memcontrol.c", "func_decl_name": "free_mem_cgroup_per_node_info", "is_cond": true, "line_numbers": [4110, 4111], "line_cids": ["", ""], "line_strs": ["", "\tfree_percpu(pn->lruvec_stat_cpu);"]}]}

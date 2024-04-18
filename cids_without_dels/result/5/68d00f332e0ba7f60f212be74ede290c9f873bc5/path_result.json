@@ -1,0 +1,1 @@
+{"net/ipv6/ip6_tunnel.c": [{"patch_file_name": "net/ipv6/ip6_tunnel.c", "func_decl_name": "ip6_tnl_lookup", "is_cond": true, "line_numbers": [159, 160], "line_cids": ["", ""], "line_strs": ["\t\tif (ipv6_addr_equal(local, &t->parms.laddr) &&", "\t\t    (t->dev->flags & IFF_UP))"]}]}

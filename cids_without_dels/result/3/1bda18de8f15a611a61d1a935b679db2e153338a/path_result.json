@@ -1,0 +1,1 @@
+{"drivers/nvme/host/rdma.c": [{"patch_file_name": "drivers/nvme/host/rdma.c", "func_decl_name": "nvme_rdma_reinit_request", "is_cond": true, "line_numbers": [295, 296], "line_cids": ["", ""], "line_strs": ["\t\treq->mr = NULL;", "\t}"]}]}

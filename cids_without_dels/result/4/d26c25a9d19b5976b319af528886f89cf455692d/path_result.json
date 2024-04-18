@@ -1,0 +1,1 @@
+{"arch/arm64/kvm/guest.c": [{"patch_file_name": "arch/arm64/kvm/guest.c", "func_decl_name": "set_core_reg", "is_cond": true, "line_numbers": [100, 101], "line_cids": ["", ""], "line_strs": ["", "\tif (KVM_REG_SIZE(reg->id) > sizeof(tmp))"]}]}

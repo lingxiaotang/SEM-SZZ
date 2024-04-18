@@ -1,0 +1,1 @@
+{"net/tipc/subscr.c": [{"patch_file_name": "net/tipc/subscr.c", "func_decl_name": "tipc_subscrp_cancel", "is_cond": false, "line_numbers": [245], "line_cids": [""], "line_strs": ["\ttipc_subscrb_subscrp_delete(subscriber, s);"]}]}

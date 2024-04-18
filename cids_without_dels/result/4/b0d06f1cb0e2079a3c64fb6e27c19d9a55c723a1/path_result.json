@@ -1,0 +1,1 @@
+{"drivers/mmc/host/meson-mx-sdio.c": [{"patch_file_name": "drivers/mmc/host/meson-mx-sdio.c", "func_decl_name": "meson_mx_mmc_register_clks", "is_cond": true, "line_numbers": [598, 599], "line_cids": ["", ""], "line_strs": ["\t\t\t\t   dev_name(host->controller_dev));", "\tinit.ops = &clk_fixed_factor_ops;"]}]}

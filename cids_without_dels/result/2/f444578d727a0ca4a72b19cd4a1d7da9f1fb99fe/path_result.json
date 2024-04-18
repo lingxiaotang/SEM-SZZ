@@ -1,0 +1,1 @@
+{"drivers/power/supply/bq256xx_charger.c": [{"patch_file_name": "drivers/power/supply/bq256xx_charger.c", "func_decl_name": "bq256xx_hw_init", "is_cond": true, "line_numbers": [1525, 1526], "line_cids": ["", ""], "line_strs": ["\tret = power_supply_get_battery_info(bq->charger, &bat_info);", "\tif (ret) {"]}]}

@@ -1,0 +1,1 @@
+{"drivers/net/ethernet/hisilicon/hns3/hns3vf/hclgevf_main.c": [{"patch_file_name": "drivers/net/ethernet/hisilicon/hns3/hns3vf/hclgevf_main.c", "func_decl_name": "hclgevf_uninit_client_instance", "is_cond": true, "line_numbers": [3012, 3013], "line_cids": ["", ""], "line_strs": ["\tif (hdev->roce_client) {", "\t\tclear_bit(HCLGEVF_STATE_ROCE_REGISTERED, &hdev->state);"]}]}

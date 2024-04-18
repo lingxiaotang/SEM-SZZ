@@ -1,0 +1,1 @@
+{"drivers/media/platform/sunxi/sun4i-csi/sun4i_csi.c": [{"patch_file_name": "drivers/media/platform/sunxi/sun4i-csi/sun4i_csi.c", "func_decl_name": "sun4i_csi_probe", "is_cond": true, "line_numbers": [157, 158], "line_cids": ["", ""], "line_strs": ["", "\tcsi->mdev.dev = csi->dev;"]}]}

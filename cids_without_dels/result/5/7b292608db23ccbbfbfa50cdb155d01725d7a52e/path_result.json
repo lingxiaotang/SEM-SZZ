@@ -1,0 +1,1 @@
+{"drivers/net/ethernet/intel/igb/igb_main.c": [{"patch_file_name": "drivers/net/ethernet/intel/igb/igb_main.c", "func_decl_name": "igb_clean_tx_ring", "is_cond": true, "line_numbers": [4803, 4803], "line_cids": ["", ""], "line_strs": ["\twhile (i != tx_ring->next_to_use) {", "\twhile (i != tx_ring->next_to_use) {"]}]}

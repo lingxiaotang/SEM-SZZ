@@ -1,0 +1,1 @@
+{"kernel/bpf/xskmap.c": [{"patch_file_name": "kernel/bpf/xskmap.c", "func_decl_name": "xsk_map_alloc", "is_cond": false, "line_numbers": [56, 56], "line_cids": ["", ""], "line_strs": ["\tif (err)", "\tif (err)"]}]}

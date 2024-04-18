@@ -1,0 +1,1 @@
+{"drivers/usb/misc/legousbtower.c": [{"patch_file_name": "drivers/usb/misc/legousbtower.c", "func_decl_name": "tower_probe", "is_cond": false, "line_numbers": [904, 908], "line_cids": ["", ""], "line_strs": ["\tdev_info(&interface->dev,", "\t\t le16_to_cpu(get_version_reply->build_no));"]}]}

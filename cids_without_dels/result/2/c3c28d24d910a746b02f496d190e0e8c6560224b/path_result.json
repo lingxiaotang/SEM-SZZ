@@ -1,0 +1,1 @@
+{"arch/x86/kvm/x86.c": [{"patch_file_name": "arch/x86/kvm/x86.c", "func_decl_name": "kvm_steal_time_set_preempted", "is_cond": true, "line_numbers": [4744, 4745], "line_cids": ["", ""], "line_strs": ["\tif (unlikely(slots->generation != ghc->generation ||", "\t\t     kvm_is_error_hva(ghc->hva) || !ghc->memslot))"]}]}

@@ -1,0 +1,1 @@
+{"sound/core/memalloc.c": [{"patch_file_name": "sound/core/memalloc.c", "func_decl_name": "snd_dma_get_ops", "is_cond": true, "line_numbers": [633, 634], "line_cids": ["", ""], "line_strs": ["{", "\tif (WARN_ON_ONCE(dmab->dev.type <= SNDRV_DMA_TYPE_UNKNOWN ||"]}]}

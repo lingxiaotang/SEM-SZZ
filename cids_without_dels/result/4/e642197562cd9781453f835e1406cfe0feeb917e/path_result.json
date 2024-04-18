@@ -1,0 +1,1 @@
+{"drivers/leds/leds-is31fl32xx.c": [{"patch_file_name": "drivers/leds/leds-is31fl32xx.c", "func_decl_name": "is31fl32xx_parse_dt", "is_cond": false, "line_numbers": [379, 379], "line_cids": ["", ""], "line_strs": ["\t\tif (ret)", "\t\tif (ret)"]}]}

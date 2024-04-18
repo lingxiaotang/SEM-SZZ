@@ -1,0 +1,1 @@
+{"drivers/net/wireless/mac80211_hwsim.c": [{"patch_file_name": "drivers/net/wireless/mac80211_hwsim.c", "func_decl_name": "hw_scan_work", "is_cond": true, "line_numbers": [2462, 2462], "line_cids": ["", ""], "line_strs": ["\t\tfor (i = 0; i < req->n_ssids; i++) {", "\t\tfor (i = 0; i < req->n_ssids; i++) {"]}]}

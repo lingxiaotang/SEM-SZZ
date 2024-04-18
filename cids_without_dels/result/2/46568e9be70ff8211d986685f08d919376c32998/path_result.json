@@ -1,0 +1,1 @@
+{"fs/io_uring.c": [{"patch_file_name": "fs/io_uring.c", "func_decl_name": "io_sqe_files_register", "is_cond": false, "line_numbers": [3489, 3490], "line_cids": ["", ""], "line_strs": ["\tif (io_sqe_alloc_file_tables(ctx, nr_tables, nr_args)) {", "\t\tkfree(ctx->file_table);"]}]}

@@ -1,0 +1,1 @@
+{"net/xfrm/xfrm_policy.c": [{"patch_file_name": "net/xfrm/xfrm_policy.c", "func_decl_name": "xfrm_hash_rebuild", "is_cond": true, "line_numbers": [628, 629], "line_cids": ["", ""], "line_strs": ["\tlist_for_each_entry_reverse(policy, &net->xfrm.policy_all, walk.all) {", "\t\tnewpos = NULL;"]}]}

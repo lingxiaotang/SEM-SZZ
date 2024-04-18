@@ -1,0 +1,1 @@
+{"drivers/spi/spi-stm32.c": [{"patch_file_name": "drivers/spi/spi-stm32.c", "func_decl_name": "stm32_spi_transfer_one", "is_cond": true, "line_numbers": [1659, 1660], "line_cids": ["", ""], "line_strs": ["", "\tspi->tx_buf = transfer->tx_buf;"]}]}

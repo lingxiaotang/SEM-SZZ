@@ -1,0 +1,1 @@
+{"drivers/net/ethernet/freescale/dpaa2/dpaa2-mac.c": [{"patch_file_name": "drivers/net/ethernet/freescale/dpaa2/dpaa2-mac.c", "func_decl_name": "dpaa2_pcs_create", "is_cond": false, "line_numbers": [270, 270], "line_cids": ["", ""], "line_strs": ["\tif (!of_device_is_available(node)) {", "\tif (!of_device_is_available(node)) {"]}]}

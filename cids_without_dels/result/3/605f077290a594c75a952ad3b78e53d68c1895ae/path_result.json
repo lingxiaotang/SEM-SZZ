@@ -1,0 +1,1 @@
+{"drivers/hid/hid-alps.c": [{"patch_file_name": "drivers/hid/hid-alps.c", "func_decl_name": "t4_read_write_register", "is_cond": false, "line_numbers": [217, 244], "line_cids": ["", ""], "line_strs": ["\t\tif (ret < 0) {", "\tret = 0;"]}]}

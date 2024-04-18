@@ -1,0 +1,1 @@
+{"drivers/net/dsa/ocelot/felix.c": [{"patch_file_name": "drivers/net/dsa/ocelot/felix.c", "func_decl_name": "felix_change_tag_protocol", "is_cond": true, "line_numbers": [679, 680], "line_cids": ["", ""], "line_strs": ["", "\tfelix_del_tag_protocol(ds, cpu, old_proto);"]}]}

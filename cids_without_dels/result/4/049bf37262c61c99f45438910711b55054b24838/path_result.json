@@ -1,0 +1,1 @@
+{"drivers/nvme/host/pci.c": [{"patch_file_name": "drivers/nvme/host/pci.c", "func_decl_name": "nvme_setup_sgl_simple", "is_cond": false, "line_numbers": [833], "line_cids": [""], "line_strs": ["\tcmnd->dptr.sgl.addr = cpu_to_le64(iod->first_dma);"]}]}

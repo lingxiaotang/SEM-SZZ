@@ -1,0 +1,1 @@
+{"net/sunrpc/sched.c": [{"patch_file_name": "net/sunrpc/sched.c", "func_decl_name": "__rpc_find_next_queued_priority", "is_cond": true, "line_numbers": [597, 598], "line_cids": ["", ""], "line_strs": ["\tq = &queue->tasks[queue->priority];", "\tif (!list_empty(q) && --queue->nr) {"]}]}

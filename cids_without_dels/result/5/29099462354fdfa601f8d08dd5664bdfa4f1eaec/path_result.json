@@ -1,0 +1,1 @@
+{"net/bridge/netfilter/nf_conntrack_bridge.c": [{"patch_file_name": "net/bridge/netfilter/nf_conntrack_bridge.c", "func_decl_name": "nf_ct_bridge_frag_restore", "is_cond": true, "line_numbers": [333, 334], "line_cids": ["", ""], "line_strs": ["\t\t__vlan_hwaccel_put_tag(skb, data->vlan_proto, data->vlan_tci);", ""]}]}

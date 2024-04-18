@@ -1,0 +1,1 @@
+{"drivers/gpu/drm/mediatek/mtk_drm_drv.c": [{"patch_file_name": "drivers/gpu/drm/mediatek/mtk_drm_drv.c", "func_decl_name": "mtk_drm_unbind", "is_cond": false, "line_numbers": [402, 403], "line_cids": ["", ""], "line_strs": ["\tdrm_dev_put(private->drm);", "\tprivate->drm = NULL;"]}]}

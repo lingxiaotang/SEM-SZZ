@@ -1,0 +1,1 @@
+{"drivers/mtd/nand/raw/intel-nand-controller.c": [{"patch_file_name": "drivers/mtd/nand/raw/intel-nand-controller.c", "func_decl_name": "ebu_nand_probe", "is_cond": true, "line_numbers": [611, 612], "line_cids": ["", ""], "line_strs": ["\t}", "\tebu_host->cs_num = cs;"]}]}

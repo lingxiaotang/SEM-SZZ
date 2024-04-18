@@ -1,0 +1,1 @@
+{"drivers/cpufreq/mediatek-cpufreq.c": [{"patch_file_name": "drivers/cpufreq/mediatek-cpufreq.c", "func_decl_name": "mtk_cpu_dvfs_info_init", "is_cond": false, "line_numbers": [480, 481], "line_cids": ["", ""], "line_strs": ["\t\tif (info->vproc_on_boot < 0) {", "\t\t\tdev_err(info->cpu_dev,"]}]}

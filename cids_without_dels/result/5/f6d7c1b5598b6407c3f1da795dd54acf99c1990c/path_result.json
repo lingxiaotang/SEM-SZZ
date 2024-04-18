@@ -1,0 +1,1 @@
+{"drivers/mtd/nand/davinci_nand.c": [{"patch_file_name": "drivers/mtd/nand/davinci_nand.c", "func_decl_name": "nand_davinci_hwctl_4bit", "is_cond": false, "line_numbers": [239, 246], "line_cids": ["", ""], "line_strs": ["\tstruct davinci_nand_info *info = to_davinci_nand(mtd);", "\tval = davinci_nand_readl(info, NANDFCR_OFFSET);"]}]}

@@ -1,0 +1,1 @@
+{"drivers/gpu/drm/bochs/bochs_drv.c": [{"patch_file_name": "drivers/gpu/drm/bochs/bochs_drv.c", "func_decl_name": "bochs_pci_probe", "is_cond": true, "line_numbers": [165, 165], "line_cids": ["", ""], "line_strs": ["\tif (ret)", "\tif (ret)"]}]}

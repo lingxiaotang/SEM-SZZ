@@ -1,0 +1,1 @@
+{"kernel/trace/trace.c": [{"patch_file_name": "kernel/trace/trace.c", "func_decl_name": "rb_simple_write", "is_cond": true, "line_numbers": [9066, 9067], "line_cids": ["", ""], "line_strs": ["\t\t\tif (tr->current_trace->stop)", "\t\t\t\ttr->current_trace->stop(tr);"]}]}

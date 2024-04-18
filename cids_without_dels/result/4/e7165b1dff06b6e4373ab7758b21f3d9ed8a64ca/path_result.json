@@ -1,0 +1,1 @@
+{"drivers/pinctrl/pinctrl-rockchip.c": [{"patch_file_name": "drivers/pinctrl/pinctrl-rockchip.c", "func_decl_name": "rockchip_pinctrl_register", "is_cond": true, "line_numbers": [2447, 2447], "line_cids": ["", ""], "line_strs": ["\t\tfor (pin = 0; pin < pin_bank->nr_pins; pin++, k++) {", "\t\tfor (pin = 0; pin < pin_bank->nr_pins; pin++, k++) {"]}]}

@@ -1,0 +1,1 @@
+{"drivers/usb/serial/quatech2.c": [{"patch_file_name": "drivers/usb/serial/quatech2.c", "func_decl_name": "qt2_release", "is_cond": false, "line_numbers": [142, 144], "line_cids": ["", ""], "line_strs": ["\tserial_priv = usb_get_serial_data(serial);", "\tusb_free_urb(serial_priv->read_urb);"]}]}

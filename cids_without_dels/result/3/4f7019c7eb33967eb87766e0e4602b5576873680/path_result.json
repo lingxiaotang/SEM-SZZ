@@ -1,0 +1,1 @@
+{"net/sctp/sm_statefuns.c": [{"patch_file_name": "net/sctp/sm_statefuns.c", "func_decl_name": "sctp_ootb_pkt_new", "is_cond": true, "line_numbers": [6350, 6351], "line_cids": ["", ""], "line_strs": ["\t\tswitch (chunk->chunk_hdr->type) {", "\t\tcase SCTP_CID_INIT_ACK:"]}]}

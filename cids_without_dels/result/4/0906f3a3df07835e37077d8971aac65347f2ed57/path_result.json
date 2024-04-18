@@ -1,0 +1,1 @@
+{"drivers/net/ethernet/microchip/sparx5/sparx5_fdma.c": [{"patch_file_name": "drivers/net/ethernet/microchip/sparx5/sparx5_fdma.c", "func_decl_name": "sparx5_fdma_tx_alloc", "is_cond": true, "line_numbers": [424, 425], "line_cids": ["", ""], "line_strs": ["\t\t\tdb = devm_kzalloc(sparx5->dev, sizeof(*db), GFP_KERNEL);", "\t\t\tdb->cpu_addr = cpu_addr;"]}]}

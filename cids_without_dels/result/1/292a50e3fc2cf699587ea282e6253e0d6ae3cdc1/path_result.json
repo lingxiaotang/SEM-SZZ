@@ -1,0 +1,1 @@
+{"drivers/s390/net/qeth_core_main.c": [{"patch_file_name": "drivers/s390/net/qeth_core_main.c", "func_decl_name": "qeth_snmp_command", "is_cond": true, "line_numbers": [4376, 4377], "line_cids": ["", ""], "line_strs": ["", "\tiob = qeth_get_adapter_cmd(card, IPA_SETADP_SET_SNMP_CONTROL, req_len);"]}]}

@@ -1,0 +1,1 @@
+{"drivers/net/ethernet/microchip/lan966x/lan966x_main.c": [{"patch_file_name": "drivers/net/ethernet/microchip/lan966x/lan966x_main.c", "func_decl_name": "lan966x_port_set_mac_address", "is_cond": true, "line_numbers": [112, 113], "line_cids": ["", ""], "line_strs": ["", "\t/* Learn the new net device MAC address in the mac table. */"]}]}

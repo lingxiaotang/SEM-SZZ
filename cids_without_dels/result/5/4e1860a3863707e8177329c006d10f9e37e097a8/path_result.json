@@ -1,0 +1,1 @@
+{"net/netfilter/nft_payload.c": [{"patch_file_name": "net/netfilter/nft_payload.c", "func_decl_name": "nft_payload_l4csum_offset", "is_cond": true, "line_numbers": [548, 549], "line_cids": ["", ""], "line_strs": ["{", "\tswitch (pkt->tprot) {"]}]}

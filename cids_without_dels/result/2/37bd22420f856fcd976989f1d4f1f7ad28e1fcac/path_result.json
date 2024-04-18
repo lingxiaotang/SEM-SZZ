@@ -1,0 +1,1 @@
+{"net/key/af_key.c": [{"patch_file_name": "net/key/af_key.c", "func_decl_name": "pfkey_dump", "is_cond": true, "line_numbers": [1851, 1852], "line_cids": ["", ""], "line_strs": ["", "\t\tfilter = kmalloc(sizeof(*filter), GFP_KERNEL);"]}]}

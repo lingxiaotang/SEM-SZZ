@@ -1,0 +1,1 @@
+{"drivers/media/usb/gspca/konica.c": [{"patch_file_name": "drivers/media/usb/gspca/konica.c", "func_decl_name": "sd_start", "is_cond": true, "line_numbers": [186, 187], "line_cids": ["", ""], "line_strs": ["", "\tpacket_size = le16_to_cpu(alt->endpoint[0].desc.wMaxPacketSize);"]}]}

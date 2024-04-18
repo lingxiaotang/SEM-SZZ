@@ -1,0 +1,1 @@
+{"drivers/usb/serial/io_edgeport.c": [{"patch_file_name": "drivers/usb/serial/io_edgeport.c", "func_decl_name": "edge_startup", "is_cond": true, "line_numbers": [2753, 2754], "line_cids": ["", ""], "line_strs": ["", "\tdev = serial->dev;"]}]}

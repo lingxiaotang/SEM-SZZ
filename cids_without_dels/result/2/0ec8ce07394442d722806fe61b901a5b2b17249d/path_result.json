@@ -1,0 +1,1 @@
+{"drivers/dma/idxd/cdev.c": [{"patch_file_name": "drivers/dma/idxd/cdev.c", "func_decl_name": "idxd_user_drv_probe", "is_cond": true, "line_numbers": [314, 315], "line_cids": ["", ""], "line_strs": ["", "\tmutex_lock(&wq->wq_lock);"]}]}

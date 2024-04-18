@@ -1,0 +1,1 @@
+{"drivers/block/rbd.c": [{"patch_file_name": "drivers/block/rbd.c", "func_decl_name": "rbd_obj_advance_read", "is_cond": true, "line_numbers": [3040, 3041], "line_cids": ["", ""], "line_strs": ["\tcase RBD_OBJ_READ_PARENT:", "\t\treturn true;"]}]}

@@ -1,0 +1,1 @@
+{"fs/btrfs/volumes.c": [{"patch_file_name": "fs/btrfs/volumes.c", "func_decl_name": "verify_one_dev_extent", "is_cond": true, "line_numbers": [7827, 7828], "line_cids": ["", ""], "line_strs": ["\t}", "\tif (physical_offset + physical_len > dev->disk_total_bytes) {"]}]}

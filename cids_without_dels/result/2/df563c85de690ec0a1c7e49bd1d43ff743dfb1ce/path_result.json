@@ -1,0 +1,1 @@
+{"drivers/gpio/gpio-aspeed.c": [{"patch_file_name": "drivers/gpio/gpio-aspeed.c", "func_decl_name": "enable_debounce", "is_cond": true, "line_numbers": [648, 649], "line_cids": ["", ""], "line_strs": ["", "\trc = usecs_to_cycles(gpio, usecs, &requested_cycles);"]}]}

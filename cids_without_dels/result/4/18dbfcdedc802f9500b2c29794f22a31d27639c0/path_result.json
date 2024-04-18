@@ -1,0 +1,1 @@
+{"arch/powerpc/sysdev/xive/spapr.c": [{"patch_file_name": "arch/powerpc/sysdev/xive/spapr.c", "func_decl_name": "xive_spapr_debug_show", "is_cond": true, "line_numbers": [655, 656], "line_cids": ["", ""], "line_strs": ["", "\tlist_for_each_entry(xibm, &xive_irq_bitmaps, list) {"]}]}

@@ -1,0 +1,1 @@
+{"drivers/net/ethernet/mellanox/mlxsw/spectrum_router.c": [{"patch_file_name": "drivers/net/ethernet/mellanox/mlxsw/spectrum_router.c", "func_decl_name": "mlxsw_sp_rif_counter_free", "is_cond": true, "line_numbers": [208, 209], "line_cids": ["", ""], "line_strs": ["", "\tp_counter_index = mlxsw_sp_rif_p_counter_get(rif, dir);"]}]}

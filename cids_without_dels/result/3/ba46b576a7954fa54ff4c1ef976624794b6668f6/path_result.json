@@ -1,0 +1,1 @@
+{"drivers/net/dsa/microchip/ksz8795_spi.c": [{"patch_file_name": "drivers/net/dsa/microchip/ksz8795_spi.c", "func_decl_name": "ksz8795_spi_probe", "is_cond": true, "line_numbers": [43, 44], "line_cids": ["", ""], "line_strs": ["\tksz8 = devm_kzalloc(&spi->dev, sizeof(struct ksz8), GFP_KERNEL);", "\tksz8->priv = spi;"]}]}

@@ -1,0 +1,1 @@
+{"drivers/media/v4l2-core/v4l2-ioctl.c": [{"patch_file_name": "drivers/media/v4l2-core/v4l2-ioctl.c", "func_decl_name": "v4l_try_fmt", "is_cond": true, "line_numbers": [1652, 1653], "line_cids": ["", ""], "line_strs": ["\t\tCLEAR_AFTER_FIELD(p, fmt.pix_mp.xfer_func);", "\t\tfor (i = 0; i < p->fmt.pix_mp.num_planes; i++)"]}]}

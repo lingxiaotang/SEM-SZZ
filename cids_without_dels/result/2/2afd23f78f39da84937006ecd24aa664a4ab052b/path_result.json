@@ -1,0 +1,1 @@
+{"net/xdp/xdp_umem.c": [{"patch_file_name": "net/xdp/xdp_umem.c", "func_decl_name": "xdp_del_sk_umem", "is_cond": true, "line_numbers": [38, 39], "line_cids": ["", ""], "line_strs": ["", "\tspin_lock_irqsave(&umem->xsk_list_lock, flags);"]}]}

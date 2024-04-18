@@ -1,0 +1,1 @@
+{"kernel/irq/manage.c": [{"patch_file_name": "kernel/irq/manage.c", "func_decl_name": "irq_forced_thread_fn", "is_cond": true, "line_numbers": [1144, 1145], "line_cids": ["", ""], "line_strs": ["\tlocal_bh_disable();", "\tret = action->thread_fn(action->irq, action->dev_id);"]}]}

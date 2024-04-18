@@ -1,0 +1,1 @@
+{"tools/perf/util/sort.c": [{"patch_file_name": "tools/perf/util/sort.c", "func_decl_name": "hist_entry__cycles_snprintf", "is_cond": true, "line_numbers": [855, 856], "line_cids": ["", ""], "line_strs": ["{", "\tif (he->branch_info->flags.cycles == 0)"]}]}

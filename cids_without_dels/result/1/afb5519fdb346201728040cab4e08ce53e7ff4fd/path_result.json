@@ -1,0 +1,1 @@
+{"arch/powerpc/platforms/pseries/hotplug-memory.c": [{"patch_file_name": "arch/powerpc/platforms/pseries/hotplug-memory.c", "func_decl_name": "dlpar_memory_add_by_count", "is_cond": true, "line_numbers": [830, 831], "line_cids": ["", ""], "line_strs": ["\tfor (i = 0; i < num_lmbs && lmbs_to_add != lmbs_added; i++) {", "\t\trc = dlpar_acquire_drc(lmbs[i].drc_index);"]}]}

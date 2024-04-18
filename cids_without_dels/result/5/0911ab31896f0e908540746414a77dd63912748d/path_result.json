@@ -1,0 +1,1 @@
+{"net/nfc/af_nfc.c": [{"patch_file_name": "net/nfc/af_nfc.c", "func_decl_name": "nfc_proto_register", "is_cond": true, "line_numbers": [62, 63], "line_cids": ["", ""], "line_strs": ["", "\treturn rc;"]}]}

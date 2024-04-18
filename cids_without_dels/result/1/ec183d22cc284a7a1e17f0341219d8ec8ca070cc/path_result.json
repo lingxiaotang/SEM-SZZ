@@ -1,0 +1,1 @@
+{"tools/perf/util/parse-events.c": [{"patch_file_name": "tools/perf/util/parse-events.c", "func_decl_name": "tracepoint_error", "is_cond": true, "line_numbers": [401, 402], "line_cids": ["", ""], "line_strs": ["", "\t/*"]}]}

@@ -1,0 +1,1 @@
+{"drivers/gpu/drm/rockchip/rockchip_drm_vop.c": [{"patch_file_name": "drivers/gpu/drm/rockchip/rockchip_drm_vop.c", "func_decl_name": "vop_crtc_duplicate_state", "is_cond": true, "line_numbers": [1574, 1575], "line_cids": ["", ""], "line_strs": ["", "\trockchip_state = kzalloc(sizeof(*rockchip_state), GFP_KERNEL);"]}]}

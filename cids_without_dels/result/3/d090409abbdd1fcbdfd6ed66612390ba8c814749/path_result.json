@@ -1,0 +1,1 @@
+{"kernel/trace/trace_events_hist.c": [{"patch_file_name": "kernel/trace/trace_events_hist.c", "func_decl_name": "synth_event_trace_start", "is_cond": false, "line_numbers": [2040, 2041], "line_cids": ["", ""], "line_strs": ["\ttrace_state->buffer = file->tr->array_buffer.buffer;", "\tring_buffer_nest_start(trace_state->buffer);"]}]}

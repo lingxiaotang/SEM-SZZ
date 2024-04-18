@@ -1,0 +1,1 @@
+{"drivers/pinctrl/bcm/pinctrl-nsp-mux.c": [{"patch_file_name": "drivers/pinctrl/bcm/pinctrl-nsp-mux.c", "func_decl_name": "nsp_pinmux_probe", "is_cond": true, "line_numbers": [579, 580], "line_cids": ["", ""], "line_strs": ["\tres = platform_get_resource(pdev, IORESOURCE_MEM, 1);", "\tpinctrl->base1 = devm_ioremap_nocache(&pdev->dev, res->start,"]}]}

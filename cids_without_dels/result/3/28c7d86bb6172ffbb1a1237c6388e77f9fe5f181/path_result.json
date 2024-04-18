@@ -1,0 +1,1 @@
+{"fs/nfsd/filecache.c": [{"patch_file_name": "fs/nfsd/filecache.c", "func_decl_name": "nfsd_file_acquire", "is_cond": true, "line_numbers": [826, 827], "line_cids": ["", ""], "line_strs": ["\tif (!test_bit(NFSD_FILE_HASHED, &nf->nf_flags)) {", "\t\tnfsd_file_put_noref(nf);"]}]}

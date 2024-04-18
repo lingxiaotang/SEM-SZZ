@@ -1,0 +1,1 @@
+{"drivers/tty/serial/8250/8250_pci.c": [{"patch_file_name": "drivers/tty/serial/8250/8250_pci.c", "func_decl_name": "pci_oxsemi_tornado_setup", "is_cond": false, "line_numbers": [1242], "line_cids": [""], "line_strs": ["\t\tup->port.get_divisor = pci_oxsemi_tornado_get_divisor;"]}]}

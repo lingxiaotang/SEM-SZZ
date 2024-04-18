@@ -1,0 +1,1 @@
+{"drivers/net/ethernet/netronome/nfp/flower/offload.c": [{"patch_file_name": "drivers/net/ethernet/netronome/nfp/flower/offload.c", "func_decl_name": "nfp_flower_calculate_key_layers", "is_cond": true, "line_numbers": [134, 135], "line_cids": ["", ""], "line_strs": ["", "\tkey_layer_two = 0;"]}]}

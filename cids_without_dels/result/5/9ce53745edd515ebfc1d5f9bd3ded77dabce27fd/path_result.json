@@ -1,0 +1,1 @@
+{"drivers/gpu/drm/i915/intel_dsi.c": [{"patch_file_name": "drivers/gpu/drm/i915/intel_dsi.c", "func_decl_name": "glk_dsi_device_ready", "is_cond": true, "line_numbers": [448, 450], "line_cids": ["", ""], "line_strs": ["\t\tif (intel_wait_for_register(dev_priv,", "\t\t\t\tGLK_DATA_LANE_STOP_STATE, 20))"]}]}

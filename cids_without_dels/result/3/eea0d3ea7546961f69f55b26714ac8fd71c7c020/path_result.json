@@ -1,0 +1,1 @@
+{"crypto/drbg.c": [{"patch_file_name": "crypto/drbg.c", "func_decl_name": "drbg_dealloc_state", "is_cond": false, "line_numbers": [1137, 1138], "line_cids": ["", ""], "line_strs": ["\tdrbg->V = NULL;", "\tkzfree(drbg->Cbuf);"]}]}

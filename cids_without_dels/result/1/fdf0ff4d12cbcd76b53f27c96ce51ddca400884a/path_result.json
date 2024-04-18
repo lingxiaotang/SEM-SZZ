@@ -1,0 +1,1 @@
+{"drivers/gpu/drm/virtio/virtgpu_object.c": [{"patch_file_name": "drivers/gpu/drm/virtio/virtgpu_object.c", "func_decl_name": "virtio_gpu_object_create", "is_cond": true, "line_numbers": [251, 252], "line_cids": ["", ""], "line_strs": ["\tif (ret != 0) {", "\t\tvirtio_gpu_array_put_free(objs);"]}]}

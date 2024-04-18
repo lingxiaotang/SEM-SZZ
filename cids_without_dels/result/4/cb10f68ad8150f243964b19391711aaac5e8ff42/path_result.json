@@ -1,0 +1,1 @@
+{"drivers/usb/dwc3/gadget.c": [{"patch_file_name": "drivers/usb/dwc3/gadget.c", "func_decl_name": "dwc3_gadget_pullup", "is_cond": true, "line_numbers": [2258, 2259], "line_cids": ["", ""], "line_strs": ["", "\t/*"]}]}

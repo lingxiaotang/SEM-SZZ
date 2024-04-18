@@ -1,0 +1,1 @@
+{"arch/powerpc/mm/copro_fault.c": [{"patch_file_name": "arch/powerpc/mm/copro_fault.c", "func_decl_name": "copro_calculate_slb", "is_cond": true, "line_numbers": [108, 109], "line_cids": ["", ""], "line_strs": ["\t\tpr_devel(\"%s: 0x%llx -- USER_REGION_ID\\n\", __func__, ea);", "\t\tpsize = get_slice_psize(mm, ea);"]}]}

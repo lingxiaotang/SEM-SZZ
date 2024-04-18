@@ -1,0 +1,1 @@
+{"lib/livepatch/test_klp_callbacks_busy.c": [{"patch_file_name": "lib/livepatch/test_klp_callbacks_busy.c", "func_decl_name": "busymod_work_func", "is_cond": false, "line_numbers": [29], "line_cids": [""], "line_strs": ["\t\tmsleep(20);"]}]}

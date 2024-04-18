@@ -1,0 +1,1 @@
+{"drivers/gpu/drm/amd/amdkfd/kfd_chardev.c": [{"patch_file_name": "drivers/gpu/drm/amd/amdkfd/kfd_chardev.c", "func_decl_name": "kfd_ioctl_get_tile_config", "is_cond": true, "line_numbers": [894, 895], "line_cids": ["", ""], "line_strs": ["\tdev = kfd_device_by_id(args->gpu_id);", ""]}]}

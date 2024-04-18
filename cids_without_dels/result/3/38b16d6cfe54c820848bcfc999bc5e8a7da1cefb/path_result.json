@@ -1,0 +1,1 @@
+{"drivers/thermal/intel/int340x_thermal/int3400_thermal.c": [{"patch_file_name": "drivers/thermal/intel/int340x_thermal/int3400_thermal.c", "func_decl_name": "int3400_setup_gddv", "is_cond": true, "line_numbers": [466, 467], "line_cids": ["", ""], "line_strs": ["\t\t\t\t   GFP_KERNEL);", "\tbin_attr_data_vault.private = priv->data_vault;"]}]}

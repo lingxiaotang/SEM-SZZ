@@ -1,0 +1,1 @@
+{"drivers/net/wireless/realtek/rtl8xxxu/rtl8xxxu_core.c": [{"patch_file_name": "drivers/net/wireless/realtek/rtl8xxxu/rtl8xxxu_core.c", "func_decl_name": "rtl8xxxu_set_key", "is_cond": true, "line_numbers": [5694, 5695], "line_cids": ["", ""], "line_strs": ["\t\tkey->flags |= IEEE80211_KEY_FLAG_GENERATE_MMIC;", "\tdefault:"]}]}

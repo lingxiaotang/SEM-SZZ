@@ -1,0 +1,1 @@
+{"drivers/hwmon/drivetemp.c": [{"patch_file_name": "drivers/hwmon/drivetemp.c", "func_decl_name": "drivetemp_identify_sata", "is_cond": true, "line_numbers": [328, 329], "line_cids": ["", ""], "line_strs": ["\t\treturn -ENODEV;", "\tif (!have_sct)"]}]}

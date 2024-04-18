@@ -1,0 +1,1 @@
+{"drivers/input/misc/cm109.c": [{"patch_file_name": "drivers/input/misc/cm109.c", "func_decl_name": "cm109_usb_probe", "is_cond": true, "line_numbers": [702, 703], "line_cids": ["", ""], "line_strs": ["\tinterface = intf->cur_altsetting;", "\tendpoint = &interface->endpoint[0].desc;"]}]}

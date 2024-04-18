@@ -1,0 +1,1 @@
+{"virt/kvm/arm/vgic/vgic-its.c": [{"patch_file_name": "virt/kvm/arm/vgic/vgic-its.c", "func_decl_name": "vgic_its_destroy", "is_cond": false, "line_numbers": [1736], "line_cids": [""], "line_strs": ["\tkfree(its);"]}]}

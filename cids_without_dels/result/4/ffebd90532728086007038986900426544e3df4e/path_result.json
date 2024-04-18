@@ -1,0 +1,1 @@
+{"drivers/platform/chrome/cros_ec_typec.c": [{"patch_file_name": "drivers/platform/chrome/cros_ec_typec.c", "func_decl_name": "cros_typec_probe", "is_cond": true, "line_numbers": [1079, 1080], "line_cids": ["", ""], "line_strs": ["\ttypec->ec = dev_get_drvdata(pdev->dev.parent);", "\tplatform_set_drvdata(pdev, typec);"]}]}

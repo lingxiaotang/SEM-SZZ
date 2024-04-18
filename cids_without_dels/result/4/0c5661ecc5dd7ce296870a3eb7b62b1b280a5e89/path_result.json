@@ -1,0 +1,1 @@
+{"drivers/net/ethernet/intel/ixgbe/ixgbe_main.c": [{"patch_file_name": "drivers/net/ethernet/intel/ixgbe/ixgbe_main.c", "func_decl_name": "ixgbe_dma_sync_frag", "is_cond": true, "line_numbers": [1890, 1891], "line_cids": ["", ""], "line_strs": ["\t\t\t\t     IXGBE_RX_DMA_ATTR);", "\t} else {"]}]}

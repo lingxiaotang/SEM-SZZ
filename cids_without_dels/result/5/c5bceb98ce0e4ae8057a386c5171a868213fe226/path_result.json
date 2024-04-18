@@ -1,0 +1,1 @@
+{"drivers/firmware/arm_scmi/driver.c": [{"patch_file_name": "drivers/firmware/arm_scmi/driver.c", "func_decl_name": "scmi_handle_response", "is_cond": true, "line_numbers": [249, 250], "line_cids": ["", ""], "line_strs": ["\txfer = &minfo->xfer_block[xfer_id];", ""]}]}

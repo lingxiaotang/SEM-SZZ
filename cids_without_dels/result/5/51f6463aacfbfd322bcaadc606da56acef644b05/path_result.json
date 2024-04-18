@@ -1,0 +1,1 @@
+{"tools/bpf/resolve_btfids/main.c": [{"patch_file_name": "tools/bpf/resolve_btfids/main.c", "func_decl_name": "elf_collect", "is_cond": true, "line_numbers": [311, 312], "line_cids": ["", ""], "line_strs": ["\t\t}", "\t}"]}]}

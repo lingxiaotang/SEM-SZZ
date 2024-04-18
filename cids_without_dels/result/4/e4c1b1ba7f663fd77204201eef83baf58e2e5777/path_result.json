@@ -1,0 +1,1 @@
+{"drivers/usb/gadget/epautoconf.c": [{"patch_file_name": "drivers/usb/gadget/epautoconf.c", "func_decl_name": "usb_ep_autoconfig_reset", "is_cond": false, "line_numbers": [187, 188], "line_cids": ["", ""], "line_strs": ["\tlist_for_each_entry (ep, &gadget->ep_list, ep_list) {", "\t\tep->claimed = false;"]}]}

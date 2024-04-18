@@ -1,0 +1,1 @@
+{"drivers/mmc/host/renesas_sdhi_internal_dmac.c": [{"patch_file_name": "drivers/mmc/host/renesas_sdhi_internal_dmac.c", "func_decl_name": "renesas_sdhi_internal_dmac_request_dma", "is_cond": false, "line_numbers": [253, 256], "line_cids": ["", ""], "line_strs": ["\tstruct renesas_sdhi *priv = host_to_priv(host);", "\thost->chan_rx = host->chan_tx = (void *)0xdeadbeaf;"]}]}

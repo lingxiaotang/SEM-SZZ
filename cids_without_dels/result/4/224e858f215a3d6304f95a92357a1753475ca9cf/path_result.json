@@ -1,0 +1,1 @@
+{"drivers/block/ublk_drv.c": [{"patch_file_name": "drivers/block/ublk_drv.c", "func_decl_name": "ublk_ctrl_add_dev", "is_cond": true, "line_numbers": [1660, 1661], "line_cids": ["", ""], "line_strs": ["", "\t/* We are not ready to support zero copy */"]}]}

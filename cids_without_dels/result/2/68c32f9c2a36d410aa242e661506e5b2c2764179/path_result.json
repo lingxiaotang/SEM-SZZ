@@ -1,0 +1,1 @@
+{"drivers/isdn/gigaset/bas-gigaset.c": [{"patch_file_name": "drivers/isdn/gigaset/bas-gigaset.c", "func_decl_name": "gigaset_probe", "is_cond": true, "line_numbers": [2319, 2320], "line_cids": ["", ""], "line_strs": ["", "\tdev_info(&udev->dev,"]}]}

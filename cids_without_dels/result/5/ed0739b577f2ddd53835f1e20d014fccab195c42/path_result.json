@@ -1,0 +1,1 @@
+{"sound/pci/hda/patch_hdmi.c": [{"patch_file_name": "sound/pci/hda/patch_hdmi.c", "func_decl_name": "hdmi_set_chmap", "is_cond": true, "line_numbers": [1860, 1861], "line_cids": ["", ""], "line_strs": ["", "\tmutex_lock(&per_pin->lock);"]}]}

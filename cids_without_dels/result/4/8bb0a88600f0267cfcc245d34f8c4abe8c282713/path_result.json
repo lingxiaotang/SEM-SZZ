@@ -1,0 +1,1 @@
+{"lib/test_firmware.c": [{"patch_file_name": "lib/test_firmware.c", "func_decl_name": "read_firmware_show", "is_cond": true, "line_numbers": [839, 840], "line_cids": ["", ""], "line_strs": ["\t\trc = -EINVAL;", "\t}"]}]}

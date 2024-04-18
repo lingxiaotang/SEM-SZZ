@@ -1,0 +1,1 @@
+{"arch/x86/mm/pat/set_memory.c": [{"patch_file_name": "arch/x86/mm/pat/set_memory.c", "func_decl_name": "verify_rwx", "is_cond": true, "line_numbers": [589, 590], "line_cids": ["", ""], "line_strs": ["", "\t/*"]}]}

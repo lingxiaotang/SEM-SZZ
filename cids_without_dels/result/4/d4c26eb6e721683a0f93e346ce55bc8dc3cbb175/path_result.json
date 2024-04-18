@@ -1,0 +1,1 @@
+{"drivers/net/ethernet/stmicro/stmmac/dwmac-sun8i.c": [{"patch_file_name": "drivers/net/ethernet/stmicro/stmmac/dwmac-sun8i.c", "func_decl_name": "sun8i_dwmac_setup", "is_cond": false, "line_numbers": [1014, 1038], "line_cids": ["", ""], "line_strs": ["\tmac->pcsr = priv->ioaddr;", "\tpriv->synopsys_id = 0;"]}]}

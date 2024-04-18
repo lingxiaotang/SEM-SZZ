@@ -1,0 +1,1 @@
+{"fs/ext4/namei.c": [{"patch_file_name": "fs/ext4/namei.c", "func_decl_name": "__ext4_read_dirblock", "is_cond": false, "line_numbers": [116], "line_cids": [""], "line_strs": ["\tdirent = (struct ext4_dir_entry *) bh->b_data;"]}]}

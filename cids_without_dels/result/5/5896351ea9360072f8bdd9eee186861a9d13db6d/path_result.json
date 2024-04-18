@@ -1,0 +1,1 @@
+{"kernel/bpf/verifier.c": [{"patch_file_name": "kernel/bpf/verifier.c", "func_decl_name": "free_func_state", "is_cond": true, "line_numbers": [377, 378], "line_cids": ["", ""], "line_strs": ["{", "\tkfree(state->stack);"]}]}

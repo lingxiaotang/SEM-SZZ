@@ -1,0 +1,1 @@
+{"net/sunrpc/xprtrdma/svc_rdma_backchannel.c": [{"patch_file_name": "net/sunrpc/xprtrdma/svc_rdma_backchannel.c", "func_decl_name": "xprt_rdma_bc_put", "is_cond": false, "line_numbers": [253, 255], "line_cids": ["", ""], "line_strs": ["\tdprintk(\"svcrdma: %s: xprt %p\\n\", __func__, xprt);", "\txprt_free(xprt);"]}]}

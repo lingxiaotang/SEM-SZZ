@@ -1,0 +1,1 @@
+{"drivers/pci/host/pcie-designware.c": [{"patch_file_name": "drivers/pci/host/pcie-designware.c", "func_decl_name": "dw_msi_setup_irq", "is_cond": true, "line_numbers": [285, 286], "line_cids": ["", ""], "line_strs": ["", "\tirq = assign_irq(1, desc, &pos);"]}]}

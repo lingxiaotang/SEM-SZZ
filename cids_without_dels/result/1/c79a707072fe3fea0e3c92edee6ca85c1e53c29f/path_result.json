@@ -1,0 +1,1 @@
+{"drivers/net/usb/cdc-phonet.c": [{"patch_file_name": "drivers/net/usb/cdc-phonet.c", "func_decl_name": "usbpn_probe", "is_cond": false, "line_numbers": [384, 386], "line_cids": ["", ""], "line_strs": ["\tusb_set_interface(usbdev, union_header->bSlaveInterface0,", "\tusb_set_intfdata(intf, pnd);"]}]}

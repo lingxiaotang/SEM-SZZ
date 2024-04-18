@@ -1,0 +1,1 @@
+{"virt/kvm/kvm_main.c": [{"patch_file_name": "virt/kvm/kvm_main.c", "func_decl_name": "kvm_dev_ioctl_create_vm", "is_cond": false, "line_numbers": [3070, 3070], "line_cids": ["", ""], "line_strs": ["\tif (kvm_create_vm_debugfs(kvm, r) < 0) {", "\tif (kvm_create_vm_debugfs(kvm, r) < 0) {"]}]}

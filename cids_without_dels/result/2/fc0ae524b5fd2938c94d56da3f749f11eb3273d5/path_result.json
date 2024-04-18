@@ -1,0 +1,1 @@
+{"net/netfilter/nf_tables_api.c": [{"patch_file_name": "net/netfilter/nf_tables_api.c", "func_decl_name": "nft_setelem_parse_flags", "is_cond": true, "line_numbers": [5200, 5201], "line_cids": ["", ""], "line_strs": ["\t\treturn -EINVAL;", ""]}]}

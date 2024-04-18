@@ -1,0 +1,1 @@
+{"net/sctp/sm_statefuns.c": [{"patch_file_name": "net/sctp/sm_statefuns.c", "func_decl_name": "sctp_sf_do_5_1D_ce", "is_cond": true, "line_numbers": [760, 761], "line_cids": ["", ""], "line_strs": ["", "\t\t/* set-up our fake chunk so that we can process it */"]}]}

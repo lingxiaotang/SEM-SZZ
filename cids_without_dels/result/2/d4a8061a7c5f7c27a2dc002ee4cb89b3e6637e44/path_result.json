@@ -1,0 +1,1 @@
+{"virt/kvm/arm/vgic/vgic.c": [{"patch_file_name": "virt/kvm/arm/vgic/vgic.c", "func_decl_name": "vgic_irq_cmp", "is_cond": true, "line_numbers": [256, 257], "line_cids": ["", ""], "line_strs": ["", "\traw_spin_lock(&irqa->irq_lock);"]}]}

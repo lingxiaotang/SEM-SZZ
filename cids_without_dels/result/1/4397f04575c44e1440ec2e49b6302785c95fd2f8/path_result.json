@@ -1,0 +1,1 @@
+{"kernel/trace/trace.c": [{"patch_file_name": "kernel/trace/trace.c", "func_decl_name": "allocate_trace_buffer", "is_cond": false, "line_numbers": [7581, 7582], "line_cids": ["", ""], "line_strs": ["\tif (!buf->data) {", "\t\tring_buffer_free(buf->buffer);"]}]}

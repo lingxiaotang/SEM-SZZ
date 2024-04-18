@@ -1,0 +1,1 @@
+{"arch/riscv/errata/thead/errata.c": [{"patch_file_name": "arch/riscv/errata/thead/errata.c", "func_decl_name": "errata_probe_pbmt", "is_cond": true, "line_numbers": [19, 20], "line_cids": ["", ""], "line_strs": ["{", "\tif (arch_id != 0 || impid != 0)"]}]}

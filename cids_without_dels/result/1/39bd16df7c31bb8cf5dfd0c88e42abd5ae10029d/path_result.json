@@ -1,0 +1,1 @@
+{"drivers/net/ethernet/marvell/mvpp2/mvpp2_main.c": [{"patch_file_name": "drivers/net/ethernet/marvell/mvpp2/mvpp2_main.c", "func_decl_name": "mvpp2_ethtool_get_rxfh_context", "is_cond": true, "line_numbers": [4331, 4332], "line_cids": ["", ""], "line_strs": ["\t\treturn -EOPNOTSUPP;", ""]}]}

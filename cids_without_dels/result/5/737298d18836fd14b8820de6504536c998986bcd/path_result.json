@@ -1,0 +1,1 @@
+{"drivers/gpu/drm/amd/amdkfd/kfd_crat.c": [{"patch_file_name": "drivers/gpu/drm/amd/amdkfd/kfd_crat.c", "func_decl_name": "kfd_fill_gpu_cache_info", "is_cond": true, "line_numbers": [670, 671], "line_cids": ["", ""], "line_strs": ["\t\tnum_of_cache_types = ARRAY_SIZE(raven_cache_info);", "\tcase CHIP_NAVI10:"]}]}

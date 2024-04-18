@@ -1,0 +1,1 @@
+{"kernel/bpf/sockmap.c": [{"patch_file_name": "kernel/bpf/sockmap.c", "func_decl_name": "bpf_tcp_recvmsg", "is_cond": true, "line_numbers": [811, 812], "line_cids": ["", ""], "line_strs": ["", "\trelease_sock(sk);"]}]}

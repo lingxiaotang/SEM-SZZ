@@ -1,0 +1,1 @@
+{"drivers/pinctrl/pinctrl-rockchip.c": [{"patch_file_name": "drivers/pinctrl/pinctrl-rockchip.c", "func_decl_name": "rockchip_set_pull", "is_cond": true, "line_numbers": [506, 506], "line_cids": ["", ""], "line_strs": ["\t\tdefault:", "\t\tdefault:"]}]}

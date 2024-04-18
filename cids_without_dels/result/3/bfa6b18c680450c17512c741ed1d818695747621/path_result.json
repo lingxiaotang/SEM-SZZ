@@ -1,0 +1,1 @@
+{"drivers/usb/gadget/udc/udc-core.c": [{"patch_file_name": "drivers/usb/gadget/udc/udc-core.c", "func_decl_name": "usb_udc_softconn_store", "is_cond": true, "line_numbers": [509, 510], "line_cids": ["", ""], "line_strs": ["", "\tif (sysfs_streq(buf, \"connect\")) {"]}]}

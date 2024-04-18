@@ -1,0 +1,1 @@
+{"drivers/power/supply/isp1704_charger.c": [{"patch_file_name": "drivers/power/supply/isp1704_charger.c", "func_decl_name": "isp1704_charger_probe", "is_cond": true, "line_numbers": [420, 421], "line_cids": ["", ""], "line_strs": ["\t\t\tsizeof(struct isp1704_charger_data), GFP_KERNEL);", "\t\tpdata->enable_gpio = gpio;"]}]}

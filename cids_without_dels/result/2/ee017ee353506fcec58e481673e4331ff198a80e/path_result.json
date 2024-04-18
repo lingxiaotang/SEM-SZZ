@@ -1,0 +1,1 @@
+{"arch/arm64/mm/mmu.c": [{"patch_file_name": "arch/arm64/mm/mmu.c", "func_decl_name": "alloc_init_pud", "is_cond": true, "line_numbers": [331, 332], "line_cids": ["", ""], "line_strs": ["", "\tpudp = pud_set_fixmap_offset(p4dp, addr);"]}]}

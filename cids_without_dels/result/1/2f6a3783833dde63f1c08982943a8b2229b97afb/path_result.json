@@ -1,0 +1,1 @@
+{"drivers/gpu/drm/i915/i915_gem_shrinker.c": [{"patch_file_name": "drivers/gpu/drm/i915/i915_gem_shrinker.c", "func_decl_name": "i915_gem_shrink", "is_cond": true, "line_numbers": [164, 165], "line_cids": ["", ""], "line_strs": ["", "\ttrace_i915_gem_shrink(dev_priv, target, flags);"]}]}

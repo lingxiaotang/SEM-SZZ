@@ -1,0 +1,1 @@
+{"drivers/edac/ghes_edac.c": [{"patch_file_name": "drivers/edac/ghes_edac.c", "func_decl_name": "ghes_edac_unregister", "is_cond": true, "line_numbers": [555, 556], "line_cids": ["", ""], "line_strs": ["", "\tmci = ghes_pvt->mci;"]}]}

@@ -1,0 +1,1 @@
+{"net/nfc/nci/hci.c": [{"patch_file_name": "net/nfc/nci/hci.c", "func_decl_name": "nci_hci_cmd_received", "is_cond": true, "line_numbers": [314, 315], "line_cids": ["", ""], "line_strs": ["\t\tnew_pipe = create_info->pipe;", ""]}]}

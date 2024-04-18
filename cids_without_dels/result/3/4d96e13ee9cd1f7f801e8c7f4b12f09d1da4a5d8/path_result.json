@@ -1,0 +1,1 @@
+{"drivers/net/ethernet/hisilicon/hns/hns_dsaf_main.c": [{"patch_file_name": "drivers/net/ethernet/hisilicon/hns/hns_dsaf_main.c", "func_decl_name": "hns_dsaf_roce_reset", "is_cond": false, "line_numbers": [3081, 3081], "line_cids": ["", ""], "line_strs": ["\tdsaf_dev = dev_get_drvdata(&pdev->dev);", "\tdsaf_dev = dev_get_drvdata(&pdev->dev);"]}]}

@@ -1,0 +1,1 @@
+{"drivers/net/ethernet/hisilicon/hns3/hns3_enet.c": [{"patch_file_name": "drivers/net/ethernet/hisilicon/hns3/hns3_enet.c", "func_decl_name": "hns3_nic_net_xmit", "is_cond": true, "line_numbers": [1407, 1408], "line_cids": ["", ""], "line_strs": ["", "\t/* Prefetch the data used later */"]}]}

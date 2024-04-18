@@ -1,0 +1,1 @@
+{"net/ipv4/ip_gre.c": [{"patch_file_name": "net/ipv4/ip_gre.c", "func_decl_name": "erspan_netlink_parms", "is_cond": true, "line_numbers": [1170, 1171], "line_cids": ["", ""], "line_strs": ["\t\treturn err;", ""]}]}

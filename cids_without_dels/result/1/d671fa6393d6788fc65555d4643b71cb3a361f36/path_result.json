@@ -1,0 +1,1 @@
+{"tools/testing/selftests/cgroup/test_freezer.c": [{"patch_file_name": "tools/testing/selftests/cgroup/test_freezer.c", "func_decl_name": "cg_prepare_for_wait", "is_cond": false, "line_numbers": [74, 77], "line_cids": ["", ""], "line_strs": ["\t\tclose(fd);", "\treturn fd;"]}]}

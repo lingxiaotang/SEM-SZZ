@@ -1,0 +1,1 @@
+{"drivers/net/can/m_can/tcan4x5x.c": [{"patch_file_name": "drivers/net/can/m_can/tcan4x5x.c", "func_decl_name": "tcan4x5x_can_probe", "is_cond": true, "line_numbers": [416, 417], "line_cids": ["", ""], "line_strs": ["\tmcan_class = m_can_class_allocate_dev(&spi->dev);", "\tpriv = devm_kzalloc(&spi->dev, sizeof(*priv), GFP_KERNEL);"]}]}

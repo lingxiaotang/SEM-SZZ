@@ -1,0 +1,1 @@
+{"drivers/scsi/ibmvscsi/ibmvfc.c": [{"patch_file_name": "drivers/scsi/ibmvscsi/ibmvfc.c", "func_decl_name": "ibmvfc_tgt_implicit_logout_and_del", "is_cond": true, "line_numbers": [3642, 3643], "line_cids": ["", ""], "line_strs": ["", "\tif (vhost->discovery_threads >= disc_threads)"]}]}

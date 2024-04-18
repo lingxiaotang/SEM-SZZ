@@ -1,0 +1,1 @@
+{"drivers/gpu/drm/mediatek/mtk_drm_drv.c": [{"patch_file_name": "drivers/gpu/drm/mediatek/mtk_drm_drv.c", "func_decl_name": "mtk_drm_kms_deinit", "is_cond": false, "line_numbers": [313, 315], "line_cids": ["", ""], "line_strs": ["\tdrm_kms_helper_poll_fini(drm);", "\tcomponent_unbind_all(drm->dev, drm);"]}]}

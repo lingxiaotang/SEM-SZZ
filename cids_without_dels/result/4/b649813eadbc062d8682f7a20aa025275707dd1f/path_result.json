@@ -1,0 +1,1 @@
+{"drivers/bluetooth/btrtl.c": [{"patch_file_name": "drivers/bluetooth/btrtl.c", "func_decl_name": "btrtl_setup_realtek", "is_cond": true, "line_numbers": [721, 722], "line_cids": ["", ""], "line_strs": ["", "\t/* Enable central-peripheral role (able to create new connections with"]}]}

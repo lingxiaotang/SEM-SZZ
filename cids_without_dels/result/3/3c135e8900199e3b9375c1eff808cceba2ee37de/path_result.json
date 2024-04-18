@@ -1,0 +1,1 @@
+{"drivers/usb/dwc2/pci.c": [{"patch_file_name": "drivers/usb/dwc2/pci.c", "func_decl_name": "dwc2_pci_probe", "is_cond": false, "line_numbers": [106, 106], "line_cids": ["", ""], "line_strs": ["\tif (ret) {", "\tif (ret) {"]}]}

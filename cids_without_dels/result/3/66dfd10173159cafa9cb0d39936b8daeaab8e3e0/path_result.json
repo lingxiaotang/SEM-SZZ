@@ -1,0 +1,1 @@
+{"drivers/mmc/host/dw_mmc.c": [{"patch_file_name": "drivers/mmc/host/dw_mmc.c", "func_decl_name": "dw_mci_ctrl_rd_thld", "is_cond": true, "line_numbers": [728, 729], "line_cids": ["", ""], "line_strs": ["", "\tif (host->timing != MMC_TIMING_MMC_HS200 &&"]}]}

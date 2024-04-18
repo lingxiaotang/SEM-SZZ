@@ -1,0 +1,1 @@
+{"drivers/interconnect/core.c": [{"patch_file_name": "drivers/interconnect/core.c", "func_decl_name": "icc_node_add", "is_cond": true, "line_numbers": [973, 974], "line_cids": ["", ""], "line_strs": ["\tnode->peak_bw = node->init_peak;", "\tprovider->set(node, node);"]}]}

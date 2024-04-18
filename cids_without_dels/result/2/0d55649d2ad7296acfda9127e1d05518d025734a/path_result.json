@@ -1,0 +1,1 @@
+{"drivers/net/phy/marvell10g.c": [{"patch_file_name": "drivers/net/phy/marvell10g.c", "func_decl_name": "mv3340_match_phy_device", "is_cond": true, "line_numbers": [994, 995], "line_cids": ["", ""], "line_strs": ["{", "\treturn mv3310_get_number_of_ports(phydev) == 4;"]}]}

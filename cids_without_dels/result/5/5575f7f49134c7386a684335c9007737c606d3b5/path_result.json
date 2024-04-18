@@ -1,0 +1,1 @@
+{"sound/soc/sof/imx/imx8m.c": [{"patch_file_name": "sound/soc/sof/imx/imx8m.c", "func_decl_name": "imx8m_probe", "is_cond": false, "line_numbers": [226, 226], "line_cids": ["", ""], "line_strs": ["\tret = of_address_to_resource(res_node, 0, &res);", "\tret = of_address_to_resource(res_node, 0, &res);"]}]}

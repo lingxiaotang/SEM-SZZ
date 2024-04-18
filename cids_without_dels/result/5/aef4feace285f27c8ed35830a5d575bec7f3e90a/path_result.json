@@ -1,0 +1,1 @@
+{"tools/perf/util/dso.c": [{"patch_file_name": "tools/perf/util/dso.c", "func_decl_name": "__kmod_path__parse", "is_cond": true, "line_numbers": [354, 357], "line_cids": ["", ""], "line_strs": ["\t\tif ((strncmp(name, \"[kernel.kallsyms]\", 17) == 0) ||", "\t\t    (strncmp(name, \"[vsyscall]\", 10) == 0)) {"]}]}

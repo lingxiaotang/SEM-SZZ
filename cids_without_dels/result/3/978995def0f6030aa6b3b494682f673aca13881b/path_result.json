@@ -1,0 +1,1 @@
+{"drivers/regulator/da9062-regulator.c": [{"patch_file_name": "drivers/regulator/da9062-regulator.c", "func_decl_name": "da9062_ldo_lim_event", "is_cond": true, "line_numbers": [971, 971], "line_cids": ["", ""], "line_strs": ["\tfor (i = regulators->n_regulators - 1; i >= 0; i--) {", "\tfor (i = regulators->n_regulators - 1; i >= 0; i--) {"]}]}

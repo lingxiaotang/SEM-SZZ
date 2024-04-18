@@ -1,0 +1,1 @@
+{"net/mptcp/protocol.c": [{"patch_file_name": "net/mptcp/protocol.c", "func_decl_name": "mptcp_frag_can_collapse_to", "is_cond": true, "line_numbers": [886, 888], "line_cids": ["", ""], "line_strs": ["\treturn df && pfrag->page == df->page &&", "\t\tdf->data_seq + df->data_len == msk->write_seq;"]}]}

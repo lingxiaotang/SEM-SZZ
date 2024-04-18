@@ -1,0 +1,1 @@
+{"drivers/tty/serial/samsung.c": [{"patch_file_name": "drivers/tty/serial/samsung.c", "func_decl_name": "s3c24xx_serial_probe", "is_cond": true, "line_numbers": [1820, 1821], "line_cids": ["", ""], "line_strs": ["", "\tourport = &s3c24xx_serial_ports[index];"]}]}

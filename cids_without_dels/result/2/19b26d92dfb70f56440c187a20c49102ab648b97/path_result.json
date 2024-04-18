@@ -1,0 +1,1 @@
+{"drivers/pinctrl/intel/pinctrl-merrifield.c": [{"patch_file_name": "drivers/pinctrl/intel/pinctrl-merrifield.c", "func_decl_name": "mrfld_config_set", "is_cond": true, "line_numbers": [796, 797], "line_cids": ["", ""], "line_strs": ["", "\tfor (i = 0; i < nconfigs; i++) {"]}]}

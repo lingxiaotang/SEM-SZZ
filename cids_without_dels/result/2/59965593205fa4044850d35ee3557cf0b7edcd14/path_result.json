@@ -1,0 +1,1 @@
+{"fs/ubifs/journal.c": [{"patch_file_name": "fs/ubifs/journal.c", "func_decl_name": "ubifs_jnl_update", "is_cond": true, "line_numbers": [666, 667], "line_cids": ["", ""], "line_strs": ["\tspin_unlock(&ui->ui_lock);", "\tmark_inode_clean(c, ui);"]}]}

@@ -1,0 +1,1 @@
+{"arch/mips/kernel/process.c": [{"patch_file_name": "arch/mips/kernel/process.c", "func_decl_name": "mips_set_process_fp_mode", "is_cond": true, "line_numbers": [606, 617, 628], "line_cids": ["", "", ""], "line_strs": ["\tsmp_mb__after_atomic();", "\tif (num_online_cpus() > 1) {", "\t\t\t\tcond_resched();"]}]}

@@ -1,0 +1,1 @@
+{"drivers/net/wireless/iwlwifi/mvm/debugfs.c": [{"patch_file_name": "drivers/net/wireless/iwlwifi/mvm/debugfs.c", "func_decl_name": "iwl_dbgfs_sta_drain_write", "is_cond": true, "line_numbers": [121, 122], "line_cids": ["", ""], "line_strs": ["\t\treturn -EINVAL;", ""]}]}

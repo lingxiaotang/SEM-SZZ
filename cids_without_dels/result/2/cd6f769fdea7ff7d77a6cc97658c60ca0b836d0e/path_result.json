@@ -1,0 +1,1 @@
+{"drivers/phy/broadcom/phy-brcm-usb-init.c": [{"patch_file_name": "drivers/phy/broadcom/phy-brcm-usb-init.c", "func_decl_name": "brcm_usb_uninit_xhci", "is_cond": false, "line_numbers": [1000], "line_cids": [""], "line_strs": ["\tbrcmusb_xhci_soft_reset(params, 1);"]}]}

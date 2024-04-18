@@ -1,0 +1,1 @@
+{"drivers/spi/spi-sprd.c": [{"patch_file_name": "drivers/spi/spi-sprd.c", "func_decl_name": "sprd_spi_remove", "is_cond": false, "line_numbers": [1011, 1013], "line_cids": ["", ""], "line_strs": ["\tret = pm_runtime_get_sync(ss->dev);", "\t\tdev_err(ss->dev, \"failed to resume SPI controller\\n\");"]}]}

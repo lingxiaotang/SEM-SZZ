@@ -1,0 +1,1 @@
+{"drivers/net/wireless/ath/ath11k/qmi.c": [{"patch_file_name": "drivers/net/wireless/ath/ath11k/qmi.c", "func_decl_name": "ath11k_qmi_init_service", "is_cond": false, "line_numbers": [2646, 2650], "line_cids": ["", ""], "line_strs": ["\tret = qmi_add_lookup(&ab->qmi.handle, ATH11K_QMI_WLFW_SERVICE_ID_V01,", "\t\tath11k_warn(ab, \"failed to add qmi lookup\\n\");"]}]}

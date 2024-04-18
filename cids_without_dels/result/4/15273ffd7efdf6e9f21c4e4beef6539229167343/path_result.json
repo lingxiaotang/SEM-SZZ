@@ -1,0 +1,1 @@
+{"drivers/gpu/drm/msm/adreno/a6xx_gpu.c": [{"patch_file_name": "drivers/gpu/drm/msm/adreno/a6xx_gpu.c", "func_decl_name": "a6xx_hw_init", "is_cond": false, "line_numbers": [518, 542], "line_cids": ["", ""], "line_strs": ["\tif (!ret) {", "\treturn ret;"]}]}

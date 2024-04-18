@@ -1,0 +1,1 @@
+{"drivers/net/dsa/mv88e6xxx/global1.c": [{"patch_file_name": "drivers/net/dsa/mv88e6xxx/global1.c", "func_decl_name": "mv88e6390_g1_set_cpu_port", "is_cond": false, "line_numbers": [363], "line_cids": [""], "line_strs": ["\treturn mv88e6390_g1_monitor_write(chip, ptr, port);"]}]}

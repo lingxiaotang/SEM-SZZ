@@ -1,0 +1,1 @@
+{"block/ioctl.c": [{"patch_file_name": "block/ioctl.c", "func_decl_name": "blkdev_reread_part", "is_cond": true, "line_numbers": [91, 92], "line_cids": ["", ""], "line_strs": ["\t\treturn -EACCES;", ""]}]}

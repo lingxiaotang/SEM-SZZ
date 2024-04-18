@@ -1,0 +1,1 @@
+{"arch/powerpc/mm/hugetlbpage.c": [{"patch_file_name": "arch/powerpc/mm/hugetlbpage.c", "func_decl_name": "huge_pte_alloc", "is_cond": true, "line_numbers": [156, 157], "line_cids": ["", ""], "line_strs": ["\t\tpu = pud_alloc(mm, pg, addr);", "\t\tif (pshift >= PUD_SHIFT) {"]}]}

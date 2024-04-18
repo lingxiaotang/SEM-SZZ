@@ -1,0 +1,1 @@
+{"net/core/sock_map.c": [{"patch_file_name": "net/core/sock_map.c", "func_decl_name": "sock_hash_free", "is_cond": false, "line_numbers": [865], "line_cids": [""], "line_strs": ["\tsynchronize_rcu();"]}]}

@@ -1,0 +1,1 @@
+{"drivers/mfd/twl6040.c": [{"patch_file_name": "drivers/mfd/twl6040.c", "func_decl_name": "twl6040_probe", "is_cond": true, "line_numbers": [649, 650], "line_cids": ["", ""], "line_strs": ["\tif (IS_ERR(twl6040->clk32k)) {", "\t\tdev_info(&client->dev, \"clk32k is not handled\\n\");"]}]}

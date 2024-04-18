@@ -1,0 +1,1 @@
+{"drivers/infiniband/hw/mlx4/main.c": [{"patch_file_name": "drivers/infiniband/hw/mlx4/main.c", "func_decl_name": "mlx4_ib_alloc_diag_counters", "is_cond": true, "line_numbers": [2204, 2205], "line_cids": ["", ""], "line_strs": ["", "\tfor (i = 0; i < MLX4_DIAG_COUNTERS_TYPES; i++) {"]}]}

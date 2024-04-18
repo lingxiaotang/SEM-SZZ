@@ -1,0 +1,1 @@
+{"net/mptcp/protocol.c": [{"patch_file_name": "net/mptcp/protocol.c", "func_decl_name": "__mptcp_alloc_tx_skb", "is_cond": false, "line_numbers": [1195, 1199], "line_cids": ["", ""], "line_strs": ["\tif (likely(sk_wmem_schedule(ssk, skb->truesize))) {", "\tkfree_skb(skb);"]}]}

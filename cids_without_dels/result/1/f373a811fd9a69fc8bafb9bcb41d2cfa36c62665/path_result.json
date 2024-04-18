@@ -1,0 +1,1 @@
+{"sound/soc/intel/skylake/cnl-sst.c": [{"patch_file_name": "sound/soc/intel/skylake/cnl-sst.c", "func_decl_name": "cnl_set_dsp_D0", "is_cond": false, "line_numbers": [220, 222], "line_cids": ["", ""], "line_strs": ["\t\tret = wait_event_timeout(cnl->boot_wait, cnl->boot_complete,", "\t\tif (ret == 0) {"]}]}

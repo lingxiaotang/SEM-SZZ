@@ -1,0 +1,1 @@
+{"drivers/mmc/host/meson-mx-sdio.c": [{"patch_file_name": "drivers/mmc/host/meson-mx-sdio.c", "func_decl_name": "meson_mx_mmc_request_done", "is_cond": true, "line_numbers": [248, 249], "line_cids": ["", ""], "line_strs": ["", "\thost->mrq = NULL;"]}]}

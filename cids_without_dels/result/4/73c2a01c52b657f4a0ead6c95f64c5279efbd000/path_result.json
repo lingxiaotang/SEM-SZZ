@@ -1,0 +1,1 @@
+{"drivers/acpi/acpica/psloop.c": [{"patch_file_name": "drivers/acpi/acpica/psloop.c", "func_decl_name": "acpi_ps_parse_loop", "is_cond": true, "line_numbers": [499, 500], "line_cids": ["", ""], "line_strs": ["\t\t\tif (ACPI_FAILURE(status)) {", "\t\t\t\tif (status == AE_CTRL_PARSE_CONTINUE) {"]}]}

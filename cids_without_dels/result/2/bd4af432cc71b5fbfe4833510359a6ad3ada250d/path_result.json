@@ -1,0 +1,1 @@
+{"drivers/net/ethernet/netronome/nfp/abm/main.c": [{"patch_file_name": "drivers/net/ethernet/netronome/nfp/abm/main.c", "func_decl_name": "nfp_abm_vnic_set_mac", "is_cond": false, "line_numbers": [283, 283], "line_cids": ["", ""], "line_strs": ["\tif (!nfp_nsp_has_hwinfo_lookup(nsp)) {", "\tif (!nfp_nsp_has_hwinfo_lookup(nsp)) {"]}]}

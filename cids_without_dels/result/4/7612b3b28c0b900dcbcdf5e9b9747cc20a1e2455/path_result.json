@@ -1,0 +1,1 @@
+{"drivers/pci/hotplug/pciehp_hpc.c": [{"patch_file_name": "drivers/pci/hotplug/pciehp_hpc.c", "func_decl_name": "pciehp_isr", "is_cond": true, "line_numbers": [588, 589], "line_cids": ["", ""], "line_strs": ["\t\t\t   PCI_EXP_SLTSTA_DLLSC);", "\tif (!events)"]}]}

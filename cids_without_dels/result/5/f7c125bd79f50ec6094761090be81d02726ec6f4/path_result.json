@@ -1,0 +1,1 @@
+{"drivers/net/mhi_net.c": [{"patch_file_name": "drivers/net/mhi_net.c", "func_decl_name": "mhi_net_dellink", "is_cond": false, "line_numbers": [338, 340], "line_cids": ["", ""], "line_strs": ["\tstruct mhi_net_dev *mhi_netdev = netdev_priv(ndev);", "\tunregister_netdev(ndev);"]}]}

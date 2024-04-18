@@ -1,0 +1,1 @@
+{"drivers/net/wireless/intel/iwlwifi/mvm/sta.c": [{"patch_file_name": "drivers/net/wireless/intel/iwlwifi/mvm/sta.c", "func_decl_name": "iwl_mvm_realloc_queues_after_restart", "is_cond": false, "line_numbers": [1247, 1259], "line_cids": ["", ""], "line_strs": ["\t\tskb_queue_head_init(&tid_data->deferred_tx_frames);", "\t\t\ttid_data->txq_id = txq_id;"]}]}

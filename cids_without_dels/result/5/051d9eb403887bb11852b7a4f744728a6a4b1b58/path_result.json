@@ -1,0 +1,1 @@
+{"drivers/reset/reset-imx7.c": [{"patch_file_name": "drivers/reset/reset-imx7.c", "func_decl_name": "imx8mp_reset_set", "is_cond": true, "line_numbers": [331, 332], "line_cids": ["", ""], "line_strs": ["\tcase IMX8MP_RESET_PCIE_CTRL_APPS_EN:", "\t\tvalue = assert ? 0 : bit;"]}]}

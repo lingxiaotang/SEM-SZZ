@@ -1,0 +1,1 @@
+{"arch/s390/mm/pageattr.c": [{"patch_file_name": "arch/s390/mm/pageattr.c", "func_decl_name": "change_page_attr", "is_cond": true, "line_numbers": [254, 255], "line_cids": ["", ""], "line_strs": ["", "\tif (end >= MODULES_END)"]}]}

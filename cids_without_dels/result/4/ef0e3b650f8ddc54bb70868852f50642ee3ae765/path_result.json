@@ -1,0 +1,1 @@
+{"arch/powerpc/perf/isa207-common.c": [{"patch_file_name": "arch/powerpc/perf/isa207-common.c", "func_decl_name": "isa207_get_mem_weight", "is_cond": true, "line_numbers": [249, 250], "line_cids": ["", ""], "line_strs": ["", "\tif (val == 0 || val == 7)"]}]}

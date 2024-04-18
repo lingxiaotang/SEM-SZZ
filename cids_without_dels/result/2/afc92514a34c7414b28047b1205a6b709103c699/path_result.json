@@ -1,0 +1,1 @@
+{"drivers/usb/gadget/udc/renesas_usb3.c": [{"patch_file_name": "drivers/usb/gadget/udc/renesas_usb3.c", "func_decl_name": "renesas_usb3_b_device_write", "is_cond": true, "line_numbers": [2439, 2440], "line_cids": ["", ""], "line_strs": ["", "\t/* Let this driver call usb3_connect() anyway */"]}]}

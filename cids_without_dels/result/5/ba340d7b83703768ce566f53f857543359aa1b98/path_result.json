@@ -1,0 +1,1 @@
+{"drivers/input/tablet/hanwang.c": [{"patch_file_name": "drivers/input/tablet/hanwang.c", "func_decl_name": "hanwang_probe", "is_cond": true, "line_numbers": [342, 343], "line_cids": ["", ""], "line_strs": ["", "\thanwang = kzalloc(sizeof(struct hanwang), GFP_KERNEL);"]}]}

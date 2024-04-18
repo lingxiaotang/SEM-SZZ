@@ -1,0 +1,1 @@
+{"drivers/of/base.c": [{"patch_file_name": "drivers/of/base.c", "func_decl_name": "of_update_property", "is_cond": true, "line_numbers": [1833, 1834], "line_cids": ["", ""], "line_strs": ["", "\t/* Update the sysfs attribute */"]}]}

@@ -1,0 +1,1 @@
+{"arch/mips/kernel/mips-r2-to-r6-emul.c": [{"patch_file_name": "arch/mips/kernel/mips-r2-to-r6-emul.c", "func_decl_name": "mipsr2_decoder", "is_cond": true, "line_numbers": [1166, 1167, 1168], "line_cids": ["", "", ""], "line_strs": ["\t\tif (!used_math()) {     /* First time FPU user.  */", "\t\t\terr = init_fpu();", "\t\t\tset_used_math();"]}]}

@@ -1,0 +1,1 @@
+{"drivers/gpu/drm/i915/intel_display.c": [{"patch_file_name": "drivers/gpu/drm/i915/intel_display.c", "func_decl_name": "intel_get_load_detect_pipe", "is_cond": true, "line_numbers": [9977, 9977], "line_cids": ["", ""], "line_strs": ["\tif (ret) {", "\tif (ret) {"]}]}

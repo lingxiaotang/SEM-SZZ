@@ -1,0 +1,1 @@
+{"net/ipv4/tcp_input.c": [{"patch_file_name": "net/ipv4/tcp_input.c", "func_decl_name": "tcp_shift_skb_data", "is_cond": true, "line_numbers": [1662, 1663], "line_cids": ["", ""], "line_strs": ["", "\tlen = skb->len;"]}]}

@@ -1,0 +1,1 @@
+{"drivers/watchdog/keembay_wdt.c": [{"patch_file_name": "drivers/watchdog/keembay_wdt.c", "func_decl_name": "keembay_wdt_th_isr", "is_cond": false, "line_numbers": [154, 158], "line_cids": ["", ""], "line_strs": ["\tstruct keembay_wdt *wdt = dev_id;", "\tdev_crit(wdt->wdd.parent, \"Intel Keem Bay non-sec wdt pre-timeout.\\n\");"]}]}

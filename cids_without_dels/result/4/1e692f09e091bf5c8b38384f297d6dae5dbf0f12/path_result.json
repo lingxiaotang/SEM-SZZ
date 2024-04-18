@@ -1,0 +1,1 @@
+{"arch/riscv/net/bpf_jit_comp.c": [{"patch_file_name": "arch/riscv/net/bpf_jit_comp.c", "func_decl_name": "emit_insn", "is_cond": true, "line_numbers": [753, 754], "line_cids": ["", ""], "line_strs": ["\t\temit(is64 ? rv_add(rd, rd, rs) : rv_addw(rd, rd, rs), ctx);", "\t\tbreak;"]}]}

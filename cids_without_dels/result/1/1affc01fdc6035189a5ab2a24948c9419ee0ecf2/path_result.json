@@ -1,0 +1,1 @@
+{"drivers/net/ethernet/broadcom/bnxt/bnxt.c": [{"patch_file_name": "drivers/net/ethernet/broadcom/bnxt/bnxt.c", "func_decl_name": "bnxt_free_one_rx_ring_skbs", "is_cond": true, "line_numbers": [2815, 2816], "line_cids": ["", ""], "line_strs": ["skip_rx_tpa_free:", "\tfor (i = 0; i < max_idx; i++) {"]}]}

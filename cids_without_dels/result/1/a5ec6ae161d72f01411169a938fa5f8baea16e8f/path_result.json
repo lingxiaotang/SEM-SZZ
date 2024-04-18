@@ -1,0 +1,1 @@
+{"kernel/bpf/verifier.c": [{"patch_file_name": "kernel/bpf/verifier.c", "func_decl_name": "check_ptr_alignment", "is_cond": false, "line_numbers": [1044, 1066], "line_cids": ["", ""], "line_strs": ["\tbool strict = env->strict_alignment;", "\treturn check_generic_ptr_alignment(env, reg, pointer_desc, off, size,"]}]}

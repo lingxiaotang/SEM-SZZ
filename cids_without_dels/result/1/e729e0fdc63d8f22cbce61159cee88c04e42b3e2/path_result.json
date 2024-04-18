@@ -1,0 +1,1 @@
+{"drivers/soundwire/qcom.c": [{"patch_file_name": "drivers/soundwire/qcom.c", "func_decl_name": "qcom_swrm_transport_params", "is_cond": true, "line_numbers": [733, 734], "line_cids": ["", ""], "line_strs": ["\tret = ctrl->reg_write(ctrl, reg, value);", ""]}]}

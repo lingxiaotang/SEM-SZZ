@@ -1,0 +1,1 @@
+{"drivers/staging/mt7621-pci/pci-mt7621.c": [{"patch_file_name": "drivers/staging/mt7621-pci/pci-mt7621.c", "func_decl_name": "mt7621_pcie_init_port", "is_cond": false, "line_numbers": [436, 436], "line_cids": ["", ""], "line_strs": ["\terr = phy_power_on(port->phy);", "\terr = phy_power_on(port->phy);"]}]}

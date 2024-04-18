@@ -1,0 +1,1 @@
+{"net/can/isotp.c": [{"patch_file_name": "net/can/isotp.c", "func_decl_name": "isotp_setsockopt", "is_cond": true, "line_numbers": [1159, 1160], "line_cids": ["", ""], "line_strs": ["", "\tswitch (optname) {"]}]}

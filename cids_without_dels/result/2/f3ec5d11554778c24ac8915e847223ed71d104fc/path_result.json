@@ -1,0 +1,1 @@
+{"block/blk-mq-debugfs.c": [{"patch_file_name": "block/blk-mq-debugfs.c", "func_decl_name": "blk_mq_debugfs_register_hctx", "is_cond": true, "line_numbers": [730, 731], "line_cids": ["", ""], "line_strs": ["", "\tsnprintf(name, sizeof(name), \"hctx%u\", hctx->queue_num);"]}]}

@@ -1,0 +1,1 @@
+{"drivers/net/dsa/hirschmann/hellcreek.c": [{"patch_file_name": "drivers/net/dsa/hirschmann/hellcreek.c", "func_decl_name": "hellcreek_remove", "is_cond": true, "line_numbers": [1918, 1919], "line_cids": ["", ""], "line_strs": ["", "\thellcreek_hwtstamp_free(hellcreek);"]}]}

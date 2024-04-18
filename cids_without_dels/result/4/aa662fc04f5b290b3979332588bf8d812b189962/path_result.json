@@ -1,0 +1,1 @@
+{"security/integrity/ima/ima_main.c": [{"patch_file_name": "security/integrity/ima/ima_main.c", "func_decl_name": "ima_file_hash", "is_cond": true, "line_numbers": [538, 539], "line_cids": ["", ""], "line_strs": ["\tmutex_lock(&iint->mutex);", "\tif (buf) {"]}]}

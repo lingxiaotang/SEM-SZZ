@@ -1,0 +1,1 @@
+{"security/smack/smackfs.c": [{"patch_file_name": "security/smack/smackfs.c", "func_decl_name": "smk_set_cipso", "is_cond": true, "line_numbers": [907, 908], "line_cids": ["", ""], "line_strs": ["\t\trule += SMK_DIGITLEN;", "\t\tret = sscanf(rule, \"%u\", &cat);"]}]}

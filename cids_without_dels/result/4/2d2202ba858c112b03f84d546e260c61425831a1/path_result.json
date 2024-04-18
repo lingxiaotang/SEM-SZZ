@@ -1,0 +1,1 @@
+{"tools/testing/selftests/bpf/progs/test_sock_fields.c": [{"patch_file_name": "tools/testing/selftests/bpf/progs/test_sock_fields.c", "func_decl_name": "read_sk_dst_port", "is_cond": true, "line_numbers": [283, 284], "line_cids": ["", ""], "line_strs": ["", "\tif (!sk_dst_port__load_word(sk))"]}]}

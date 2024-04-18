@@ -1,0 +1,1 @@
+{"drivers/thunderbolt/domain.c": [{"patch_file_name": "drivers/thunderbolt/domain.c", "func_decl_name": "boot_acl_store", "is_cond": true, "line_numbers": [215, 216], "line_cids": ["", ""], "line_strs": ["\tret = tb->cm_ops->set_boot_acl(tb, acl, tb->nboot_acl);", "\tmutex_unlock(&tb->lock);"]}]}

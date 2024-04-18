@@ -1,0 +1,1 @@
+{"sound/soc/soc-pcm.c": [{"patch_file_name": "sound/soc/soc-pcm.c", "func_decl_name": "dpcm_fe_dai_do_trigger", "is_cond": true, "line_numbers": [2208, 2209], "line_cids": ["", ""], "line_strs": ["\t\tcase SNDRV_PCM_TRIGGER_PAUSE_RELEASE:", "\t\t\tret = dpcm_dai_trigger_fe_be(substream, cmd, true);"]}]}

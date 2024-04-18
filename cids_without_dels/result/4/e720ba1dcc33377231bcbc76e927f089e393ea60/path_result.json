@@ -1,0 +1,1 @@
+{"drivers/net/wireless/ath/ath10k/hw.c": [{"patch_file_name": "drivers/net/wireless/ath/ath10k/hw.c", "func_decl_name": "ath10k_hw_diag_fast_download", "is_cond": true, "line_numbers": [1046, 1047], "line_cids": ["", ""], "line_strs": ["\twhile (left > 0) {", "\t\tbase_addr = __le32_to_cpu(metadata->addr);"]}]}

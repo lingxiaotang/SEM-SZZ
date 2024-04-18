@@ -1,0 +1,1 @@
+{"tools/perf/util/stat.c": [], "tools/perf/builtin-stat.c": [{"patch_file_name": "tools/perf/builtin-stat.c", "func_decl_name": "cmd_stat", "is_cond": true, "line_numbers": [1954, 1955], "line_cids": ["", ""], "line_strs": ["", "\t\tstatus = run_perf_stat(argc, argv, run_idx);"]}]}

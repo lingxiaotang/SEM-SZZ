@@ -1,0 +1,1 @@
+{"virt/kvm/arm/mmu.c": [{"patch_file_name": "virt/kvm/arm/mmu.c", "func_decl_name": "stage2_set_pte", "is_cond": true, "line_numbers": [1149, 1150], "line_cids": ["", ""], "line_strs": ["\tif (pte_present(old_pte)) {", "\t\tkvm_set_pte(pte, __pte(0));"]}]}

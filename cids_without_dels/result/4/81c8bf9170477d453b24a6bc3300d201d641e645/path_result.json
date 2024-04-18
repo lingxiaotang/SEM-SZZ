@@ -1,0 +1,1 @@
+{"drivers/hid/hid-logitech-hidpp.c": [{"patch_file_name": "drivers/hid/hid-logitech-hidpp.c", "func_decl_name": "hidpp20_battery_map_status_voltage", "is_cond": false, "line_numbers": [1274], "line_cids": [""], "line_strs": ["\t\t\t*level = POWER_SUPPLY_CAPACITY_LEVEL_FULL;"]}]}

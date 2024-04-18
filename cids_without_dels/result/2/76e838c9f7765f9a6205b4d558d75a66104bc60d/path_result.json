@@ -1,0 +1,1 @@
+{"drivers/usb/dwc3/gadget.c": [{"patch_file_name": "drivers/usb/dwc3/gadget.c", "func_decl_name": "dwc3_send_gadget_ep_cmd", "is_cond": true, "line_numbers": [332, 333], "line_cids": ["", ""], "line_strs": ["\t\t\t\t\tDWC3_DEPCMD_STATUS(reg));", "\t\t\treturn 0;"]}]}

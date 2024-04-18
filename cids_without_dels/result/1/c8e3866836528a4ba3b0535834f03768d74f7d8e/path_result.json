@@ -1,0 +1,1 @@
+{"drivers/perf/arm_dmc620_pmu.c": [{"patch_file_name": "drivers/perf/arm_dmc620_pmu.c", "func_decl_name": "dmc620_pmu_device_probe", "is_cond": false, "line_numbers": [675, 675], "line_cids": ["", ""], "line_strs": ["\tif (ret)", "\tif (ret)"]}]}

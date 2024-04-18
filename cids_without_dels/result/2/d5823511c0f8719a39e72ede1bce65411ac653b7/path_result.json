@@ -1,0 +1,1 @@
+{"drivers/media/usb/dvb-usb/dib0700_core.c": [{"patch_file_name": "drivers/media/usb/dvb-usb/dib0700_core.c", "func_decl_name": "dib0700_rc_setup", "is_cond": true, "line_numbers": [811, 812], "line_cids": ["", ""], "line_strs": ["", "\tpurb = usb_alloc_urb(0, GFP_KERNEL);"]}]}

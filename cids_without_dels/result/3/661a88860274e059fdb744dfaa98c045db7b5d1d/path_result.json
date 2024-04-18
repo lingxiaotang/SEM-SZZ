@@ -1,0 +1,1 @@
+{"drivers/power/charger-manager.c": [{"patch_file_name": "drivers/power/charger-manager.c", "func_decl_name": "charger_manager_probe", "is_cond": true, "line_numbers": [1722, 1723], "line_cids": ["", ""], "line_strs": ["", "\t/* Counting index only */"]}]}

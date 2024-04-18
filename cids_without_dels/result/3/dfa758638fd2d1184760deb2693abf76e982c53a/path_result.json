@@ -1,0 +1,1 @@
+{"arch/s390/mm/pgalloc.c": [{"patch_file_name": "arch/s390/mm/pgalloc.c", "func_decl_name": "__tlb_remove_table", "is_cond": true, "line_numbers": [306, 307], "line_cids": ["", ""], "line_strs": ["\tcase 3:\t\t/* 4K page table with pgstes */", "\t\tpgtable_page_dtor(page);"]}]}

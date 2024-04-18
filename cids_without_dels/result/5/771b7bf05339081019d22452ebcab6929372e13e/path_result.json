@@ -1,0 +1,1 @@
+{"drivers/i2c/busses/i2c-stm32f7.c": [{"patch_file_name": "drivers/i2c/busses/i2c-stm32f7.c", "func_decl_name": "stm32f7_i2c_probe", "is_cond": true, "line_numbers": [890, 891], "line_cids": ["", ""], "line_strs": ["\tsetup = of_device_get_match_data(&pdev->dev);", "\ti2c_dev->setup = *setup;"]}]}

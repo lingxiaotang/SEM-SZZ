@@ -1,0 +1,1 @@
+{"drivers/usb/renesas_usbhs/fifo.c": [{"patch_file_name": "drivers/usb/renesas_usbhs/fifo.c", "func_decl_name": "usbhs_pkt_pop", "is_cond": true, "line_numbers": [125, 126], "line_cids": ["", ""], "line_strs": ["\t\t\tusbhsf_dma_unmap(pkt);", "\t\t}"]}]}

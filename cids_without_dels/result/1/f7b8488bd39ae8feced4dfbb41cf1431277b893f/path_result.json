@@ -1,0 +1,1 @@
+{"drivers/staging/media/imx/imx7-media-csi.c": [{"patch_file_name": "drivers/staging/media/imx/imx7-media-csi.c", "func_decl_name": "imx7_csi_try_fmt", "is_cond": true, "line_numbers": [1027, 1028], "line_cids": ["", ""], "line_strs": ["\t\t}", "\t\tbreak;"]}]}

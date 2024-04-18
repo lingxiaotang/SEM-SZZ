@@ -1,0 +1,1 @@
+{"drivers/mailbox/mtk-cmdq-mailbox.c": [{"patch_file_name": "drivers/mailbox/mtk-cmdq-mailbox.c", "func_decl_name": "cmdq_mbox_send_data", "is_cond": true, "line_numbers": [365, 366], "line_cids": ["", ""], "line_strs": ["\ttask = kzalloc(sizeof(*task), GFP_ATOMIC);", "\ttask->cmdq = cmdq;"]}]}

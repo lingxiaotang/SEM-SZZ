@@ -1,0 +1,1 @@
+{"drivers/bluetooth/btusb.c": [{"patch_file_name": "drivers/bluetooth/btusb.c", "func_decl_name": "btusb_setup_csr", "is_cond": true, "line_numbers": [1860, 1861], "line_cids": ["", ""], "line_strs": ["", "\tif (is_fake) {"]}]}

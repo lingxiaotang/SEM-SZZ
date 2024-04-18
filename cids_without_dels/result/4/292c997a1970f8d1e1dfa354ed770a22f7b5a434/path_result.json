@@ -1,0 +1,1 @@
+{"security/selinux/hooks.c": [{"patch_file_name": "security/selinux/hooks.c", "func_decl_name": "selinux_sctp_bind_connect", "is_cond": true, "line_numbers": [5149, 5150], "line_cids": ["", ""], "line_strs": ["", "\t\terr = -EINVAL;"]}]}

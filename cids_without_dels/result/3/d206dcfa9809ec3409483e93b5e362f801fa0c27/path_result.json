@@ -1,0 +1,1 @@
+{"drivers/md/raid5.c": [{"patch_file_name": "drivers/md/raid5.c", "func_decl_name": "raid5_store_group_thread_cnt", "is_cond": true, "line_numbers": [5415, 5416], "line_cids": ["", ""], "line_strs": ["", "\tconf->worker_groups = NULL;"]}]}

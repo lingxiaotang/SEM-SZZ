@@ -1,0 +1,1 @@
+{"drivers/i2c/busses/i2c-npcm7xx.c": [{"patch_file_name": "drivers/i2c/busses/i2c-npcm7xx.c", "func_decl_name": "npcm_i2c_master_xfer", "is_cond": true, "line_numbers": [2165, 2166], "line_cids": ["", ""], "line_strs": ["", "#if IS_ENABLED(CONFIG_I2C_SLAVE)"]}]}

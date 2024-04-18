@@ -1,0 +1,1 @@
+{"tools/perf/util/pmu.c": [{"patch_file_name": "tools/perf/util/pmu.c", "func_decl_name": "pmu_add_cpu_aliases", "is_cond": true, "line_numbers": [734, 735], "line_cids": ["", ""], "line_strs": ["\t\t\tpname = pe->pmu ? pe->pmu : \"cpu\";", "\t\t\tif (strcmp(pname, name))"]}]}

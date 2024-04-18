@@ -1,0 +1,1 @@
+{"sound/pci/hda/hda_controller.c": [{"patch_file_name": "sound/pci/hda/hda_controller.c", "func_decl_name": "azx_bus_init", "is_cond": true, "line_numbers": [1062, 1063], "line_cids": ["", ""], "line_strs": ["", "\t/* AMD chipsets often cause the communication stalls upon certain"]}]}

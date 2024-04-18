@@ -1,0 +1,1 @@
+{"drivers/net/ethernet/mscc/ocelot.c": [{"patch_file_name": "drivers/net/ethernet/mscc/ocelot.c", "func_decl_name": "ocelot_deinit", "is_cond": false, "line_numbers": [1821], "line_cids": [""], "line_strs": ["\tdestroy_workqueue(ocelot->stats_queue);"]}]}

@@ -1,0 +1,1 @@
+{"net/core/rtnetlink.c": [{"patch_file_name": "net/core/rtnetlink.c", "func_decl_name": "do_setvfinfo", "is_cond": true, "line_numbers": [1755, 1756], "line_cids": ["", ""], "line_strs": ["\t\t}", "\t\terr = ops->ndo_set_vf_vlan(dev, ivvl[0]->vf, ivvl[0]->vlan,"]}]}

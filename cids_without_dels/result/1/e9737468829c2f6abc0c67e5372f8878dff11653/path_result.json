@@ -1,0 +1,1 @@
+{"arch/x86/kvm/cpuid.c": [{"patch_file_name": "arch/x86/kvm/cpuid.c", "func_decl_name": "__do_cpuid_func", "is_cond": true, "line_numbers": [938, 939], "line_cids": ["", ""], "line_strs": ["\t\t\t}", "\t\t\tentry->edx = 0;"]}]}

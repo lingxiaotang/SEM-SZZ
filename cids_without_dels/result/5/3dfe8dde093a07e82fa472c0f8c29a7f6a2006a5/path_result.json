@@ -1,0 +1,1 @@
+{"drivers/net/dsa/rtl8366.c": [{"patch_file_name": "drivers/net/dsa/rtl8366.c", "func_decl_name": "rtl8366_vlan_add", "is_cond": true, "line_numbers": [438, 439], "line_cids": ["", ""], "line_strs": ["", "\t\tret = rtl8366_set_pvid(smi, port, vid);"]}]}

@@ -1,0 +1,1 @@
+{"drivers/md/dm-integrity.c": [{"patch_file_name": "drivers/md/dm-integrity.c", "func_decl_name": "integrity_recalc", "is_cond": false, "line_numbers": [2488, 2489], "line_cids": ["", ""], "line_strs": ["\tif (unlikely(range.logical_sector >= ic->provided_data_sectors)) {", "\t\tif (ic->mode == 'B') {"]}]}

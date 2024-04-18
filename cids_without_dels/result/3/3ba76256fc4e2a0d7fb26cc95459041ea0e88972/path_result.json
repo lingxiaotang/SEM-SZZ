@@ -1,0 +1,1 @@
+{"drivers/usb/typec/tcpm/tcpci.c": [{"patch_file_name": "drivers/usb/typec/tcpm/tcpci.c", "func_decl_name": "tcpci_remove", "is_cond": true, "line_numbers": [593, 594], "line_cids": ["", ""], "line_strs": ["\tstruct tcpci_chip *chip = i2c_get_clientdata(client);", ""]}]}

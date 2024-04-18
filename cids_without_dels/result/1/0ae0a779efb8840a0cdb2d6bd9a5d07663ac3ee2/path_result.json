@@ -1,0 +1,1 @@
+{"drivers/net/ethernet/broadcom/bnxt/bnxt_ethtool.c": [{"patch_file_name": "drivers/net/ethernet/broadcom/bnxt/bnxt_ethtool.c", "func_decl_name": "bnxt_hwrm_nvm_get_dev_info", "is_cond": true, "line_numbers": [2081, 2082], "line_cids": ["", ""], "line_strs": ["", "\tbnxt_hwrm_cmd_hdr_init(bp, &req, HWRM_NVM_GET_DEV_INFO, -1, -1);"]}]}

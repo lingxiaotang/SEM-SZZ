@@ -1,0 +1,1 @@
+{"drivers/net/ethernet/mellanox/mlx5/core/en_dcbnl.c": [{"patch_file_name": "drivers/net/ethernet/mellanox/mlx5/core/en_dcbnl.c", "func_decl_name": "mlx5e_dcbnl_initialize", "is_cond": true, "line_numbers": [756, 757], "line_cids": ["", ""], "line_strs": ["", "\tif (MLX5_CAP_GEN(priv->mdev, dcbx))"]}]}

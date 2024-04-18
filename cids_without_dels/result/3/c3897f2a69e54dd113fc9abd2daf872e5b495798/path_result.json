@@ -1,0 +1,1 @@
+{"drivers/net/ethernet/broadcom/bgmac.c": [{"patch_file_name": "drivers/net/ethernet/broadcom/bgmac.c", "func_decl_name": "bgmac_open", "is_cond": false, "line_numbers": [1305, 1316], "line_cids": ["", ""], "line_strs": ["\terr = request_irq(bgmac->core->irq, bgmac_interrupt, IRQF_SHARED,", "\tnetif_carrier_on(net_dev);"]}]}

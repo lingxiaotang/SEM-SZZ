@@ -1,0 +1,1 @@
+{"drivers/net/ethernet/mellanox/mlx5/core/en_tc.c": [{"patch_file_name": "drivers/net/ethernet/mellanox/mlx5/core/en_tc.c", "func_decl_name": "mlx5e_attach_encap", "is_cond": true, "line_numbers": [2649, 2650], "line_cids": ["", ""], "line_strs": ["\tkey.tc_tunnel = mlx5e_get_tc_tun(mirred_dev);", ""]}]}

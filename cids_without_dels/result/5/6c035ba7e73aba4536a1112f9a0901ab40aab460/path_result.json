@@ -1,0 +1,1 @@
+{"net/ipv4/udp_offload.c": [{"patch_file_name": "net/ipv4/udp_offload.c", "func_decl_name": "__udp_gso_segment", "is_cond": true, "line_numbers": [216, 216], "line_cids": ["", ""], "line_strs": ["\tfor (seg = segs; seg; seg = seg->next) {", "\tfor (seg = segs; seg; seg = seg->next) {"]}]}

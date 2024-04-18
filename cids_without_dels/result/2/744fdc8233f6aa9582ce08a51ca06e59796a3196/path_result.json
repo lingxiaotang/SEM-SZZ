@@ -1,0 +1,1 @@
+{"net/ipv6/addrconf.c": [{"patch_file_name": "net/ipv6/addrconf.c", "func_decl_name": "addrconf_addr_gen", "is_cond": true, "line_numbers": [3300, 3301], "line_cids": ["", ""], "line_strs": ["", "\tipv6_addr_set(&addr, htonl(0xFE800000), 0, 0, 0);"]}]}

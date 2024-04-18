@@ -1,0 +1,1 @@
+{"drivers/clk/meson/clk-mpll.c": [{"patch_file_name": "drivers/clk/meson/clk-mpll.c", "func_decl_name": "mpll_set_rate", "is_cond": true, "line_numbers": [163, 164], "line_cids": ["", ""], "line_strs": ["", "\tp = &mpll->n2;"]}], "drivers/clk/meson/gxbb.c": [], "drivers/clk/meson/meson8b.c": []}

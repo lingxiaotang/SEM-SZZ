@@ -1,0 +1,1 @@
+{"drivers/net/ethernet/mellanox/mlx4/crdump.c": [{"patch_file_name": "drivers/net/ethernet/mellanox/mlx4/crdump.c", "func_decl_name": "mlx4_crdump_collect", "is_cond": false, "line_numbers": [190, 191], "line_cids": ["", ""], "line_strs": ["\tcr_space = ioremap(pci_resource_start(pdev, 0), cr_res_size);", "\tif (!cr_space) {"]}]}

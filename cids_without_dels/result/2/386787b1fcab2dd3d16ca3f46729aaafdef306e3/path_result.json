@@ -1,0 +1,1 @@
+{"arch/mips/loongson64/lemote-2f/clock.c": [{"patch_file_name": "arch/mips/loongson64/lemote-2f/clock.c", "func_decl_name": "clk_get_rate", "is_cond": true, "line_numbers": [82, 83], "line_cids": ["", ""], "line_strs": ["{", "\treturn (unsigned long)clk->rate;"]}]}

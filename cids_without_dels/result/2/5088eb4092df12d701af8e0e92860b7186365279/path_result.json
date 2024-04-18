@@ -1,0 +1,1 @@
+{"arch/powerpc/kvm/book3s_hv.c": [{"patch_file_name": "arch/powerpc/kvm/book3s_hv.c", "func_decl_name": "kvmhv_p9_guest_entry", "is_cond": true, "line_numbers": [3731, 3732], "line_cids": ["", ""], "line_strs": ["\tvcpu->arch.ctrl = mfspr(SPRN_CTRLF);", ""]}]}

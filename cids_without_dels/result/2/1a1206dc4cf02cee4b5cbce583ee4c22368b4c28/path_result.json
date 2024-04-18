@@ -1,0 +1,1 @@
+{"block/blk-zoned.c": [{"patch_file_name": "block/blk-zoned.c", "func_decl_name": "blk_revalidate_disk_zones", "is_cond": true, "line_numbers": [500, 501], "line_cids": ["", ""], "line_strs": ["", "\t/*"]}]}

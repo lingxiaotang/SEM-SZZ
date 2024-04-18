@@ -1,0 +1,1 @@
+{"drivers/of/fdt.c": [{"patch_file_name": "drivers/of/fdt.c", "func_decl_name": "__unflatten_device_tree", "is_cond": true, "line_numbers": [509, 510], "line_cids": ["", ""], "line_strs": ["\tmem = dt_alloc(size + 4, __alignof__(struct device_node));", "\tmemset(mem, 0, size);"]}]}

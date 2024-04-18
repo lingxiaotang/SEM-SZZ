@@ -1,0 +1,1 @@
+{"drivers/iio/adc/ad7793.c": [{"patch_file_name": "drivers/iio/adc/ad7793.c", "func_decl_name": "ad7793_setup", "is_cond": false, "line_numbers": [276, 276], "line_cids": ["", ""], "line_strs": ["\tif (ret)", "\tif (ret)"]}]}

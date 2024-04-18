@@ -1,0 +1,1 @@
+{"arch/x86/events/intel/core.c": [{"patch_file_name": "arch/x86/events/intel/core.c", "func_decl_name": "intel_pmu_init", "is_cond": true, "line_numbers": [6238, 6239], "line_cids": ["", ""], "line_strs": ["\t\t}", "\t\tpmu->max_pebs_events = min_t(unsigned, MAX_PEBS_EVENTS, pmu->num_counters);"]}]}

@@ -1,0 +1,1 @@
+{"net/mptcp/options.c": [{"patch_file_name": "net/mptcp/options.c", "func_decl_name": "mptcp_get_options", "is_cond": true, "line_numbers": [358, 358], "line_cids": ["", ""], "line_strs": ["\t\tdefault:", "\t\tdefault:"]}]}

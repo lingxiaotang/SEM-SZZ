@@ -1,0 +1,1 @@
+{"drivers/net/ethernet/sfc/ef100.c": [{"patch_file_name": "drivers/net/ethernet/sfc/ef100.c", "func_decl_name": "ef100_pci_probe", "is_cond": false, "line_numbers": [476, 476], "line_cids": ["", ""], "line_strs": ["\tif (rc) {", "\tif (rc) {"]}]}

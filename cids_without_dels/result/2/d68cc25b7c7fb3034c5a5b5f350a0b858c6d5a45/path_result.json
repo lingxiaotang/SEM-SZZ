@@ -1,0 +1,1 @@
+{"drivers/usb/dwc3/core.c": [{"patch_file_name": "drivers/usb/dwc3/core.c", "func_decl_name": "dwc3_get_extcon", "is_cond": true, "line_numbers": [1712, 1713], "line_cids": ["", ""], "line_strs": ["", "\t/*"]}]}

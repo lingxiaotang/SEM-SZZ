@@ -1,0 +1,1 @@
+{"drivers/gpu/drm/sun4i/sun4i_drv.c": [{"patch_file_name": "drivers/gpu/drm/sun4i/sun4i_drv.c", "func_decl_name": "sun4i_drv_unbind", "is_cond": false, "line_numbers": [146, 147], "line_cids": ["", ""], "line_strs": ["\tdrm_kms_helper_poll_fini(drm);", "\tdrm_mode_config_cleanup(drm);"]}]}

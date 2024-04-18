@@ -1,0 +1,1 @@
+{"lib/string_helpers.c": [{"patch_file_name": "lib/string_helpers.c", "func_decl_name": "devm_kasprintf_strarray", "is_cond": false, "line_numbers": [754, 755], "line_cids": ["", ""], "line_strs": ["\tptr->array = kasprintf_strarray(GFP_KERNEL, prefix, n);", "\tif (!ptr->array) {"]}]}

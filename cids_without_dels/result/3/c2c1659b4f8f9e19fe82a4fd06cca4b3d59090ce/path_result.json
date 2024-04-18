@@ -1,0 +1,1 @@
+{"drivers/tty/serial/mvebu-uart.c": [{"patch_file_name": "drivers/tty/serial/mvebu-uart.c", "func_decl_name": "mvebu_uart_shutdown", "is_cond": false, "line_numbers": [302], "line_cids": [""], "line_strs": ["\twritel(0, port->membase + UART_CTRL);"]}]}

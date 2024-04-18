@@ -1,0 +1,1 @@
+{"kernel/irq/irqdomain.c": [{"patch_file_name": "kernel/irq/irqdomain.c", "func_decl_name": "__irq_resolve_mapping", "is_cond": true, "line_numbers": [912, 913], "line_cids": ["", ""], "line_strs": ["\t\t\t\tdesc = irq_data_to_desc(data);", "\t\t}"]}]}

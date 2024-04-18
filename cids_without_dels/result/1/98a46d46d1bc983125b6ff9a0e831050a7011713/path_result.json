@@ -1,0 +1,1 @@
+{"drivers/net/ethernet/freescale/gianfar_ethtool.c": [{"patch_file_name": "drivers/net/ethernet/freescale/gianfar_ethtool.c", "func_decl_name": "gfar_spauseparam", "is_cond": true, "line_numbers": [535, 536], "line_cids": ["", ""], "line_strs": ["", "\tif (!(phydev->supported & SUPPORTED_Pause) ||"]}]}

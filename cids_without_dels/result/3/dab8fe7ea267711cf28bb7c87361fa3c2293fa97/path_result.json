@@ -1,0 +1,1 @@
+{"drivers/staging/exfat/exfat_cache.c": [{"patch_file_name": "drivers/staging/exfat/exfat_cache.c", "func_decl_name": "__FAT_write", "is_cond": true, "line_numbers": [371, 372], "line_cids": ["", ""], "line_strs": ["\t\t\t\tfat_sector = FAT_getblk(sb, ++sec);", "\t\t\t\tfat_sector[0] = (u8)((fat_sector[0] & 0xF0) |"]}]}

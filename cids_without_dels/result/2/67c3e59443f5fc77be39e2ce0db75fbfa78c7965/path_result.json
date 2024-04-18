@@ -1,0 +1,1 @@
+{"arch/powerpc/platforms/pseries/rng.c": [{"patch_file_name": "arch/powerpc/platforms/pseries/rng.c", "func_decl_name": "rng_init", "is_cond": false, "line_numbers": [31, 32], "line_cids": ["", ""], "line_strs": ["\tdn = of_find_compatible_node(NULL, NULL, \"ibm,random\");", "\tif (!dn)"]}]}

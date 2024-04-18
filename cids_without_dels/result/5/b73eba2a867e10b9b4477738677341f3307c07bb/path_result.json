@@ -1,0 +1,1 @@
+{"fs/ocfs2/dlmglue.c": [{"patch_file_name": "fs/ocfs2/dlmglue.c", "func_decl_name": "ocfs2_dlm_init_debug", "is_cond": false, "line_numbers": [3278, 3283], "line_cids": ["", ""], "line_strs": ["\tstruct ocfs2_dlm_debug *dlm_debug = osb->osb_dlm_debug;", "\tdebugfs_create_u32(\"locking_filter\", 0600, osb->osb_debug_root,"]}]}

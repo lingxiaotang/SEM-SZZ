@@ -1,0 +1,1 @@
+{"arch/s390/kvm/kvm-s390.c": [{"patch_file_name": "arch/s390/kvm/kvm-s390.c", "func_decl_name": "kvm_s390_guest_sida_op", "is_cond": true, "line_numbers": [4669, 4670], "line_cids": ["", ""], "line_strs": ["\t\treturn -E2BIG;", ""]}]}

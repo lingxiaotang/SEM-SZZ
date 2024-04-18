@@ -1,0 +1,1 @@
+{"drivers/net/ethernet/mellanox/mlx5/core/eswitch_offloads.c": [{"patch_file_name": "drivers/net/ethernet/mellanox/mlx5/core/eswitch_offloads.c", "func_decl_name": "esw_create_restore_table", "is_cond": true, "line_numbers": [1498, 1499], "line_cids": ["", ""], "line_strs": ["", "\tns = mlx5_get_flow_namespace(dev, MLX5_FLOW_NAMESPACE_OFFLOADS);"]}]}

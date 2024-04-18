@@ -1,0 +1,1 @@
+{"drivers/net/wireless/mediatek/mt76/mt7603/main.c": [{"patch_file_name": "drivers/net/wireless/mediatek/mt76/mt7603/main.c", "func_decl_name": "mt7603_sta_rate_tbl_update", "is_cond": true, "line_numbers": [643, 644], "line_cids": ["", ""], "line_strs": ["", "\tspin_lock_bh(&dev->mt76.lock);"]}]}

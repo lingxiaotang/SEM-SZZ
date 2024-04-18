@@ -1,0 +1,1 @@
+{"security/integrity/evm/evm_main.c": [{"patch_file_name": "security/integrity/evm/evm_main.c", "func_decl_name": "evm_verify_hmac", "is_cond": true, "line_numbers": [186, 187], "line_cids": ["", ""], "line_strs": ["\tcase EVM_XATTR_PORTABLE_DIGSIG:", "\t\thdr = (struct signature_v2_hdr *)xattr_data;"]}]}

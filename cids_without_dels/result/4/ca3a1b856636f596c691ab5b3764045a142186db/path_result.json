@@ -1,0 +1,1 @@
+{"net/ipv6/esp6_offload.c": [{"patch_file_name": "net/ipv6/esp6_offload.c", "func_decl_name": "esp6_gro_receive", "is_cond": true, "line_numbers": [74, 75], "line_cids": ["", ""], "line_strs": ["", "\tXFRM_TUNNEL_SKB_CB(skb)->tunnel.ip6 = NULL;"]}]}

@@ -1,0 +1,1 @@
+{"mm/page_alloc.c": [{"patch_file_name": "mm/page_alloc.c", "func_decl_name": "kernel_init_free_pages", "is_cond": true, "line_numbers": [1209, 1209], "line_cids": ["", ""], "line_strs": ["\tfor (i = 0; i < numpages; i++) {", "\tfor (i = 0; i < numpages; i++) {"]}]}

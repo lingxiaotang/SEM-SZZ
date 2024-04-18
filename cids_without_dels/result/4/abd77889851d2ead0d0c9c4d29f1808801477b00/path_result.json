@@ -1,0 +1,1 @@
+{"drivers/media/platform/ti-vpe/cal-video.c": [{"patch_file_name": "drivers/media/platform/ti-vpe/cal-video.c", "func_decl_name": "cal_ctx_v4l2_init_formats", "is_cond": true, "line_numbers": [825, 826], "line_cids": ["", ""], "line_strs": ["\t\t\t\t       sizeof(*ctx->active_fmt), GFP_KERNEL);", "\tctx->num_active_fmt = 0;"]}]}

@@ -1,0 +1,1 @@
+{"drivers/net/ethernet/mediatek/mtk_sgmii.c": [{"patch_file_name": "drivers/net/ethernet/mediatek/mtk_sgmii.c", "func_decl_name": "mtk_sgmii_init", "is_cond": true, "line_numbers": [23, 23], "line_cids": ["", ""], "line_strs": ["\tfor (i = 0; i < MTK_MAX_DEVS; i++) {", "\tfor (i = 0; i < MTK_MAX_DEVS; i++) {"]}]}

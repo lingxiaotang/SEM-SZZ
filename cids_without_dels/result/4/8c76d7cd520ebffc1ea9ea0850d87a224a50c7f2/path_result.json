@@ -1,0 +1,1 @@
+{"drivers/usb/serial/safe_serial.c": [{"patch_file_name": "drivers/usb/serial/safe_serial.c", "func_decl_name": "safe_process_read_urb", "is_cond": true, "line_numbers": [202, 203], "line_cids": ["", ""], "line_strs": ["", "\tfcs = fcs_compute10(data, length, CRC10_INITFCS);"]}]}

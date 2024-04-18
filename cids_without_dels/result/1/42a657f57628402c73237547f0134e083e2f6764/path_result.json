@@ -1,0 +1,1 @@
+{"fs/btrfs/relocation.c": [{"patch_file_name": "fs/btrfs/relocation.c", "func_decl_name": "relocate_block_group", "is_cond": false, "line_numbers": [3960, 3961], "line_cids": ["", ""], "line_strs": ["\t\tif (update_backref_cache(trans, &rc->backref_cache)) {", "\t\t\tbtrfs_end_transaction(trans);"]}]}

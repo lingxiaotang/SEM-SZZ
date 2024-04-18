@@ -1,0 +1,1 @@
+{"security/apparmor/mount.c": [{"patch_file_name": "security/apparmor/mount.c", "func_decl_name": "aa_pivotroot", "is_cond": false, "line_numbers": [716, 716], "line_cids": ["", ""], "line_strs": ["\t\terror = aa_replace_current_label(target);", "\t\terror = aa_replace_current_label(target);"]}]}

@@ -1,0 +1,1 @@
+{"fs/overlayfs/inode.c": [{"patch_file_name": "fs/overlayfs/inode.c", "func_decl_name": "ovl_d_select_inode", "is_cond": true, "line_numbers": [365, 366], "line_cids": ["", ""], "line_strs": ["", "\treturn d_backing_inode(realpath.dentry);"]}]}

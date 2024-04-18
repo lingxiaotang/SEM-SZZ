@@ -1,0 +1,1 @@
+{"drivers/hwmon/pmbus/bpa-rs600.c": [{"patch_file_name": "drivers/hwmon/pmbus/bpa-rs600.c", "func_decl_name": "bpa_rs600_read_word_data", "is_cond": true, "line_numbers": [87, 88], "line_cids": ["", ""], "line_strs": ["\t\tbreak;", "\tdefault:"]}]}

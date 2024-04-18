@@ -1,0 +1,1 @@
+{"mm/damon/dbgfs.c": [{"patch_file_name": "mm/damon/dbgfs.c", "func_decl_name": "dbgfs_mk_context", "is_cond": true, "line_numbers": [820, 821], "line_cids": ["", ""], "line_strs": ["\tnew_dir = debugfs_create_dir(name, root);", "\tdbgfs_dirs[dbgfs_nr_ctxs] = new_dir;"]}]}

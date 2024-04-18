@@ -1,0 +1,1 @@
+{"tools/lib/bpf/btf_dump.c": [{"patch_file_name": "tools/lib/bpf/btf_dump.c", "func_decl_name": "btf_dump_resolve_name", "is_cond": true, "line_numbers": [1507, 1508], "line_cids": ["", ""], "line_strs": ["", "\tdup_cnt = btf_dump_name_dups(d, name_map, orig_name);"]}]}

@@ -1,0 +1,1 @@
+{"drivers/net/wireless/rsi/rsi_91x_usb.c": [{"patch_file_name": "drivers/net/wireless/rsi/rsi_91x_usb.c", "func_decl_name": "rsi_probe", "is_cond": false, "line_numbers": [802, 802], "line_cids": ["", ""], "line_strs": ["\tif (status) {", "\tif (status) {"]}]}

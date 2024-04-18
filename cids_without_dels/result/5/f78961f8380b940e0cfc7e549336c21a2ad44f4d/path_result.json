@@ -1,0 +1,1 @@
+{"drivers/usb/dwc3/gadget.c": [{"patch_file_name": "drivers/usb/dwc3/gadget.c", "func_decl_name": "dwc3_gadget_ep_reclaim_completed_trb", "is_cond": true, "line_numbers": [3250, 3251], "line_cids": ["", ""], "line_strs": ["", "\tif ((trb->ctrl & DWC3_TRB_CTRL_IOC) ||"]}]}

@@ -1,0 +1,1 @@
+{"arch/x86/crypto/aesni-intel_glue.c": [{"patch_file_name": "arch/x86/crypto/aesni-intel_glue.c", "func_decl_name": "xts_crypt", "is_cond": true, "line_numbers": [851, 852], "line_cids": ["", ""], "line_strs": ["\terr = skcipher_walk_virt(&walk, req, false);", ""]}]}

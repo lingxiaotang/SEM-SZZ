@@ -1,0 +1,1 @@
+{"kernel/module/main.c": [{"patch_file_name": "kernel/module/main.c", "func_decl_name": "elf_validity_check", "is_cond": true, "line_numbers": [1728, 1729], "line_cids": ["", ""], "line_strs": ["\tinfo->secstrings = (void *)info->hdr + strhdr->sh_offset;", "\tif (info->secstrings[strhdr->sh_size - 1] != '\\0') {"]}]}

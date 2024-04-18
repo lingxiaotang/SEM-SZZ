@@ -1,0 +1,1 @@
+{"drivers/mtd/nand/omap2.c": [{"patch_file_name": "drivers/mtd/nand/omap2.c", "func_decl_name": "omap_nand_probe", "is_cond": true, "line_numbers": [1858, 1859], "line_cids": ["", ""], "line_strs": ["", "\tres = platform_get_resource(pdev, IORESOURCE_MEM, 0);"]}]}

@@ -1,0 +1,1 @@
+{"drivers/pinctrl/sunplus/sppctl.c": [{"patch_file_name": "drivers/pinctrl/sunplus/sppctl.c", "func_decl_name": "sppctl_dt_node_to_map", "is_cond": true, "line_numbers": [873, 874], "line_cids": ["", ""], "line_strs": ["\t*map = kcalloc(*num_maps + nmG, sizeof(**map), GFP_KERNEL);", "\tfor (i = 0; i < (*num_maps); i++) {"]}]}

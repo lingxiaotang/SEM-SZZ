@@ -1,0 +1,1 @@
+{"tools/perf/util/machine.c": [{"patch_file_name": "tools/perf/util/machine.c", "func_decl_name": "dsos__purge", "is_cond": false, "line_numbers": [93, 94], "line_cids": ["", ""], "line_strs": ["\t\tRB_CLEAR_NODE(&pos->rb_node);", "\t\tlist_del_init(&pos->node);"]}], "tools/perf/util/dso.c": []}

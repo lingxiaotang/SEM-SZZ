@@ -1,0 +1,1 @@
+{"net/ipv6/seg6_iptunnel.c": [{"patch_file_name": "net/ipv6/seg6_iptunnel.c", "func_decl_name": "seg6_do_srh_encap", "is_cond": false, "line_numbers": [148, 169], "line_cids": ["", ""], "line_strs": ["\t\thdr->hop_limit = ip6_dst_hoplimit(skb_dst(skb));", "\tskb_postpush_rcsum(skb, hdr, tot_len);"]}]}

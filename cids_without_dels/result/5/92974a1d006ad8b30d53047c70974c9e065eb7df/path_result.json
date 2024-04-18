@@ -1,0 +1,1 @@
+{"net/sched/act_sample.c": [{"patch_file_name": "net/sched/act_sample.c", "func_decl_name": "tcf_sample_dev_ok_push", "is_cond": true, "line_numbers": [148, 149], "line_cids": ["", ""], "line_strs": ["\tcase ARPHRD_IPGRE:", "\tcase ARPHRD_VOID:"]}]}

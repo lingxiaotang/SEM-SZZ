@@ -1,0 +1,1 @@
+{"drivers/ata/pata_platform.c": [{"patch_file_name": "drivers/ata/pata_platform.c", "func_decl_name": "__pata_platform_probe", "is_cond": true, "line_numbers": [130, 131], "line_cids": ["", ""], "line_strs": ["\tap->ops = devm_kzalloc(dev, sizeof(*ap->ops), GFP_KERNEL);", "\tap->ops->inherits = &ata_sff_port_ops;"]}]}

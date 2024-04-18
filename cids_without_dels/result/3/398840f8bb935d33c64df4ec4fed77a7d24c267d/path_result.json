@@ -1,0 +1,1 @@
+{"fs/open.c": [{"patch_file_name": "fs/open.c", "func_decl_name": "build_open_flags", "is_cond": true, "line_numbers": [1012, 1013], "line_cids": ["", ""], "line_strs": ["", "\t/* Deal with the mode. */"]}]}

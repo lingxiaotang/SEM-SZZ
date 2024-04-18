@@ -1,0 +1,1 @@
+{"drivers/iio/accel/sca3000.c": [{"patch_file_name": "drivers/iio/accel/sca3000.c", "func_decl_name": "sca3000_write_raw", "is_cond": false, "line_numbers": [798, 798], "line_cids": ["", ""], "line_strs": ["\t\tret = sca3000_write_3db_freq(st, val);", "\t\tret = sca3000_write_3db_freq(st, val);"]}]}

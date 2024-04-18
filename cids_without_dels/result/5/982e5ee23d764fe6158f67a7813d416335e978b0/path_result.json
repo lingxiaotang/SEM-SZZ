@@ -1,0 +1,1 @@
+{"drivers/net/ethernet/netronome/nfp/flower/offload.c": [{"patch_file_name": "drivers/net/ethernet/netronome/nfp/flower/offload.c", "func_decl_name": "nfp_flower_validate_pre_tun_rule", "is_cond": true, "line_numbers": [1144, 1145], "line_cids": ["", ""], "line_strs": ["", "\t/* Skip fields known to exist. */"]}]}

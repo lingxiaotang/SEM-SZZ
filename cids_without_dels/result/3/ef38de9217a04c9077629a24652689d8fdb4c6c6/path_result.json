@@ -1,0 +1,1 @@
+{"drivers/android/binder.c": [{"patch_file_name": "drivers/android/binder.c", "func_decl_name": "binder_translate_fd_array", "is_cond": true, "line_numbers": [2493, 2494], "line_cids": ["", ""], "line_strs": ["", "\tfd_buf_size = sizeof(u32) * fda->num_fds;"]}]}

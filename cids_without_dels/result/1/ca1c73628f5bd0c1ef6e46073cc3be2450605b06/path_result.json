@@ -1,0 +1,1 @@
+{"drivers/phy/st/phy-stm32-usbphyc.c": [{"patch_file_name": "drivers/phy/st/phy-stm32-usbphyc.c", "func_decl_name": "stm32_usbphyc_probe", "is_cond": true, "line_numbers": [712, 713], "line_cids": ["", ""], "line_strs": ["\t\t\tdev_err(&phy->dev, \"invalid reg property: %d\\n\", ret);", "\t\t\tgoto put_child;"]}]}

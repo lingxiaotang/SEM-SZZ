@@ -1,0 +1,1 @@
+{"drivers/net/ethernet/netronome/nfp/nfpcore/nfp_nsp_eth.c": [{"patch_file_name": "drivers/net/ethernet/netronome/nfp/nfpcore/nfp_nsp_eth.c", "func_decl_name": "nfp_eth_set_idmode", "is_cond": false, "line_numbers": [508, 508], "line_cids": ["", ""], "line_strs": ["\t\tnfp_err(nfp_nsp_cpp(nsp),", "\t\tnfp_err(nfp_nsp_cpp(nsp),"]}]}

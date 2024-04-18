@@ -1,0 +1,1 @@
+{"kernel/bpf/verifier.c": [{"patch_file_name": "kernel/bpf/verifier.c", "func_decl_name": "check_alu_op", "is_cond": true, "line_numbers": [1927, 1928], "line_cids": ["", ""], "line_strs": ["\t\tif (env->allow_ptr_leaks &&", "\t\t    (dst_reg->type == PTR_TO_MAP_VALUE ||"]}]}

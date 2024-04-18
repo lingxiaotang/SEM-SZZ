@@ -1,0 +1,1 @@
+{"crypto/asymmetric_keys/pkcs7_parser.c": [{"patch_file_name": "crypto/asymmetric_keys/pkcs7_parser.c", "func_decl_name": "pkcs7_check_authattrs", "is_cond": true, "line_numbers": [90, 91], "line_cids": ["", ""], "line_strs": ["\tsinfo = msg->signed_infos;", "\tif (sinfo->authattrs) {"]}]}

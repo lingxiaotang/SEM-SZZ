@@ -1,0 +1,1 @@
+{"drivers/hwmon/asus_atk0110.c": [{"patch_file_name": "drivers/hwmon/asus_atk0110.c", "func_decl_name": "atk_read_value", "is_cond": true, "line_numbers": [648, 649], "line_cids": ["", ""], "line_strs": ["", "\t\tsensor->is_valid = true;"]}]}

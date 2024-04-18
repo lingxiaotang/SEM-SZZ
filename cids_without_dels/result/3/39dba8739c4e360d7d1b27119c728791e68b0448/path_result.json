@@ -1,0 +1,1 @@
+{"fs/btrfs/backref.c": [{"patch_file_name": "fs/btrfs/backref.c", "func_decl_name": "resolve_indirect_ref", "is_cond": true, "line_numbers": [556, 557], "line_cids": ["", ""], "line_strs": ["", "\tif (btrfs_is_testing(fs_info)) {"]}]}

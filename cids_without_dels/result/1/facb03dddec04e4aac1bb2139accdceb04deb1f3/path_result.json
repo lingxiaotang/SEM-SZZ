@@ -1,0 +1,1 @@
+{"fs/minix/inode.c": [{"patch_file_name": "fs/minix/inode.c", "func_decl_name": "V2_minix_iget", "is_cond": true, "line_numbers": [503, 504], "line_cids": ["", ""], "line_strs": ["\t}", "\tinode->i_mode = raw_inode->i_mode;"]}]}

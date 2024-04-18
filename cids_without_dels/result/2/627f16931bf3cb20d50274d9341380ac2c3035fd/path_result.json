@@ -1,0 +1,1 @@
+{"drivers/net/amt.c": [{"patch_file_name": "drivers/net/amt.c", "func_decl_name": "amt_event_send_request", "is_cond": false, "line_numbers": [964, 965], "line_cids": ["", ""], "line_strs": ["\t\tamt_update_gw_status(amt, AMT_STATUS_INIT, false);", "\t\tamt->req_cnt = 0;"]}]}

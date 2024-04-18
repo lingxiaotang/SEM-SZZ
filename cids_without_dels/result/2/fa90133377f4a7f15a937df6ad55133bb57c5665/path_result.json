@@ -1,0 +1,1 @@
+{"drivers/staging/sm750fb/sm750.c": [{"patch_file_name": "drivers/staging/sm750fb/sm750.c", "func_decl_name": "lynxfb_set_fbinfo", "is_cond": true, "line_numbers": [902, 903], "line_cids": ["", ""], "line_strs": ["\tcase 16:", "\tcase 32:"]}]}

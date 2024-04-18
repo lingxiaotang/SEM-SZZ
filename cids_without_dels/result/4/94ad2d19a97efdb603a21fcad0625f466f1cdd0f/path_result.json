@@ -1,0 +1,1 @@
+{"drivers/crypto/keembay/keembay-ocs-ecc.c": [{"patch_file_name": "drivers/crypto/keembay/keembay-ocs-ecc.c", "func_decl_name": "kmb_ocs_ecc_probe", "is_cond": false, "line_numbers": [917, 919], "line_cids": ["", ""], "line_strs": ["\trc = devm_request_threaded_irq(dev, ecc_dev->irq, ocs_ecc_irq_handler,", "\tif (rc < 0) {"]}]}

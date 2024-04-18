@@ -1,0 +1,1 @@
+{"drivers/net/dsa/dsa_loop.c": [{"patch_file_name": "drivers/net/dsa/dsa_loop.c", "func_decl_name": "dsa_loop_drv_probe", "is_cond": true, "line_numbers": [258, 259], "line_cids": ["", ""], "line_strs": ["\tps = devm_kzalloc(&mdiodev->dev, sizeof(*ps), GFP_KERNEL);", "\tps->netdev = dev_get_by_name(&init_net, pdata->netdev);"]}]}

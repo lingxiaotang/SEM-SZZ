@@ -1,0 +1,1 @@
+{"drivers/vdpa/mlx5/net/mlx5_vnet.c": [{"patch_file_name": "drivers/vdpa/mlx5/net/mlx5_vnet.c", "func_decl_name": "mlx5_vdpa_change_map", "is_cond": true, "line_numbers": [1660, 1661], "line_cids": ["", ""], "line_strs": ["", "\trestore_channels_info(ndev);"]}]}

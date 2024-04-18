@@ -1,0 +1,1 @@
+{"kernel/bpf/syscall.c": [{"patch_file_name": "kernel/bpf/syscall.c", "func_decl_name": "generic_map_lookup_batch", "is_cond": true, "line_numbers": [1476, 1478], "line_cids": ["", ""], "line_strs": ["\t\trcu_read_lock();", "\t\trcu_read_unlock();"]}]}

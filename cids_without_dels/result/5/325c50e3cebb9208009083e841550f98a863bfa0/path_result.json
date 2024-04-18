@@ -1,0 +1,1 @@
+{"fs/btrfs/ioctl.c": [{"patch_file_name": "fs/btrfs/ioctl.c", "func_decl_name": "btrfs_ioctl_snap_destroy", "is_cond": true, "line_numbers": [2359, 2360], "line_cids": ["", ""], "line_strs": ["", "\tvol_args = memdup_user(arg, sizeof(*vol_args));"]}]}

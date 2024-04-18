@@ -1,0 +1,1 @@
+{"drivers/md/bcache/writeback.c": [{"patch_file_name": "drivers/md/bcache/writeback.c", "func_decl_name": "bch_cached_dev_writeback_start", "is_cond": false, "line_numbers": [835, 836], "line_cids": ["", ""], "line_strs": ["\t\tcached_dev_put(dc);", "\t\treturn PTR_ERR(dc->writeback_thread);"]}]}

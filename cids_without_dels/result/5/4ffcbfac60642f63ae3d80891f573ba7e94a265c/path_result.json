@@ -1,0 +1,1 @@
+{"net/batman-adv/soft-interface.c": [{"patch_file_name": "net/batman-adv/soft-interface.c", "func_decl_name": "batadv_interface_tx", "is_cond": true, "line_numbers": [229, 230], "line_cids": ["", ""], "line_strs": ["\tcase ETH_P_8021Q:", "\t\tvhdr = vlan_eth_hdr(skb);"]}]}

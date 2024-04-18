@@ -1,0 +1,1 @@
+{"drivers/usb/host/xhci.c": [{"patch_file_name": "drivers/usb/host/xhci.c", "func_decl_name": "xhci_setup_device", "is_cond": true, "line_numbers": [3805, 3806], "line_cids": ["", ""], "line_strs": ["", "\tcommand = xhci_alloc_command(xhci, false, false, GFP_KERNEL);"]}]}

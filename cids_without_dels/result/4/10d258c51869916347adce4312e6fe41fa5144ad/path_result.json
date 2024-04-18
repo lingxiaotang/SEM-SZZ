@@ -1,0 +1,1 @@
+{"drivers/tty/serdev/serdev-ttyport.c": [{"patch_file_name": "drivers/tty/serdev/serdev-ttyport.c", "func_decl_name": "ttyport_open", "is_cond": true, "line_numbers": [99, 100], "line_cids": ["", ""], "line_strs": ["\ttty = tty_init_dev(serport->tty_drv, serport->tty_idx);", "\tserport->tty = tty;"]}]}

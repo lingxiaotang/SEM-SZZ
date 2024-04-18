@@ -1,0 +1,1 @@
+{"mm/filemap.c": [{"patch_file_name": "mm/filemap.c", "func_decl_name": "filemap_get_read_batch", "is_cond": true, "line_numbers": [2387, 2388], "line_cids": ["", ""], "line_strs": ["\t\t\tbreak;", "\t\tif (!folio_try_get_rcu(folio))"]}]}

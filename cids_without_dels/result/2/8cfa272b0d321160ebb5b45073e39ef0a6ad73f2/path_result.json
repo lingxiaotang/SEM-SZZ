@@ -1,0 +1,1 @@
+{"drivers/net/wireless/realtek/rtlwifi/base.c": [{"patch_file_name": "drivers/net/wireless/realtek/rtlwifi/base.c", "func_decl_name": "rtl_c2hcmd_enqueue", "is_cond": false, "line_numbers": [2290, 2291], "line_cids": ["", ""], "line_strs": ["\tif (rtl_c2h_fast_cmd(hw, skb)) {", "\t\trtl_c2h_content_parsing(hw, skb);"]}]}

@@ -1,0 +1,1 @@
+{"tools/perf/builtin-inject.c": [{"patch_file_name": "tools/perf/builtin-inject.c", "func_decl_name": "__cmd_inject", "is_cond": true, "line_numbers": [696, 697], "line_cids": ["", ""], "line_strs": ["\tret = perf_session__process_events(session);", ""]}]}

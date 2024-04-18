@@ -1,0 +1,1 @@
+{"drivers/pci/endpoint/pci-ep-cfs.c": [{"patch_file_name": "drivers/pci/endpoint/pci-ep-cfs.c", "func_decl_name": "pci_epc_start_store", "is_cond": false, "line_numbers": [50, 52], "line_cids": ["", ""], "line_strs": ["\tstruct pci_epc_group *epc_group = to_pci_epc_group(item);", "\tepc = epc_group->epc;"]}]}

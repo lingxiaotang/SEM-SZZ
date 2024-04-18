@@ -1,0 +1,1 @@
+{"drivers/net/ethernet/freescale/dpaa2/dpaa2-switch.c": [{"patch_file_name": "drivers/net/ethernet/freescale/dpaa2/dpaa2-switch.c", "func_decl_name": "dpaa2_switch_remove", "is_cond": true, "line_numbers": [3201, 3201], "line_cids": ["", ""], "line_strs": ["\tfor (i = 0; i < ethsw->sw_attr.num_ifs; i++) {", "\tfor (i = 0; i < ethsw->sw_attr.num_ifs; i++) {"]}]}

@@ -1,0 +1,1 @@
+{"drivers/net/wireless/mac80211_hwsim.c": [{"patch_file_name": "drivers/net/wireless/mac80211_hwsim.c", "func_decl_name": "hwsim_tx_info_frame_received_nl", "is_cond": true, "line_numbers": [2776, 2779], "line_cids": ["", ""], "line_strs": ["\tif (!info->attrs[HWSIM_ATTR_ADDR_TRANSMITTER] ||", "\t    !info->attrs[HWSIM_ATTR_TX_INFO])"]}]}

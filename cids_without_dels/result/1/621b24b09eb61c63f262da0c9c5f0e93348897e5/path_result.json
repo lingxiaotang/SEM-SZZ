@@ -1,0 +1,1 @@
+{"drivers/net/ieee802154/ca8210.c": [{"patch_file_name": "drivers/net/ieee802154/ca8210.c", "func_decl_name": "ca8210_async_xmit_complete", "is_cond": false, "line_numbers": [1768, 1774], "line_cids": ["", ""], "line_strs": ["\t\tdev_err(", "\t\t\tieee802154_wake_queue(priv->hw);"]}]}

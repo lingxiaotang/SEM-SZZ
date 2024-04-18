@@ -1,0 +1,1 @@
+{"drivers/md/dm-crypt.c": [{"patch_file_name": "drivers/md/dm-crypt.c", "func_decl_name": "crypt_ctr_cipher_old", "is_cond": false, "line_numbers": [2463, 2463], "line_cids": ["", ""], "line_strs": ["\tret = crypt_alloc_tfms(cc, cipher_api);", "\tret = crypt_alloc_tfms(cc, cipher_api);"]}]}

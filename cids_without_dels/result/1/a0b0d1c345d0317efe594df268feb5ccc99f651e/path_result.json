@@ -1,0 +1,1 @@
+{"fs/proc/proc_sysctl.c": [{"patch_file_name": "fs/proc/proc_sysctl.c", "func_decl_name": "proc_sys_link_fill_cache", "is_cond": true, "line_numbers": [710, 711], "line_cids": ["", ""], "line_strs": ["\thead = sysctl_head_grab(head);", ""]}]}

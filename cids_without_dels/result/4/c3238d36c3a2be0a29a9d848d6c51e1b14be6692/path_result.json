@@ -1,0 +1,1 @@
+{"drivers/net/ethernet/intel/i40e/i40e_main.c": [{"patch_file_name": "drivers/net/ethernet/intel/i40e/i40e_main.c", "func_decl_name": "i40e_configure_clsflower", "is_cond": true, "line_numbers": [8544, 8545], "line_cids": ["", ""], "line_strs": ["", "\tif (test_bit(__I40E_RESET_RECOVERY_PENDING, pf->state) ||"]}]}

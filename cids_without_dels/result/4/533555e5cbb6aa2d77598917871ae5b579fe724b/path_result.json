@@ -1,0 +1,1 @@
+{"net/xfrm/xfrm_output.c": [{"patch_file_name": "net/xfrm/xfrm_output.c", "func_decl_name": "xfrm_output_one", "is_cond": false, "line_numbers": [92, 92], "line_cids": ["", ""], "line_strs": ["\t\tif (err) {", "\t\tif (err) {"]}]}

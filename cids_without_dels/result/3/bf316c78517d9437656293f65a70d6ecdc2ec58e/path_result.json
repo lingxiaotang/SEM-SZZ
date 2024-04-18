@@ -1,0 +1,1 @@
+{"drivers/scsi/lpfc/lpfc_init.c": [{"patch_file_name": "drivers/scsi/lpfc/lpfc_init.c", "func_decl_name": "lpfc_get_sli4_parameters", "is_cond": true, "line_numbers": [10673, 10674], "line_cids": ["", ""], "line_strs": ["", "\tif ((bf_get(cfg_cqpsize, mbx_sli4_parameters) & LPFC_CQ_16K_PAGE_SZ) &&"]}]}

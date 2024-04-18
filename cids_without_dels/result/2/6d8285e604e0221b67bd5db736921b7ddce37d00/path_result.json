@@ -1,0 +1,1 @@
+{"drivers/infiniband/hw/cxgb4/cq.c": [{"patch_file_name": "drivers/infiniband/hw/cxgb4/cq.c", "func_decl_name": "c4iw_create_cq", "is_cond": true, "line_numbers": [1010, 1011], "line_cids": ["", ""], "line_strs": ["", "\tif (vector >= rhp->rdev.lldi.nciq)"]}]}

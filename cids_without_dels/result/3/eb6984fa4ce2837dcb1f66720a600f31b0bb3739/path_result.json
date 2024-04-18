@@ -1,0 +1,1 @@
+{"fs/ext4/xattr.c": [{"patch_file_name": "fs/ext4/xattr.c", "func_decl_name": "ext4_xattr_inode_write", "is_cond": true, "line_numbers": [1386, 1387], "line_cids": ["", ""], "line_strs": ["\t\t\treturn PTR_ERR(bh);", "\t\tret = ext4_journal_get_write_access(handle, bh);"]}]}

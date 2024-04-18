@@ -1,0 +1,1 @@
+{"net/netfilter/nf_tables_api.c": [{"patch_file_name": "net/netfilter/nf_tables_api.c", "func_decl_name": "nft_del_setelem", "is_cond": true, "line_numbers": [6335, 6336], "line_cids": ["", ""], "line_strs": ["", "\tnft_set_ext_prepare(&tmpl);"]}]}

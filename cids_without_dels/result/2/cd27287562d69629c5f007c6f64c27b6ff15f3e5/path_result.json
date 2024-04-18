@@ -1,0 +1,1 @@
+{"drivers/infiniband/hw/mlx5/main.c": [{"patch_file_name": "drivers/infiniband/hw/mlx5/main.c", "func_decl_name": "translate_eth_ext_proto_oper", "is_cond": true, "line_numbers": [417, 418], "line_cids": ["", ""], "line_strs": ["\tcase MLX5E_PROT_MASK(MLX5E_50GAUI_2_LAUI_2_50GBASE_CR2_KR2):", "\tcase MLX5E_PROT_MASK(MLX5E_50GAUI_1_LAUI_1_50GBASE_CR_KR):"]}]}

@@ -1,0 +1,1 @@
+{"drivers/acpi/fan.c": [{"patch_file_name": "drivers/acpi/fan.c", "func_decl_name": "acpi_fan_get_fps", "is_cond": true, "line_numbers": [351, 351], "line_cids": ["", ""], "line_strs": ["\tfor (i = 0; i < fan->fps_count; ++i) {", "\tfor (i = 0; i < fan->fps_count; ++i) {"]}]}

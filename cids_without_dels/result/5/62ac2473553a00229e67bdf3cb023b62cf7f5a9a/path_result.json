@@ -1,0 +1,1 @@
+{"drivers/hid/hid-mcp2221.c": [{"patch_file_name": "drivers/hid/hid-mcp2221.c", "func_decl_name": "mcp_smbus_write", "is_cond": true, "line_numbers": [387, 387], "line_cids": ["", ""], "line_strs": ["\tdefault:", "\tdefault:"]}]}

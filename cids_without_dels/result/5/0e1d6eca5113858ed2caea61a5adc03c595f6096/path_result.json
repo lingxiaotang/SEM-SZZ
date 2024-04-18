@@ -1,0 +1,1 @@
+{"net/core/rtnetlink.c": [{"patch_file_name": "net/core/rtnetlink.c", "func_decl_name": "rtnl_create_link", "is_cond": true, "line_numbers": [2837, 2838], "line_cids": ["", ""], "line_strs": ["", "\tdev = alloc_netdev_mqs(ops->priv_size, ifname, name_assign_type,"]}]}

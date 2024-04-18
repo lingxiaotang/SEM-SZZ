@@ -1,0 +1,1 @@
+{"arch/x86/mm/pti.c": [{"patch_file_name": "arch/x86/mm/pti.c", "func_decl_name": "pti_kernel_image_global_ok", "is_cond": true, "line_numbers": [423, 424], "line_cids": ["", ""], "line_strs": ["", "\treturn true;"]}]}

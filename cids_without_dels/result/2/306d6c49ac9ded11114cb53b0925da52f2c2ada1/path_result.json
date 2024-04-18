@@ -1,0 +1,1 @@
+{"arch/s390/mm/fault.c": [{"patch_file_name": "arch/s390/mm/fault.c", "func_decl_name": "do_exception", "is_cond": true, "line_numbers": [504, 505], "line_cids": ["", ""], "line_strs": ["\t\tfault = VM_FAULT_SIGNAL;", "\t\tgoto out;"]}]}

@@ -1,0 +1,1 @@
+{"drivers/i2c/busses/i2c-ismt.c": [{"patch_file_name": "drivers/i2c/busses/i2c-ismt.c", "func_decl_name": "ismt_access", "is_cond": true, "line_numbers": [530, 531], "line_cids": ["", ""], "line_strs": ["\t\tdev_dbg(dev, \"I2C_SMBUS_BLOCK_PROC_CALL\\n\");", "\t\tdma_size = I2C_SMBUS_BLOCK_MAX;"]}]}

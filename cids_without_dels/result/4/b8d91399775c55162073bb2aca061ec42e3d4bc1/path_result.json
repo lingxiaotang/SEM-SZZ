@@ -1,0 +1,1 @@
+{"drivers/net/ethernet/broadcom/bgmac-bcma-mdio.c": [{"patch_file_name": "drivers/net/ethernet/broadcom/bgmac-bcma-mdio.c", "func_decl_name": "bcma_mdio_mii_register", "is_cond": false, "line_numbers": [236, 236], "line_cids": ["", ""], "line_strs": ["\terr = of_mdiobus_register(mii_bus, np);", "\terr = of_mdiobus_register(mii_bus, np);"]}]}

@@ -1,0 +1,1 @@
+{"fs/ext4/resize.c": [{"patch_file_name": "fs/ext4/resize.c", "func_decl_name": "add_new_gdb", "is_cond": false, "line_numbers": [871, 871], "line_cids": ["", ""], "line_strs": ["\terr = ext4_handle_dirty_metadata(handle, NULL, gdb_bh);", "\terr = ext4_handle_dirty_metadata(handle, NULL, gdb_bh);"]}]}

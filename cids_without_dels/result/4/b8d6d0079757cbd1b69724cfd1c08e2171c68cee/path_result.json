@@ -1,0 +1,1 @@
+{"net/xfrm/xfrm_user.c": [{"patch_file_name": "net/xfrm/xfrm_user.c", "func_decl_name": "verify_newsa_info", "is_cond": true, "line_numbers": [168, 169], "line_cids": ["", ""], "line_strs": ["\tswitch (p->sel.family) {", "\tcase AF_INET:"]}]}

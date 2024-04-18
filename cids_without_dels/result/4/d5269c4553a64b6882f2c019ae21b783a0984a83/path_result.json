@@ -1,0 +1,1 @@
+{"drivers/remoteproc/qcom_q6v5.c": [{"patch_file_name": "drivers/remoteproc/qcom_q6v5.c", "func_decl_name": "qcom_q6v5_init", "is_cond": true, "line_numbers": [200, 201], "line_cids": ["", ""], "line_strs": ["\tq6v5->fatal_irq = platform_get_irq_byname(pdev, \"fatal\");", "\tret = devm_request_threaded_irq(&pdev->dev, q6v5->fatal_irq,"]}]}

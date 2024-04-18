@@ -1,0 +1,1 @@
+{"drivers/vhost/vdpa.c": [{"patch_file_name": "drivers/vhost/vdpa.c", "func_decl_name": "vhost_vdpa_map", "is_cond": true, "line_numbers": [567, 568], "line_cids": ["", ""], "line_strs": ["", "\treturn r;"]}]}

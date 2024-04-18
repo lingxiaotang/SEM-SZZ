@@ -1,0 +1,1 @@
+{"drivers/net/ethernet/amazon/ena/ena_ethtool.c": [{"patch_file_name": "drivers/net/ethernet/amazon/ena/ena_ethtool.c", "func_decl_name": "ena_get_rxfh", "is_cond": true, "line_numbers": [651, 652], "line_cids": ["", ""], "line_strs": ["\trc = ena_com_get_hash_function(adapter->ena_dev, &ena_func, key);", "\tif (rc)"]}]}

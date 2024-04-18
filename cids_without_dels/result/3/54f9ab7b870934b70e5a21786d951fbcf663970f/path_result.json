@@ -1,0 +1,1 @@
+{"drivers/net/wireless/ath/ath6kl/main.c": [{"patch_file_name": "drivers/net/wireless/ath/ath6kl/main.c", "func_decl_name": "ath6kl_connect_ap_mode_sta", "is_cond": true, "line_numbers": [432, 433], "line_cids": ["", ""], "line_strs": ["", "\tif (assoc_req_len > sizeof(struct ieee80211_hdr_3addr)) {"]}]}

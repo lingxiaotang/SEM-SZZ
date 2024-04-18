@@ -1,0 +1,1 @@
+{"security/commoncap.c": [{"patch_file_name": "security/commoncap.c", "func_decl_name": "cap_inode_getsecurity", "is_cond": false, "line_numbers": [442, 455], "line_cids": ["", ""], "line_strs": ["\t\t*buffer = kmalloc(size, GFP_ATOMIC);", "\treturn size;"]}]}

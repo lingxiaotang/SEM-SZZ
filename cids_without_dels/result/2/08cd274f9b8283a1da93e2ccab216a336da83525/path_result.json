@@ -1,0 +1,1 @@
+{"fs/jffs2/super.c": [{"patch_file_name": "fs/jffs2/super.c", "func_decl_name": "jffs2_reconfigure", "is_cond": false, "line_numbers": [223], "line_cids": [""], "line_strs": ["\treturn jffs2_do_remount_fs(sb, fc);"]}]}

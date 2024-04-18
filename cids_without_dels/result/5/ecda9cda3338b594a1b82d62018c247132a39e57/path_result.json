@@ -1,0 +1,1 @@
+{"drivers/net/wireless/realtek/rtw88/main.c": [{"patch_file_name": "drivers/net/wireless/realtek/rtw88/main.c", "func_decl_name": "rtw_core_deinit", "is_cond": false, "line_numbers": [1495], "line_cids": [""], "line_strs": ["\ttasklet_kill(&rtwdev->tx_tasklet);"]}]}

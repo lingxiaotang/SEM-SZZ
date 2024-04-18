@@ -1,0 +1,1 @@
+{"net/mac80211/tx.c": [{"patch_file_name": "net/mac80211/tx.c", "func_decl_name": "ieee80211_parse_tx_radiotap", "is_cond": true, "line_numbers": [1841, 1842], "line_cids": ["", ""], "line_strs": ["", "\t\tinfo->control.rates[0].flags = rate_flags;"]}]}

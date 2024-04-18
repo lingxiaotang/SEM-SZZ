@@ -1,0 +1,1 @@
+{"drivers/infiniband/core/uverbs_uapi.c": [{"patch_file_name": "drivers/infiniband/core/uverbs_uapi.c", "func_decl_name": "uapi_finalize", "is_cond": true, "line_numbers": [449, 450], "line_cids": ["", ""], "line_strs": ["\t\t\t     sizeof(*uapi->write_methods), GFP_KERNEL);", "\tfor (i = 0; i != uapi->num_write + uapi->num_write_ex; i++)"]}]}

@@ -1,0 +1,1 @@
+{"arch/x86/kernel/dumpstack_64.c": [{"patch_file_name": "arch/x86/kernel/dumpstack_64.c", "func_decl_name": "in_exception_stack", "is_cond": true, "line_numbers": [96, 97], "line_cids": ["", ""], "line_strs": ["\tbegin = (unsigned long)__this_cpu_read(cea_exception_stacks);", "\tend = begin + sizeof(struct cea_exception_stacks);"]}]}

@@ -1,0 +1,1 @@
+{"arch/arm/kvm/arm.c": [{"patch_file_name": "arch/arm/kvm/arm.c", "func_decl_name": "kvm_arch_vcpu_free", "is_cond": false, "line_numbers": [265, 266], "line_cids": ["", ""], "line_strs": ["\tkvm_pmu_vcpu_destroy(vcpu);", "\tkmem_cache_free(kvm_vcpu_cache, vcpu);"]}]}

@@ -1,0 +1,1 @@
+{"kernel/trace/trace_eprobe.c": [{"patch_file_name": "kernel/trace/trace_eprobe.c", "func_decl_name": "get_event_field", "is_cond": true, "line_numbers": [313, 314], "line_cids": ["", ""], "line_strs": ["", "\tswitch (field->size) {"]}]}

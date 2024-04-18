@@ -1,0 +1,1 @@
+{"drivers/media/platform/ti-vpe/vpe.c": [{"patch_file_name": "drivers/media/platform/ti-vpe/vpe.c", "func_decl_name": "vpe_runtime_get", "is_cond": true, "line_numbers": [2477, 2478], "line_cids": ["", ""], "line_strs": ["\tWARN_ON(r < 0);", "\treturn r < 0 ? r : 0;"]}]}

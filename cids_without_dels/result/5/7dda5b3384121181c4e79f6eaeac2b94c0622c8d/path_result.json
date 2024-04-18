@@ -1,0 +1,1 @@
+{"net/batman-adv/routing.c": [{"patch_file_name": "net/batman-adv/routing.c", "func_decl_name": "batadv_check_unicast_ttvn", "is_cond": true, "line_numbers": [828, 829], "line_cids": ["", ""], "line_strs": ["", "\t/* check if the destination client was served by this node and it is now"]}]}

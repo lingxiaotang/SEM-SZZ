@@ -1,0 +1,1 @@
+{"net/sctp/sm_sideeffect.c": [{"patch_file_name": "net/sctp/sm_sideeffect.c", "func_decl_name": "sctp_generate_reconf_event", "is_cond": true, "line_numbers": [460, 461], "line_cids": ["", ""], "line_strs": ["", "\terror = sctp_do_sm(net, SCTP_EVENT_T_TIMEOUT,"]}]}

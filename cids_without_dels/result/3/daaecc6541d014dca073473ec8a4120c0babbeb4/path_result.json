@@ -1,0 +1,1 @@
+{"drivers/usb/dwc3/core.c": [{"patch_file_name": "drivers/usb/dwc3/core.c", "func_decl_name": "__dwc3_set_mode", "is_cond": true, "line_numbers": [121, 122], "line_cids": ["", ""], "line_strs": ["", "\tswitch (dwc->current_dr_role) {"]}]}

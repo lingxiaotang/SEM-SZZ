@@ -1,0 +1,1 @@
+{"drivers/of/base.c": [{"patch_file_name": "drivers/of/base.c", "func_decl_name": "of_populate_phandle_cache", "is_cond": true, "line_numbers": [142, 143], "line_cids": ["", ""], "line_strs": ["", "\tcache_entries = roundup_pow_of_two(phandles);"]}]}

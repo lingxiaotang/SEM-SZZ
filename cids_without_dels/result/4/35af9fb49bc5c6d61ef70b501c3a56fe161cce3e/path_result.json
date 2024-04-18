@@ -1,0 +1,1 @@
+{"drivers/fsi/fsi-core.c": [{"patch_file_name": "drivers/fsi/fsi-core.c", "func_decl_name": "fsi_master_register", "is_cond": true, "line_numbers": [1316, 1317], "line_cids": ["", ""], "line_strs": ["\tmaster->idx = ida_simple_get(&master_ida, 0, INT_MAX, GFP_KERNEL);", "\tdev_set_name(&master->dev, \"fsi%d\", master->idx);"]}]}

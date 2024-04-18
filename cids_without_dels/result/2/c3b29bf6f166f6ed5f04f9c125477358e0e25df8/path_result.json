@@ -1,0 +1,1 @@
+{"drivers/rtc/rtc-rv3028.c": [{"patch_file_name": "drivers/rtc/rtc-rv3028.c", "func_decl_name": "rv3028_probe", "is_cond": true, "line_numbers": [757, 758], "line_cids": ["", ""], "line_strs": ["\trv3028->regmap = devm_regmap_init_i2c(client, &regmap_config);", ""]}]}

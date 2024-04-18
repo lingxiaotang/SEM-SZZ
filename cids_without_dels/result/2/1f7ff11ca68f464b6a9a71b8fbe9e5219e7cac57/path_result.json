@@ -1,0 +1,1 @@
+{"drivers/base/physical_location.c": [{"patch_file_name": "drivers/base/physical_location.c", "func_decl_name": "panel_show", "is_cond": true, "line_numbers": [59, 60], "line_cids": ["", ""], "line_strs": ["\t\tbreak;", "\tdefault:"]}]}

@@ -1,0 +1,1 @@
+{"fs/nilfs2/sysfs.c": [{"patch_file_name": "fs/nilfs2/sysfs.c", "func_decl_name": "nilfs_sysfs_delete_device_group", "is_cond": false, "line_numbers": [1055, 1056], "line_cids": ["", ""], "line_strs": ["\tkobject_del(&nilfs->ns_dev_kobj);", "\tkfree(nilfs->ns_dev_subgroups);"]}]}

@@ -1,0 +1,1 @@
+{"drivers/gpu/drm/bridge/ite-it66121.c": [{"patch_file_name": "drivers/gpu/drm/bridge/ite-it66121.c", "func_decl_name": "it66121_bridge_attach", "is_cond": true, "line_numbers": [538, 539], "line_cids": ["", ""], "line_strs": ["\tret = drm_bridge_attach(bridge->encoder, ctx->next_bridge, bridge, flags);", ""]}]}

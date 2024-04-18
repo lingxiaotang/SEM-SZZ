@@ -1,0 +1,1 @@
+{"kernel/bpf/hashtab.c": [{"patch_file_name": "kernel/bpf/hashtab.c", "func_decl_name": "htab_init_buckets", "is_cond": true, "line_numbers": [144, 144], "line_cids": ["", ""], "line_strs": ["\tfor (i = 0; i < htab->n_buckets; i++) {", "\tfor (i = 0; i < htab->n_buckets; i++) {"]}]}

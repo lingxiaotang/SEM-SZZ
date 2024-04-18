@@ -1,0 +1,1 @@
+{"fs/notify/fanotify/fanotify.c": [{"patch_file_name": "fs/notify/fanotify/fanotify.c", "func_decl_name": "fanotify_name_event_equal", "is_cond": true, "line_numbers": [84, 85], "line_cids": ["", ""], "line_strs": ["", "\treturn fanotify_info_equal(info1, info2);"]}]}

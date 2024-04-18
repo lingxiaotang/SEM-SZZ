@@ -1,0 +1,1 @@
+{"drivers/net/ethernet/mellanox/mlx5/core/fs_ft_pool.c": [{"patch_file_name": "drivers/net/ethernet/mellanox/mlx5/core/fs_ft_pool.c", "func_decl_name": "mlx5_ft_pool_init", "is_cond": true, "line_numbers": [29, 30], "line_cids": ["", ""], "line_strs": ["\tft_pool = kzalloc(sizeof(*ft_pool), GFP_KERNEL);", ""]}]}

@@ -1,0 +1,1 @@
+{"drivers/gpu/drm/i915/intel_pm.c": [{"patch_file_name": "drivers/gpu/drm/i915/intel_pm.c", "func_decl_name": "gen6_check_mailbox_status", "is_cond": true, "line_numbers": [7755, 7756], "line_cids": ["", ""], "line_strs": ["\tcase GEN6_PCODE_MIN_FREQ_TABLE_GT_RATIO_OUT_OF_RANGE:", "\t\treturn -EOVERFLOW;"]}]}

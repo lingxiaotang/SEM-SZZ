@@ -1,0 +1,1 @@
+{"drivers/dma/fsl-edma.c": [{"patch_file_name": "drivers/dma/fsl-edma.c", "func_decl_name": "fsl_edma_tx_handler", "is_cond": true, "line_numbers": [41, 41], "line_cids": ["", ""], "line_strs": ["\tfor (ch = 0; ch < fsl_edma->n_chans; ch++) {", "\tfor (ch = 0; ch < fsl_edma->n_chans; ch++) {"]}]}

@@ -1,0 +1,1 @@
+{"net/batman-adv/bat_v.c": [{"patch_file_name": "net/batman-adv/bat_v.c", "func_decl_name": "batadv_v_neigh_is_sob", "is_cond": true, "line_numbers": [278, 279], "line_cids": ["", ""], "line_strs": ["", "\tthreshold = ifinfo1->bat_v.throughput / 4;"]}]}

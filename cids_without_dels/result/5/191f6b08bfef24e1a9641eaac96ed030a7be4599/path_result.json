@@ -1,0 +1,1 @@
+{"drivers/net/wireless/realtek/rtw88/pci.c": [{"patch_file_name": "drivers/net/wireless/realtek/rtw88/pci.c", "func_decl_name": "rtw_pci_io_mapping", "is_cond": false, "line_numbers": [1103, 1103], "line_cids": ["", ""], "line_strs": ["\trtwpci->mmap = pci_iomap(pdev, bar_id, len);", "\trtwpci->mmap = pci_iomap(pdev, bar_id, len);"]}]}

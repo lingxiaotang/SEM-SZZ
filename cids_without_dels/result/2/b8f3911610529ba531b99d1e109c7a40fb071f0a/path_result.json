@@ -1,0 +1,1 @@
+{"drivers/mtd/spi-nor/spi-nor.c": [{"patch_file_name": "drivers/mtd/spi-nor/spi-nor.c", "func_decl_name": "spi_nor_parse_bfpt", "is_cond": true, "line_numbers": [2129, 2130], "line_cids": ["", ""], "line_strs": ["\t\tparams->size &= ~BIT(31);", "\t\tparams->size = 1ULL << params->size;"]}]}

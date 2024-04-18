@@ -1,0 +1,1 @@
+{"drivers/pinctrl/pinctrl-sx150x.c": [{"patch_file_name": "drivers/pinctrl/pinctrl-sx150x.c", "func_decl_name": "sx150x_probe", "is_cond": true, "line_numbers": [1195, 1196], "line_cids": ["", ""], "line_strs": ["", "\t/* Add Interrupt support if an irq is specified */"]}]}

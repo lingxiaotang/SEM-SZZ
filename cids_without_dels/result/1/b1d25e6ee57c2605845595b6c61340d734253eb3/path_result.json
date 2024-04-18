@@ -1,0 +1,1 @@
+{"drivers/usb/renesas_usbhs/pipe.c": [{"patch_file_name": "drivers/usb/renesas_usbhs/pipe.c", "func_decl_name": "usbhs_pipe_free", "is_cond": false, "line_numbers": [749], "line_cids": [""], "line_strs": ["\tusbhsp_put_pipe(pipe);"]}]}

@@ -1,0 +1,1 @@
+{"drivers/dma-buf/dma-buf.c": [{"patch_file_name": "drivers/dma-buf/dma-buf.c", "func_decl_name": "dma_buf_release", "is_cond": true, "line_numbers": [61, 62], "line_cids": ["", ""], "line_strs": ["\tdmabuf = dentry->d_fsdata;", ""]}]}

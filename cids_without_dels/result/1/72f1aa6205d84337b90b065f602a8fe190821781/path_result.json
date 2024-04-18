@@ -1,0 +1,1 @@
+{"drivers/soc/qcom/apr.c": [{"patch_file_name": "drivers/soc/qcom/apr.c", "func_decl_name": "of_apr_add_pd_lookups", "is_cond": false, "line_numbers": [491, 491], "line_cids": ["", ""], "line_strs": ["\t\tret = of_property_read_string_index(node, \"qcom,protection-domain\",", "\t\tret = of_property_read_string_index(node, \"qcom,protection-domain\","]}]}

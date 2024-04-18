@@ -1,0 +1,1 @@
+{"kernel/bpf/btf.c": [{"patch_file_name": "kernel/bpf/btf.c", "func_decl_name": "btf_check_type_tags", "is_cond": true, "line_numbers": [4829, 4830], "line_cids": ["", ""], "line_strs": ["\t\twhile (btf_type_is_modifier(t)) {", "\t\t\tif (btf_type_is_type_tag(t)) {"]}]}

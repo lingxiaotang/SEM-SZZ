@@ -1,0 +1,1 @@
+{"net/smc/smc_core.c": [{"patch_file_name": "net/smc/smc_core.c", "func_decl_name": "smc_buf_create", "is_cond": false, "line_numbers": [1780, 1781], "line_cids": ["", ""], "line_strs": ["\t\tmutex_unlock(&smc->conn.lgr->sndbufs_lock);", "\t\tsmc_buf_free(smc->conn.lgr, false, smc->conn.sndbuf_desc);"]}]}

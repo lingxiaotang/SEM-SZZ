@@ -1,0 +1,1 @@
+{"kernel/workqueue.c": [{"patch_file_name": "kernel/workqueue.c", "func_decl_name": "__flush_work", "is_cond": true, "line_numbers": [2907, 2908], "line_cids": ["", ""], "line_strs": ["", "\tif (start_flush_work(work, &barr, from_cancel)) {"]}]}

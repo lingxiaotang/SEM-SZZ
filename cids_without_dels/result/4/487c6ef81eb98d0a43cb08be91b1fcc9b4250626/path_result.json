@@ -1,0 +1,1 @@
+{"drivers/net/ethernet/mellanox/mlx5/core/fs_core.c": [{"patch_file_name": "drivers/net/ethernet/mellanox/mlx5/core/fs_core.c", "func_decl_name": "__mlx5_create_flow_table", "is_cond": false, "line_numbers": [1142, 1144], "line_cids": ["", ""], "line_strs": ["\troot->cmds->destroy_flow_table(root, ft);", "\tkfree(ft);"]}]}

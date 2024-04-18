@@ -1,0 +1,1 @@
+{"drivers/scsi/sg.c": [{"patch_file_name": "drivers/scsi/sg.c", "func_decl_name": "sg_add_sfp", "is_cond": false, "line_numbers": [2183, 2184], "line_cids": ["", ""], "line_strs": ["\tsfp->keep_orphan = SG_DEF_KEEP_ORPHAN;", "\tsfp->parentdp = sdp;"]}]}

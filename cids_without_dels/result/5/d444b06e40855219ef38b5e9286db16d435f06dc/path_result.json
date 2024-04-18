@@ -1,0 +1,1 @@
+{"tools/bpf/bpftool/common.c": [{"patch_file_name": "tools/bpf/bpftool/common.c", "func_decl_name": "mount_bpffs_for_pin", "is_cond": true, "line_numbers": [224, 225], "line_cids": ["", ""], "line_strs": ["\tfile = malloc(strlen(name) + 1);", "\tstrcpy(file, name);"]}]}

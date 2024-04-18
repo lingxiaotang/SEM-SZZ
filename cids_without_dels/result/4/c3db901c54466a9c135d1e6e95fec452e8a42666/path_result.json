@@ -1,0 +1,1 @@
+{"drivers/iommu/amd_iommu.c": [{"patch_file_name": "drivers/iommu/amd_iommu.c", "func_decl_name": "dma_ops_domain_free", "is_cond": true, "line_numbers": [1725, 1726], "line_cids": ["", ""], "line_strs": ["", "\tkfree(dom);"]}]}

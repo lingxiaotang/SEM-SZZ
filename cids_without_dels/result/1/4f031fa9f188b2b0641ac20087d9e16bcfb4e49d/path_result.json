@@ -1,0 +1,1 @@
+{"net/mac80211/aes_ccm.c": [{"patch_file_name": "net/mac80211/aes_ccm.c", "func_decl_name": "ieee80211_aes_ccm_decrypt", "is_cond": true, "line_numbers": [55, 56], "line_cids": ["", ""], "line_strs": ["", "\tmemset(aead_req, 0, sizeof(aead_req_data));"]}]}

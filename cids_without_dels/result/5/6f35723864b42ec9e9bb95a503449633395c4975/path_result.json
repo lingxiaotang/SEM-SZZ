@@ -1,0 +1,1 @@
+{"drivers/net/ethernet/mellanox/mlx5/core/devlink.c": [{"patch_file_name": "drivers/net/ethernet/mellanox/mlx5/core/devlink.c", "func_decl_name": "mlx5_devlink_unregister", "is_cond": false, "line_numbers": [673, 674], "line_cids": ["", ""], "line_strs": ["\tmlx5_devlink_traps_unregister(devlink);", "\tdevlink_params_unregister(devlink, mlx5_devlink_params,"]}]}

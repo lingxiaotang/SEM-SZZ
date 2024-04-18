@@ -1,0 +1,1 @@
+{"arch/x86/kvm/lapic.c": [{"patch_file_name": "arch/x86/kvm/lapic.c", "func_decl_name": "kvm_lapic_reg_read", "is_cond": true, "line_numbers": [1412, 1413], "line_cids": ["", ""], "line_strs": ["", "\tif (offset > 0x3f0 || !(valid_reg_mask & APIC_REG_MASK(offset)))"]}]}

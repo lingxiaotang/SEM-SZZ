@@ -1,0 +1,1 @@
+{"drivers/remoteproc/qcom_q6v5_mss.c": [{"patch_file_name": "drivers/remoteproc/qcom_q6v5_mss.c", "func_decl_name": "q6v5_mpss_load", "is_cond": true, "line_numbers": [1212, 1213], "line_cids": ["", ""], "line_strs": ["", "\t\tptr = memremap(qproc->mpss_phys + offset, phdr->p_memsz, MEMREMAP_WC);"]}]}

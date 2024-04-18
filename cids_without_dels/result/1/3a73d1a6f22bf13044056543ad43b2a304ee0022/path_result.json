@@ -1,0 +1,1 @@
+{"drivers/net/wireless/ath/ath10k/mac.c": [{"patch_file_name": "drivers/net/wireless/ath/ath10k/mac.c", "func_decl_name": "ath10k_mac_tx_unlock", "is_cond": false, "line_numbers": [2995, 2998], "line_cids": ["", ""], "line_strs": ["\tif (ar->tx_paused)", "\tieee80211_iterate_active_interfaces_atomic(ar->hw,"]}]}

@@ -1,0 +1,1 @@
+{"net/ipv6/route.c": [], "net/ipv4/fib_semantics.c": [], "net/core/lwtunnel.c": [{"patch_file_name": "net/core/lwtunnel.c", "func_decl_name": "lwtunnel_valid_encap_type_attr", "is_cond": true, "line_numbers": [199, 200], "line_cids": ["", ""], "line_strs": ["\t\t\tif (nla_entype) {", "\t\t\t\tencap_type = nla_get_u16(nla_entype);"]}]}

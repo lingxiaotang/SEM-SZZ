@@ -1,0 +1,1 @@
+{"drivers/i2c/busses/i2c-mlxbf.c": [{"patch_file_name": "drivers/i2c/busses/i2c-mlxbf.c", "func_decl_name": "mlxbf_i2c_smbus_start_transaction", "is_cond": true, "line_numbers": [740, 741], "line_cids": ["", ""], "line_strs": ["\t\t\twrite_len += operation->length;", "\t\t\tmemcpy(data_desc + data_idx,"]}]}

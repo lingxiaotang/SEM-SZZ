@@ -1,0 +1,1 @@
+{"drivers/regulator/s2mps11.c": [{"patch_file_name": "drivers/regulator/s2mps11.c", "func_decl_name": "s2mps14_pmic_dt_parse_ext_control_gpio", "is_cond": true, "line_numbers": [812, 812], "line_cids": ["", ""], "line_strs": ["\tfor (i = 0; i < ARRAY_SIZE(valid_regulators); i++) {", "\tfor (i = 0; i < ARRAY_SIZE(valid_regulators); i++) {"]}]}

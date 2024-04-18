@@ -1,0 +1,1 @@
+{"net/mac80211/iface.c": [{"patch_file_name": "net/mac80211/iface.c", "func_decl_name": "ieee80211_if_add", "is_cond": false, "line_numbers": [1816, 1818], "line_cids": ["", ""], "line_strs": ["\t\tret = dev_alloc_name(ndev, ndev->name);", "\t\t\tieee80211_if_free(ndev);"]}]}

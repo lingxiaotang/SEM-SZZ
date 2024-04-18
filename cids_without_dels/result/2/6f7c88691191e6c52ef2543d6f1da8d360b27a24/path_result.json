@@ -1,0 +1,1 @@
+{"drivers/net/usb/usbnet.c": [{"patch_file_name": "drivers/net/usb/usbnet.c", "func_decl_name": "usbnet_probe", "is_cond": true, "line_numbers": [1791, 1791], "line_cids": ["", ""], "line_strs": ["\tif (dev->maxpacket == 0) {", "\tif (dev->maxpacket == 0) {"]}]}

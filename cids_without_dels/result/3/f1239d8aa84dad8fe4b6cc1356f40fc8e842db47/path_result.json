@@ -1,0 +1,1 @@
+{"drivers/net/ethernet/stmicro/stmmac/dwmac-sun8i.c": [{"patch_file_name": "drivers/net/ethernet/stmicro/stmmac/dwmac-sun8i.c", "func_decl_name": "sun8i_dwmac_set_syscon", "is_cond": true, "line_numbers": [959, 960], "line_cids": ["", ""], "line_strs": ["\tcase PHY_INTERFACE_MODE_RGMII:", "\t\treg |= SYSCON_EPIT | SYSCON_ETCS_INT_GMII;"]}]}

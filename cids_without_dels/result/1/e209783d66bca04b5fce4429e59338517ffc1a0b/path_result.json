@@ -1,0 +1,1 @@
+{"drivers/scsi/qla2xxx/tcm_qla2xxx.c": [{"patch_file_name": "drivers/scsi/qla2xxx/tcm_qla2xxx.c", "func_decl_name": "tcm_qla2xxx_write_pending", "is_cond": false, "line_numbers": [390, 392], "line_cids": ["", ""], "line_strs": ["\t\tpr_debug(\"write_pending aborted cmd[%p] refcount %d \"", "\t\t\tcmd, kref_read(&cmd->se_cmd.cmd_kref),"]}]}

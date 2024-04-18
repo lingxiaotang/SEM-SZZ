@@ -1,0 +1,1 @@
+{"drivers/base/power/main.c": [{"patch_file_name": "drivers/base/power/main.c", "func_decl_name": "dpm_suspend_late", "is_cond": true, "line_numbers": [1269, 1269], "line_cids": ["", ""], "line_strs": ["\tif (error) {", "\tif (error) {"]}]}

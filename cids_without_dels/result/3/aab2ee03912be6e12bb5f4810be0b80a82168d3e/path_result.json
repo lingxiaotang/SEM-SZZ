@@ -1,0 +1,1 @@
+{"drivers/mmc/core/block.c": [{"patch_file_name": "drivers/mmc/core/block.c", "func_decl_name": "mmc_blk_ioctl_multi_cmd", "is_cond": true, "line_numbers": [639, 640], "line_cids": ["", ""], "line_strs": ["", "\tif (num_of_cmds > MMC_IOC_MAX_CMDS)"]}]}

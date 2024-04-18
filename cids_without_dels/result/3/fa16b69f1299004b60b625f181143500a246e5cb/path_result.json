@@ -1,0 +1,1 @@
+{"sound/pci/hda/patch_realtek.c": [{"patch_file_name": "sound/pci/hda/patch_realtek.c", "func_decl_name": "patch_alc269", "is_cond": true, "line_numbers": [6467, 6468], "line_cids": ["", ""], "line_strs": ["\tcase 0x10ec0295:", "\tcase 0x10ec0299:"]}]}

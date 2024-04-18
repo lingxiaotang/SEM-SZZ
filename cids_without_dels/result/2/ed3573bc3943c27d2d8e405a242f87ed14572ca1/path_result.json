@@ -1,0 +1,1 @@
+{"drivers/net/wireless/ath/ath10k/usb.c": [{"patch_file_name": "drivers/net/wireless/ath/ath10k/usb.c", "func_decl_name": "ath10k_usb_probe", "is_cond": true, "line_numbers": [1010, 1010], "line_cids": ["", ""], "line_strs": ["\tif (ret) {", "\tif (ret) {"]}]}

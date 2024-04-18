@@ -1,0 +1,1 @@
+{"drivers/net/ethernet/intel/iavf/iavf_main.c": [{"patch_file_name": "drivers/net/ethernet/intel/iavf/iavf_main.c", "func_decl_name": "iavf_probe", "is_cond": false, "line_numbers": [3801], "line_cids": [""], "line_strs": ["\tpci_release_regions(pdev);"]}]}

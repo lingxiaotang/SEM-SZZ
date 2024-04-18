@@ -1,0 +1,1 @@
+{"drivers/staging/media/meson/vdec/vdec.c": [{"patch_file_name": "drivers/staging/media/meson/vdec/vdec.c", "func_decl_name": "vdec_queue_recycle", "is_cond": true, "line_numbers": [135, 136], "line_cids": ["", ""], "line_strs": ["\tnew_buf = kmalloc(sizeof(*new_buf), GFP_KERNEL);", "\tnew_buf->vb = vb;"]}]}

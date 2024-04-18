@@ -1,0 +1,1 @@
+{"drivers/md/dm.c": [{"patch_file_name": "drivers/md/dm.c", "func_decl_name": "dm_start_io_acct", "is_cond": true, "line_numbers": [557, 558], "line_cids": ["", ""], "line_strs": ["\t\tspin_lock_irqsave(&io->lock, flags);", "\t\tdm_io_set_flag(io, DM_IO_ACCOUNTED);"]}]}

@@ -1,0 +1,1 @@
+{"drivers/base/pinctrl.c": [{"patch_file_name": "drivers/base/pinctrl.c", "func_decl_name": "pinctrl_bind_pins", "is_cond": true, "line_numbers": [25, 26], "line_cids": ["", ""], "line_strs": ["", "\tdev->pins = devm_kzalloc(dev, sizeof(*(dev->pins)), GFP_KERNEL);"]}]}

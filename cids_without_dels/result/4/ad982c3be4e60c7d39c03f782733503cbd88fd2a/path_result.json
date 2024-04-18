@@ -1,0 +1,1 @@
+{"kernel/audit_fsnotify.c": [{"patch_file_name": "kernel/audit_fsnotify.c", "func_decl_name": "audit_alloc_mark", "is_cond": false, "line_numbers": [103, 105], "line_cids": ["", ""], "line_strs": ["\tret = fsnotify_add_inode_mark(&audit_mark->mark, inode, 0);", "\t\tfsnotify_put_mark(&audit_mark->mark);"]}]}

@@ -1,0 +1,1 @@
+{"drivers/media/usb/rainshadow-cec/rainshadow-cec.c": [{"patch_file_name": "drivers/media/usb/rainshadow-cec/rainshadow-cec.c", "func_decl_name": "rain_connect", "is_cond": false, "line_numbers": [339, 345], "line_cids": ["", ""], "line_strs": ["\tmutex_init(&rain->write_lock);", "\terr = rain_setup(rain, serio, &log_addrs, &pa);"]}]}

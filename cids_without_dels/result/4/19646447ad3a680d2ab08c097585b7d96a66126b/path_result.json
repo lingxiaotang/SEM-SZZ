@@ -1,0 +1,1 @@
+{"fs/jffs2/summary.c": [{"patch_file_name": "fs/jffs2/summary.c", "func_decl_name": "jffs2_sum_write_data", "is_cond": true, "line_numbers": [780, 780], "line_cids": ["", ""], "line_strs": ["\t\t\tdefault : {", "\t\t\tdefault : {"]}]}

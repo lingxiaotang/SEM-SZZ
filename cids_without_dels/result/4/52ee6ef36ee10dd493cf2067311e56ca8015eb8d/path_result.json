@@ -1,0 +1,1 @@
+{"net/tls/tls_sw.c": [{"patch_file_name": "net/tls/tls_sw.c", "func_decl_name": "decrypt_skb", "is_cond": true, "line_numbers": [703, 704], "line_cids": ["", ""], "line_strs": ["\t\t\t   rxm->full_len - tls_ctx->rx.prepend_size);", ""]}]}

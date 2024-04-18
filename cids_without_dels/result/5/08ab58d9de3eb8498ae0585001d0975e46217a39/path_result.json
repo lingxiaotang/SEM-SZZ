@@ -1,0 +1,1 @@
+{"drivers/of/device.c": [{"patch_file_name": "drivers/of/device.c", "func_decl_name": "of_device_modalias", "is_cond": true, "line_numbers": [259, 260], "line_cids": ["", ""], "line_strs": ["\t\treturn sl;", ""]}]}

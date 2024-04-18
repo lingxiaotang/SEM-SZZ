@@ -1,0 +1,1 @@
+{"drivers/nvme/host/tcp.c": [{"patch_file_name": "drivers/nvme/host/tcp.c", "func_decl_name": "nvme_tcp_alloc_queue", "is_cond": false, "line_numbers": [1388, 1389], "line_cids": ["", ""], "line_strs": ["\tqueue->sock->sk->sk_write_space = nvme_tcp_write_space;", "\tqueue->sock->sk->sk_ll_usec = 1;"]}]}

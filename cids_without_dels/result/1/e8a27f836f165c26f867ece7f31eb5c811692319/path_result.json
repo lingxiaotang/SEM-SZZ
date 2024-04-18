@@ -1,0 +1,1 @@
+{"drivers/md/bitmap.c": [{"patch_file_name": "drivers/md/bitmap.c", "func_decl_name": "bitmap_resize", "is_cond": true, "line_numbers": [2060, 2061], "line_cids": ["", ""], "line_strs": ["", "\tif (chunksize == 0) {"]}]}

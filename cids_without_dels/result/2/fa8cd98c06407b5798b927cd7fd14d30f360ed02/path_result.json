@@ -1,0 +1,1 @@
+{"drivers/net/usb/lan78xx.c": [{"patch_file_name": "drivers/net/usb/lan78xx.c", "func_decl_name": "lan78xx_bind", "is_cond": true, "line_numbers": [2954, 2955], "line_cids": ["", ""], "line_strs": ["\tret = lan78xx_get_endpoints(dev, intf);", ""]}]}

@@ -1,0 +1,1 @@
+{"drivers/usb/core/hcd.c": [{"patch_file_name": "drivers/usb/core/hcd.c", "func_decl_name": "usb_add_hcd", "is_cond": true, "line_numbers": [2743, 2744], "line_cids": ["", ""], "line_strs": ["\t\t\t\t\t\t  PHY_MODE_USB_HOST_SS);", "\t\tif (retval)"]}]}

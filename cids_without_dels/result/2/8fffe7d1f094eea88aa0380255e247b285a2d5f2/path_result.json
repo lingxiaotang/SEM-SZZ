@@ -1,0 +1,1 @@
+{"sound/pci/hda/hda_auto_parser.c": [{"patch_file_name": "sound/pci/hda/hda_auto_parser.c", "func_decl_name": "snd_hda_pick_fixup", "is_cond": false, "line_numbers": [900, 901], "line_cids": ["", ""], "line_strs": ["\t\t\t\tcodec->fixup_name = models->name;", "\t\t\t\tcodec->fixup_forced = 1;"]}]}

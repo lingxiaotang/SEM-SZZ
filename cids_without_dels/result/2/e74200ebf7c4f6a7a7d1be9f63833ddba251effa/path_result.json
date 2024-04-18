@@ -1,0 +1,1 @@
+{"drivers/pinctrl/stm32/pinctrl-stm32.c": [{"patch_file_name": "drivers/pinctrl/stm32/pinctrl-stm32.c", "func_decl_name": "stm32_gpio_irq_trigger", "is_cond": true, "line_numbers": [313, 314], "line_cids": ["", ""], "line_strs": ["", "\t/* If level interrupt type then retrig */"]}]}

@@ -1,0 +1,1 @@
+{"drivers/net/ethernet/netronome/nfp/bpf/main.c": [{"patch_file_name": "drivers/net/ethernet/netronome/nfp/bpf/main.c", "func_decl_name": "nfp_bpf_setup_tc_block_cb", "is_cond": true, "line_numbers": [132, 133], "line_cids": ["", ""], "line_strs": ["\t\t\treturn -EOPNOTSUPP;", "\t\treturn nfp_net_bpf_offload(nn, cls_bpf);"]}]}

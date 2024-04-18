@@ -1,0 +1,1 @@
+{"drivers/media/spi/cxd2880-spi.c": [{"patch_file_name": "drivers/media/spi/cxd2880-spi.c", "func_decl_name": "cxd2880_spi_probe", "is_cond": false, "line_numbers": [527, 532], "line_cids": ["", ""], "line_strs": ["\tret = dvb_register_adapter(&dvb_spi->adapter,", "\tif (ret < 0) {"]}]}

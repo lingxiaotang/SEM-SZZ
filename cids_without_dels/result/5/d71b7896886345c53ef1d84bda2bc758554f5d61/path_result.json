@@ -1,0 +1,1 @@
+{"net/ipv4/cipso_ipv4.c": [{"patch_file_name": "net/ipv4/cipso_ipv4.c", "func_decl_name": "cipso_v4_validate", "is_cond": true, "line_numbers": [1589, 1590], "line_cids": ["", ""], "line_strs": ["", "\t\ttag_len = tag[1];"]}]}

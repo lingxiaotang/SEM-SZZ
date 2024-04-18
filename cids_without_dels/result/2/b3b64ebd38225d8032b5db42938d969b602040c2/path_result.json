@@ -1,0 +1,1 @@
+{"mm/page_alloc.c": [{"patch_file_name": "mm/page_alloc.c", "func_decl_name": "__alloc_pages_bulk", "is_cond": true, "line_numbers": [5056, 5056], "line_cids": ["", ""], "line_strs": ["\twhile (page_array && nr_populated < nr_pages && page_array[nr_populated])", "\twhile (page_array && nr_populated < nr_pages && page_array[nr_populated])"]}]}

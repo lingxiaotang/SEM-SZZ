@@ -1,0 +1,1 @@
+{"drivers/regulator/pca9450-regulator.c": [{"patch_file_name": "drivers/regulator/pca9450-regulator.c", "func_decl_name": "pca9450_i2c_probe", "is_cond": true, "line_numbers": [799, 800], "line_cids": ["", ""], "line_strs": ["", "\t/* Set reset behavior on assertion of WDOG_B signal */"]}]}

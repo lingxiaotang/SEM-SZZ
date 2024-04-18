@@ -1,0 +1,1 @@
+{"drivers/gpu/drm/sun4i/sun4i_drv.c": [{"patch_file_name": "drivers/gpu/drm/sun4i/sun4i_drv.c", "func_decl_name": "sun4i_drv_unbind", "is_cond": false, "line_numbers": [146, 152], "line_cids": ["", ""], "line_strs": ["\tstruct drm_device *drm = dev_get_drvdata(dev);", "\tof_reserved_mem_device_release(dev);"]}]}

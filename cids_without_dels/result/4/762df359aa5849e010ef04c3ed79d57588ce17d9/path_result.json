@@ -1,0 +1,1 @@
+{"arch/riscv/kernel/signal.c": [{"patch_file_name": "arch/riscv/kernel/signal.c", "func_decl_name": "SYSCALL_DEFINE0", "is_cond": false, "line_numbers": [121, 121], "line_cids": ["", ""], "line_strs": ["\tif (restore_sigcontext(regs, &frame->uc.uc_mcontext))", "\tif (restore_sigcontext(regs, &frame->uc.uc_mcontext))"]}]}

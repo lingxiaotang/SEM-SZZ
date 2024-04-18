@@ -1,0 +1,1 @@
+{"drivers/infiniband/sw/rxe/rxe_comp.c": [{"patch_file_name": "drivers/infiniband/sw/rxe/rxe_comp.c", "func_decl_name": "rxe_completer", "is_cond": true, "line_numbers": [691, 692], "line_cids": ["", ""], "line_strs": ["\t\t\t\t}", "\t\t\t\tgoto exit;"]}]}

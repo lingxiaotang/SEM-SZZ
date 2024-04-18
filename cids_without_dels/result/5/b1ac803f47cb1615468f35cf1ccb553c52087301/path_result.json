@@ -1,0 +1,1 @@
+{"drivers/irqchip/irq-apple-aic.c": [{"patch_file_name": "drivers/irqchip/irq-apple-aic.c", "func_decl_name": "build_fiq_affinity", "is_cond": true, "line_numbers": [1025, 1025], "line_cids": ["", ""], "line_strs": ["\tfor (i = 0; i < n; i++) {", "\tfor (i = 0; i < n; i++) {"]}]}

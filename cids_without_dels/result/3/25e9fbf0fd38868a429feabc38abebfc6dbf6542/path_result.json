@@ -1,0 +1,1 @@
+{"drivers/base/dd.c": [{"patch_file_name": "drivers/base/dd.c", "func_decl_name": "__device_attach_driver", "is_cond": false, "line_numbers": [907, 910], "line_cids": ["", ""], "line_strs": ["\tif (ret == 0) {", "\t} else if (ret == -EPROBE_DEFER) {"]}]}

@@ -1,0 +1,1 @@
+{"drivers/gpu/drm/amd/amdkfd/kfd_crat.c": [{"patch_file_name": "drivers/gpu/drm/amd/amdkfd/kfd_crat.c", "func_decl_name": "kfd_parse_subtype_iolink", "is_cond": true, "line_numbers": [1062, 1063], "line_cids": ["", ""], "line_strs": ["\t\tprops2 = kmemdup(props, sizeof(*props2), GFP_KERNEL);", "\t\tprops2->node_from = id_to;"]}]}

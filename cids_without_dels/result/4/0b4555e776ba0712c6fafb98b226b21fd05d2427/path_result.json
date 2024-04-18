@@ -1,0 +1,1 @@
+{"drivers/phy/qualcomm/phy-qcom-qusb2.c": [{"patch_file_name": "drivers/phy/qualcomm/phy-qcom-qusb2.c", "func_decl_name": "qusb2_phy_set_tune2_param", "is_cond": true, "line_numbers": [317, 318], "line_cids": ["", ""], "line_strs": ["", "\t/*"]}]}

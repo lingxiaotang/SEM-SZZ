@@ -1,0 +1,1 @@
+{"arch/x86/kernel/sev-shared.c": [{"patch_file_name": "arch/x86/kernel/sev-shared.c", "func_decl_name": "sev_es_ghcb_hv_call", "is_cond": true, "line_numbers": [132, 133], "line_cids": ["", ""], "line_strs": ["\t\t}", "\t} else {"]}]}

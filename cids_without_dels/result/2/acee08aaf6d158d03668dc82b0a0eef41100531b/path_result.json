@@ -1,0 +1,1 @@
+{"fs/btrfs/compression.c": [{"patch_file_name": "fs/btrfs/compression.c", "func_decl_name": "btrfs_submit_compressed_write", "is_cond": true, "line_numbers": [539, 540], "line_cids": ["", ""], "line_strs": ["", "\twhile (cur_disk_bytenr < disk_start + compressed_len) {"]}]}

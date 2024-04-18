@@ -1,0 +1,1 @@
+{"drivers/net/can/usb/mcba_usb.c": [{"patch_file_name": "drivers/net/can/usb/mcba_usb.c", "func_decl_name": "mcba_usb_start", "is_cond": true, "line_numbers": [635, 635], "line_cids": ["", ""], "line_strs": ["\tfor (i = 0; i < MCBA_MAX_RX_URBS; i++) {", "\tfor (i = 0; i < MCBA_MAX_RX_URBS; i++) {"]}]}

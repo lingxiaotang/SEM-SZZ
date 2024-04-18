@@ -1,0 +1,1 @@
+{"drivers/tty/serial/8250/8250_dw.c": [{"patch_file_name": "drivers/tty/serial/8250/8250_dw.c", "func_decl_name": "dw8250_set_termios", "is_cond": true, "line_numbers": [269, 270], "line_cids": ["", ""], "line_strs": ["\t\tret = rate;", "\telse"]}]}

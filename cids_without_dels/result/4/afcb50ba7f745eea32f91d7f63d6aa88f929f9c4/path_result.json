@@ -1,0 +1,1 @@
+{"net/bridge/br_vlan_tunnel.c": [{"patch_file_name": "net/bridge/br_vlan_tunnel.c", "func_decl_name": "__vlan_tunnel_info_add", "is_cond": false, "line_numbers": [87], "line_cids": [""], "line_strs": ["\tdst_release(&vlan->tinfo.tunnel_dst->dst);"]}]}

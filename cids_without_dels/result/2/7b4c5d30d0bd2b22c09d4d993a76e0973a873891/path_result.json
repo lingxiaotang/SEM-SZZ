@@ -1,0 +1,1 @@
+{"drivers/char/hw_random/bcm2835-rng.c": [{"patch_file_name": "drivers/char/hw_random/bcm2835-rng.c", "func_decl_name": "bcm2835_rng_probe", "is_cond": true, "line_numbers": [165, 166], "line_cids": ["", ""], "line_strs": ["\tpriv->clk = devm_clk_get(dev, NULL);", ""]}]}

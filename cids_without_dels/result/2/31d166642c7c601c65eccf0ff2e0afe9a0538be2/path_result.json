@@ -1,0 +1,1 @@
+{"drivers/net/ethernet/netronome/nfp/crypto/tls.c": [{"patch_file_name": "drivers/net/ethernet/netronome/nfp/crypto/tls.c", "func_decl_name": "nfp_net_tls_add", "is_cond": false, "line_numbers": [334, 334], "line_cids": ["", ""], "line_strs": ["\tif (err) {", "\tif (err) {"]}]}

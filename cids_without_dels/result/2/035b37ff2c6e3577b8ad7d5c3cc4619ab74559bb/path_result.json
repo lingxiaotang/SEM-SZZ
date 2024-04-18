@@ -1,0 +1,1 @@
+{"tools/testing/selftests/bpf/test_sockmap.c": [{"patch_file_name": "tools/testing/selftests/bpf/test_sockmap.c", "func_decl_name": "__test_suite", "is_cond": true, "line_numbers": [1346, 1347], "line_cids": ["", ""], "line_strs": ["", "\t/* Tests basic commands and APIs with range of iov values */"]}]}

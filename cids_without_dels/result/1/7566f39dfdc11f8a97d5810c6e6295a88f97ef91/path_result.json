@@ -1,0 +1,1 @@
+{"drivers/staging/vc04_services/bcm2835-camera/bcm2835-camera.c": [{"patch_file_name": "drivers/staging/vc04_services/bcm2835-camera/bcm2835-camera.c", "func_decl_name": "bcm2835_mmal_probe", "is_cond": true, "line_numbers": [1843, 1844], "line_cids": ["", ""], "line_strs": ["\t\t\t\t      MAX_BCM2835_CAMERAS);", "\tif (num_cameras > MAX_BCM2835_CAMERAS)"]}]}

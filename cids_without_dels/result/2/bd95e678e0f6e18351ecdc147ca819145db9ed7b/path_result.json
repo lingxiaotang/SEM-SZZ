@@ -1,0 +1,1 @@
+{"net/core/skbuff.c": [{"patch_file_name": "net/core/skbuff.c", "func_decl_name": "skb_send_sock_locked", "is_cond": false, "line_numbers": [2339, 2341], "line_cids": ["", ""], "line_strs": ["\t\tmemset(&msg, 0, sizeof(msg));", "\t\tret = kernel_sendmsg_locked(sk, &msg, &kv, 1, slen);"]}]}

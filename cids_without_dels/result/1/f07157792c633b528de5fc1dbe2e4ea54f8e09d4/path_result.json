@@ -1,0 +1,1 @@
+{"net/mptcp/subflow.c": [{"patch_file_name": "net/mptcp/subflow.c", "func_decl_name": "__mptcp_subflow_connect", "is_cond": false, "line_numbers": [1298, 1302], "line_cids": ["", ""], "line_strs": ["\tlist_del(&subflow->node);", "\tsubflow->disposable = 1;"]}]}

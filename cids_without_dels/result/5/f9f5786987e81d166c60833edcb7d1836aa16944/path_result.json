@@ -1,0 +1,1 @@
+{"drivers/tty/serial/arc_uart.c": [{"patch_file_name": "drivers/tty/serial/arc_uart.c", "func_decl_name": "arc_serial_probe", "is_cond": true, "line_numbers": [595, 596], "line_cids": ["", ""], "line_strs": ["", "\tuart = &arc_uart_ports[dev_id];"]}]}

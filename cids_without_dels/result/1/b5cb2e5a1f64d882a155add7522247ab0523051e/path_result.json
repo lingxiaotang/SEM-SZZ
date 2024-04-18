@@ -1,0 +1,1 @@
+{"drivers/gpu/drm/drm_atomic.c": [{"patch_file_name": "drivers/gpu/drm/drm_atomic.c", "func_decl_name": "drm_atomic_state_default_clear", "is_cond": true, "line_numbers": [192, 192], "line_cids": ["", ""], "line_strs": ["\tfor (i = 0; i < state->num_private_objs; i++) {", "\tfor (i = 0; i < state->num_private_objs; i++) {"]}]}

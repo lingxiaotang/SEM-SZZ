@@ -1,0 +1,1 @@
+{"drivers/net/phy/mdio_bus.c": [{"patch_file_name": "drivers/net/phy/mdio_bus.c", "func_decl_name": "__mdiobus_register", "is_cond": false, "line_numbers": [389, 391], "line_cids": ["", ""], "line_strs": ["\tgpiod = devm_gpiod_get_optional(&bus->dev, \"reset\", GPIOD_OUT_LOW);", "\t\tdev_err(&bus->dev, \"mii_bus %s couldn't get reset GPIO\\n\","]}]}

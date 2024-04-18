@@ -1,0 +1,1 @@
+{"drivers/remoteproc/imx_rproc.c": [{"patch_file_name": "drivers/remoteproc/imx_rproc.c", "func_decl_name": "imx_rproc_prepare", "is_cond": true, "line_numbers": [425, 426], "line_cids": ["", ""], "line_strs": ["", "\t\trmem = of_reserved_mem_lookup(it.node);"]}]}

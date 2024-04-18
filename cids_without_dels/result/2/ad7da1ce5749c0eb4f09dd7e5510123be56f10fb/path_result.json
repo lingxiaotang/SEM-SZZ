@@ -1,0 +1,1 @@
+{"drivers/net/ethernet/microchip/lan966x/lan966x_main.c": [{"patch_file_name": "drivers/net/ethernet/microchip/lan966x/lan966x_main.c", "func_decl_name": "lan966x_port_ioctl", "is_cond": true, "line_numbers": [410, 411], "line_cids": ["", ""], "line_strs": ["", "\treturn phy_mii_ioctl(dev->phydev, ifr, cmd);"]}]}

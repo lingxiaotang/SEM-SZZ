@@ -1,0 +1,1 @@
+{"drivers/md/raid1.c": [{"patch_file_name": "drivers/md/raid1.c", "func_decl_name": "lower_barrier", "is_cond": false, "line_numbers": [867, 868], "line_cids": ["", ""], "line_strs": ["\tconf->barrier--;", "\tspin_unlock_irqrestore(&conf->resync_lock, flags);"]}]}

@@ -1,0 +1,1 @@
+{"drivers/net/phy/meson-gxl.c": [{"patch_file_name": "drivers/net/phy/meson-gxl.c", "func_decl_name": "meson_gxl_config_intr", "is_cond": true, "line_numbers": [215, 216], "line_cids": ["", ""], "line_strs": ["", "\treturn phy_write(phydev, INTSRC_MASK, val);"]}]}

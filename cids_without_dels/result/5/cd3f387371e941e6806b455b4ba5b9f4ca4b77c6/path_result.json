@@ -1,0 +1,1 @@
+{"drivers/net/wireless/mediatek/mt76/mt7921/mcu.c": [{"patch_file_name": "drivers/net/wireless/mediatek/mt76/mt7921/mcu.c", "func_decl_name": "mt7921_mcu_parse_response", "is_cond": true, "line_numbers": [196, 197], "line_cids": ["", ""], "line_strs": ["\t\tret = le32_to_cpu(event->status);", "\t\tbreak;"]}]}

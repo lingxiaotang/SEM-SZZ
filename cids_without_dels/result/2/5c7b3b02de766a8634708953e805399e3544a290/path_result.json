@@ -1,0 +1,1 @@
+{"drivers/usb/dwc3/gadget.c": [{"patch_file_name": "drivers/usb/dwc3/gadget.c", "func_decl_name": "dwc3_resume_gadget", "is_cond": false, "line_numbers": [2046, 2047], "line_cids": ["", ""], "line_strs": ["\t\tspin_unlock(&dwc->lock);", "\t\tdwc->gadget_driver->resume(&dwc->gadget);"]}]}

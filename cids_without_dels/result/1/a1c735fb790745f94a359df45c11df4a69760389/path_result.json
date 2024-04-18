@@ -1,0 +1,1 @@
+{"block/blk-mq.c": [{"patch_file_name": "block/blk-mq.c", "func_decl_name": "blk_mq_map_swqueue", "is_cond": true, "line_numbers": [2433, 2434], "line_cids": ["", ""], "line_strs": ["\t\t\t\tcpu_online_mask);", "\t\thctx->next_cpu_batch = BLK_MQ_CPU_WORK_BATCH;"]}]}

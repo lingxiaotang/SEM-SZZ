@@ -1,0 +1,1 @@
+{"security/integrity/evm/evm_crypto.c": [{"patch_file_name": "security/integrity/evm/evm_crypto.c", "func_decl_name": "init_desc", "is_cond": true, "line_numbers": [91, 92], "line_cids": ["", ""], "line_strs": ["\t} else {", "\t\ttfm = &evm_tfm[hash_algo];"]}]}

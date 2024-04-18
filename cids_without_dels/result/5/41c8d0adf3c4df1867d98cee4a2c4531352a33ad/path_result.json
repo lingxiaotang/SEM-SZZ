@@ -1,0 +1,1 @@
+{"drivers/auxdisplay/hd44780.c": [{"patch_file_name": "drivers/auxdisplay/hd44780.c", "func_decl_name": "hd44780_remove", "is_cond": false, "line_numbers": [280, 282], "line_cids": ["", ""], "line_strs": ["\tstruct charlcd *lcd = platform_get_drvdata(pdev);", "\tcharlcd_unregister(lcd);"]}]}

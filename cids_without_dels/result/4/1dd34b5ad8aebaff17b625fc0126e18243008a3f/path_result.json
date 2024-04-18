@@ -1,0 +1,1 @@
+{"net/core/filter.c": [{"patch_file_name": "net/core/filter.c", "func_decl_name": "bpf_skb_set_tunnel_key", "is_cond": false, "line_numbers": [1530, 1531], "line_cids": ["", ""], "line_strs": ["\tinfo->mode = IP_TUNNEL_INFO_TX;", "\tinfo->key.tun_id = cpu_to_be64(from->tunnel_id);"]}]}

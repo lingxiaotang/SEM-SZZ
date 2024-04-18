@@ -1,0 +1,1 @@
+{"drivers/net/dsa/mv88e6xxx/port.c": [{"patch_file_name": "drivers/net/dsa/mv88e6xxx/port.c", "func_decl_name": "mv88e6390x_port_set_cmode", "is_cond": true, "line_numbers": [400, 401], "line_cids": ["", ""], "line_strs": ["", "\tlane = mv88e6390x_serdes_get_lane(chip, port);"]}], "drivers/net/dsa/mv88e6xxx/chip.c": []}

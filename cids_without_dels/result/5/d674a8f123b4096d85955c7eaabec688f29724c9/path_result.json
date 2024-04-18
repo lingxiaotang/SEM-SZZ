@@ -1,0 +1,1 @@
+{"net/can/isotp.c": [{"patch_file_name": "net/can/isotp.c", "func_decl_name": "isotp_sendmsg", "is_cond": true, "line_numbers": [973, 974], "line_cids": ["", ""], "line_strs": ["\t\twait_event_interruptible(so->wait, so->tx.state == ISOTP_IDLE);", "\t}"]}]}

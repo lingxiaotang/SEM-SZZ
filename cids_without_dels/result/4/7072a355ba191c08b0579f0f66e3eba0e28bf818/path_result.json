@@ -1,0 +1,1 @@
+{"net/netfilter/nfnetlink.c": [{"patch_file_name": "net/netfilter/nfnetlink.c", "func_decl_name": "nfnetlink_rcv_msg", "is_cond": true, "line_numbers": [297, 297], "line_cids": ["", ""], "line_strs": ["\t\tdefault:", "\t\tdefault:"]}]}

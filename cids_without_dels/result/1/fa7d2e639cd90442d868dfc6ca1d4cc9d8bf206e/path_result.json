@@ -1,0 +1,1 @@
+{"drivers/nvdimm/namespace_devs.c": [{"patch_file_name": "drivers/nvdimm/namespace_devs.c", "func_decl_name": "pmem_should_map_pages", "is_cond": true, "line_numbers": [151, 152], "line_cids": ["", ""], "line_strs": ["", "\tnsio = to_nd_namespace_io(dev);"]}]}

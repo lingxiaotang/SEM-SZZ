@@ -1,0 +1,1 @@
+{"drivers/gpu/drm/vmwgfx/vmwgfx_cmd.c": [{"patch_file_name": "drivers/gpu/drm/vmwgfx/vmwgfx_cmd.c", "func_decl_name": "vmw_fifo_create", "is_cond": true, "line_numbers": [147, 148], "line_cids": ["", ""], "line_strs": ["\t\t (unsigned int) fifo->capabilities);", "\treturn fifo;"]}]}

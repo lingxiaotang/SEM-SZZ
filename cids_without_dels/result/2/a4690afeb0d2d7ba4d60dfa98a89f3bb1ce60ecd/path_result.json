@@ -1,0 +1,1 @@
+{"drivers/net/ethernet/qualcomm/qca_spi.c": [{"patch_file_name": "drivers/net/ethernet/qualcomm/qca_spi.c", "func_decl_name": "qcaspi_netdev_setup", "is_cond": false, "line_numbers": [813, 814], "line_cids": ["", ""], "line_strs": ["\tdev->watchdog_timeo = QCASPI_TX_TIMEOUT;", "\tdev->tx_queue_len = 100;"]}]}

@@ -1,0 +1,1 @@
+{"net/ipv6/addrconf.c": [{"patch_file_name": "net/ipv6/addrconf.c", "func_decl_name": "addrconf_ifdown", "is_cond": true, "line_numbers": [3638, 3639], "line_cids": ["", ""], "line_strs": ["\t\t\tinet6addr_notifier_call_chain(NETDEV_DOWN, ifa);", "\t\t}"]}]}

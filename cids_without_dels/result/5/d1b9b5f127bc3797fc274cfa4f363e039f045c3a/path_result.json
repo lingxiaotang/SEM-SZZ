@@ -1,0 +1,1 @@
+{"drivers/gpu/drm/i915/gem/i915_gem_context.c": [{"patch_file_name": "drivers/gpu/drm/i915/gem/i915_gem_context.c", "func_decl_name": "__context_set_persistence", "is_cond": true, "line_numbers": [567, 568], "line_cids": ["", ""], "line_strs": ["", "\t\ti915_gem_context_clear_persistence(ctx);"]}]}

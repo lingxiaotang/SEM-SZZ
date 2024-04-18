@@ -1,0 +1,1 @@
+{"drivers/dma/idxd/cdev.c": [{"patch_file_name": "drivers/dma/idxd/cdev.c", "func_decl_name": "idxd_cdev_mmap", "is_cond": true, "line_numbers": [139, 140], "line_cids": ["", ""], "line_strs": ["\trc = check_vma(wq, vma, __func__);", ""]}]}

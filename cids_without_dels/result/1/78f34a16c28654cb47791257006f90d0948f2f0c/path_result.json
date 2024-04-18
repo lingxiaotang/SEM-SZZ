@@ -1,0 +1,1 @@
+{"drivers/infiniband/core/nldev.c": [{"patch_file_name": "drivers/infiniband/core/nldev.c", "func_decl_name": "nldev_stat_set_doit", "is_cond": true, "line_numbers": [1759, 1760], "line_cids": ["", ""], "line_strs": ["\t} else {", "\t\tqpn = nla_get_u32(tb[RDMA_NLDEV_ATTR_RES_LQPN]);"]}]}

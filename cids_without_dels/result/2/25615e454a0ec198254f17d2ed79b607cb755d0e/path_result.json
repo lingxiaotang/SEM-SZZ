@@ -1,0 +1,1 @@
+{"drivers/hid/amd-sfh-hid/amd_sfh_pcie.c": [{"patch_file_name": "drivers/hid/amd-sfh-hid/amd_sfh_pcie.c", "func_decl_name": "amd_mp2_get_sensor_num", "is_cond": true, "line_numbers": [84, 85], "line_cids": ["", ""], "line_strs": ["", "\tif (sensor_mask_override >= 0) {"]}]}

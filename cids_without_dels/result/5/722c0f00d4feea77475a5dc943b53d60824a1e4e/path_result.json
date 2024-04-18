@@ -1,0 +1,1 @@
+{"drivers/net/ethernet/marvell/mvpp2/mvpp2_cls.c": [{"patch_file_name": "drivers/net/ethernet/marvell/mvpp2/mvpp2_cls.c", "func_decl_name": "mvpp2_ethtool_cls_rule_del", "is_cond": true, "line_numbers": [1430, 1431], "line_cids": ["", ""], "line_strs": ["", "\tefs = port->rfs_rules[info->fs.location];"]}]}

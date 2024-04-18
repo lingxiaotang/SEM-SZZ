@@ -1,0 +1,1 @@
+{"net/core/filter.c": [{"patch_file_name": "net/core/filter.c", "func_decl_name": "sk_msg_convert_ctx_access", "is_cond": false, "line_numbers": [6491, 6491], "line_cids": ["", ""], "line_strs": ["\tswitch (si->off) {", "\tswitch (si->off) {"]}]}

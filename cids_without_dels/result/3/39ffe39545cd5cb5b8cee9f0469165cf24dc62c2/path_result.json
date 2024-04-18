@@ -1,0 +1,1 @@
+{"drivers/iommu/amd_iommu.c": [{"patch_file_name": "drivers/iommu/amd_iommu.c", "func_decl_name": "find_dev_data", "is_cond": true, "line_numbers": [312, 313], "line_cids": ["", ""], "line_strs": ["\t\tdev_data = alloc_dev_data(devid);", ""]}]}

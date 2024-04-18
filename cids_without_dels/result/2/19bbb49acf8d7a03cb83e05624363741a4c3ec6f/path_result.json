@@ -1,0 +1,1 @@
+{"drivers/mmc/host/cavium-octeon.c": [{"patch_file_name": "drivers/mmc/host/cavium-octeon.c", "func_decl_name": "octeon_mmc_probe", "is_cond": false, "line_numbers": [270, 271], "line_cids": ["", ""], "line_strs": ["\t\thost->slot_pdev[i] =", "\t\t\tof_platform_device_create(cn, NULL, &pdev->dev);"]}]}

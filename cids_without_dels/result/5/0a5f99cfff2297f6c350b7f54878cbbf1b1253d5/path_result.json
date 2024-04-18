@@ -1,0 +1,1 @@
+{"drivers/hid/hid-kye.c": [{"patch_file_name": "drivers/hid/hid-kye.c", "func_decl_name": "kye_report_fixup", "is_cond": true, "line_numbers": [343, 344], "line_cids": ["", ""], "line_strs": ["\t\t\t\t\t\"Genius Gx Imperator Keyboard\");", "\tcase USB_DEVICE_ID_GENIUS_MANTICORE:"]}]}

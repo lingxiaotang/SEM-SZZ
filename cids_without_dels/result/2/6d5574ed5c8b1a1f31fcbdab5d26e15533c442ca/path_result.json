@@ -1,0 +1,1 @@
+{"sound/soc/soc-topology.c": [{"patch_file_name": "sound/soc/soc-topology.c", "func_decl_name": "soc_tplg_dapm_widget_denum_create", "is_cond": true, "line_numbers": [1380, 1381], "line_cids": ["", ""], "line_strs": ["\t\tse = (struct soc_enum *)kc[i].private_value;", "\t\tkfree(se->dobj.control.dvalues);"]}]}

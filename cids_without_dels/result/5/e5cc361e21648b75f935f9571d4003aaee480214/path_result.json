@@ -1,0 +1,1 @@
+{"drivers/net/ethernet/marvell/octeontx2/nic/otx2_ethtool.c": [{"patch_file_name": "drivers/net/ethernet/marvell/octeontx2/nic/otx2_ethtool.c", "func_decl_name": "otx2_set_rxfh_context", "is_cond": true, "line_numbers": [788, 789], "line_cids": ["", ""], "line_strs": ["", "\trss = &pfvf->hw.rss_info;"]}]}

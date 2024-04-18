@@ -1,0 +1,1 @@
+{"net/bridge/br_mrp.c": [{"patch_file_name": "net/bridge/br_mrp.c", "func_decl_name": "br_mrp_add", "is_cond": true, "line_numbers": [257, 258], "line_cids": ["", ""], "line_strs": ["", "\tmrp = kzalloc(sizeof(*mrp), GFP_KERNEL);"]}]}

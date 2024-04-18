@@ -1,0 +1,1 @@
+{"net/core/skbuff.c": [{"patch_file_name": "net/core/skbuff.c", "func_decl_name": "skb_scrub_packet", "is_cond": false, "line_numbers": [4862, 4867], "line_cids": ["", ""], "line_strs": ["\tnf_reset_trace(skb);", "\tskb_orphan(skb);"]}]}

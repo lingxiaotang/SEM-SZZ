@@ -1,0 +1,1 @@
+{"drivers/net/ethernet/xilinx/xilinx_axienet_main.c": [{"patch_file_name": "drivers/net/ethernet/xilinx/xilinx_axienet_main.c", "func_decl_name": "axienet_probe", "is_cond": true, "line_numbers": [2038, 2039], "line_cids": ["", ""], "line_strs": ["", "\tlp->phy_node = of_parse_phandle(pdev->dev.of_node, \"phy-handle\", 0);"]}]}

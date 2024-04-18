@@ -1,0 +1,1 @@
+{"drivers/iio/imu/inv_mpu6050/inv_mpu_trigger.c": [{"patch_file_name": "drivers/iio/imu/inv_mpu6050/inv_mpu_trigger.c", "func_decl_name": "inv_scan_query_mpu6050", "is_cond": true, "line_numbers": [13, 14], "line_cids": ["", ""], "line_strs": ["", "\tst->chip_config.gyro_fifo_enable ="]}]}

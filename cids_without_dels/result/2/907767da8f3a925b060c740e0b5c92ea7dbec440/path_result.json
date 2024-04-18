@@ -1,0 +1,1 @@
+{"drivers/comedi/drivers/ni_usb6501.c": [{"patch_file_name": "drivers/comedi/drivers/ni_usb6501.c", "func_decl_name": "ni6501_find_endpoints", "is_cond": true, "line_numbers": [503, 504], "line_cids": ["", ""], "line_strs": ["", "\treturn 0;"]}]}

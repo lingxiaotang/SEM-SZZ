@@ -1,0 +1,1 @@
+{"drivers/pci/setup-res.c": [{"patch_file_name": "drivers/pci/setup-res.c", "func_decl_name": "pci_release_resource", "is_cond": true, "line_numbers": [403, 404], "line_cids": ["", ""], "line_strs": ["\tpci_info(dev, \"BAR %d: releasing %pR\\n\", resno, res);", "\trelease_resource(res);"]}]}

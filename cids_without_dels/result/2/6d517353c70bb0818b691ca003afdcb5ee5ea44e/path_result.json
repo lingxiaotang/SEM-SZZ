@@ -1,0 +1,1 @@
+{"drivers/infiniband/hw/hfi1/chip.c": [{"patch_file_name": "drivers/infiniband/hw/hfi1/chip.c", "func_decl_name": "hfi1_quiet_serdes", "is_cond": false, "line_numbers": [9847, 9849], "line_cids": ["", ""], "line_strs": ["\tset_link_down_reason(ppd, OPA_LINKDOWN_REASON_REBOOT, 0,", "\tset_link_state(ppd, HLS_DN_OFFLINE);"]}]}

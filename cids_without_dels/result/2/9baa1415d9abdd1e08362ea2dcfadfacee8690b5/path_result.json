@@ -1,0 +1,1 @@
+{"drivers/misc/fastrpc.c": [{"patch_file_name": "drivers/misc/fastrpc.c", "func_decl_name": "fastrpc_cb_probe", "is_cond": true, "line_numbers": [1945, 1946], "line_cids": ["", ""], "line_strs": ["\tspin_lock_irqsave(&cctx->lock, flags);", "\tsess = &cctx->session[cctx->sesscount];"]}]}

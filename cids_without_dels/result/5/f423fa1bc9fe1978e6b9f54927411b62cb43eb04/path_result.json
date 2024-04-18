@@ -1,0 +1,1 @@
+{"drivers/gpu/drm/i915/gvt/kvmgt.c": [{"patch_file_name": "drivers/gpu/drm/i915/gvt/kvmgt.c", "func_decl_name": "intel_vgpu_remove", "is_cond": false, "line_numbers": [1615, 1618], "line_cids": ["", ""], "line_strs": ["\tif (WARN_ON_ONCE(vgpu->attached))", "\tvfio_put_device(&vgpu->vfio_device);"]}]}

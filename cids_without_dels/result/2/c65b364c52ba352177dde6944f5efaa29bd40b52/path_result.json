@@ -1,0 +1,1 @@
+{"drivers/gpu/drm/amd/amdgpu/amdgpu_ctx.c": [{"patch_file_name": "drivers/gpu/drm/amd/amdgpu/amdgpu_ctx.c", "func_decl_name": "amdgpu_ctx_set_stable_pstate", "is_cond": true, "line_numbers": [306, 307], "line_cids": ["", ""], "line_strs": ["", "\tswitch (stable_pstate) {"]}]}

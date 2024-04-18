@@ -1,0 +1,1 @@
+{"drivers/infiniband/hw/mlx5/ah.c": [{"patch_file_name": "drivers/infiniband/hw/mlx5/ah.c", "func_decl_name": "create_ib_ah", "is_cond": true, "line_numbers": [52, 53], "line_cids": ["", ""], "line_strs": ["\tif (ah_attr->type == RDMA_AH_ATTR_TYPE_ROCE) {", "\t\tmemcpy(ah->av.rmac, ah_attr->roce.dmac,"]}]}

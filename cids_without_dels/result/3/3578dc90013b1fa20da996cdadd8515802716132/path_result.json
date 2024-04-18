@@ -1,0 +1,1 @@
+{"drivers/net/ethernet/intel/ice/ice_tc_lib.c": [{"patch_file_name": "drivers/net/ethernet/intel/ice/ice_tc_lib.c", "func_decl_name": "ice_eswitch_add_tc_fltr", "is_cond": false, "line_numbers": [525, 526], "line_cids": ["", ""], "line_strs": ["\tfltr->rid = rule_added.rid;", "\tfltr->rule_id = rule_added.rule_id;"]}]}

@@ -1,0 +1,1 @@
+{"drivers/infiniband/hw/mlx5/qp.c": [{"patch_file_name": "drivers/infiniband/hw/mlx5/qp.c", "func_decl_name": "mlx5_set_path", "is_cond": true, "line_numbers": [2218, 2219], "line_cids": ["", ""], "line_strs": ["\t\t\treturn -EINVAL;", "\t\tmemcpy(path->rmac, ah->dmac, sizeof(ah->dmac));"]}], "drivers/infiniband/hw/mlx5/main.c": []}

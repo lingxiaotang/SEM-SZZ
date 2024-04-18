@@ -1,0 +1,1 @@
+{"drivers/media/platform/mtk-vcodec/mtk_vcodec_dec_pm.c": [{"patch_file_name": "drivers/media/platform/mtk-vcodec/mtk_vcodec_dec_pm.c", "func_decl_name": "mtk_vcodec_release_dec_pm", "is_cond": false, "line_numbers": [87], "line_cids": [""], "line_strs": ["\tpm_runtime_disable(dev->pm.dev);"]}]}

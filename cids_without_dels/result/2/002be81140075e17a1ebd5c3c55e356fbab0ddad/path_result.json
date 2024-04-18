@@ -1,0 +1,1 @@
+{"drivers/mfd/mfd-core.c": [{"patch_file_name": "drivers/mfd/mfd-core.c", "func_decl_name": "mfd_add_device", "is_cond": false, "line_numbers": [200, 200], "line_cids": ["", ""], "line_strs": ["\t\t\t\tif (!of_device_is_available(np)) {", "\t\t\t\tif (!of_device_is_available(np)) {"]}]}

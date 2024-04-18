@@ -1,0 +1,1 @@
+{"drivers/net/wireless/ralink/rt2x00/rt2x00usb.c": [{"patch_file_name": "drivers/net/wireless/ralink/rt2x00/rt2x00usb.c", "func_decl_name": "rt2x00usb_check_usb_error", "is_cond": true, "line_numbers": [27, 28], "line_cids": ["", ""], "line_strs": ["", "\tif (status == -EPROTO || status == -ETIMEDOUT)"]}]}

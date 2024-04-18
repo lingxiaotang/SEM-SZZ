@@ -1,0 +1,1 @@
+{"drivers/nvme/host/core.c": [{"patch_file_name": "drivers/nvme/host/core.c", "func_decl_name": "nvme_report_ns_ids", "is_cond": true, "line_numbers": [1737, 1738], "line_cids": ["", ""], "line_strs": ["\t\t\t\t \"Identify Descriptors failed (%d)\\n\", ret);", "\t}"]}]}

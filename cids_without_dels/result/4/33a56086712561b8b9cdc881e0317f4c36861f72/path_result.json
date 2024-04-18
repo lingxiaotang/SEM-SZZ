@@ -1,0 +1,1 @@
+{"drivers/nvdimm/namespace_devs.c": [{"patch_file_name": "drivers/nvdimm/namespace_devs.c", "func_decl_name": "btt_claim_class", "is_cond": true, "line_numbers": [1419, 1420], "line_cids": ["", ""], "line_strs": ["", "\t\tnsindex = to_namespace_index(ndd, ndd->ns_current);"]}]}

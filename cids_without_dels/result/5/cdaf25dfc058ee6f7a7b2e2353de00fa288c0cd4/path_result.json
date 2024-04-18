@@ -1,0 +1,1 @@
+{"net/smc/smc_core.c": [{"patch_file_name": "net/smc/smc_core.c", "func_decl_name": "smc_rmb_create", "is_cond": true, "line_numbers": [581, 581], "line_cids": ["", ""], "line_strs": ["\t     tmp_bufsize_short >= 0; tmp_bufsize_short--) {", "\t     tmp_bufsize_short >= 0; tmp_bufsize_short--) {"]}]}

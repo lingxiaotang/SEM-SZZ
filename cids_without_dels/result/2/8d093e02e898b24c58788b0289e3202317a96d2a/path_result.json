@@ -1,0 +1,1 @@
+{"drivers/ata/pata_hpt37x.c": [{"patch_file_name": "drivers/ata/pata_hpt37x.c", "func_decl_name": "hpt37x_init_one", "is_cond": true, "line_numbers": [921, 922], "line_cids": ["", ""], "line_strs": ["", "\t/*"]}]}

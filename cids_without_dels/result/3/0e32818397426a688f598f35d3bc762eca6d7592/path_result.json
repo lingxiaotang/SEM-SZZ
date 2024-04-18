@@ -1,0 +1,1 @@
+{"drivers/pci/setup-res.c": [{"patch_file_name": "drivers/pci/setup-res.c", "func_decl_name": "pci_revert_fw_address", "is_cond": true, "line_numbers": [216, 217], "line_cids": ["", ""], "line_strs": ["\tif (!root) {", "\t\tif (res->flags & IORESOURCE_IO)"]}]}

@@ -1,0 +1,1 @@
+{"drivers/input/misc/ims-pcu.c": [{"patch_file_name": "drivers/input/misc/ims-pcu.c", "func_decl_name": "ims_pcu_parse_cdc_data", "is_cond": true, "line_numbers": [1669, 1670], "line_cids": ["", ""], "line_strs": ["\talt = pcu->ctrl_intf->cur_altsetting;", "\tpcu->ep_ctrl = &alt->endpoint[0].desc;"]}]}

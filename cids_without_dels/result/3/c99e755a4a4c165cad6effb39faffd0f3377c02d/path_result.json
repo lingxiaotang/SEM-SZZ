@@ -1,0 +1,1 @@
+{"drivers/pci/probe.c": [{"patch_file_name": "drivers/pci/probe.c", "func_decl_name": "pci_scan_device", "is_cond": false, "line_numbers": [2355, 2356], "line_cids": ["", ""], "line_strs": ["\tif (pci_setup_device(dev)) {", "\t\tpci_bus_put(dev->bus);"]}]}

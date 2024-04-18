@@ -1,0 +1,1 @@
+{"net/vmw_vsock/virtio_transport_common.c": [{"patch_file_name": "net/vmw_vsock/virtio_transport_common.c", "func_decl_name": "virtio_transport_recv_connected", "is_cond": true, "line_numbers": [1081, 1082], "line_cids": ["", ""], "line_strs": ["\t\treturn err;", "\tcase VIRTIO_VSOCK_OP_CREDIT_UPDATE:"]}]}

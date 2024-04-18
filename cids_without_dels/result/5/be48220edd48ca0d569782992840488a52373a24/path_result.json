@@ -1,0 +1,1 @@
+{"net/mpls/af_mpls.c": [{"patch_file_name": "net/mpls/af_mpls.c", "func_decl_name": "rtm_to_route_config", "is_cond": true, "line_numbers": [1840, 1841], "line_cids": ["", ""], "line_strs": ["\t\t}", "\t\tcase RTA_VIA:"]}]}

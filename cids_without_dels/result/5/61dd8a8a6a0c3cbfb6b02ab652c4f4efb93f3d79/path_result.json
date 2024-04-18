@@ -1,0 +1,1 @@
+{"drivers/net/wireless/intel/iwlwifi/mvm/sta.c": [{"patch_file_name": "drivers/net/wireless/intel/iwlwifi/mvm/sta.c", "func_decl_name": "iwl_mvm_rx_agg_session_expired", "is_cond": true, "line_numbers": [279, 280], "line_cids": ["", ""], "line_strs": ["\tsta = rcu_dereference(ba_data->mvm->fw_id_to_mac_id[ba_data->sta_id]);", "\tmvm_sta = iwl_mvm_sta_from_mac80211(sta);"]}]}

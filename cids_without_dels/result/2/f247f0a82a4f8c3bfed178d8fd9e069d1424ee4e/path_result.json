@@ -1,0 +1,1 @@
+{"drivers/usb/typec/ucsi/ucsi.c": [{"patch_file_name": "drivers/usb/typec/ucsi/ucsi.c", "func_decl_name": "ucsi_init", "is_cond": false, "line_numbers": [1256], "line_cids": [""], "line_strs": ["\tucsi_reset_ppm(ucsi);"]}]}

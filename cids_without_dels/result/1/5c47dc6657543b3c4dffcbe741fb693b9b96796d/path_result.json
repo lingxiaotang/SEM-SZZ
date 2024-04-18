@@ -1,0 +1,1 @@
+{"drivers/media/platform/imx-jpeg/mxc-jpeg.c": [{"patch_file_name": "drivers/media/platform/imx-jpeg/mxc-jpeg.c", "func_decl_name": "mxc_jpeg_probe", "is_cond": false, "line_numbers": [2083, 2086], "line_cids": ["", ""], "line_strs": ["\tv4l2_m2m_release(jpeg->m2m_dev);", "\tv4l2_device_unregister(&jpeg->v4l2_dev);"]}]}

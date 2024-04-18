@@ -1,0 +1,1 @@
+{"drivers/usb/gadget/function/rndis.c": [{"patch_file_name": "drivers/usb/gadget/function/rndis.c", "func_decl_name": "rndis_set_response", "is_cond": true, "line_numbers": [642, 643], "line_cids": ["", ""], "line_strs": ["\tif ((BufLength > RNDIS_MAX_TOTAL_SIZE) ||", "\t    (BufOffset + 8 >= RNDIS_MAX_TOTAL_SIZE))"]}]}

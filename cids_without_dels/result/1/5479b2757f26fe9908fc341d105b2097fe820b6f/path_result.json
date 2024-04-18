@@ -1,0 +1,1 @@
+{"drivers/acpi/nfit/core.c": [{"patch_file_name": "drivers/acpi/nfit/core.c", "func_decl_name": "acpi_nfit_scrub", "is_cond": true, "line_numbers": [3189, 3190], "line_cids": ["", ""], "line_strs": ["\tmemset(acpi_desc->ars_status, 0, acpi_desc->max_ars);", "\tmutex_unlock(&acpi_desc->init_mutex);"]}]}

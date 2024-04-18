@@ -1,0 +1,1 @@
+{"drivers/gpu/drm/i915/display/intel_display_power.c": [{"patch_file_name": "drivers/gpu/drm/i915/display/intel_display_power.c", "func_decl_name": "tgl_bw_buddy_init", "is_cond": false, "line_numbers": [4985, 4985], "line_cids": ["", ""], "line_strs": ["\tif (IS_TGL_REVID(dev_priv, TGL_REVID_A0, TGL_REVID_A0))", "\tif (IS_TGL_REVID(dev_priv, TGL_REVID_A0, TGL_REVID_A0))"]}]}

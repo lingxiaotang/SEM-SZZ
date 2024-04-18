@@ -1,0 +1,1 @@
+{"drivers/usb/misc/usbtest.c": [{"patch_file_name": "drivers/usb/misc/usbtest.c", "func_decl_name": "usbtest_do_ioctl", "is_cond": true, "line_numbers": [2089, 2090], "line_cids": ["", ""], "line_strs": ["\t\treturn -EINVAL;", "\t/*"]}]}

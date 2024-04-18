@@ -1,0 +1,1 @@
+{"drivers/staging/comedi/drivers/adv_pci1760.c": [{"patch_file_name": "drivers/staging/comedi/drivers/adv_pci1760.c", "func_decl_name": "pci1760_pwm_ns_to_div", "is_cond": true, "line_numbers": [198, 199], "line_cids": ["", ""], "line_strs": ["\t\tdivisor = ns / PCI1760_PWM_TIMEBASE;", "\tdefault:"]}]}

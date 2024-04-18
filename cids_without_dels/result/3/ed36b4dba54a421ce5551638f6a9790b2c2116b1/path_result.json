@@ -1,0 +1,1 @@
+{"drivers/nvdimm/btt.c": [{"patch_file_name": "drivers/nvdimm/btt.c", "func_decl_name": "nvdimm_namespace_attach_btt", "is_cond": true, "line_numbers": [1431, 1432], "line_cids": ["", ""], "line_strs": ["\tbtt_sb = devm_kzalloc(&nd_btt->dev, sizeof(*btt_sb), GFP_KERNEL);", ""]}]}

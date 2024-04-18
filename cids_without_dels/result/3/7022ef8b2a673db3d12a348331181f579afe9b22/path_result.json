@@ -1,0 +1,1 @@
+{"drivers/net/xen-netback/netback.c": [{"patch_file_name": "drivers/net/xen-netback/netback.c", "func_decl_name": "checksum_setup_ip", "is_cond": true, "line_numbers": [1199, 1200], "line_cids": ["", ""], "line_strs": ["", "\tswitch (ip_hdr(skb)->protocol) {"]}]}

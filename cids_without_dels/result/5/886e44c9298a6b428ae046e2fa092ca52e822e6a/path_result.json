@@ -1,0 +1,1 @@
+{"drivers/net/hyperv/netvsc_drv.c": [{"patch_file_name": "drivers/net/hyperv/netvsc_drv.c", "func_decl_name": "netvsc_get_ethtool_stats", "is_cond": true, "line_numbers": [1589, 1590], "line_cids": ["", ""], "line_strs": ["\t\t\t\t  GFP_KERNEL);", "\tnetvsc_get_pcpu_stats(dev, pcpu_sum);"]}]}

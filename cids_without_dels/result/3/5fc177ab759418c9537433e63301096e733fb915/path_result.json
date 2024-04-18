@@ -1,0 +1,1 @@
+{"net/netfilter/nf_synproxy_core.c": [{"patch_file_name": "net/netfilter/nf_synproxy_core.c", "func_decl_name": "synproxy_parse_options", "is_cond": true, "line_numbers": [33, 34], "line_cids": ["", ""], "line_strs": ["", "\tptr = skb_header_pointer(skb, doff + sizeof(*th), length, buf);"]}]}

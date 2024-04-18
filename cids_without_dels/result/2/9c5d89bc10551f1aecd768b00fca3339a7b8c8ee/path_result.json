@@ -1,0 +1,1 @@
+{"arch/arm64/kernel/machine_kexec_file.c": [{"patch_file_name": "arch/arm64/kernel/machine_kexec_file.c", "func_decl_name": "load_other_segments", "is_cond": false, "line_numbers": [139, 139], "line_cids": ["", ""], "line_strs": ["\t\tif (ret)", "\t\tif (ret)"]}]}

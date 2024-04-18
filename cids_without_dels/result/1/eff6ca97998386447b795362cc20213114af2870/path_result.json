@@ -1,0 +1,1 @@
+{"drivers/hid/wacom_wac.c": [{"patch_file_name": "drivers/hid/wacom_wac.c", "func_decl_name": "wacom_intuos_inout", "is_cond": false, "line_numbers": [685, 685], "line_cids": ["", ""], "line_strs": ["\t\twacom->tool[idx] = wacom_intuos_get_tool_type(wacom->id[idx]);", "\t\twacom->tool[idx] = wacom_intuos_get_tool_type(wacom->id[idx]);"]}]}

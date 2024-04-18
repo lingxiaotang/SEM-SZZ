@@ -1,0 +1,1 @@
+{"fs/f2fs/sysfs.c": [{"patch_file_name": "fs/f2fs/sysfs.c", "func_decl_name": "__sbi_store", "is_cond": false, "line_numbers": [255, 256], "line_cids": ["", ""], "line_strs": ["\t\t\tif (sbi->gc_thread) {", "\t\t\t\twake_up_interruptible_all("]}]}

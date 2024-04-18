@@ -1,0 +1,1 @@
+{"drivers/usb/renesas_usbhs/fifo.c": [{"patch_file_name": "drivers/usb/renesas_usbhs/fifo.c", "func_decl_name": "usbhsf_dma_prepare_push", "is_cond": false, "line_numbers": [887, 887], "line_cids": ["", ""], "line_strs": ["\tret = usbhsf_fifo_select(pipe, fifo, 0);", "\tret = usbhsf_fifo_select(pipe, fifo, 0);"]}]}

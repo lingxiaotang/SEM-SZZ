@@ -1,0 +1,1 @@
+{"fs/ceph/file.c": [{"patch_file_name": "fs/ceph/file.c", "func_decl_name": "ceph_finish_async_create", "is_cond": true, "line_numbers": [634, 635], "line_cids": ["", ""], "line_strs": ["\tceph_file_layout_to_legacy(lo, &in.layout);", ""]}]}

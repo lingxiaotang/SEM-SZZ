@@ -1,0 +1,1 @@
+{"drivers/char/tpm/tpm_ibmvtpm.c": [{"patch_file_name": "drivers/char/tpm/tpm_ibmvtpm.c", "func_decl_name": "tpm_ibmvtpm_probe", "is_cond": false, "line_numbers": [678, 678], "line_cids": ["", ""], "line_strs": ["\tif (rc)", "\tif (rc)"]}]}

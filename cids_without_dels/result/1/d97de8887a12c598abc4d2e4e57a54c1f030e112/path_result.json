@@ -1,0 +1,1 @@
+{"drivers/infiniband/core/counters.c": [{"patch_file_name": "drivers/infiniband/core/counters.c", "func_decl_name": "rdma_counter_bind_qpn_alloc", "is_cond": true, "line_numbers": [511, 512], "line_cids": ["", ""], "line_strs": ["", "\tqp = rdma_counter_get_qp(dev, qp_num);"]}]}

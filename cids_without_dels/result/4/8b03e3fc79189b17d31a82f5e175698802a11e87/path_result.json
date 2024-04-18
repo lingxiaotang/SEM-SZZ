@@ -1,0 +1,1 @@
+{"drivers/gpu/drm/bridge/ite-it66121.c": [{"patch_file_name": "drivers/gpu/drm/bridge/ite-it66121.c", "func_decl_name": "it66121_probe", "is_cond": true, "line_numbers": [926, 927], "line_cids": ["", ""], "line_strs": ["", "\ti2c_set_clientdata(client, ctx);"]}]}

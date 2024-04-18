@@ -1,0 +1,1 @@
+{"drivers/dma/sprd-dma.c": [{"patch_file_name": "drivers/dma/sprd-dma.c", "func_decl_name": "sprd_dma_terminate_all", "is_cond": true, "line_numbers": [1037, 1038], "line_cids": ["", ""], "line_strs": ["\tspin_lock_irqsave(&schan->vc.lock, flags);", "\tsprd_dma_stop(schan);"]}]}

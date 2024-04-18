@@ -1,0 +1,1 @@
+{"sound/firewire/fireworks/fireworks_midi.c": [{"patch_file_name": "sound/firewire/fireworks/fireworks_midi.c", "func_decl_name": "midi_open", "is_cond": true, "line_numbers": [27, 27], "line_cids": ["", ""], "line_strs": ["\tif (err < 0)", "\tif (err < 0)"]}]}

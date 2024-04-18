@@ -1,0 +1,1 @@
+{"arch/x86/kernel/fpu/signal.c": [{"patch_file_name": "arch/x86/kernel/fpu/signal.c", "func_decl_name": "__fpu__restore_sig", "is_cond": true, "line_numbers": [371, 372], "line_cids": ["", ""], "line_strs": ["\t\t}", "\t\tfpregs_unlock();"]}]}

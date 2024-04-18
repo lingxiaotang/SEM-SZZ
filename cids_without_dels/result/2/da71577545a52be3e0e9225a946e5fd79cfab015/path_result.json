@@ -1,0 +1,1 @@
+{"net/core/rtnetlink.c": [{"patch_file_name": "net/core/rtnetlink.c", "func_decl_name": "rtnl_fdb_del", "is_cond": true, "line_numbers": [3706, 3707], "line_cids": ["", ""], "line_strs": ["", "\taddr = nla_data(tb[NDA_LLADDR]);"]}]}

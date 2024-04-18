@@ -1,0 +1,1 @@
+{"drivers/media/platform/s5p-mfc/s5p_mfc_pm.c": [{"patch_file_name": "drivers/media/platform/s5p-mfc/s5p_mfc_pm.c", "func_decl_name": "s5p_mfc_init_pm", "is_cond": true, "line_numbers": [36, 37], "line_cids": ["", ""], "line_strs": ["\t\tif (IS_ERR(pm->clocks[i])) {", "\t\t\tmfc_err(\"Failed to get clock: %s\\n\","]}]}

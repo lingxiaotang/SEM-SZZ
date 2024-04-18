@@ -1,0 +1,1 @@
+{"arch/mips/net/ebpf_jit.c": [{"patch_file_name": "arch/mips/net/ebpf_jit.c", "func_decl_name": "bpf_int_jit_compile", "is_cond": true, "line_numbers": [1894, 1895], "line_cids": ["", ""], "line_strs": ["\t\tctx.use_bbit_insns = 1;", "\tdefault:"]}]}

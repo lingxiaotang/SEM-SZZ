@@ -1,0 +1,1 @@
+{"net/ipv6/ndisc.c": [{"patch_file_name": "net/ipv6/ndisc.c", "func_decl_name": "ndisc_router_discovery", "is_cond": true, "line_numbers": [1380, 1381], "line_cids": ["", ""], "line_strs": ["", "\t\trt = rt6_add_dflt_router(net, &ipv6_hdr(skb)->saddr,"]}]}

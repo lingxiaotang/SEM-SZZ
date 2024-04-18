@@ -1,0 +1,1 @@
+{"mm/memory.c": [{"patch_file_name": "mm/memory.c", "func_decl_name": "do_fault_around", "is_cond": true, "line_numbers": [3135, 3136], "line_cids": ["", ""], "line_strs": ["\t\tfe->prealloc_pte = pte_alloc_one(fe->vma->vm_mm, fe->address);", "\t\tsmp_wmb(); /* See comment in __pte_alloc() */"]}]}

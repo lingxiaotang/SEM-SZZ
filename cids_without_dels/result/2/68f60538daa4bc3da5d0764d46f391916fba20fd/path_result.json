@@ -1,0 +1,1 @@
+{"drivers/fpga/altera-cvp.c": [{"patch_file_name": "drivers/fpga/altera-cvp.c", "func_decl_name": "altera_cvp_probe", "is_cond": true, "line_numbers": [418, 419], "line_cids": ["", ""], "line_strs": ["", "\tconf = devm_kzalloc(&pdev->dev, sizeof(*conf), GFP_KERNEL);"]}]}

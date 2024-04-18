@@ -1,0 +1,1 @@
+{"drivers/net/usb/asix_devices.c": [{"patch_file_name": "drivers/net/usb/asix_devices.c", "func_decl_name": "ax88772_init_phy", "is_cond": false, "line_numbers": [697, 704], "line_cids": ["", ""], "line_strs": ["\tif (IS_ERR(priv->phydev)) {", "\tpriv->phydev->mac_managed_pm = 1;"]}]}

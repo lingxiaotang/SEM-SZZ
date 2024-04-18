@@ -1,0 +1,1 @@
+{"drivers/gpu/drm/i915/gem/i915_gem_ttm.c": [{"patch_file_name": "drivers/gpu/drm/i915/gem/i915_gem_ttm.c", "func_decl_name": "vm_fault_ttm", "is_cond": true, "line_numbers": [885, 886], "line_cids": ["", ""], "line_strs": ["", "\tif (drm_dev_enter(dev, &idx)) {"]}]}

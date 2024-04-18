@@ -1,0 +1,1 @@
+{"net/unix/af_unix.c": [{"patch_file_name": "net/unix/af_unix.c", "func_decl_name": "unix_stream_read_generic", "is_cond": true, "line_numbers": [2163, 2164], "line_cids": ["", ""], "line_strs": ["", "\t\t/* Mark read part of skb as used */"]}]}

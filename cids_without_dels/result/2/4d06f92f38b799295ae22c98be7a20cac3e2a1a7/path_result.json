@@ -1,0 +1,1 @@
+{"sound/soc/codecs/rt5663.c": [{"patch_file_name": "sound/soc/codecs/rt5663.c", "func_decl_name": "rt5663_parse_dp", "is_cond": true, "line_numbers": [3480, 3481], "line_cids": ["", ""], "line_strs": ["\t\trt5663->imp_table = devm_kzalloc(dev, table_size, GFP_KERNEL);", "\t\tret = device_property_read_u32_array(dev,"]}]}

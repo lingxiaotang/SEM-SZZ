@@ -1,0 +1,1 @@
+{"sound/pci/hda/hda_codec.c": [{"patch_file_name": "sound/pci/hda/hda_codec.c", "func_decl_name": "snd_hda_ctls_clear", "is_cond": false, "line_numbers": [1732], "line_cids": [""], "line_strs": ["\tsnd_array_free(&codec->mixers);"]}]}

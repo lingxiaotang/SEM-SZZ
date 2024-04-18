@@ -1,0 +1,1 @@
+{"drivers/scsi/ufs/ufshcd.c": [{"patch_file_name": "drivers/scsi/ufs/ufshcd.c", "func_decl_name": "ufshcd_init_clk_scaling", "is_cond": true, "line_numbers": [1604, 1605], "line_cids": ["", ""], "line_strs": ["", "\tINIT_WORK(&hba->clk_scaling.suspend_work,"]}]}

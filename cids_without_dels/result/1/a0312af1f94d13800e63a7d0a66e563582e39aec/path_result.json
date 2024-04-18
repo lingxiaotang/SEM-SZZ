@@ -1,0 +1,1 @@
+{"drivers/hid/hid-core.c": [{"patch_file_name": "drivers/hid/hid-core.c", "func_decl_name": "snto32", "is_cond": true, "line_numbers": [1309, 1310], "line_cids": ["", ""], "line_strs": ["{", "\tswitch (n) {"]}]}

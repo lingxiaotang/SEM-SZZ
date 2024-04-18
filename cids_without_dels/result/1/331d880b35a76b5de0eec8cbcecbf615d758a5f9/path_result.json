@@ -1,0 +1,1 @@
+{"drivers/gpu/drm/hisilicon/hibmc/hibmc_drm_fbdev.c": [{"patch_file_name": "drivers/gpu/drm/hisilicon/hibmc/hibmc_drm_fbdev.c", "func_decl_name": "hibmc_drm_fb_create", "is_cond": false, "line_numbers": [124, 124], "line_cids": ["", ""], "line_strs": ["\t\tret = PTR_ERR(hi_fbdev->fb);", "\t\tret = PTR_ERR(hi_fbdev->fb);"]}]}

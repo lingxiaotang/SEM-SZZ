@@ -1,0 +1,1 @@
+{"drivers/infiniband/sw/siw/siw_main.c": [{"patch_file_name": "drivers/infiniband/sw/siw/siw_main.c", "func_decl_name": "siw_init_module", "is_cond": false, "line_numbers": [610, 610], "line_cids": ["", ""], "line_strs": ["\tif (rv)", "\tif (rv)"]}]}

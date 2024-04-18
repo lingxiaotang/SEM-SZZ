@@ -1,0 +1,1 @@
+{"drivers/spi/spi-fsl-qspi.c": [{"patch_file_name": "drivers/spi/spi-fsl-qspi.c", "func_decl_name": "fsl_qspi_probe", "is_cond": true, "line_numbers": [878, 879], "line_cids": ["", ""], "line_strs": ["\t\t\t\t\t\"QuadSPI-memory\");", "\tq->memmap_phy = res->start;"]}]}

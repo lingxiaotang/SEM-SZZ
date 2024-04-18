@@ -1,0 +1,1 @@
+{"drivers/power/supply/sbs-battery.c": [{"patch_file_name": "drivers/power/supply/sbs-battery.c", "func_decl_name": "sbs_update_presence", "is_cond": true, "line_numbers": [282, 283], "line_cids": ["", ""], "line_strs": ["", "\tdev_dbg(&client->dev, \"PEC: %s\\n\", (client->flags & I2C_CLIENT_PEC) ?"]}]}

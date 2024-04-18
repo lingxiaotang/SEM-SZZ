@@ -1,0 +1,1 @@
+{"fs/namespace.c": [{"patch_file_name": "fs/namespace.c", "func_decl_name": "mntns_install", "is_cond": false, "line_numbers": [3478], "line_cids": [""], "line_strs": ["\told_mnt_ns = nsproxy->mnt_ns;"]}]}

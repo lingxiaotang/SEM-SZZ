@@ -1,0 +1,1 @@
+{"drivers/scsi/qla2xxx/qla_init.c": [{"patch_file_name": "drivers/scsi/qla2xxx/qla_init.c", "func_decl_name": "qla24xx_handle_prli_done_event", "is_cond": true, "line_numbers": [2125, 2126], "line_cids": ["", ""], "line_strs": ["\t\tif (N2N_TOPO(vha->hw)) {", "\t\t\tif (ea->fcport->n2n_link_reset_cnt <"]}]}

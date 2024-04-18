@@ -1,0 +1,1 @@
+{"kernel/bpf/verifier.c": [{"patch_file_name": "kernel/bpf/verifier.c", "func_decl_name": "check_stack_boundary", "is_cond": true, "line_numbers": [2228, 2229], "line_cids": ["", ""], "line_strs": ["\t} else {", "\t\tmin_off = reg->smin_value + reg->off;"]}]}

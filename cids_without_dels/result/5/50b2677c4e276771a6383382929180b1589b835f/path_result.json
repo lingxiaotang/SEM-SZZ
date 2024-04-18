@@ -1,0 +1,1 @@
+{"drivers/staging/vc04_services/vchiq-mmal/mmal-vchiq.c": [{"patch_file_name": "drivers/staging/vc04_services/vchiq-mmal/mmal-vchiq.c", "func_decl_name": "buffer_from_host", "is_cond": true, "line_numbers": [443, 444], "line_cids": ["", ""], "line_strs": ["\t\t\t\t\t sizeof(m.u.buffer_from_host));", ""]}]}

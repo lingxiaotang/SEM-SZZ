@@ -1,0 +1,1 @@
+{"net/tipc/socket.c": [{"patch_file_name": "net/tipc/socket.c", "func_decl_name": "tipc_sk_timeout", "is_cond": false, "line_numbers": [2760, 2761], "line_cids": ["", ""], "line_strs": ["\t\tsk_reset_timer(sk, &sk->sk_timer, jiffies + HZ / 20);", "\t\tbh_unlock_sock(sk);"]}]}

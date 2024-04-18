@@ -1,0 +1,1 @@
+{"kernel/bpf/verifier.c": [{"patch_file_name": "kernel/bpf/verifier.c", "func_decl_name": "__check_func_call", "is_cond": true, "line_numbers": [6033, 6034], "line_cids": ["", ""], "line_strs": ["\tif (insn->code == (BPF_JMP | BPF_CALL) &&", "\t    insn->imm == BPF_FUNC_timer_set_callback) {"]}]}

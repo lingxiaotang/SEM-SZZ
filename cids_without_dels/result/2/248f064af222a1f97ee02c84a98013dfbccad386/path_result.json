@@ -1,0 +1,1 @@
+{"drivers/s390/net/qeth_core_main.c": [{"patch_file_name": "drivers/s390/net/qeth_core_main.c", "func_decl_name": "qeth_clear_working_pool_list", "is_cond": true, "line_numbers": [204, 205], "line_cids": ["", ""], "line_strs": ["", "\tfor (i = 0; i < ARRAY_SIZE(queue->bufs); i++)"]}]}

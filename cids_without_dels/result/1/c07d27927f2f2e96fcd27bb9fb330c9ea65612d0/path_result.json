@@ -1,0 +1,1 @@
+{"drivers/net/ethernet/mellanox/mlx4/cmd.c": [{"patch_file_name": "drivers/net/ethernet/mellanox/mlx4/cmd.c", "func_decl_name": "mlx4_cmd_use_polling", "is_cond": true, "line_numbers": [2684, 2685], "line_cids": ["", ""], "line_strs": ["", "\tdown_write(&priv->cmd.switch_sem);"]}]}

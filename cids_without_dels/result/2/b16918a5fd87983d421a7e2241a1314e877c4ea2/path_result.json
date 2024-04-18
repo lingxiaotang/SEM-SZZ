@@ -1,0 +1,1 @@
+{"drivers/hwmon/da9052-hwmon.c": [{"patch_file_name": "drivers/hwmon/da9052-hwmon.c", "func_decl_name": "da9052_hwmon_probe", "is_cond": false, "line_numbers": [478, 480], "line_cids": ["", ""], "line_strs": ["\t\tda9052_reg_write(hwmon->da9052, DA9052_TSI_CONT_A_REG, 0x00);", "\t\terr = da9052_request_irq(hwmon->da9052, DA9052_IRQ_TSIREADY,"]}]}

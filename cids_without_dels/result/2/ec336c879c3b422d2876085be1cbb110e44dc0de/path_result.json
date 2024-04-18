@@ -1,0 +1,1 @@
+{"arch/x86/events/intel/uncore_snbep.c": [{"patch_file_name": "arch/x86/events/intel/uncore_snbep.c", "func_decl_name": "knl_cha_hw_config", "is_cond": false, "line_numbers": [1904, 1905], "line_cids": ["", ""], "line_strs": ["\t\treg1->config = event->attr.config1 & knl_cha_filter_mask(idx);", "\t\treg1->idx = idx;"]}]}

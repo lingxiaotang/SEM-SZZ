@@ -1,0 +1,1 @@
+{"drivers/crypto/qat/qat_common/adf_transport.c": [{"patch_file_name": "drivers/crypto/qat/qat_common/adf_transport.c", "func_decl_name": "adf_init_ring", "is_cond": false, "line_numbers": [171, 173], "line_cids": ["", ""], "line_strs": ["\tif (adf_check_ring_alignment(ring->dma_addr, ring_size_bytes)) {", "\t\tdma_free_coherent(&GET_DEV(accel_dev), ring_size_bytes,"]}]}

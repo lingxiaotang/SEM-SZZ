@@ -1,0 +1,1 @@
+{"tools/perf/util/s390-cpumsf.c": [{"patch_file_name": "tools/perf/util/s390-cpumsf.c", "func_decl_name": "s390_cpumsf_validate", "is_cond": true, "line_numbers": [354, 355], "line_cids": ["", ""], "line_strs": ["\t\t\tbreak;", "\t\tdefault:"]}]}

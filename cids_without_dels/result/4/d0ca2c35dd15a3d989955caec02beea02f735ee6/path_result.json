@@ -1,0 +1,1 @@
+{"drivers/infiniband/sw/rxe/rxe.c": [{"patch_file_name": "drivers/infiniband/sw/rxe/rxe.c", "func_decl_name": "rxe_init_device_param", "is_cond": false, "line_numbers": [105, 107], "line_cids": ["", ""], "line_strs": ["\trxe->attr.local_ca_ack_delay\t\t= RXE_LOCAL_CA_ACK_DELAY;", "\trxe->max_ucontext\t\t\t= RXE_MAX_UCONTEXT;"]}]}

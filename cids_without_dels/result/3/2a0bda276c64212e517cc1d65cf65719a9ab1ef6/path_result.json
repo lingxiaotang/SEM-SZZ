@@ -1,0 +1,1 @@
+{"sound/soc/codecs/wm8904.c": [{"patch_file_name": "sound/soc/codecs/wm8904.c", "func_decl_name": "wm8904_set_sysclk", "is_cond": true, "line_numbers": [1808, 1809], "line_cids": ["", ""], "line_strs": ["\tcase WM8904_CLK_AUTO:", "\t\tmclk_freq = clk_get_rate(priv->mclk);"]}]}

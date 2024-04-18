@@ -1,0 +1,1 @@
+{"drivers/net/ethernet/mellanox/mlx5/core/main.c": [{"patch_file_name": "drivers/net/ethernet/mellanox/mlx5/core/main.c", "func_decl_name": "handle_hca_cap_atomic", "is_cond": true, "line_numbers": [425, 426], "line_cids": ["", ""], "line_strs": ["\t\t\treturn err;", "\t} else {"]}]}

@@ -1,0 +1,1 @@
+{"drivers/net/dsa/microchip/ksz8863_smi.c": [{"patch_file_name": "drivers/net/dsa/microchip/ksz8863_smi.c", "func_decl_name": "ksz8863_smi_probe", "is_cond": true, "line_numbers": [149, 150], "line_cids": ["", ""], "line_strs": ["\tksz8 = devm_kzalloc(&mdiodev->dev, sizeof(struct ksz8), GFP_KERNEL);", "\tksz8->priv = mdiodev;"]}]}

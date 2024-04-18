@@ -1,0 +1,1 @@
+{"arch/powerpc/platforms/cell/axon_msi.c": [{"patch_file_name": "arch/powerpc/platforms/cell/axon_msi.c", "func_decl_name": "setup_msi_msg_address", "is_cond": false, "line_numbers": [211, 211], "line_cids": ["", ""], "line_strs": ["\tfor (; dn; dn = of_get_next_parent(dn)) {", "\tfor (; dn; dn = of_get_next_parent(dn)) {"]}]}

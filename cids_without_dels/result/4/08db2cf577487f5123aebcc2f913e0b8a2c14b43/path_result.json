@@ -1,0 +1,1 @@
+{"drivers/net/ethernet/mellanox/mlx5/core/fpga/ipsec.c": [{"patch_file_name": "drivers/net/ethernet/mellanox/mlx5/core/fpga/ipsec.c", "func_decl_name": "mlx5_fpga_ipsec_delete_sa_ctx", "is_cond": false, "line_numbers": [852, 853], "line_cids": ["", ""], "line_strs": ["\t\tmlx5_fpga_ipsec_release_sa_ctx(fpga_xfrm->sa_ctx);", "\t\tfpga_xfrm->sa_ctx = NULL;"]}]}

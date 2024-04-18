@@ -1,0 +1,1 @@
+{"drivers/net/ethernet/marvell/prestera/prestera_router.c": [{"patch_file_name": "drivers/net/ethernet/marvell/prestera/prestera_router.c", "func_decl_name": "prestera_router_fini", "is_cond": false, "line_numbers": [591], "line_cids": [""], "line_strs": ["\tunregister_inetaddr_notifier(&sw->router->inetaddr_nb);"]}]}

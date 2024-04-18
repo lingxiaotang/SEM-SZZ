@@ -1,0 +1,1 @@
+{"drivers/net/wireless/intel/iwlwifi/mvm/scan.c": [{"patch_file_name": "drivers/net/wireless/intel/iwlwifi/mvm/scan.c", "func_decl_name": "iwl_mvm_scan_umac_dwell", "is_cond": true, "line_numbers": [1299, 1300], "line_cids": ["", ""], "line_strs": ["\t}", "}"]}]}

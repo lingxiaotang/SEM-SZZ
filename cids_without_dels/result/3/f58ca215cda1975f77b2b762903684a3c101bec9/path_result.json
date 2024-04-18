@@ -1,0 +1,1 @@
+{"drivers/clk/sunxi/clk-sun9i-mmc.c": [{"patch_file_name": "drivers/clk/sunxi/clk-sun9i-mmc.c", "func_decl_name": "sun9i_a80_mmc_config_clk_probe", "is_cond": true, "line_numbers": [111, 112], "line_cids": ["", ""], "line_strs": ["\tr = platform_get_resource(pdev, IORESOURCE_MEM, 0);", "\t/* one clock/reset pair per word */"]}]}

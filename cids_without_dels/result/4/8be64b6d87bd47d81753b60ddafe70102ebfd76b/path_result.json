@@ -1,0 +1,1 @@
+{"drivers/regulator/wm831x-ldo.c": [{"patch_file_name": "drivers/regulator/wm831x-ldo.c", "func_decl_name": "wm831x_ldo_uv_irq", "is_cond": false, "line_numbers": [52, 54], "line_cids": ["", ""], "line_strs": ["\tstruct wm831x_ldo *ldo = data;", "\tregulator_notifier_call_chain(ldo->regulator,"]}]}

@@ -1,0 +1,1 @@
+{"drivers/net/ethernet/marvell/mvneta.c": [{"patch_file_name": "drivers/net/ethernet/marvell/mvneta.c", "func_decl_name": "mvneta_port_disable", "is_cond": false, "line_numbers": [1213, 1215], "line_cids": ["", ""], "line_strs": ["\tval = mvreg_read(pp, MVNETA_GMAC_CTRL_0);", "\tmvreg_write(pp, MVNETA_GMAC_CTRL_0, val);"]}]}

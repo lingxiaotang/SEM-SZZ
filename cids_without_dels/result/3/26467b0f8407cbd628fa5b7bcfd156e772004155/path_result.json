@@ -1,0 +1,1 @@
+{"arch/x86/kernel/cpu/resctrl/ctrlmondata.c": [{"patch_file_name": "arch/x86/kernel/cpu/resctrl/ctrlmondata.c", "func_decl_name": "rdtgroup_mondata_show", "is_cond": true, "line_numbers": [524, 525], "line_cids": ["", ""], "line_strs": ["\trdtgrp = rdtgroup_kn_lock_live(of->kn);", ""]}]}

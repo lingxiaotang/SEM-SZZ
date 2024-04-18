@@ -1,0 +1,1 @@
+{"fs/btrfs/tree-log.c": [{"patch_file_name": "fs/btrfs/tree-log.c", "func_decl_name": "btrfs_log_inode", "is_cond": true, "line_numbers": [5142, 5143], "line_cids": ["", ""], "line_strs": ["\t\terr = log_inode_item(trans, log, dst_path, inode);", "\t\tif (err)"]}]}

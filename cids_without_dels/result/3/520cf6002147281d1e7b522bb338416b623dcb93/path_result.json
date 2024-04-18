@@ -1,0 +1,1 @@
+{"drivers/net/ethernet/stmicro/stmmac/dwmac5.c": [{"patch_file_name": "drivers/net/ethernet/stmicro/stmmac/dwmac5.c", "func_decl_name": "dwmac5_flex_pps_config", "is_cond": false, "line_numbers": [517, 518], "line_cids": ["", ""], "line_strs": ["\t\tval |= PPSCMDx(index, 0x5);", "\t\twritel(val, ioaddr + MAC_PPS_CONTROL);"]}]}

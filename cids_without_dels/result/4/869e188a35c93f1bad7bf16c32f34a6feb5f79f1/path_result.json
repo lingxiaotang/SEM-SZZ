@@ -1,0 +1,1 @@
+{"drivers/gpu/drm/drm_atomic_helper.c": [{"patch_file_name": "drivers/gpu/drm/drm_atomic_helper.c", "func_decl_name": "drm_atomic_helper_resume", "is_cond": true, "line_numbers": [2665, 2666], "line_cids": ["", ""], "line_strs": ["\twhile (1) {", "\t\terr = drm_atomic_helper_commit_duplicated_state(state, &ctx);"]}]}

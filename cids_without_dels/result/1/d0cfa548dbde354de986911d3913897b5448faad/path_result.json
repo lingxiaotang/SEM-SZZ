@@ -1,0 +1,1 @@
+{"drivers/net/macsec.c": [{"patch_file_name": "drivers/net/macsec.c", "func_decl_name": "macsec_newlink", "is_cond": true, "line_numbers": [4020, 4021], "line_cids": ["", ""], "line_strs": ["", "\tif (data && data[IFLA_MACSEC_ICV_LEN])"]}]}

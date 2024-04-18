@@ -1,0 +1,1 @@
+{"drivers/perf/arm_spe_pmu.c": [{"patch_file_name": "drivers/perf/arm_spe_pmu.c", "func_decl_name": "arm_spe_pmu_perf_init", "is_cond": true, "line_numbers": [929, 930], "line_cids": ["", ""], "line_strs": ["\tname = devm_kasprintf(dev, GFP_KERNEL, \"%s_%d\", PMUNAME, idx);", "\treturn perf_pmu_register(&spe_pmu->pmu, name, -1);"]}]}

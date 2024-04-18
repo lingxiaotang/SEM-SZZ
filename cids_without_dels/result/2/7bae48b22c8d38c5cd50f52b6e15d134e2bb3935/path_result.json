@@ -1,0 +1,1 @@
+{"drivers/irqchip/qcom-pdc.c": [{"patch_file_name": "drivers/irqchip/qcom-pdc.c", "func_decl_name": "qcom_pdc_gic_set_type", "is_cond": false, "line_numbers": [117, 142], "line_cids": ["", ""], "line_strs": ["\tswitch (type) {", "\treturn irq_chip_set_type_parent(d, type);"]}]}

@@ -1,0 +1,1 @@
+{"drivers/net/wireless/mediatek/mt76/mt7921/init.c": [{"patch_file_name": "drivers/net/wireless/mediatek/mt76/mt7921/init.c", "func_decl_name": "mt7921_unregister_device", "is_cond": false, "line_numbers": [269, 270], "line_cids": ["", ""], "line_strs": ["\tmt76_unregister_device(&dev->mt76);", "\tmt7921_tx_token_put(dev);"]}]}

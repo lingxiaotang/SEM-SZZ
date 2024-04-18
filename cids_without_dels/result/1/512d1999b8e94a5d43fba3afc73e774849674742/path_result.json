@@ -1,0 +1,1 @@
+{"net/xdp/xsk_buff_pool.c": [{"patch_file_name": "net/xdp/xsk_buff_pool.c", "func_decl_name": "__xp_dma_unmap", "is_cond": false, "line_numbers": [334, 335], "line_cids": ["", ""], "line_strs": ["\t\tif (*dma) {", "\t\t\tdma_unmap_page_attrs(dma_map->dev, *dma, PAGE_SIZE,"]}]}

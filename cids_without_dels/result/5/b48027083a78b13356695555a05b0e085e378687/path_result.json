@@ -1,0 +1,1 @@
+{"drivers/mtd/nand/raw/nand_base.c": [{"patch_file_name": "drivers/mtd/nand/raw/nand_base.c", "func_decl_name": "of_get_nand_secure_regions", "is_cond": true, "line_numbers": [5232, 5233], "line_cids": ["", ""], "line_strs": ["", "\tnr_elem = of_property_count_elems_of_size(dn, \"secure-regions\", sizeof(u64));"]}]}

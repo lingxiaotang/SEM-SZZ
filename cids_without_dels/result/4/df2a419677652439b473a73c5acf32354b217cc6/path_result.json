@@ -1,0 +1,1 @@
+{"mm/memcontrol.c": [{"patch_file_name": "mm/memcontrol.c", "func_decl_name": "mem_cgroup_protected", "is_cond": true, "line_numbers": [5482, 5483], "line_cids": ["", ""], "line_strs": ["\tparent = parent_mem_cgroup(memcg);", "\tif (parent == root)"]}]}

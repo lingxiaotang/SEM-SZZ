@@ -1,0 +1,1 @@
+{"drivers/usb/typec/tcpm/tcpci_mt6360.c": [{"patch_file_name": "drivers/usb/typec/tcpm/tcpci_mt6360.c", "func_decl_name": "mt6360_tcpc_init", "is_cond": true, "line_numbers": [108, 109], "line_cids": ["", ""], "line_strs": ["", "\t/* Set shipping mode off, AUTOIDLE on */"]}]}

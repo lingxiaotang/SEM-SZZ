@@ -1,0 +1,1 @@
+{"kernel/fail_function.c": [{"patch_file_name": "kernel/fail_function.c", "func_decl_name": "fei_attr_new", "is_cond": false, "line_numbers": [58, 59], "line_cids": ["", ""], "line_strs": ["\t\tattr->kp.pre_handler = fei_kprobe_handler;", "\t\tattr->retval = adjust_error_retval(addr, 0);"]}]}

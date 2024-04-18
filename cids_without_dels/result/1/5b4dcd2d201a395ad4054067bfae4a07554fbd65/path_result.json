@@ -1,0 +1,1 @@
+{"kernel/trace/trace_kprobe.c": [{"patch_file_name": "kernel/trace/trace_kprobe.c", "func_decl_name": "__kprobe_event_gen_cmd_start", "is_cond": true, "line_numbers": [955, 956], "line_cids": ["", ""], "line_strs": ["", "\tif (kretprobe)"]}]}

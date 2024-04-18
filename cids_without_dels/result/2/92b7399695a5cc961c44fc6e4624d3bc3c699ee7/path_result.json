@@ -1,0 +1,1 @@
+{"mm/mmap.c": [{"patch_file_name": "mm/mmap.c", "func_decl_name": "copy_vma", "is_cond": true, "line_numbers": [3242, 3243], "line_cids": ["", ""], "line_strs": ["\t\tnew_vma->vm_ops->close(new_vma);", "out_free_mempol:"]}]}

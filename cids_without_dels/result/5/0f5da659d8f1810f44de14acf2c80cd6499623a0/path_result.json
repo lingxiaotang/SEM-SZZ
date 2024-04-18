@@ -1,0 +1,1 @@
+{"net/unix/diag.c": [{"patch_file_name": "net/unix/diag.c", "func_decl_name": "unix_diag_get_exact", "is_cond": true, "line_numbers": [259, 260], "line_cids": ["", ""], "line_strs": ["\t\tgoto out_nosk;", ""]}]}

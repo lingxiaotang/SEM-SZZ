@@ -1,0 +1,1 @@
+{"fs/ecryptfs/main.c": [{"patch_file_name": "fs/ecryptfs/main.c", "func_decl_name": "ecryptfs_mount", "is_cond": true, "line_numbers": [494, 495], "line_cids": ["", ""], "line_strs": ["", "\trc = ecryptfs_parse_options(sbi, raw_data, &check_ruid);"]}]}

@@ -1,0 +1,1 @@
+{"drivers/net/ethernet/renesas/ravb_main.c": [{"patch_file_name": "drivers/net/ethernet/renesas/ravb_main.c", "func_decl_name": "ravb_start_xmit", "is_cond": true, "line_numbers": [1506, 1507], "line_cids": ["", ""], "line_strs": ["\tlen = PTR_ALIGN(skb->data, DPTR_ALIGN) - skb->data;", "\tmemcpy(buffer, skb->data, len);"]}]}

@@ -1,0 +1,1 @@
+{"net/nsh/nsh.c": [{"patch_file_name": "net/nsh/nsh.c", "func_decl_name": "nsh_gso_segment", "is_cond": true, "line_numbers": [92, 93], "line_cids": ["", ""], "line_strs": ["\tnsh_len = nsh_hdr_len(nsh_hdr(skb));", "\tif (unlikely(!pskb_may_pull(skb, nsh_len)))"]}]}

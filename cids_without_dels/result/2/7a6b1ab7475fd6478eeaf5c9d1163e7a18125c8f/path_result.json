@@ -1,0 +1,1 @@
+{"net/core/neighbour.c": [{"patch_file_name": "net/core/neighbour.c", "func_decl_name": "neigh_forced_gc", "is_cond": true, "line_numbers": [240, 241], "line_cids": ["", ""], "line_strs": ["\t\t\tif ((n->nud_state == NUD_FAILED) ||", "\t\t\t    (tbl->is_multicast &&"]}]}

@@ -1,0 +1,1 @@
+{"net/core/dev.c": [{"patch_file_name": "net/core/dev.c", "func_decl_name": "skb_tx_hash", "is_cond": true, "line_numbers": [3165, 3166], "line_cids": ["", ""], "line_strs": ["\t\tqcount = sb_dev->tc_to_txq[tc].count;", "\t}"]}]}

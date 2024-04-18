@@ -1,0 +1,1 @@
+{"drivers/net/team/team.c": [{"patch_file_name": "drivers/net/team/team.c", "func_decl_name": "team_mode_get", "is_cond": true, "line_numbers": [470, 471], "line_cids": ["", ""], "line_strs": ["", "\tspin_lock(&mode_list_lock);"]}]}

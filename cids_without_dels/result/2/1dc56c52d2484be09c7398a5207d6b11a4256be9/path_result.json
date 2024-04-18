@@ -1,0 +1,1 @@
+{"drivers/usb/misc/lvstest.c": [{"patch_file_name": "drivers/usb/misc/lvstest.c", "func_decl_name": "lvs_rh_probe", "is_cond": true, "line_numbers": [368, 369], "line_cids": ["", ""], "line_strs": ["\tdesc = intf->cur_altsetting;", "\tendpoint = &desc->endpoint[0].desc;"]}]}

@@ -1,0 +1,1 @@
+{"net/bluetooth/sco.c": [{"patch_file_name": "net/bluetooth/sco.c", "func_decl_name": "sco_conn_defer_accept", "is_cond": true, "line_numbers": [775, 776], "line_cids": ["", ""], "line_strs": ["\t\t\tbreak;", "\t\t}"]}]}

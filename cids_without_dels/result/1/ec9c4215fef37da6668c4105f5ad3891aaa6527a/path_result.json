@@ -1,0 +1,1 @@
+{"net/ipv6/exthdrs.c": [{"patch_file_name": "net/ipv6/exthdrs.c", "func_decl_name": "fl6_update_dst", "is_cond": true, "line_numbers": [1165, 1166], "line_cids": ["", ""], "line_strs": ["\tcase IPV6_SRCRT_TYPE_0:", "\t\tfl6->daddr = *((struct rt0_hdr *)opt->srcrt)->addr;"]}]}

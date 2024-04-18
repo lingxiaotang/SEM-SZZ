@@ -1,0 +1,1 @@
+{"lib/asn1_decoder.c": [{"patch_file_name": "lib/asn1_decoder.c", "func_decl_name": "asn1_ber_decoder", "is_cond": true, "line_numbers": [286, 287], "line_cids": ["", ""], "line_strs": ["\t\t\t}", "\t\t}"]}]}

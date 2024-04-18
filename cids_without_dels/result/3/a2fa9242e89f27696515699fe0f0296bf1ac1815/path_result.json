@@ -1,0 +1,1 @@
+{"drivers/iio/proximity/pulsedlight-lidar-lite-v2.c": [{"patch_file_name": "drivers/iio/proximity/pulsedlight-lidar-lite-v2.c", "func_decl_name": "lidar_get_measurement", "is_cond": false, "line_numbers": [157, 162], "line_cids": ["", ""], "line_strs": ["\tpm_runtime_get_sync(&client->dev);", "\t\tdev_err(&client->dev, \"cannot send start measurement command\");"]}]}

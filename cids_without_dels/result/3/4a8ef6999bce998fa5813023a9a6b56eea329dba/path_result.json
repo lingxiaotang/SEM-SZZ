@@ -1,0 +1,1 @@
+{"drivers/s390/block/dasd_eckd.c": [{"patch_file_name": "drivers/s390/block/dasd_eckd.c", "func_decl_name": "dasd_symm_io", "is_cond": true, "line_numbers": [4471, 4472], "line_cids": ["", ""], "line_strs": ["\t}", "\t/* alloc I/O data area */"]}]}

@@ -1,0 +1,1 @@
+{"net/bridge/br_mdb.c": [{"patch_file_name": "net/bridge/br_mdb.c", "func_decl_name": "br_mdb_add_group", "is_cond": true, "line_numbers": [349, 350], "line_cids": ["", ""], "line_strs": ["\trcu_assign_pointer(*pp, p);", ""]}]}

@@ -1,0 +1,1 @@
+{"drivers/net/net_failover.c": [{"patch_file_name": "drivers/net/net_failover.c", "func_decl_name": "net_failover_slave_unregister", "is_cond": true, "line_numbers": [604, 605], "line_cids": ["", ""], "line_strs": ["", "\tvlan_vids_del_by_dev(slave_dev, failover_dev);"]}]}

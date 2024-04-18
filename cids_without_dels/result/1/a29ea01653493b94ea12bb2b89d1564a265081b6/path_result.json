@@ -1,0 +1,1 @@
+{"drivers/s390/block/dasd_alias.c": [{"patch_file_name": "drivers/s390/block/dasd_alias.c", "func_decl_name": "_lcu_update", "is_cond": true, "line_numbers": [513, 514], "line_cids": ["", ""], "line_strs": ["\tspin_lock_irqsave(&lcu->lock, flags);", "\tlcu->pav = NO_PAV;"]}]}

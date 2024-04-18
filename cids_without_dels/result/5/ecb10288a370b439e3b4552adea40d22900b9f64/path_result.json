@@ -1,0 +1,1 @@
+{"drivers/net/ethernet/socionext/netsec.c": [{"patch_file_name": "drivers/net/ethernet/socionext/netsec.c", "func_decl_name": "netsec_netdev_open", "is_cond": false, "line_numbers": [1286, 1286], "line_cids": ["", ""], "line_strs": ["\tif (ret) {", "\tif (ret) {"]}]}

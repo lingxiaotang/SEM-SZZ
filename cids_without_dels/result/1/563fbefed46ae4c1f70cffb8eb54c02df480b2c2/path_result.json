@@ -1,0 +1,1 @@
+{"net/wireless/util.c": [{"patch_file_name": "net/wireless/util.c", "func_decl_name": "cfg80211_change_iface", "is_cond": true, "line_numbers": [1048, 1049], "line_cids": ["", ""], "line_strs": ["\t\tcase NL80211_IFTYPE_AP:", "\t\t\tcfg80211_stop_ap(rdev, dev, true);"]}]}

@@ -1,0 +1,1 @@
+{"drivers/tty/serial/fsl_lpuart.c": [{"patch_file_name": "drivers/tty/serial/fsl_lpuart.c", "func_decl_name": "lpuart_probe", "is_cond": true, "line_numbers": [2147, 2148], "line_cids": ["", ""], "line_strs": ["\t}", "\tsport->port.line = ret;"]}]}

@@ -1,0 +1,1 @@
+{"drivers/base/regmap/regmap-spi.c": [{"patch_file_name": "drivers/base/regmap/regmap-spi.c", "func_decl_name": "regmap_get_spi_bus", "is_cond": true, "line_numbers": [122, 123], "line_cids": ["", ""], "line_strs": ["", "\t\tbus->free_on_exit = true;"]}]}

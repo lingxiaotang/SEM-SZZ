@@ -1,0 +1,1 @@
+{"drivers/usb/cdns3/cdns3-gadget.c": [{"patch_file_name": "drivers/usb/cdns3/cdns3-gadget.c", "func_decl_name": "cdns3_check_ep_interrupt_proceed", "is_cond": true, "line_numbers": [1708, 1709], "line_cids": ["", ""], "line_strs": ["\tif ((ep_sts_reg & EP_STS_IOC) || (ep_sts_reg & EP_STS_ISP) ||", "\t    (ep_sts_reg & EP_STS_IOT)) {"]}]}

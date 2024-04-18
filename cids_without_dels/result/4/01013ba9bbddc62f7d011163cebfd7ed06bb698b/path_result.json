@@ -1,0 +1,1 @@
+{"drivers/gpu/drm/msm/disp/dpu1/dpu_hw_interrupts.c": [{"patch_file_name": "drivers/gpu/drm/msm/disp/dpu1/dpu_hw_interrupts.c", "func_decl_name": "dpu_core_irq_uninstall", "is_cond": true, "line_numbers": [562, 563], "line_cids": ["", ""], "line_strs": ["", "\tpm_runtime_get_sync(&dpu_kms->pdev->dev);"]}]}

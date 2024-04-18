@@ -1,0 +1,1 @@
+{"drivers/cpufreq/qoriq-cpufreq.c": [{"patch_file_name": "drivers/cpufreq/qoriq-cpufreq.c", "func_decl_name": "qoriq_cpufreq_probe", "is_cond": false, "line_numbers": [277, 277], "line_cids": ["", ""], "line_strs": ["\tif (np) {", "\tif (np) {"]}]}

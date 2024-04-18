@@ -1,0 +1,1 @@
+{"drivers/md/raid1.c": [{"patch_file_name": "drivers/md/raid1.c", "func_decl_name": "close_sync", "is_cond": false, "line_numbers": [1546, 1548], "line_cids": ["", ""], "line_strs": ["\tconf->r1buf_pool = NULL;", "\tconf->next_resync = 0;"]}]}

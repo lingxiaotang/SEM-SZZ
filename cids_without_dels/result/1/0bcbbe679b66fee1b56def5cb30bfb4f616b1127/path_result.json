@@ -1,0 +1,1 @@
+{"drivers/net/wireless/ath/ath10k/pci.c": [{"patch_file_name": "drivers/net/wireless/ath/ath10k/pci.c", "func_decl_name": "ath10k_pci_probe", "is_cond": false, "line_numbers": [2850, 2853], "line_cids": ["", ""], "line_strs": ["\tath10k_pci_free_pipes(ar);", "\tath10k_pci_release(ar);"]}]}

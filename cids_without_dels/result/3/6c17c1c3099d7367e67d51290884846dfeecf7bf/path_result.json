@@ -1,0 +1,1 @@
+{"drivers/perf/qcom_l2_pmu.c": [{"patch_file_name": "drivers/perf/qcom_l2_pmu.c", "func_decl_name": "l2_cache_event_init", "is_cond": true, "line_numbers": [548, 549], "line_cids": ["", ""], "line_strs": ["\tif ((event != event->group_leader) &&", "\t    (L2_EVT_GROUP(event->group_leader->attr.config) =="]}]}

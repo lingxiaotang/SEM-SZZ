@@ -1,0 +1,1 @@
+{"drivers/infiniband/core/cma.c": [{"patch_file_name": "drivers/infiniband/core/cma.c", "func_decl_name": "cma_id_from_event", "is_cond": true, "line_numbers": [1304, 1305], "line_cids": ["", ""], "line_strs": ["\tid_priv = cma_find_listener(bind_list, cm_id, ib_event, &req, *net_dev);", ""]}]}

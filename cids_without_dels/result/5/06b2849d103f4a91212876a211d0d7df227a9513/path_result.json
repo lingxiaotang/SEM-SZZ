@@ -1,0 +1,1 @@
+{"fs/proc/base.c": [{"patch_file_name": "fs/proc/base.c", "func_decl_name": "auxv_read", "is_cond": true, "line_numbers": [1014, 1015], "line_cids": ["", ""], "line_strs": ["\tunsigned int nwords = 0;", "\tdo {"]}]}

@@ -1,0 +1,1 @@
+{"lib/test_firmware.c": [{"patch_file_name": "lib/test_firmware.c", "func_decl_name": "config_num_requests_store", "is_cond": false, "line_numbers": [370], "line_cids": [""], "line_strs": ["\tmutex_lock(&test_fw_mutex);"]}]}

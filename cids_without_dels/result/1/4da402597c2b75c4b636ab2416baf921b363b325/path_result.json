@@ -1,0 +1,1 @@
+{"net/xfrm/xfrm_interface.c": [{"patch_file_name": "net/xfrm/xfrm_interface.c", "func_decl_name": "xfrmi_dev_free", "is_cond": false, "line_numbers": [119], "line_cids": [""], "line_strs": ["\tfree_percpu(dev->tstats);"]}]}

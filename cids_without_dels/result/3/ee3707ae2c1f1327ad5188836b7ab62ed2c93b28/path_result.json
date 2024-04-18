@@ -1,0 +1,1 @@
+{"fs/nfs/dir.c": [{"patch_file_name": "fs/nfs/dir.c", "func_decl_name": "nfs_readdir_xdr_to_array", "is_cond": true, "line_numbers": [871, 871], "line_cids": ["", ""], "line_strs": ["\t} while (!status && nfs_readdir_page_needs_filling(page));", "\t} while (!status && nfs_readdir_page_needs_filling(page));"]}]}

@@ -1,0 +1,1 @@
+{"tools/perf/util/event.c": [{"patch_file_name": "tools/perf/util/event.c", "func_decl_name": "machine__resolve", "is_cond": true, "line_numbers": [694, 695], "line_cids": ["", ""], "line_strs": ["\t\tal->sym = map__find_symbol(al->map, al->addr);", "\t}"]}]}

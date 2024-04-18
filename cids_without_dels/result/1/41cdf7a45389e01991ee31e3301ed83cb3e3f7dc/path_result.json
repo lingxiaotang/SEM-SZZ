@@ -1,0 +1,1 @@
+{"crypto/authencesn.c": [{"patch_file_name": "crypto/authencesn.c", "func_decl_name": "crypto_authenc_esn_decrypt_tail", "is_cond": true, "line_numbers": [250, 251], "line_cids": ["", ""], "line_strs": ["", "\t/* Move high-order bits of sequence number back. */"]}]}

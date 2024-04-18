@@ -1,0 +1,1 @@
+{"net/dsa/slave.c": [{"patch_file_name": "net/dsa/slave.c", "func_decl_name": "dsa_slave_resume", "is_cond": true, "line_numbers": [1263, 1264], "line_cids": ["", ""], "line_strs": ["", "\tnetif_device_attach(slave_dev);"]}]}

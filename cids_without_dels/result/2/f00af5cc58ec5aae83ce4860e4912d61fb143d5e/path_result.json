@@ -1,0 +1,1 @@
+{"drivers/net/ethernet/microchip/sparx5/sparx5_main.c": [{"patch_file_name": "drivers/net/ethernet/microchip/sparx5/sparx5_main.c", "func_decl_name": "sparx5_create_targets", "is_cond": true, "line_numbers": [230, 231], "line_cids": ["", ""], "line_strs": ["\t\t\t\t\t\t   idx);", "\t\tiomem[idx] = devm_ioremap(sparx5->dev,"]}]}

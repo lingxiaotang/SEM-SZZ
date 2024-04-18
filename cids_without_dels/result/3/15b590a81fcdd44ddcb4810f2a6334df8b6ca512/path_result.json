@@ -1,0 +1,1 @@
+{"security/selinux/ss/services.c": [{"patch_file_name": "security/selinux/ss/services.c", "func_decl_name": "security_sidtab_hash_stats", "is_cond": true, "line_numbers": [1288, 1289], "line_cids": ["", ""], "line_strs": ["", "\tread_lock(&state->ss->policy_rwlock);"]}]}

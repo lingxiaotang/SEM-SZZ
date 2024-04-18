@@ -1,0 +1,1 @@
+{"sound/soc/intel/boards/sof_sdw_rt1316.c": [{"patch_file_name": "sound/soc/intel/boards/sof_sdw_rt1316.c", "func_decl_name": "first_spk_init", "is_cond": true, "line_numbers": [41, 42], "line_cids": ["", ""], "line_strs": ["", "\tret = snd_soc_add_card_controls(card, rt1316_controls,"]}]}

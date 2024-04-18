@@ -1,0 +1,1 @@
+{"drivers/vdpa/mlx5/net/mlx5_vnet.c": [{"patch_file_name": "drivers/vdpa/mlx5/net/mlx5_vnet.c", "func_decl_name": "handle_ctrl_vlan", "is_cond": false, "line_numbers": [1792, 1822], "line_cids": ["", ""], "line_strs": ["\tvirtio_net_ctrl_ack status = VIRTIO_NET_ERR;", "return status;"]}]}

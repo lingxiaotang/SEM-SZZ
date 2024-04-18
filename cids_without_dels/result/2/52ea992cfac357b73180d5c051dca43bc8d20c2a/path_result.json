@@ -1,0 +1,1 @@
+{"net/tls/tls_sw.c": [{"patch_file_name": "net/tls/tls_sw.c", "func_decl_name": "alloc_plaintext_sg", "is_cond": true, "line_numbers": [140, 141], "line_cids": ["", ""], "line_strs": ["", "\treturn rc;"]}]}

@@ -1,0 +1,1 @@
+{"drivers/gpu/drm/virtio/virtgpu_object.c": [{"patch_file_name": "drivers/gpu/drm/virtio/virtgpu_object.c", "func_decl_name": "virtio_gpu_create_object", "is_cond": false, "line_numbers": [98, 101], "line_cids": ["", ""], "line_strs": ["\tif (!bo)", "\tbo->base.base.funcs = &virtio_gpu_gem_funcs;"]}]}

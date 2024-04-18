@@ -1,0 +1,1 @@
+{"drivers/bluetooth/btusb.c": [{"patch_file_name": "drivers/bluetooth/btusb.c", "func_decl_name": "btusb_mtk_setup", "is_cond": true, "line_numbers": [2635, 2636], "line_cids": ["", ""], "line_strs": ["\t\t\t\t\t\tbtusb_mtk_hci_wmt_sync);", ""]}]}

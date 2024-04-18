@@ -1,0 +1,1 @@
+{"drivers/iio/adc/axp288_adc.c": [{"patch_file_name": "drivers/iio/adc/axp288_adc.c", "func_decl_name": "axp288_adc_initialize", "is_cond": true, "line_numbers": [183, 184], "line_cids": ["", ""], "line_strs": ["", "\t/*"]}]}

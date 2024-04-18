@@ -1,0 +1,1 @@
+{"net/core/sock.c": [{"patch_file_name": "net/core/sock.c", "func_decl_name": "sk_clone_lock", "is_cond": true, "line_numbers": [1546, 1547], "line_cids": ["", ""], "line_strs": ["\t\tif (unlikely(!is_charged || xfrm_sk_clone_policy(newsk, sk))) {", "\t\t\tsk_free_unlock_clone(newsk);"]}]}

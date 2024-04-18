@@ -1,0 +1,1 @@
+{"arch/x86/kernel/process.c": [{"patch_file_name": "arch/x86/kernel/process.c", "func_decl_name": "__get_wchan", "is_cond": true, "line_numbers": [966, 967], "line_cids": ["", ""], "line_strs": ["", "\tfor (unwind_start(&state, p, NULL, NULL); !unwind_done(&state);"]}]}

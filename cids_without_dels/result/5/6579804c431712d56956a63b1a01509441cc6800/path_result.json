@@ -1,0 +1,1 @@
+{"arch/powerpc/kvm/book3s_64_mmu_radix.c": [{"patch_file_name": "arch/powerpc/kvm/book3s_64_mmu_radix.c", "func_decl_name": "kvmppc_book3s_radix_page_fault", "is_cond": true, "line_numbers": [648, 649], "line_cids": ["", ""], "line_strs": ["\tptep = __find_linux_pte(vcpu->arch.pgdir, hva, NULL, &shift);", "\tpte = *ptep;"]}]}

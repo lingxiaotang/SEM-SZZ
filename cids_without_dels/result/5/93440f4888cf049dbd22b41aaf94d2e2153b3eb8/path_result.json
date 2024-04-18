@@ -1,0 +1,1 @@
+{"drivers/net/ethernet/marvell/octeontx2/af/ptp.c": [{"patch_file_name": "drivers/net/ethernet/marvell/octeontx2/af/ptp.c", "func_decl_name": "ptp_get", "is_cond": false, "line_numbers": [61, 64], "line_cids": ["", ""], "line_strs": ["\tif (!ptp)", "\treturn ptp;"]}]}

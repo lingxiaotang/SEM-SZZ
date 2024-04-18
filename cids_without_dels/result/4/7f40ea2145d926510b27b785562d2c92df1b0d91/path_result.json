@@ -1,0 +1,1 @@
+{"net/bridge/br_switchdev.c": [{"patch_file_name": "net/bridge/br_switchdev.c", "func_decl_name": "br_switchdev_vlan_attr_replay", "is_cond": true, "line_numbers": [355, 356], "line_cids": ["", ""], "line_strs": ["\tvg = br_vlan_group(br);", ""]}]}

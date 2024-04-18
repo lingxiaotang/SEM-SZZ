@@ -1,0 +1,1 @@
+{"sound/soc/codecs/rt711-sdca-sdw.c": [{"patch_file_name": "sound/soc/codecs/rt711-sdca-sdw.c", "func_decl_name": "rt711_sdca_mbq_readable_register", "is_cond": true, "line_numbers": [77, 78], "line_cids": ["", ""], "line_strs": ["\tcase 0x6100000 ... 0x61000ff:", "\t\treturn true;"]}]}

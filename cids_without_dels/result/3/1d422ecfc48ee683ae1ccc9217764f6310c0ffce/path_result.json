@@ -1,0 +1,1 @@
+{"drivers/power/supply/max17040_battery.c": [{"patch_file_name": "drivers/power/supply/max17040_battery.c", "func_decl_name": "max17040_probe", "is_cond": true, "line_numbers": [451, 452], "line_cids": ["", ""], "line_strs": ["\tchip->regmap = devm_regmap_init_i2c(client, &max17040_regmap);", "\tchip_id = (enum chip_id) id->driver_data;"]}]}

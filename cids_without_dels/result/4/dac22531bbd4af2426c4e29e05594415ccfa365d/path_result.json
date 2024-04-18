@@ -1,0 +1,1 @@
+{"mm/page_alloc.c": [{"patch_file_name": "mm/page_alloc.c", "func_decl_name": "page_frag_alloc_align", "is_cond": true, "line_numbers": [5742, 5743], "line_cids": ["", ""], "line_strs": ["\t\toffset = size - fragsz;", "\t}"]}]}

@@ -1,0 +1,1 @@
+{"drivers/infiniband/core/ib_core_uverbs.c": [{"patch_file_name": "drivers/infiniband/core/ib_core_uverbs.c", "func_decl_name": "rdma_user_mmap_entry_remove", "is_cond": false, "line_numbers": [232, 235], "line_cids": ["", ""], "line_strs": ["\tif (!entry)", "\tentry->driver_removed = true;"]}]}

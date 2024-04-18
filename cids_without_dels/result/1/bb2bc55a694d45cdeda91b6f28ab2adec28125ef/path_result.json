@@ -1,0 +1,1 @@
+{"kernel/sched/core.c": [{"patch_file_name": "kernel/sched/core.c", "func_decl_name": "cpuset_cpumask_can_shrink", "is_cond": true, "line_numbers": [4644, 4645], "line_cids": ["", ""], "line_strs": ["", "\trcu_read_lock_sched();"]}]}

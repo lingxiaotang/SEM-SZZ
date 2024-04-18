@@ -1,0 +1,1 @@
+{"drivers/net/ethernet/rocker/rocker_main.c": [{"patch_file_name": "drivers/net/ethernet/rocker/rocker_main.c", "func_decl_name": "rocker_port_attr_set", "is_cond": true, "line_numbers": [2085, 2086], "line_cids": ["", ""], "line_strs": ["\t\t\t\t\t\t\t      trans);", "\tcase SWITCHDEV_ATTR_ID_PORT_BRIDGE_FLAGS:"]}]}

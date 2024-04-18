@@ -1,0 +1,1 @@
+{"net/ipv4/ping.c": [{"patch_file_name": "net/ipv4/ping.c", "func_decl_name": "ping_common_sendmsg", "is_cond": true, "line_numbers": [659, 660], "line_cids": ["", ""], "line_strs": ["", "\t/*"]}]}

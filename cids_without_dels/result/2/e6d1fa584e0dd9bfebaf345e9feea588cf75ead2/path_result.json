@@ -1,0 +1,1 @@
+{"lib/sbitmap.c": [{"patch_file_name": "lib/sbitmap.c", "func_decl_name": "sbitmap_queue_clear", "is_cond": true, "line_numbers": [602], "line_cids": [""], "line_strs": ["\tsmp_mb__after_atomic();"]}]}

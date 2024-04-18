@@ -1,0 +1,1 @@
+{"drivers/media/platform/s5p-mfc/s5p_mfc.c": [{"patch_file_name": "drivers/media/platform/s5p-mfc/s5p_mfc.c", "func_decl_name": "s5p_mfc_alloc_memdev", "is_cond": false, "line_numbers": [1081, 1087], "line_cids": ["", ""], "line_strs": ["\t\tret = of_reserved_mem_device_init_by_idx(child, dev->of_node,", "\tput_device(child);"]}]}

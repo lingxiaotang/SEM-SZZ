@@ -1,0 +1,1 @@
+{"mm/userfaultfd.c": [{"patch_file_name": "mm/userfaultfd.c", "func_decl_name": "mcopy_atomic_pte", "is_cond": false, "line_numbers": [140, 163], "line_cids": ["", ""], "line_strs": ["\t\tpage_kaddr = kmap_atomic(page);", "\t__SetPageUptodate(page);"]}]}

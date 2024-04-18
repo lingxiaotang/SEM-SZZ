@@ -1,0 +1,1 @@
+{"drivers/net/team/team.c": [{"patch_file_name": "drivers/net/team/team.c", "func_decl_name": "team_port_del", "is_cond": true, "line_numbers": [1309, 1310], "line_cids": ["", ""], "line_strs": ["\tlist_del_rcu(&port->list);", "\tteam_upper_dev_unlink(team, port);"]}]}

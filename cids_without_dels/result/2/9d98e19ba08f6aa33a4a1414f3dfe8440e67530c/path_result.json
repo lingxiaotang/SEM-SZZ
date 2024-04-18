@@ -1,0 +1,1 @@
+{"drivers/infiniband/ulp/ipoib/ipoib_cm.c": [{"patch_file_name": "drivers/infiniband/ulp/ipoib/ipoib_cm.c", "func_decl_name": "ipoib_cm_tx_init", "is_cond": false, "line_numbers": [1145, 1145], "line_cids": ["", ""], "line_strs": ["\tnoio_flag = memalloc_noio_save();", "\tnoio_flag = memalloc_noio_save();"]}]}

@@ -1,0 +1,1 @@
+{"arch/x86/kvm/vmx/vmx.c": [{"patch_file_name": "arch/x86/kvm/vmx/vmx.c", "func_decl_name": "get_ept_level", "is_cond": true, "line_numbers": [2949, 2950], "line_cids": ["", ""], "line_strs": ["{", "\tif (cpu_has_vmx_ept_5levels() && (cpuid_maxphyaddr(vcpu) > 48))"]}]}

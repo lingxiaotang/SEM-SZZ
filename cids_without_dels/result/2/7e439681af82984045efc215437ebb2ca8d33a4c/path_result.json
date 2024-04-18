@@ -1,0 +1,1 @@
+{"drivers/mtd/mtdpart.c": [{"patch_file_name": "drivers/mtd/mtdpart.c", "func_decl_name": "allocate_partition", "is_cond": true, "line_numbers": [583, 584], "line_cids": ["", ""], "line_strs": ["", "\ttmp = slave->offset;"]}]}

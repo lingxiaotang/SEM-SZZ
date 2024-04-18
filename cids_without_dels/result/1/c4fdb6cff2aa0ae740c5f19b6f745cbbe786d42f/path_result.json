@@ -1,0 +1,1 @@
+{"net/batman-adv/send.c": [{"patch_file_name": "net/batman-adv/send.c", "func_decl_name": "batadv_purge_outstanding_packets", "is_cond": true, "line_numbers": [677, 678], "line_cids": ["", ""], "line_strs": ["\t\t\thlist_del(&forw_packet->list);", "\t\t\tbatadv_forw_packet_free(forw_packet);"]}]}

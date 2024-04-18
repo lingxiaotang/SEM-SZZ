@@ -1,0 +1,1 @@
+{"drivers/net/vxlan.c": [{"patch_file_name": "drivers/net/vxlan.c", "func_decl_name": "vxlan_open", "is_cond": true, "line_numbers": [2218, 2219], "line_cids": ["", ""], "line_strs": ["\t\tret = vxlan_igmp_join(vxlan);", "\t\tif (ret) {"]}]}

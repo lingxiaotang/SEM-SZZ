@@ -1,0 +1,1 @@
+{"drivers/usb/serial/sierra.c": [{"patch_file_name": "drivers/usb/serial/sierra.c", "func_decl_name": "sierra_close", "is_cond": true, "line_numbers": [782, 783], "line_cids": ["", ""], "line_strs": ["", "\tsierra_stop_rx_urbs(port);"]}]}

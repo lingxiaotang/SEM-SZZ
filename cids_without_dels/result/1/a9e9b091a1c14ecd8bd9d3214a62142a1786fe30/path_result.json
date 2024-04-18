@@ -1,0 +1,1 @@
+{"drivers/net/dsa/mt7530.c": [{"patch_file_name": "drivers/net/dsa/mt7530.c", "func_decl_name": "mt7530_setup", "is_cond": false, "line_numbers": [2231], "line_cids": [""], "line_strs": ["\t\t\t\t\tof_node_put(mac_np);"]}]}

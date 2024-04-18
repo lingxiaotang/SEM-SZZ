@@ -1,0 +1,1 @@
+{"sound/soc/atmel/sam9g20_wm8731.c": [{"patch_file_name": "sound/soc/atmel/sam9g20_wm8731.c", "func_decl_name": "at91sam9g20ek_audio_probe", "is_cond": false, "line_numbers": [205, 209], "line_cids": ["", ""], "line_strs": ["\tif (!codec_np) {", "\tat91sam9g20ek_dai.codecs->of_node = codec_np;"]}]}

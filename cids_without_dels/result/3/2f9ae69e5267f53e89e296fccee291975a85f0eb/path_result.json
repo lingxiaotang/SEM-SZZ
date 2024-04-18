@@ -1,0 +1,1 @@
+{"drivers/mmc/host/usdhi6rol0.c": [{"patch_file_name": "drivers/mmc/host/usdhi6rol0.c", "func_decl_name": "usdhi6_probe", "is_cond": false, "line_numbers": [1798, 1799], "line_cids": ["", ""], "line_strs": ["\tret = clk_prepare_enable(host->clk);", "\tif (ret < 0)"]}]}

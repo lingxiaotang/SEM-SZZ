@@ -1,0 +1,1 @@
+{"kernel/irq/matrix.c": [{"patch_file_name": "kernel/irq/matrix.c", "func_decl_name": "irq_matrix_alloc", "is_cond": true, "line_numbers": [382, 383], "line_cids": ["", ""], "line_strs": ["", "\tcpu = matrix_find_best_cpu(m, msk);"]}]}

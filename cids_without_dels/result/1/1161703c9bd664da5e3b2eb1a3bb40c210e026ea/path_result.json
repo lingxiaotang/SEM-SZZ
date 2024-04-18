@@ -1,0 +1,1 @@
+{"drivers/mtd/nand/raw/atmel/nand-controller.c": [{"patch_file_name": "drivers/mtd/nand/raw/atmel/nand-controller.c", "func_decl_name": "atmel_nand_dma_transfer", "is_cond": false, "line_numbers": [390, 406], "line_cids": ["", ""], "line_strs": ["\ttx = dmaengine_prep_dma_memcpy(nc->dmac, dst_dma, src_dma, len,", "\tdma_async_issue_pending(nc->dmac);"]}]}

@@ -1,0 +1,1 @@
+{"drivers/net/ethernet/mediatek/mtk_eth_soc.c": [{"patch_file_name": "drivers/net/ethernet/mediatek/mtk_eth_soc.c", "func_decl_name": "mtk_uninit", "is_cond": true, "line_numbers": [1925, 1926], "line_cids": ["", ""], "line_strs": ["\tphy_disconnect(dev->phydev);", "\tmtk_irq_disable(eth, MTK_QDMA_INT_MASK, ~0);"]}]}

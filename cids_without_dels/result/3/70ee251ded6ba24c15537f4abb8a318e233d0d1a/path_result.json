@@ -1,0 +1,1 @@
+{"drivers/thermal/qcom/qcom-spmi-adc-tm5.c": [{"patch_file_name": "drivers/thermal/qcom/qcom-spmi-adc-tm5.c", "func_decl_name": "adc_tm5_register_tzd", "is_cond": true, "line_numbers": [354, 354], "line_cids": ["", ""], "line_strs": ["\tfor (i = 0; i < adc_tm->nchannels; i++) {", "\tfor (i = 0; i < adc_tm->nchannels; i++) {"]}]}

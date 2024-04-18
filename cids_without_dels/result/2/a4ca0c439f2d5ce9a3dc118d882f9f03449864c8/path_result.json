@@ -1,0 +1,1 @@
+{"drivers/mtd/nand/raw/fsmc_nand.c": [{"patch_file_name": "drivers/mtd/nand/raw/fsmc_nand.c", "func_decl_name": "fsmc_exec_op", "is_cond": true, "line_numbers": [666, 667], "line_cids": ["", ""], "line_strs": ["\t\t}", "\t}"]}]}

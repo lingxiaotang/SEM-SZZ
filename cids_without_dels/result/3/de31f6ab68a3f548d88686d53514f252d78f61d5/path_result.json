@@ -1,0 +1,1 @@
+{"drivers/mmc/host/sdhci_am654.c": [{"patch_file_name": "drivers/mmc/host/sdhci_am654.c", "func_decl_name": "sdhci_am654_probe", "is_cond": false, "line_numbers": [543, 549], "line_cids": ["", ""], "line_strs": ["\tret = mmc_of_parse(host->mmc);", "\tret = sdhci_am654_init(host);"]}]}

@@ -1,0 +1,1 @@
+{"drivers/usb/dwc3/gadget.c": [{"patch_file_name": "drivers/usb/dwc3/gadget.c", "func_decl_name": "dwc3_gadget_ep_request_completed", "is_cond": true, "line_numbers": [2469, 2470], "line_cids": ["", ""], "line_strs": ["{", "\treturn req->request.actual == req->request.length;"]}]}

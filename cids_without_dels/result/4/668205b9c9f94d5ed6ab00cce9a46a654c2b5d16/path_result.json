@@ -1,0 +1,1 @@
+{"drivers/net/wwan/mhi_wwan_mbim.c": [{"patch_file_name": "drivers/net/wwan/mhi_wwan_mbim.c", "func_decl_name": "mhi_mbim_setup", "is_cond": false, "line_numbers": [583, 584], "line_cids": ["", ""], "line_strs": ["\tndev->max_mtu = MHI_MAX_BUF_SZ - ndev->needed_headroom;", "\tndev->tx_queue_len = 1000;"]}]}

@@ -1,0 +1,1 @@
+{"drivers/spi/spi-pxa2xx.c": [{"patch_file_name": "drivers/spi/spi-pxa2xx.c", "func_decl_name": "pxa2xx_ssp_get_clk_div", "is_cond": true, "line_numbers": [793, 794], "line_cids": ["", ""], "line_strs": ["\t\tclk_div = quark_x1000_get_clk_div(rate, &chip->dds_rate);", "\tdefault:"]}]}

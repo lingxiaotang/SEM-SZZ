@@ -1,0 +1,1 @@
+{"kernel/bpf/verifier.c": [{"patch_file_name": "kernel/bpf/verifier.c", "func_decl_name": "check_func_arg", "is_cond": true, "line_numbers": [6068, 6069], "line_cids": ["", ""], "line_strs": ["\t\tmeta->mem_size = reg->var_off.value;", "\t\tbreak;"]}]}

@@ -1,0 +1,1 @@
+{"arch/powerpc/sysdev/xive/common.c": [{"patch_file_name": "arch/powerpc/sysdev/xive/common.c", "func_decl_name": "xive_irq_alloc_data", "is_cond": false, "line_numbers": [1035, 1036], "line_cids": ["", ""], "line_strs": ["\txd->target = XIVE_INVALID_TARGET;", "\tirq_set_handler_data(virq, xd);"]}]}

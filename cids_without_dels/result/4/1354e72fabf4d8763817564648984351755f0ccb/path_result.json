@@ -1,0 +1,1 @@
+{"net/sctp/socket.c": [{"patch_file_name": "net/sctp/socket.c", "func_decl_name": "sctp_setsockopt_default_send_param", "is_cond": true, "line_numbers": [3026, 3027], "line_cids": ["", ""], "line_strs": ["", "\tif (info.sinfo_assoc_id == SCTP_FUTURE_ASSOC ||"]}]}

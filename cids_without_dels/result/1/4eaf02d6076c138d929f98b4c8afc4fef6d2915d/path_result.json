@@ -1,0 +1,1 @@
+{"drivers/gpu/drm/scheduler/sched_main.c": [{"patch_file_name": "drivers/gpu/drm/scheduler/sched_main.c", "func_decl_name": "drm_sched_job_add_implicit_dependencies", "is_cond": false, "line_numbers": [707, 707], "line_cids": ["", ""], "line_strs": ["\t\tret = drm_sched_job_add_dependency(job, fence);", "\t\tret = drm_sched_job_add_dependency(job, fence);"]}]}

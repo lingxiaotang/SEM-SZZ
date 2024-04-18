@@ -1,0 +1,1 @@
+{"tools/testing/selftests/bpf/prog_tests/get_branch_snapshot.c": [{"patch_file_name": "tools/testing/selftests/bpf/prog_tests/get_branch_snapshot.c", "func_decl_name": "test_get_branch_snapshot", "is_cond": true, "line_numbers": [85, 86], "line_cids": ["", ""], "line_strs": ["", "\tASSERT_GT(skel->bss->test1_hits, 6, \"find_looptest_in_lbr\");"]}]}

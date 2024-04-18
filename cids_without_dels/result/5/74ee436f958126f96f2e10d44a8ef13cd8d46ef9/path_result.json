@@ -1,0 +1,1 @@
+{"drivers/net/wireless/rsi/rsi_91x_mgmt.c": [{"patch_file_name": "drivers/net/wireless/rsi/rsi_91x_mgmt.c", "func_decl_name": "rsi_send_bgscan_probe_req", "is_cond": true, "line_numbers": [1728, 1729], "line_cids": ["", ""], "line_strs": ["\t\t\t\t\t      ssid_len, scan_req->ie_len);", ""]}]}

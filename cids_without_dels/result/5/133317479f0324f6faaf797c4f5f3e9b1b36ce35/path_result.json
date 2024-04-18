@@ -1,0 +1,1 @@
+{"drivers/ipack/carriers/tpci200.c": [{"patch_file_name": "drivers/ipack/carriers/tpci200.c", "func_decl_name": "tpci200_register", "is_cond": false, "line_numbers": [291, 291], "line_cids": ["", ""], "line_strs": ["\tif (res) {", "\tif (res) {"]}]}

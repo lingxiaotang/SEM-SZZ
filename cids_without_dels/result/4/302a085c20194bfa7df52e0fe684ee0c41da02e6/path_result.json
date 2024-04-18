@@ -1,0 +1,1 @@
+{"drivers/leds/led-class.c": [{"patch_file_name": "drivers/leds/led-class.c", "func_decl_name": "led_classdev_suspend", "is_cond": false, "line_numbers": [174, 175], "line_cids": ["", ""], "line_strs": ["\tled_cdev->flags |= LED_SUSPENDED;", "\tled_set_brightness_nopm(led_cdev, 0);"]}]}

@@ -1,0 +1,1 @@
+{"fs/ubifs/journal.c": [{"patch_file_name": "fs/ubifs/journal.c", "func_decl_name": "ubifs_jnl_write_inode", "is_cond": false, "line_numbers": [902, 905], "line_cids": ["", ""], "line_strs": ["\t\t\txino = ubifs_iget(c->vfs_sb, le64_to_cpu(xent->inum));", "\t\t\t\tubifs_err(c, \"dead directory entry '%s', error %d\","]}]}

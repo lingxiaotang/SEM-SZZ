@@ -1,0 +1,1 @@
+{"drivers/net/ethernet/amd/xgbe/xgbe-phy-v2.c": [{"patch_file_name": "drivers/net/ethernet/amd/xgbe/xgbe-phy-v2.c", "func_decl_name": "xgbe_phy_belfuse_phy_quirks", "is_cond": false, "line_numbers": [926], "line_cids": [""], "line_strs": ["\tphy_write(phy_data->phydev, 0x18, 0x7007);"]}]}

@@ -1,0 +1,1 @@
+{"drivers/clk/hisilicon/clk.c": [{"patch_file_name": "drivers/clk/hisilicon/clk.c", "func_decl_name": "hisi_clk_alloc", "is_cond": true, "line_numbers": [51, 52], "line_cids": ["", ""], "line_strs": ["\tres = platform_get_resource(pdev, IORESOURCE_MEM, 0);", "\tclk_data->base = devm_ioremap(&pdev->dev,"]}]}

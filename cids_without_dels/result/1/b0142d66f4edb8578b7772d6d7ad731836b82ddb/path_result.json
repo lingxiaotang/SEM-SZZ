@@ -1,0 +1,1 @@
+{"drivers/cpuidle/driver.c": [{"patch_file_name": "drivers/cpuidle/driver.c", "func_decl_name": "cpuidle_driver_state_disabled", "is_cond": true, "line_numbers": [405, 406], "line_cids": ["", ""], "line_strs": ["", "\tfor_each_cpu(cpu, drv->cpumask) {"]}]}

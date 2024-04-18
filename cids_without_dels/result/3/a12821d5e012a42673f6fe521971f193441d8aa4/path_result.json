@@ -1,0 +1,1 @@
+{"block/blk-mq.c": [{"patch_file_name": "block/blk-mq.c", "func_decl_name": "blk_complete_request", "is_cond": true, "line_numbers": [738, 739], "line_cids": ["", ""], "line_strs": ["\t\tbio_clear_flag(bio, BIO_TRACE_COMPLETION);", "\t\tif (!is_flush)"]}]}

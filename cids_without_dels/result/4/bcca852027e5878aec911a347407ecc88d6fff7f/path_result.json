@@ -1,0 +1,1 @@
+{"net/wireless/scan.c": [{"patch_file_name": "net/wireless/scan.c", "func_decl_name": "cfg80211_add_nontrans_list", "is_cond": true, "line_numbers": [425, 426], "line_cids": ["", ""], "line_strs": ["", "\t/* add to the list */"]}]}

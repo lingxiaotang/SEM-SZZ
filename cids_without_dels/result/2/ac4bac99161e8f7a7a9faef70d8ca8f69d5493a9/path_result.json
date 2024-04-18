@@ -1,0 +1,1 @@
+{"drivers/net/wireless/realtek/rtw88/main.c": [{"patch_file_name": "drivers/net/wireless/realtek/rtw88/main.c", "func_decl_name": "rtw_core_init", "is_cond": true, "line_numbers": [1474, 1475], "line_cids": ["", ""], "line_strs": ["\t\t\trtw_warn(rtwdev, \"no wow firmware loaded\\n\");", "\t\t\treturn ret;"]}]}

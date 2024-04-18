@@ -1,0 +1,1 @@
+{"drivers/net/dsa/ocelot/felix_vsc9959.c": [{"patch_file_name": "drivers/net/dsa/ocelot/felix_vsc9959.c", "func_decl_name": "vsc9959_pcs_init_sgmii", "is_cond": true, "line_numbers": [647, 647], "line_cids": ["", ""], "line_strs": ["\tif (link_an_mode == MLO_AN_INBAND) {", "\tif (link_an_mode == MLO_AN_INBAND) {"]}]}

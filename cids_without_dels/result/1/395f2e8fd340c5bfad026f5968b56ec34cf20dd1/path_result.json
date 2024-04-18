@@ -1,0 +1,1 @@
+{"drivers/infiniband/hw/hns/hns_roce_hw_v2.c": [{"patch_file_name": "drivers/infiniband/hw/hns/hns_roce_hw_v2.c", "func_decl_name": "get_cqe_status", "is_cond": true, "line_numbers": [3069, 3070], "line_cids": ["", ""], "line_strs": ["", "\t/*"]}]}

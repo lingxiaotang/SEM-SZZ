@@ -1,0 +1,1 @@
+{"drivers/usb/dwc2/gadget.c": [{"patch_file_name": "drivers/usb/dwc2/gadget.c", "func_decl_name": "dwc2_gadget_get_xfersize_ddma", "is_cond": true, "line_numbers": [2321, 2321], "line_cids": ["", ""], "line_strs": ["\tfor (i = 0; i < hs_ep->desc_count; ++i) {", "\tfor (i = 0; i < hs_ep->desc_count; ++i) {"]}]}

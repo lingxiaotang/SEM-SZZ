@@ -1,0 +1,1 @@
+{"drivers/net/wireless/ath/ath10k/qmi.c": [{"patch_file_name": "drivers/net/wireless/ath/ath10k/qmi.c", "func_decl_name": "ath10k_qmi_deinit", "is_cond": false, "line_numbers": [1049, 1050], "line_cids": ["", ""], "line_strs": ["\tcancel_work_sync(&qmi->event_work);", "\tdestroy_workqueue(qmi->event_wq);"]}]}

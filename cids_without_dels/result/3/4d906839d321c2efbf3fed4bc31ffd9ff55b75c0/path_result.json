@@ -1,0 +1,1 @@
+{"drivers/gpu/drm/bridge/panel.c": [{"patch_file_name": "drivers/gpu/drm/bridge/panel.c", "func_decl_name": "panel_bridge_detach", "is_cond": true, "line_numbers": [89, 90], "line_cids": ["", ""], "line_strs": ["{", "}"]}]}

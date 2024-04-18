@@ -1,0 +1,1 @@
+{"drivers/tty/serial/sirfsoc_uart.c": [{"patch_file_name": "drivers/tty/serial/sirfsoc_uart.c", "func_decl_name": "sirfsoc_uart_probe", "is_cond": true, "line_numbers": [1285, 1286], "line_cids": ["", ""], "line_strs": ["\tsirfport->port.line = of_alias_get_id(np, \"serial\");", "\tsirf_ports[sirfport->port.line] = sirfport;"]}]}

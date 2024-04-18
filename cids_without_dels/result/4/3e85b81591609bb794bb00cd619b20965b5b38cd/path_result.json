@@ -1,0 +1,1 @@
+{"drivers/gpu/drm/vc4/vc4_hdmi.c": [{"patch_file_name": "drivers/gpu/drm/vc4/vc4_hdmi.c", "func_decl_name": "vc4_hdmi_bind", "is_cond": true, "line_numbers": [2172, 2173], "line_cids": ["", ""], "line_strs": ["", "\tif (vc4_hdmi->variant->reset)"]}]}

@@ -1,0 +1,1 @@
+{"drivers/bluetooth/btrtl.c": [{"patch_file_name": "drivers/bluetooth/btrtl.c", "func_decl_name": "rtl_load_config", "is_cond": true, "line_numbers": [281, 282], "line_cids": ["", ""], "line_strs": ["\t*buff = kmemdup(fw->data, ret, GFP_KERNEL);", ""]}]}

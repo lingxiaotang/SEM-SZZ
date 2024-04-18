@@ -1,0 +1,1 @@
+{"drivers/clk/clkdev.c": [{"patch_file_name": "drivers/clk/clkdev.c", "func_decl_name": "clk_hw_register_clkdev", "is_cond": true, "line_numbers": [456, 457], "line_cids": ["", ""], "line_strs": ["", "\t/*"]}]}

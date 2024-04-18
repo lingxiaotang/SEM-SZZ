@@ -1,0 +1,1 @@
+{"drivers/clk/qcom/gcc-msm8660.c": [{"patch_file_name": "drivers/clk/qcom/gcc-msm8660.c", "func_decl_name": "gcc_msm8660_probe", "is_cond": true, "line_numbers": [2720, 2721], "line_cids": ["", ""], "line_strs": ["{", "\treturn qcom_cc_probe(pdev, &gcc_msm8660_desc);"]}]}

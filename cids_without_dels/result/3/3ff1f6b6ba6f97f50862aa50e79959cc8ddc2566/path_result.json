@@ -1,0 +1,1 @@
+{"drivers/scsi/ufs/ufshcd.c": [{"patch_file_name": "drivers/scsi/ufs/ufshcd.c", "func_decl_name": "ufshcd_abort", "is_cond": false, "line_numbers": [7094, 7105], "line_cids": ["", ""], "line_strs": ["\tif (lrbp->lun == UFS_UPIU_UFS_DEVICE_WLUN) {", "\tif (lrbp->req_abort_skip) {"]}]}

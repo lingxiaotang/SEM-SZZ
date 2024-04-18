@@ -1,0 +1,1 @@
+{"fs/fuse/file.c": [{"patch_file_name": "fs/fuse/file.c", "func_decl_name": "fuse_file_put", "is_cond": false, "line_numbers": [92, 103], "line_cids": ["", ""], "line_strs": ["\t\tstruct fuse_req *req = ff->reserved_req;", "\t\t\t__clear_bit(FR_BACKGROUND, &req->flags);"]}]}

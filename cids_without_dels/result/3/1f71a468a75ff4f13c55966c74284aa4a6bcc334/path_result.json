@@ -1,0 +1,1 @@
+{"tools/lib/bpf/libbpf.c": [{"patch_file_name": "tools/lib/bpf/libbpf.c", "func_decl_name": "attach_kprobe", "is_cond": false, "line_numbers": [10427, 10427], "line_cids": ["", ""], "line_strs": ["\tn = sscanf(func_name, \"%m[a-zA-Z0-9_.]+%lx\", &func, &offset);", "\tn = sscanf(func_name, \"%m[a-zA-Z0-9_.]+%lx\", &func, &offset);"]}]}

@@ -1,0 +1,1 @@
+{"sound/soc/generic/simple-card.c": [{"patch_file_name": "sound/soc/generic/simple-card.c", "func_decl_name": "simple_dai_link_of", "is_cond": false, "line_numbers": [424], "line_cids": [""], "line_strs": ["\tof_node_put(node);"]}]}

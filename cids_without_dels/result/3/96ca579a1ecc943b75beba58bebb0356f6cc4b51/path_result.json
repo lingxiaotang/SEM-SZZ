@@ -1,0 +1,1 @@
+{"kernel/exit.c": [{"patch_file_name": "kernel/exit.c", "func_decl_name": "SYSCALL_DEFINE5", "is_cond": true, "line_numbers": [1612, 1613], "line_cids": ["", ""], "line_strs": ["", "\tuser_access_begin();"]}]}

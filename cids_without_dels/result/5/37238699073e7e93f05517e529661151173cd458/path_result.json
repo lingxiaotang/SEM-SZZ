@@ -1,0 +1,1 @@
+{"drivers/media/dvb-core/dvb_vb2.c": [{"patch_file_name": "drivers/media/dvb-core/dvb_vb2.c", "func_decl_name": "dvb_vb2_qbuf", "is_cond": true, "line_numbers": [382, 383], "line_cids": ["", ""], "line_strs": ["", "\tret = vb2_core_qbuf(&ctx->vb_q, b->index, b, NULL);"]}]}

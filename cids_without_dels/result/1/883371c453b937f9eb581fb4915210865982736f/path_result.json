@@ -1,0 +1,1 @@
+{"drivers/net/ethernet/mellanox/mlx5/core/main.c": [{"patch_file_name": "drivers/net/ethernet/mellanox/mlx5/core/main.c", "func_decl_name": "handle_hca_cap", "is_cond": true, "line_numbers": [505, 506], "line_cids": ["", ""], "line_strs": ["", "\tif (prof->mask & MLX5_PROF_MASK_QP_SIZE)"]}]}

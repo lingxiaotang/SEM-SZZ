@@ -1,0 +1,1 @@
+{"fs/zonefs/super.c": [{"patch_file_name": "fs/zonefs/super.c", "func_decl_name": "zonefs_alloc_inode", "is_cond": false, "line_numbers": [1143, 1144], "line_cids": ["", ""], "line_strs": ["\tmutex_init(&zi->i_truncate_mutex);", "\tzi->i_wr_refcnt = 0;"]}]}

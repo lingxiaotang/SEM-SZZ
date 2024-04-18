@@ -1,0 +1,1 @@
+{"net/core/skmsg.c": [{"patch_file_name": "net/core/skmsg.c", "func_decl_name": "sk_msg_clone", "is_cond": true, "line_numbers": [96, 97], "line_cids": ["", ""], "line_strs": ["\twhile (len) {", "\t\tsge_len = sge->length - off;"]}]}

@@ -1,0 +1,1 @@
+{"net/sunrpc/xprtrdma/verbs.c": [{"patch_file_name": "net/sunrpc/xprtrdma/verbs.c", "func_decl_name": "rpcrdma_cm_event_handler", "is_cond": false, "line_numbers": [243], "line_cids": [""], "line_strs": ["\tstruct rpc_xprt *xprt = ep->re_xprt;"]}]}

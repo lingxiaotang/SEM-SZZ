@@ -1,0 +1,1 @@
+{"drivers/net/ethernet/mellanox/mlx5/core/fs_core.c": [{"patch_file_name": "drivers/net/ethernet/mellanox/mlx5/core/fs_core.c", "func_decl_name": "lookup_fte_locked", "is_cond": true, "line_numbers": [1603, 1604], "line_cids": ["", ""], "line_strs": ["\t}", ""]}]}

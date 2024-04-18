@@ -1,0 +1,1 @@
+{"drivers/usb/cdns3/cdnsp-mem.c": [{"patch_file_name": "drivers/usb/cdns3/cdnsp-mem.c", "func_decl_name": "cdnsp_endpoint_init", "is_cond": true, "line_numbers": [989, 990], "line_cids": ["", ""], "line_strs": ["\tpep->ring = cdnsp_ring_alloc(pdev, 2, ring_type, max_packet, mem_flags);", "\tpep->skip = false;"]}]}

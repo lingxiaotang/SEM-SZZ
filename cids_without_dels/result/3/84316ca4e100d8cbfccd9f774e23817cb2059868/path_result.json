@@ -1,0 +1,1 @@
+{"net/core/filter.c": [{"patch_file_name": "net/core/filter.c", "func_decl_name": "__bpf_skb_change_head", "is_cond": true, "line_numbers": [3769, 3770], "line_cids": ["", ""], "line_strs": ["\tif (unlikely(flags || (!skb_is_gso(skb) && new_len > max_len) ||", "\t\t     new_len < skb->len))"]}]}

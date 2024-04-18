@@ -1,0 +1,1 @@
+{"drivers/tty/serial/owl-uart.c": [{"patch_file_name": "drivers/tty/serial/owl-uart.c", "func_decl_name": "owl_uart_probe", "is_cond": false, "line_numbers": [731, 732], "line_cids": ["", ""], "line_strs": ["\towl_port->port.uartclk = clk_get_rate(owl_port->clk);", "\tif (owl_port->port.uartclk == 0) {"]}]}

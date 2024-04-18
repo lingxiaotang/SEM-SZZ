@@ -1,0 +1,1 @@
+{"drivers/net/ethernet/stmicro/stmmac/stmmac_tc.c": [{"patch_file_name": "drivers/net/ethernet/stmicro/stmmac/stmmac_tc.c", "func_decl_name": "tc_setup_cls", "is_cond": true, "line_numbers": [579, 580], "line_cids": ["", ""], "line_strs": ["", "\tswitch (cls->command) {"]}]}

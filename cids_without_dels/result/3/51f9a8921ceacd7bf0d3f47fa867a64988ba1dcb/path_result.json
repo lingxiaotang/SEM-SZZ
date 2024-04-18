@@ -1,0 +1,1 @@
+{"net/sched/sch_cake.c": [{"patch_file_name": "net/sched/sch_cake.c", "func_decl_name": "cake_reset", "is_cond": true, "line_numbers": [2228, 2229], "line_cids": ["", ""], "line_strs": ["", "\tfor (c = 0; c < CAKE_MAX_TINS; c++)"]}]}

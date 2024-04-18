@@ -1,0 +1,1 @@
+{"net/socket.c": [{"patch_file_name": "net/socket.c", "func_decl_name": "__sys_sendmmsg", "is_cond": true, "line_numbers": [2040, 2041], "line_cids": ["", ""], "line_strs": ["\t\t++datagrams;", "\t\tcond_resched();"]}]}

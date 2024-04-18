@@ -1,0 +1,1 @@
+{"drivers/gpu/drm/msm/msm_gpu_devfreq.c": [{"patch_file_name": "drivers/gpu/drm/msm/msm_gpu_devfreq.c", "func_decl_name": "msm_devfreq_init", "is_cond": false, "line_numbers": [214, 216], "line_cids": ["", ""], "line_strs": ["\tif (IS_ERR(df->devfreq)) {", "\t\tdf->devfreq = NULL;"]}]}

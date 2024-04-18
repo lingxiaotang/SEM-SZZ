@@ -1,0 +1,1 @@
+{"drivers/gpu/drm/i915/display/intel_opregion.c": [{"patch_file_name": "drivers/gpu/drm/i915/display/intel_opregion.c", "func_decl_name": "intel_opregion_notify_encoder", "is_cond": true, "line_numbers": [365, 366], "line_cids": ["", ""], "line_strs": ["", "\tif (!enable)"]}]}

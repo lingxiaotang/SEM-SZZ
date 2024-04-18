@@ -1,0 +1,1 @@
+{"drivers/soundwire/qcom.c": [{"patch_file_name": "drivers/soundwire/qcom.c", "func_decl_name": "qcom_swrm_wake_irq_handler", "is_cond": false, "line_numbers": [514, 515], "line_cids": ["", ""], "line_strs": ["\tif (ret < 0 && ret != -EACCES) {", "\t\tdev_err_ratelimited(swrm->dev,"]}]}

@@ -1,0 +1,1 @@
+{"drivers/net/ethernet/broadcom/bcm4908_enet.c": [{"patch_file_name": "drivers/net/ethernet/broadcom/bcm4908_enet.c", "func_decl_name": "bcm4908_dma_alloc_buf_descs", "is_cond": false, "line_numbers": [174], "line_cids": [""], "line_strs": ["\tdma_free_coherent(dev, size, ring->cpu_addr, ring->dma_addr);"]}]}

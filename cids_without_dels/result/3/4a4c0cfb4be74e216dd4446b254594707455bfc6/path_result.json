@@ -1,0 +1,1 @@
+{"drivers/scsi/qedi/qedi_iscsi.c": [{"patch_file_name": "drivers/scsi/qedi/qedi_iscsi.c", "func_decl_name": "qedi_set_path", "is_cond": true, "line_numbers": [1223, 1224], "line_cids": ["", ""], "line_strs": ["\tiscsi_cid = (u32)path_data->handle;", "\tqedi_ep = qedi->ep_tbl[iscsi_cid];"]}]}

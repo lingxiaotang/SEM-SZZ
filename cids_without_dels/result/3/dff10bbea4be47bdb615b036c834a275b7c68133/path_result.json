@@ -1,0 +1,1 @@
+{"drivers/block/nbd.c": [{"patch_file_name": "drivers/block/nbd.c", "func_decl_name": "nbd_get_socket", "is_cond": false, "line_numbers": [990, 993], "line_cids": ["", ""], "line_strs": ["\tif (!sock)", "\tif (sock->ops->shutdown == sock_no_shutdown) {"]}]}

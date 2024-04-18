@@ -1,0 +1,1 @@
+{"firmware/ihex2fw.c": [{"patch_file_name": "firmware/ihex2fw.c", "func_decl_name": "main", "is_cond": true, "line_numbers": [88, 89], "line_cids": ["", ""], "line_strs": ["\t\t\tbreak;", "\t\t\treturn usage();"]}]}

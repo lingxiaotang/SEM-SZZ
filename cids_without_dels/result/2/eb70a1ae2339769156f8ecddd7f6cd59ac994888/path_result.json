@@ -1,0 +1,1 @@
+{"net/ipv4/tcp.c": [{"patch_file_name": "net/ipv4/tcp.c", "func_decl_name": "sk_stream_alloc_skb", "is_cond": false, "line_numbers": [874, 875], "line_cids": ["", ""], "line_strs": ["\t\t\tINIT_LIST_HEAD(&skb->tcp_tsorted_anchor);", "\t\t\treturn skb;"]}]}

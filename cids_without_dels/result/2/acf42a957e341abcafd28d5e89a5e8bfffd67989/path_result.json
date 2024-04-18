@@ -1,0 +1,1 @@
+{"drivers/net/wireless/intel/iwlwifi/fw/dbg.c": [{"patch_file_name": "drivers/net/wireless/intel/iwlwifi/fw/dbg.c", "func_decl_name": "iwl_fw_txf_len", "is_cond": true, "line_numbers": [768, 769], "line_cids": ["", ""], "line_strs": ["\t/* Count TXF sizes */", "\tfor (i = 0; i < mem_cfg->num_lmacs; i++) {"]}]}

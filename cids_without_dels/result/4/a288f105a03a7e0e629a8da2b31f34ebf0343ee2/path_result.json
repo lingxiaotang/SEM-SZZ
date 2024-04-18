@@ -1,0 +1,1 @@
+{"drivers/net/fjes/fjes_main.c": [{"patch_file_name": "drivers/net/fjes/fjes_main.c", "func_decl_name": "fjes_acpi_add", "is_cond": true, "line_numbers": [168, 169], "line_cids": ["", ""], "line_strs": ["\t\t\t\t\t\t   ARRAY_SIZE(fjes_resource));", "\tdevice->driver_data = plat_dev;"]}]}

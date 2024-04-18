@@ -1,0 +1,1 @@
+{"arch/x86/kvm/x86.c": [{"patch_file_name": "arch/x86/kvm/x86.c", "func_decl_name": "kvm_vcpu_ioctl_interrupt", "is_cond": false, "line_numbers": [2805, 2808], "line_cids": ["", ""], "line_strs": ["\tif (vcpu->arch.pending_external_vector != -1)", "\tvcpu->arch.pending_external_vector = irq->irq;"]}]}

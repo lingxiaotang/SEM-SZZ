@@ -1,0 +1,1 @@
+{"drivers/net/wireless/broadcom/brcm80211/brcmfmac/sdio.c": [{"patch_file_name": "drivers/net/wireless/broadcom/brcm80211/brcmfmac/sdio.c", "func_decl_name": "brcmf_sdio_readframes", "is_cond": true, "line_numbers": [1937, 1938], "line_cids": ["", ""], "line_strs": ["\t\t\t\tbrcmu_pkt_buf_free_skb(pkt);", "\t\t\t}"]}]}

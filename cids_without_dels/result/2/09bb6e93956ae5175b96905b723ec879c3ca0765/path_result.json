@@ -1,0 +1,1 @@
+{"drivers/base/power/wakeirq.c": [{"patch_file_name": "drivers/base/power/wakeirq.c", "func_decl_name": "handle_threaded_wake_irq", "is_cond": true, "line_numbers": [143, 144], "line_cids": ["", ""], "line_strs": ["", "\t/* We don't want RPM_ASYNC or RPM_NOWAIT here */"]}]}

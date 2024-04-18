@@ -1,0 +1,1 @@
+{"drivers/virt/fsl_hypervisor.c": [{"patch_file_name": "drivers/virt/fsl_hypervisor.c", "func_decl_name": "ioctl_memcpy", "is_cond": true, "line_numbers": [217, 218], "line_cids": ["", ""], "line_strs": ["\tlb_offset = param.local_vaddr & (PAGE_SIZE - 1);", "\tnum_pages = (param.count + lb_offset + PAGE_SIZE - 1) >> PAGE_SHIFT;"]}]}

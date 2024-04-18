@@ -1,0 +1,1 @@
+{"drivers/gpu/drm/msm/disp/dpu1/dpu_encoder.c": [{"patch_file_name": "drivers/gpu/drm/msm/disp/dpu1/dpu_encoder.c", "func_decl_name": "dpu_encoder_helper_phys_cleanup", "is_cond": true, "line_numbers": [2063, 2064], "line_cids": ["", ""], "line_strs": ["\tintf_cfg.mode_3d = dpu_encoder_helper_get_3d_blend_mode(phys_enc);", "\tif (phys_enc->hw_pp->merge_3d)"]}]}

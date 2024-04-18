@@ -1,0 +1,1 @@
+{"drivers/usb/gadget/udc/r8a66597-udc.c": [{"patch_file_name": "drivers/usb/gadget/udc/r8a66597-udc.c", "func_decl_name": "r8a66597_probe", "is_cond": true, "line_numbers": [1851, 1852], "line_cids": ["", ""], "line_strs": ["\tires = platform_get_resource(pdev, IORESOURCE_IRQ, 0);", "\tirq = ires->start;"]}]}

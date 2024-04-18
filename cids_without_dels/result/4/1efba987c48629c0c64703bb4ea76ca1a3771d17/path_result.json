@@ -1,0 +1,1 @@
+{"drivers/net/tun.c": [{"patch_file_name": "drivers/net/tun.c", "func_decl_name": "tun_get_user", "is_cond": true, "line_numbers": [1938, 1939], "line_cids": ["", ""], "line_strs": ["\t\t\t\tlocal_bh_enable();", "\t\t\t\treturn total_len;"]}]}

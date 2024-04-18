@@ -1,0 +1,1 @@
+{"drivers/tty/ipwireless/hardware.c": [{"patch_file_name": "drivers/tty/ipwireless/hardware.c", "func_decl_name": "ipw_send_setup_packet", "is_cond": true, "line_numbers": [1518, 1519], "line_cids": ["", ""], "line_strs": ["\t\t\tTL_SETUP_SIGNO_GET_VERSION_QRY);", "\tver_packet->header.length = sizeof(struct tl_setup_get_version_qry);"]}]}

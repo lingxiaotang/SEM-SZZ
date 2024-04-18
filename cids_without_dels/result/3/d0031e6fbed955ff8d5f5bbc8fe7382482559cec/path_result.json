@@ -1,0 +1,1 @@
+{"drivers/clk/at91/clk-generated.c": [{"patch_file_name": "drivers/clk/at91/clk-generated.c", "func_decl_name": "clk_generated_best_diff", "is_cond": true, "line_numbers": [119, 120], "line_cids": ["", ""], "line_strs": ["\t\ttmp_rate = parent_rate / div;", "\ttmp_diff = abs(req->rate - tmp_rate);"]}]}

@@ -1,0 +1,1 @@
+{"kernel/irq/timings.c": [{"patch_file_name": "kernel/irq/timings.c", "func_decl_name": "__irq_timings_store", "is_cond": true, "line_numbers": [455, 456], "line_cids": ["", ""], "line_strs": ["", "\t/*"]}]}

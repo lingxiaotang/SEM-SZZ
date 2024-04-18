@@ -1,0 +1,1 @@
+{"drivers/net/ethernet/freescale/fman/fman_memac.c": [{"patch_file_name": "drivers/net/ethernet/freescale/fman/fman_memac.c", "func_decl_name": "memac_free", "is_cond": true, "line_numbers": [1109, 1110], "line_cids": ["", ""], "line_strs": ["", "\tkfree(memac->memac_drv_param);"]}]}

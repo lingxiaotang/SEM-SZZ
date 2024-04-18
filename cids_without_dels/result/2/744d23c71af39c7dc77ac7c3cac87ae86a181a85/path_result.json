@@ -1,0 +1,1 @@
+{"drivers/net/phy/phy_device.c": [{"patch_file_name": "drivers/net/phy/phy_device.c", "func_decl_name": "mdio_bus_phy_resume", "is_cond": true, "line_numbers": [318, 319], "line_cids": ["", ""], "line_strs": ["", "\tret = phy_init_hw(phydev);"]}]}

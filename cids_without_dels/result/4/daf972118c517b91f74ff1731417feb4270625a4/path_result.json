@@ -1,0 +1,1 @@
+{"arch/x86/hyperv/hv_init.c": [{"patch_file_name": "arch/x86/hyperv/hv_init.c", "func_decl_name": "set_hv_tscchange_cb", "is_cond": true, "line_numbers": [179, 180], "line_cids": ["", ""], "line_strs": ["", "\thv_reenlightenment_cb = cb;"]}]}

@@ -1,0 +1,1 @@
+{"net/core/dev_ioctl.c": [{"patch_file_name": "net/core/dev_ioctl.c", "func_decl_name": "dev_ifsioc", "is_cond": true, "line_numbers": [381, 382], "line_cids": ["", ""], "line_strs": ["\t\t\treturn -ENODEV;", "\t\tdev_hold(dev);"]}]}

@@ -1,0 +1,1 @@
+{"drivers/gpu/drm/panel/panel-simple.c": [{"patch_file_name": "drivers/gpu/drm/panel/panel-simple.c", "func_decl_name": "panel_simple_probe", "is_cond": false, "line_numbers": [821, 823], "line_cids": ["", ""], "line_strs": ["\tpm_runtime_use_autosuspend(dev);", "\tdrm_panel_init(&panel->base, dev, &panel_simple_funcs, connector_type);"]}]}

@@ -1,0 +1,1 @@
+{"drivers/net/usb/asix_common.c": [{"patch_file_name": "drivers/net/usb/asix_common.c", "func_decl_name": "asix_set_wol", "is_cond": true, "line_numbers": [609, 610], "line_cids": ["", ""], "line_strs": ["", "\tif (wolinfo->wolopts & WAKE_PHY)"]}]}

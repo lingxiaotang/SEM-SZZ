@@ -1,0 +1,1 @@
+{"drivers/mmc/host/cqhci-core.c": [{"patch_file_name": "drivers/mmc/host/cqhci-core.c", "func_decl_name": "__cqhci_enable", "is_cond": true, "line_numbers": [284, 285], "line_cids": ["", ""], "line_strs": ["", "\tmmc->cqe_on = true;"]}]}

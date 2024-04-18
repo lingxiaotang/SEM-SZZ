@@ -1,0 +1,1 @@
+{"drivers/net/ethernet/rocker/rocker_main.c": [{"patch_file_name": "drivers/net/ethernet/rocker/rocker_main.c", "func_decl_name": "rocker_router_fib_event", "is_cond": false, "line_numbers": [2200, 2201], "line_cids": ["", ""], "line_strs": ["\tfib_work->rocker = rocker;", "\tfib_work->event = event;"]}]}

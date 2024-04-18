@@ -1,0 +1,1 @@
+{"net/mac80211/ibss.c": [{"patch_file_name": "net/mac80211/ibss.c", "func_decl_name": "ieee80211_ibss_finish_csa", "is_cond": true, "line_numbers": [532, 533], "line_cids": ["", ""], "line_strs": ["", "\t/* update cfg80211 bss information with the new channel */"]}]}

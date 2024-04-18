@@ -1,0 +1,1 @@
+{"arch/x86/kvm/svm/svm.c": [{"patch_file_name": "arch/x86/kvm/svm/svm.c", "func_decl_name": "gp_interception", "is_cond": true, "line_numbers": [2226, 2227], "line_cids": ["", ""], "line_strs": ["", "\t/* Decode the instruction for usage later */"]}]}

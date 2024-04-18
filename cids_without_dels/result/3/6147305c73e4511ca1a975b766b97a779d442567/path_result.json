@@ -1,0 +1,1 @@
+{"drivers/md/bcache/super.c": [{"patch_file_name": "drivers/md/bcache/super.c", "func_decl_name": "bch_cached_dev_error", "is_cond": true, "line_numbers": [1381, 1382], "line_cids": ["", ""], "line_strs": ["", "\tbcache_device_stop(&dc->disk);"]}]}

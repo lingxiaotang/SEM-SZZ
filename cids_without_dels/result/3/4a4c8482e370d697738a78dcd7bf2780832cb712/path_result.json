@@ -1,0 +1,1 @@
+{"sound/aoa/soundbus/i2sbus/core.c": [{"patch_file_name": "sound/aoa/soundbus/i2sbus/core.c", "func_decl_name": "i2sbus_add_dev", "is_cond": true, "line_numbers": [303, 303], "line_cids": ["", ""], "line_strs": ["\tif (soundbus_add_one(&dev->sound)) {", "\tif (soundbus_add_one(&dev->sound)) {"]}]}

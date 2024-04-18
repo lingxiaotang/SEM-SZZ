@@ -1,0 +1,1 @@
+{"kernel/trace/ring_buffer.c": [{"patch_file_name": "kernel/trace/ring_buffer.c", "func_decl_name": "rb_remove_pages", "is_cond": true, "line_numbers": [1572, 1572], "line_cids": ["", ""], "line_strs": ["\t} while (to_remove_page != last_page);", "\t} while (to_remove_page != last_page);"]}]}

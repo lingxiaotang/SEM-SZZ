@@ -1,0 +1,1 @@
+{"drivers/pinctrl/intel/pinctrl-cherryview.c": [{"patch_file_name": "drivers/pinctrl/intel/pinctrl-cherryview.c", "func_decl_name": "chv_gpio_probe", "is_cond": true, "line_numbers": [1626, 1626], "line_cids": ["", ""], "line_strs": ["\tif (!need_valid_mask) {", "\tif (!need_valid_mask) {"]}]}

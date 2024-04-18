@@ -1,0 +1,1 @@
+{"drivers/fpga/stratix10-soc.c": [{"patch_file_name": "drivers/fpga/stratix10-soc.c", "func_decl_name": "s10_remove", "is_cond": false, "line_numbers": [453, 456], "line_cids": ["", ""], "line_strs": ["\tstruct fpga_manager *mgr = platform_get_drvdata(pdev);", "\tfpga_mgr_unregister(mgr);"]}]}

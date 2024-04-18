@@ -1,0 +1,1 @@
+{"drivers/usb/wusbcore/wa-hc.c": [{"patch_file_name": "drivers/usb/wusbcore/wa-hc.c", "func_decl_name": "wa_create", "is_cond": true, "line_numbers": [41, 42], "line_cids": ["", ""], "line_strs": ["", "\tresult = wa_rpipes_create(wa);"]}]}

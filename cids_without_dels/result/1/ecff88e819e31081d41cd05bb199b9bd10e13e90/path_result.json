@@ -1,0 +1,1 @@
+{"drivers/usb/gadget/udc/s3c2410_udc.c": [{"patch_file_name": "drivers/usb/gadget/udc/s3c2410_udc.c", "func_decl_name": "s3c2410_udc_probe", "is_cond": true, "line_numbers": [1786, 1787], "line_cids": ["", ""], "line_strs": ["\tirq_usbd = platform_get_irq(pdev, 0);", ""]}]}

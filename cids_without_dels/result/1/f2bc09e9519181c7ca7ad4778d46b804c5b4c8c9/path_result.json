@@ -1,0 +1,1 @@
+{"drivers/gpu/drm/radeon/radeon_mn.c": [{"patch_file_name": "drivers/gpu/drm/radeon/radeon_mn.c", "func_decl_name": "radeon_mn_unregister", "is_cond": true, "line_numbers": [236, 237], "line_cids": ["", ""], "line_strs": ["", "\tmutex_lock(&rmn->lock);"]}]}

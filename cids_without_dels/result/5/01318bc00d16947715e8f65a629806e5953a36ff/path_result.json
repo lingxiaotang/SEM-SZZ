@@ -1,0 +1,1 @@
+{"drivers/net/wireless/mediatek/mt76/mt7915/soc.c": [{"patch_file_name": "drivers/net/wireless/mediatek/mt76/mt7915/soc.c", "func_decl_name": "mt7986_wmac_gpio_setup", "is_cond": true, "line_numbers": [198, 199], "line_cids": ["", ""], "line_strs": ["\tpinctrl = devm_pinctrl_get(dev->mt76.dev);", ""]}]}

@@ -1,0 +1,1 @@
+{"drivers/gpu/drm/sun4i/sun4i_tcon.c": [{"patch_file_name": "drivers/gpu/drm/sun4i/sun4i_tcon.c", "func_decl_name": "sun4i_tcon1_mode_set", "is_cond": true, "line_numbers": [691, 692], "line_cids": ["", ""], "line_strs": ["", "\t/* Map output pins to channel 1 */"]}]}

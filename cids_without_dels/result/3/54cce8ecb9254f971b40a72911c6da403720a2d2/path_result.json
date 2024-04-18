@@ -1,0 +1,1 @@
+{"drivers/crypto/ccp/ccp-dmaengine.c": [{"patch_file_name": "drivers/crypto/ccp/ccp-dmaengine.c", "func_decl_name": "ccp_dmaengine_unregister", "is_cond": false, "line_numbers": [756], "line_cids": [""], "line_strs": ["\tkmem_cache_destroy(ccp->dma_desc_cache);"]}]}

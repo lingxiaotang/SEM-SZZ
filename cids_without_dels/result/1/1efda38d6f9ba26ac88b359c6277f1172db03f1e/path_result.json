@@ -1,0 +1,1 @@
+{"kernel/kprobes.c": [{"patch_file_name": "kernel/kprobes.c", "func_decl_name": "check_kprobe_address_safe", "is_cond": true, "line_numbers": [1563, 1565], "line_cids": ["", ""], "line_strs": ["\tif (!(core_kernel_text((unsigned long) p->addr) ||", "\t    within_kprobe_blacklist((unsigned long) p->addr) ||"]}]}

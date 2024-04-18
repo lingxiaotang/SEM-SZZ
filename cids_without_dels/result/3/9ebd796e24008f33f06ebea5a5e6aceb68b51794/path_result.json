@@ -1,0 +1,1 @@
+{"drivers/net/can/slcan.c": [{"patch_file_name": "drivers/net/can/slcan.c", "func_decl_name": "slcan_open", "is_cond": false, "line_numbers": [619, 620], "line_cids": ["", ""], "line_strs": ["\tclear_bit(SLF_INUSE, &sl->flags);", "\tfree_netdev(sl->dev);"]}]}

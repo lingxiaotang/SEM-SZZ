@@ -1,0 +1,1 @@
+{"drivers/net/wireless/ath/ath10k/thermal.c": [{"patch_file_name": "drivers/net/wireless/ath/ath10k/thermal.c", "func_decl_name": "ath10k_thermal_set_throttling", "is_cond": true, "line_numbers": [142, 143], "line_cids": ["", ""], "line_strs": ["", "\tif (ar->state != ATH10K_STATE_ON)"]}]}

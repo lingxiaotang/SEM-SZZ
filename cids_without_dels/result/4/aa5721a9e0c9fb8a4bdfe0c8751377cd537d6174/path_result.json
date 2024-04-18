@@ -1,0 +1,1 @@
+{"drivers/usb/serial/pl2303.c": [{"patch_file_name": "drivers/usb/serial/pl2303.c", "func_decl_name": "pl2303_detect_type", "is_cond": true, "line_numbers": [434, 435], "line_cids": ["", ""], "line_strs": ["\t\tcase 0x100:", "\t\tcase 0x305:"]}]}

@@ -1,0 +1,1 @@
+{"drivers/mmc/host/pxamci.c": [{"patch_file_name": "drivers/mmc/host/pxamci.c", "func_decl_name": "pxamci_probe", "is_cond": false, "line_numbers": [733, 733], "line_cids": ["", ""], "line_strs": ["\t\tif (IS_ERR(host->power)) {", "\t\tif (IS_ERR(host->power)) {"]}]}

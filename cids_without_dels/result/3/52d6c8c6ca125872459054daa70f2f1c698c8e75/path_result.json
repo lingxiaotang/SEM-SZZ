@@ -1,0 +1,1 @@
+{"net/core/pktgen.c": [{"patch_file_name": "net/core/pktgen.c", "func_decl_name": "pktgen_if_write", "is_cond": true, "line_numbers": [1136, 1137], "line_cids": ["", ""], "line_strs": ["\t\ti += len;", "\t\tpkt_dev->burst = value < 1 ? 1 : value;"]}]}

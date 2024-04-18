@@ -1,0 +1,1 @@
+{"drivers/infiniband/core/cma.c": [{"patch_file_name": "drivers/infiniband/core/cma.c", "func_decl_name": "rdma_resolve_addr", "is_cond": true, "line_numbers": [3427, 3428], "line_cids": ["", ""], "line_strs": ["\t\t} else {", "\t\t\tret = rdma_resolve_ip(cma_src_addr(id_priv), dst_addr,"]}]}

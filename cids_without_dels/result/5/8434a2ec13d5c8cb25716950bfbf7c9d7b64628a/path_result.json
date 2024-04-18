@@ -1,0 +1,1 @@
+{"tools/perf/util/header.c": [{"patch_file_name": "tools/perf/util/header.c", "func_decl_name": "perf_event__process_event_update", "is_cond": true, "line_numbers": [3207, 3208], "line_cids": ["", ""], "line_strs": ["\t\tevsel->scale = ev_scale->scale;", "\tcase PERF_EVENT_UPDATE__CPUS:"]}]}

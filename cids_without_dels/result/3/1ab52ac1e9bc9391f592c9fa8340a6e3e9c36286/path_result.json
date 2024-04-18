@@ -1,0 +1,1 @@
+{"drivers/infiniband/hw/mlx5/qp.c": [{"patch_file_name": "drivers/infiniband/hw/mlx5/qp.c", "func_decl_name": "mlx5_ib_modify_dct", "is_cond": true, "line_numbers": [4460, 4461], "line_cids": ["", ""], "line_strs": ["\t\tMLX5_SET(dctc, dctc, hop_limit, attr->ah_attr.grh.hop_limit);", ""]}]}

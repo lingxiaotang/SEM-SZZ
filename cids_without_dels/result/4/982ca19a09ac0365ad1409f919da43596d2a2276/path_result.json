@@ -1,0 +1,1 @@
+{"drivers/memory/tegra/tegra186-emc.c": [{"patch_file_name": "drivers/memory/tegra/tegra186-emc.c", "func_decl_name": "tegra186_emc_probe", "is_cond": false, "line_numbers": [195, 196], "line_cids": ["", ""], "line_strs": ["\terr = tegra_bpmp_transfer(emc->bpmp, &msg);", "\tif (err < 0) {"]}]}

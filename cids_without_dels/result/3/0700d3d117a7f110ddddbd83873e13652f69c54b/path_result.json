@@ -1,0 +1,1 @@
+{"sound/pci/hda/patch_realtek.c": [{"patch_file_name": "sound/pci/hda/patch_realtek.c", "func_decl_name": "alc274_fixup_bind_dacs", "is_cond": false, "line_numbers": [5443, 5452], "line_cids": ["", ""], "line_strs": ["\tstruct alc_spec *spec = codec->spec;", "\tspec->gen.preferred_dacs = preferred_pairs;"]}]}

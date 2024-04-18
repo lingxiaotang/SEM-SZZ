@@ -1,0 +1,1 @@
+{"tools/perf/util/intel-pt-decoder/intel-pt-decoder.c": [{"patch_file_name": "tools/perf/util/intel-pt-decoder/intel-pt-decoder.c", "func_decl_name": "intel_pt_walk_psbend", "is_cond": true, "line_numbers": [1763, 1764], "line_cids": ["", ""], "line_strs": ["\t\tcase INTEL_PT_CYC:", "\t\tcase INTEL_PT_VMCS:"]}]}

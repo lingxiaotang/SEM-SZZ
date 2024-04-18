@@ -1,0 +1,1 @@
+{"drivers/i2c/busses/i2c-s3c2410.c": [{"patch_file_name": "drivers/i2c/busses/i2c-s3c2410.c", "func_decl_name": "i2c_s3c_irq_nextbyte", "is_cond": true, "line_numbers": [483, 484], "line_cids": ["", ""], "line_strs": ["\t\t\t\t\ts3c24xx_i2c_stop(i2c, -EINVAL);", "\t\t\t\t}"]}]}

@@ -1,0 +1,1 @@
+{"drivers/net/ethernet/mellanox/mlxsw/spectrum.c": [{"patch_file_name": "drivers/net/ethernet/mellanox/mlxsw/spectrum.c", "func_decl_name": "mlxsw_sp_pude_event_func", "is_cond": false, "line_numbers": [4340, 4341], "line_cids": ["", ""], "line_strs": ["\t\tnetdev_info(mlxsw_sp_port->dev, \"link down\\n\");", "\t\tnetif_carrier_off(mlxsw_sp_port->dev);"]}]}

@@ -1,0 +1,1 @@
+{"drivers/pinctrl/devicetree.c": [{"patch_file_name": "drivers/pinctrl/devicetree.c", "func_decl_name": "pinctrl_dt_to_map", "is_cond": true, "line_numbers": [222, 223], "line_cids": ["", ""], "line_strs": ["\t\tpropname = kasprintf(GFP_KERNEL, \"pinctrl-%d\", state);", "\t\tprop = of_find_property(np, propname, &size);"]}]}

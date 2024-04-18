@@ -1,0 +1,1 @@
+{"drivers/usb/dwc3/core.c": [{"patch_file_name": "drivers/usb/dwc3/core.c", "func_decl_name": "dwc3_probe", "is_cond": true, "line_numbers": [1698, 1699], "line_cids": ["", ""], "line_strs": ["", "\t\tdwc->ref_clk = devm_clk_get_optional(dev, \"ref\");"]}]}

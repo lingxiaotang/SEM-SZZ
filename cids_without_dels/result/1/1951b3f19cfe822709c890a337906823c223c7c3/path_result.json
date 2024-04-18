@@ -1,0 +1,1 @@
+{"net/dsa/dsa2.c": [{"patch_file_name": "net/dsa/dsa2.c", "func_decl_name": "dsa_switch_setup_tag_protocol", "is_cond": false, "line_numbers": [814, 814], "line_cids": ["", ""], "line_strs": ["\t\terr = ds->ops->change_tag_protocol(ds, port, tag_ops->proto);", "\t\terr = ds->ops->change_tag_protocol(ds, port, tag_ops->proto);"]}]}

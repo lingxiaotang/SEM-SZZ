@@ -1,0 +1,1 @@
+{"drivers/net/ethernet/mellanox/mlxsw/spectrum_flower.c": [{"patch_file_name": "drivers/net/ethernet/mellanox/mlxsw/spectrum_flower.c", "func_decl_name": "mlxsw_sp_flower_parse_actions", "is_cond": true, "line_numbers": [107, 108], "line_cids": ["", ""], "line_strs": ["", "\t\t\terr = mlxsw_sp_acl_rulei_act_mirror(mlxsw_sp, rulei,"]}]}

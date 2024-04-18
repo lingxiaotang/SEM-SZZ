@@ -1,0 +1,1 @@
+{"drivers/infiniband/core/cma.c": [{"patch_file_name": "drivers/infiniband/core/cma.c", "func_decl_name": "rdma_join_multicast", "is_cond": true, "line_numbers": [4177, 4178], "line_cids": ["", ""], "line_strs": ["", "\tid_priv = container_of(id, struct rdma_id_private, id);"]}]}

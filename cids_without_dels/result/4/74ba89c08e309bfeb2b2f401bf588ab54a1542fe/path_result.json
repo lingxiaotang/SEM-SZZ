@@ -1,0 +1,1 @@
+{"drivers/gpu/drm/i915/display/intel_dpt.c": [{"patch_file_name": "drivers/gpu/drm/i915/display/intel_dpt.c", "func_decl_name": "intel_dpt_suspend", "is_cond": true, "line_numbers": [209, 210], "line_cids": ["", ""], "line_strs": ["", "\tmutex_lock(&i915->drm.mode_config.fb_lock);"]}]}

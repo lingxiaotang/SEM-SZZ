@@ -1,0 +1,1 @@
+{"drivers/scsi/ufs/ufshcd.c": [{"patch_file_name": "drivers/scsi/ufs/ufshcd.c", "func_decl_name": "ufshcd_hold", "is_cond": true, "line_numbers": [1520, 1521], "line_cids": ["", ""], "line_strs": ["\t\t    ufshcd_is_link_hibern8(hba)) {", "\t\t\tspin_unlock_irqrestore(hba->host->host_lock, flags);"]}]}

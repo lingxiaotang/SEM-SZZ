@@ -1,0 +1,1 @@
+{"sound/soc/fsl/imx-es8328.c": [{"patch_file_name": "sound/soc/fsl/imx-es8328.c", "func_decl_name": "imx_es8328_probe", "is_cond": false, "line_numbers": [83, 83], "line_cids": ["", ""], "line_strs": ["\tif (ret) {", "\tif (ret) {"]}]}

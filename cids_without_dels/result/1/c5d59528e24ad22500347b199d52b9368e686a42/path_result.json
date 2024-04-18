@@ -1,0 +1,1 @@
+{"drivers/media/pci/cx23885/altera-ci.c": [{"patch_file_name": "drivers/media/pci/cx23885/altera-ci.c", "func_decl_name": "altera_ci_init", "is_cond": true, "line_numbers": [735, 736], "line_cids": ["", ""], "line_strs": ["\t\ttemp_int = append_internal(inter);", "\t\tinter->cis_used = 1;"]}]}

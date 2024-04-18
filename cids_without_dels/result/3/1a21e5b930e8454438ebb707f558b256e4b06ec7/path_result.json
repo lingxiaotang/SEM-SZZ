@@ -1,0 +1,1 @@
+{"drivers/gpu/drm/ingenic/ingenic-drm-drv.c": [{"patch_file_name": "drivers/gpu/drm/ingenic/ingenic-drm-drv.c", "func_decl_name": "ingenic_drm_probe", "is_cond": false, "line_numbers": [975, 980], "line_cids": ["", ""], "line_strs": ["\tif (!np) {", "\tdrm_of_component_match_add(dev, &match, compare_of, np);"]}]}

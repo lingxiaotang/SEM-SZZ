@@ -1,0 +1,1 @@
+{"drivers/media/platform/davinci/vpif_capture.c": [{"patch_file_name": "drivers/media/platform/davinci/vpif_capture.c", "func_decl_name": "vpif_capture_get_pdata", "is_cond": true, "line_numbers": [1552, 1553], "line_cids": ["", ""], "line_strs": ["\t\t\t\t\t    GFP_KERNEL);", ""]}]}

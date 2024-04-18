@@ -1,0 +1,1 @@
+{"drivers/interconnect/core.c": [{"patch_file_name": "drivers/interconnect/core.c", "func_decl_name": "icc_node_add", "is_cond": true, "line_numbers": [976, 976], "line_cids": ["", ""], "line_strs": ["\tif (provider->aggregate)", "\tif (provider->aggregate)"]}]}

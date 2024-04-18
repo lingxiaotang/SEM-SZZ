@@ -1,0 +1,1 @@
+{"samples/bpf/xdpsock_user.c": [{"patch_file_name": "samples/bpf/xdpsock_user.c", "func_decl_name": "xsk_configure_socket", "is_cond": true, "line_numbers": [859, 860], "line_cids": ["", ""], "line_strs": ["", "\txsk->app_stats.rx_empty_polls = 0;"]}]}

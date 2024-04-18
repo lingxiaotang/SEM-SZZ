@@ -1,0 +1,1 @@
+{"fs/ubifs/dir.c": [{"patch_file_name": "fs/ubifs/dir.c", "func_decl_name": "do_rename", "is_cond": false, "line_numbers": [1441], "line_cids": [""], "line_strs": ["\told_dir->i_size -= old_sz;"]}]}

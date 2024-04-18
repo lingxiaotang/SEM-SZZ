@@ -1,0 +1,1 @@
+{"net/sunrpc/xprtsock.c": [{"patch_file_name": "net/sunrpc/xprtsock.c", "func_decl_name": "xs_tcp_send_request", "is_cond": true, "line_numbers": [1012, 1013], "line_cids": ["", ""], "line_strs": ["\t}", ""]}]}

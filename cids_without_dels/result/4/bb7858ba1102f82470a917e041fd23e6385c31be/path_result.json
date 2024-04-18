@@ -1,0 +1,1 @@
+{"drivers/net/ethernet/qlogic/qed/qed_main.c": [{"patch_file_name": "drivers/net/ethernet/qlogic/qed/qed_main.c", "func_decl_name": "qed_slowpath_setup_int", "is_cond": true, "line_numbers": [791, 792], "line_cids": ["", ""], "line_strs": ["", "\trc = qed_set_int_mode(cdev, false);"]}]}

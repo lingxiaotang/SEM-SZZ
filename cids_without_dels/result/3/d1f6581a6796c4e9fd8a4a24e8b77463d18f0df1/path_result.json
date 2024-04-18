@@ -1,0 +1,1 @@
+{"drivers/scsi/smartpqi/smartpqi_init.c": [{"patch_file_name": "drivers/scsi/smartpqi/smartpqi_init.c", "func_decl_name": "pqi_get_raid_map", "is_cond": false, "line_numbers": [1316, 1316], "line_cids": ["", ""], "line_strs": ["\t\tif (rc)", "\t\tif (rc)"]}]}

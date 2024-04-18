@@ -1,0 +1,1 @@
+{"sound/soc/codecs/msm8916-wcd-digital.c": [{"patch_file_name": "sound/soc/codecs/msm8916-wcd-digital.c", "func_decl_name": "msm8916_wcd_digital_enable_interpolator", "is_cond": true, "line_numbers": [588, 589], "line_cids": ["", ""], "line_strs": ["\t\tbreak;", "\t}"]}]}

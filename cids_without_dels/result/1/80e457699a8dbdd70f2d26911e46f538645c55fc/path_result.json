@@ -1,0 +1,1 @@
+{"drivers/usb/host/xhci-mem.c": [{"patch_file_name": "drivers/usb/host/xhci-mem.c", "func_decl_name": "xhci_free_virt_devices_depth_first", "is_cond": true, "line_numbers": [936, 937], "line_cids": ["", ""], "line_strs": ["", "\ttt_list_head = &(xhci->rh_bw[vdev->real_port - 1].tts);"]}]}

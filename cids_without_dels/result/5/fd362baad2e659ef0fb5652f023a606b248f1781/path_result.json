@@ -1,0 +1,1 @@
+{"drivers/soc/sunxi/sunxi_sram.c": [{"patch_file_name": "drivers/soc/sunxi/sunxi_sram.c", "func_decl_name": "sunxi_sram_claim", "is_cond": false, "line_numbers": [241, 245], "line_cids": ["", ""], "line_strs": ["\tsram_desc = to_sram_desc(sram_data);", "\tif (sram_desc->claimed) {"]}]}

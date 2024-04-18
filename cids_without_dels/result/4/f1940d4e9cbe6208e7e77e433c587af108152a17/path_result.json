@@ -1,0 +1,1 @@
+{"drivers/hv/ring_buffer.c": [{"patch_file_name": "drivers/hv/ring_buffer.c", "func_decl_name": "hv_ringbuffer_cleanup", "is_cond": false, "line_numbers": [247, 248], "line_cids": ["", ""], "line_strs": ["\tkfree(ring_info->pkt_buffer);", "\tring_info->pkt_buffer_size = 0;"]}]}

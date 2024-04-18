@@ -1,0 +1,1 @@
+{"drivers/gpu/drm/i915/gvt/kvmgt.c": [{"patch_file_name": "drivers/gpu/drm/i915/gvt/kvmgt.c", "func_decl_name": "gvt_dma_map_page", "is_cond": true, "line_numbers": [125, 126], "line_cids": ["", ""], "line_strs": ["", "\t/* Setup DMA mapping. */"]}]}

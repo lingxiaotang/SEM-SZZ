@@ -1,0 +1,1 @@
+{"drivers/net/ethernet/chelsio/inline_crypto/ch_ktls/chcr_ktls.c": [{"patch_file_name": "drivers/net/ethernet/chelsio/inline_crypto/ch_ktls/chcr_ktls.c", "func_decl_name": "chcr_end_part_handler", "is_cond": true, "line_numbers": [1770, 1770], "line_cids": ["", ""], "line_strs": ["\t\t\t\t       (last_wr && tcp_push_no_fin),", "\t\t\t\t       (last_wr && tcp_push_no_fin),"]}]}

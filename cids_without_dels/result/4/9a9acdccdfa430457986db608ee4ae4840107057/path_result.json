@@ -1,0 +1,1 @@
+{"drivers/net/ethernet/allwinner/sun4i-emac.c": [{"patch_file_name": "drivers/net/ethernet/allwinner/sun4i-emac.c", "func_decl_name": "emac_probe", "is_cond": false, "line_numbers": [1072, 1076], "line_cids": ["", ""], "line_strs": ["\tclk_disable_unprepare(db->clk);", "\tiounmap(db->membase);"]}]}

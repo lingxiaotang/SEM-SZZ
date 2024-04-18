@@ -1,0 +1,1 @@
+{"drivers/net/dsa/mv88e6xxx/chip.c": [{"patch_file_name": "drivers/net/dsa/mv88e6xxx/chip.c", "func_decl_name": "mv88e6xxx_port_check_hw_vlan", "is_cond": true, "line_numbers": [1777, 1778], "line_cids": ["", ""], "line_strs": ["", "\t\t\tif (vlan.data[i] =="]}]}

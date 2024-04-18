@@ -1,0 +1,1 @@
+{"drivers/nvme/host/pci.c": [{"patch_file_name": "drivers/nvme/host/pci.c", "func_decl_name": "nvme_alloc_queue", "is_cond": true, "line_numbers": [1386, 1387], "line_cids": ["", ""], "line_strs": ["", "\tnvmeq->cqes = dma_zalloc_coherent(dev->dev, CQ_SIZE(depth),"]}]}

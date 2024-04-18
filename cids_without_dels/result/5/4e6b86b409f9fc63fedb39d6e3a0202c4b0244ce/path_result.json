@@ -1,0 +1,1 @@
+{"drivers/memory/renesas-rpc-if.c": [{"patch_file_name": "drivers/memory/renesas-rpc-if.c", "func_decl_name": "rpcif_probe", "is_cond": false, "line_numbers": [561, 561], "line_cids": ["", ""], "line_strs": ["\t} else if (of_device_is_compatible(flash, \"cfi-flash\")) {", "\t} else if (of_device_is_compatible(flash, \"cfi-flash\")) {"]}]}

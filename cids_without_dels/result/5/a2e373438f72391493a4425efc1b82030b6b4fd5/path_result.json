@@ -1,0 +1,1 @@
+{"drivers/thunderbolt/tb.c": [{"patch_file_name": "drivers/thunderbolt/tb.c", "func_decl_name": "tb_activate_pcie_devices", "is_cond": true, "line_numbers": [226, 227], "line_cids": ["", ""], "line_strs": ["\t\t\ttb_pci_free(tunnel);", "\t\t}"]}]}

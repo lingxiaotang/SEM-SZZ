@@ -1,0 +1,1 @@
+{"drivers/net/ethernet/ibm/ibmvnic.c": [{"patch_file_name": "drivers/net/ethernet/ibm/ibmvnic.c", "func_decl_name": "__ibmvnic_reset", "is_cond": true, "line_numbers": [2250, 2250], "line_cids": ["", ""], "line_strs": ["\t\tif (rc)", "\t\tif (rc)"]}]}

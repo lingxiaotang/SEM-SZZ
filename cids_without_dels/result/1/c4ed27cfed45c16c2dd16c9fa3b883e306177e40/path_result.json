@@ -1,0 +1,1 @@
+{"drivers/media/dvb-frontends/m88ds3103.c": [{"patch_file_name": "drivers/media/dvb-frontends/m88ds3103.c", "func_decl_name": "m88ds3103_set_frontend", "is_cond": true, "line_numbers": [994, 994], "line_cids": ["", ""], "line_strs": ["\tif (ret)", "\tif (ret)"]}]}

@@ -1,0 +1,1 @@
+{"drivers/net/ethernet/mellanox/mlxsw/spectrum_router.c": [{"patch_file_name": "drivers/net/ethernet/mellanox/mlxsw/spectrum_router.c", "func_decl_name": "mlxsw_sp_router_port_check_rif_addr", "is_cond": true, "line_numbers": [7081, 7082], "line_cids": ["", ""], "line_strs": ["\t\trif = mlxsw_sp->router->rifs[i];", "\t\tif (rif && rif->dev && rif->dev != dev &&"]}]}

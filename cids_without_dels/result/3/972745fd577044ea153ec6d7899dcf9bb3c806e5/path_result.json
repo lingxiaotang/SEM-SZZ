@@ -1,0 +1,1 @@
+{"drivers/gpu/drm/i915/gt/intel_rc6.c": [{"patch_file_name": "drivers/gpu/drm/i915/gt/intel_rc6.c", "func_decl_name": "intel_rc6_park", "is_cond": true, "line_numbers": [614, 615], "line_cids": ["", ""], "line_strs": ["", "\t/* Turn off the HW timers and go directly to rc6 */"]}]}

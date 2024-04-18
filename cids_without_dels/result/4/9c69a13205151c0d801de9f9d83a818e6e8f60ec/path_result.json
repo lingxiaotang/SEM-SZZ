@@ -1,0 +1,1 @@
+{"net/ipv6/route.c": [{"patch_file_name": "net/ipv6/route.c", "func_decl_name": "__ip6_rt_update_pmtu", "is_cond": true, "line_numbers": [2332, 2333], "line_cids": ["", ""], "line_strs": ["\t\tfrom = rcu_dereference(rt6->from);", "\t\tnrt6 = ip6_rt_cache_alloc(from, daddr, saddr);"]}]}

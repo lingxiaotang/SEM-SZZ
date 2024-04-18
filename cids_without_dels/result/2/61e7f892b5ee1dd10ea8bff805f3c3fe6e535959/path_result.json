@@ -1,0 +1,1 @@
+{"drivers/media/pci/intel/ipu3/ipu3-cio2.c": [{"patch_file_name": "drivers/media/pci/intel/ipu3/ipu3-cio2.c", "func_decl_name": "cio2_vb2_return_all_buffers", "is_cond": true, "line_numbers": [789, 789], "line_cids": ["", ""], "line_strs": ["\tfor (i = 0; i < CIO2_MAX_BUFFERS; i++) {", "\tfor (i = 0; i < CIO2_MAX_BUFFERS; i++) {"]}]}

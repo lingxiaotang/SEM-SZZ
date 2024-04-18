@@ -1,0 +1,1 @@
+{"net/ipv4/tcp_output.c": [{"patch_file_name": "net/ipv4/tcp_output.c", "func_decl_name": "tcp_connect", "is_cond": true, "line_numbers": [3443, 3444], "line_cids": ["", ""], "line_strs": ["\ttp->pushed_seq = tp->write_seq;", "\tTCP_INC_STATS(sock_net(sk), TCP_MIB_ACTIVEOPENS);"]}]}

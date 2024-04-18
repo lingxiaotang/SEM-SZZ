@@ -1,0 +1,1 @@
+{"net/nfc/llcp_sock.c": [{"patch_file_name": "net/nfc/llcp_sock.c", "func_decl_name": "llcp_sock_bind", "is_cond": false, "line_numbers": [111, 112], "line_cids": ["", ""], "line_strs": ["\t\tnfc_llcp_local_put(llcp_sock->local);", "\t\tllcp_sock->local = NULL;"]}]}

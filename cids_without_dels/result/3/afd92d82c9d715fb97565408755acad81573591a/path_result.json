@@ -1,0 +1,1 @@
+{"drivers/net/virtio_net.c": [{"patch_file_name": "drivers/net/virtio_net.c", "func_decl_name": "page_to_skb", "is_cond": true, "line_numbers": [425, 426], "line_cids": ["", ""], "line_strs": ["\t\tskb_put(skb, len);", "\t\tgoto ok;"]}]}

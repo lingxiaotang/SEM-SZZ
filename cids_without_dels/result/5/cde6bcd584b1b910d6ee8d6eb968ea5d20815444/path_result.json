@@ -1,0 +1,1 @@
+{"sound/soc/amd/acp-pcm-dma.c": [{"patch_file_name": "sound/soc/amd/acp-pcm-dma.c", "func_decl_name": "acp_dma_open", "is_cond": false, "line_numbers": [626], "line_cids": [""], "line_strs": ["\tif (adata == NULL)"]}]}

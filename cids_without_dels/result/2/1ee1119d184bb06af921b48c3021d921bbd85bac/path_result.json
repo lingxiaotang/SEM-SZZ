@@ -1,0 +1,1 @@
+{"arch/sh/kernel/hw_breakpoint.c": [{"patch_file_name": "arch/sh/kernel/hw_breakpoint.c", "func_decl_name": "arch_bp_generic_fields", "is_cond": true, "line_numbers": [159, 160], "line_cids": ["", ""], "line_strs": ["\t\t*gen_type = HW_BREAKPOINT_R;", "\tcase SH_BREAKPOINT_WRITE:"]}]}

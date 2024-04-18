@@ -1,0 +1,1 @@
+{"arch/x86/kernel/acpi/cppc.c": [{"patch_file_name": "arch/x86/kernel/acpi/cppc.c", "func_decl_name": "cpc_supported_by_cpu", "is_cond": true, "line_numbers": [18, 19], "line_cids": ["", ""], "line_strs": ["\tcase X86_VENDOR_HYGON:", "\t\treturn boot_cpu_has(X86_FEATURE_CPPC);"]}]}

@@ -1,0 +1,1 @@
+{"drivers/gpu/drm/i915/i915_gem_execbuffer.c": [{"patch_file_name": "drivers/gpu/drm/i915/i915_gem_execbuffer.c", "func_decl_name": "eb_release_vmas", "is_cond": true, "line_numbers": [886, 886], "line_cids": ["", ""], "line_strs": ["\t\tif (entry->flags & __EXEC_OBJECT_HAS_REF)", "\t\tif (entry->flags & __EXEC_OBJECT_HAS_REF)"]}]}

@@ -1,0 +1,1 @@
+{"kernel/dma/direct.c": [{"patch_file_name": "kernel/dma/direct.c", "func_decl_name": "dma_direct_alloc_pages", "is_cond": true, "line_numbers": [197, 198], "line_cids": ["", ""], "line_strs": ["\t\t\tgoto out_free_pages;", "\t\tmemset(ret, 0, size);"]}]}

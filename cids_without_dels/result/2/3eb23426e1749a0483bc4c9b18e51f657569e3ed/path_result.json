@@ -1,0 +1,1 @@
+{"drivers/staging/rtlwifi/rtl8822be/fw.c": [{"patch_file_name": "drivers/staging/rtlwifi/rtl8822be/fw.c", "func_decl_name": "rtl8822b_halmac_cb_write_data_rsvd_page", "is_cond": true, "line_numbers": [466, 467], "line_cids": ["", ""], "line_strs": ["\tskb = dev_alloc_skb(size);", "\tmemcpy((u8 *)skb_put(skb, size), buf, size);"]}]}

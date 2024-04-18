@@ -1,0 +1,1 @@
+{"drivers/nvme/host/hwmon.c": [{"patch_file_name": "drivers/nvme/host/hwmon.c", "func_decl_name": "nvme_hwmon_init", "is_cond": false, "line_numbers": [248, 248], "line_cids": ["", ""], "line_strs": ["\tif (IS_ERR(hwmon)) {", "\tif (IS_ERR(hwmon)) {"]}]}

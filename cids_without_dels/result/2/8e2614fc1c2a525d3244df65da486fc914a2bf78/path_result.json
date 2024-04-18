@@ -1,0 +1,1 @@
+{"net/sctp/socket.c": [{"patch_file_name": "net/sctp/socket.c", "func_decl_name": "sctp_setsockopt_delayed_ack", "is_cond": true, "line_numbers": [2922, 2923], "line_cids": ["", ""], "line_strs": ["", "\tif (params.sack_assoc_id == SCTP_FUTURE_ASSOC ||"]}]}

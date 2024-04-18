@@ -1,0 +1,1 @@
+{"drivers/gpu/drm/i915/gt/intel_lrc.c": [{"patch_file_name": "drivers/gpu/drm/i915/gt/intel_lrc.c", "func_decl_name": "execlists_hold", "is_cond": true, "line_numbers": [2790, 2791], "line_cids": ["", ""], "line_strs": ["{", "\tspin_lock_irq(&engine->active.lock);"]}]}

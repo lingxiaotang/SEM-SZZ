@@ -1,0 +1,1 @@
+{"drivers/md/dm-rq.c": [{"patch_file_name": "drivers/md/dm-rq.c", "func_decl_name": "map_request", "is_cond": true, "line_numbers": [509, 510], "line_cids": ["", ""], "line_strs": ["\t\tdm_kill_unmapped_request(rq, -EIO);", "\tdefault:"]}]}

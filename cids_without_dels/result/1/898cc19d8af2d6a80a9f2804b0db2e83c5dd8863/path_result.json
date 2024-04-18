@@ -1,0 +1,1 @@
+{"fs/overlayfs/file.c": [{"patch_file_name": "fs/overlayfs/file.c", "func_decl_name": "ovl_write_iter", "is_cond": false, "line_numbers": [242, 243], "line_cids": ["", ""], "line_strs": ["\told_cred = ovl_override_creds(file_inode(file)->i_sb);", "\tret = vfs_iter_write(real.file, iter, &iocb->ki_pos,"]}]}

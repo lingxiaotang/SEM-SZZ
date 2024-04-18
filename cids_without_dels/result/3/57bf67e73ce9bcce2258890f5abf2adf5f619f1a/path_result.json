@@ -1,0 +1,1 @@
+{"arch/x86/kvm/lapic.c": [{"patch_file_name": "arch/x86/kvm/lapic.c", "func_decl_name": "wait_lapic_expire", "is_cond": true, "line_numbers": [1524, 1525], "line_cids": ["", ""], "line_strs": ["\t\t\tlapic_timer_advance_adjust_done = true;", "\t}"]}]}

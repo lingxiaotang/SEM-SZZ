@@ -1,0 +1,1 @@
+{"drivers/net/ethernet/stmicro/stmmac/dwxgmac2_core.c": [{"patch_file_name": "drivers/net/ethernet/stmicro/stmmac/dwxgmac2_core.c", "func_decl_name": "dwxgmac2_config_cbs", "is_cond": false, "line_numbers": [226, 227], "line_cids": ["", ""], "line_strs": ["\tvalue = readl(ioaddr + XGMAC_MTL_TCx_ETS_CONTROL(queue));", "\tvalue |= XGMAC_CC | XGMAC_CBS;"]}]}

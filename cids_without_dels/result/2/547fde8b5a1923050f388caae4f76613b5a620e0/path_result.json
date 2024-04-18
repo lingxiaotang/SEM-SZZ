@@ -1,0 +1,1 @@
+{"drivers/scsi/hisi_sas/hisi_sas_v3_hw.c": [{"patch_file_name": "drivers/scsi/hisi_sas/hisi_sas_v3_hw.c", "func_decl_name": "hisi_sas_v3_resume", "is_cond": false, "line_numbers": [3432, 3432], "line_cids": ["", ""], "line_strs": ["\tif (rc) {", "\tif (rc) {"]}]}

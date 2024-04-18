@@ -1,0 +1,1 @@
+{"drivers/tty/serial/8250/8250_aspeed_vuart.c": [{"patch_file_name": "drivers/tty/serial/8250/8250_aspeed_vuart.c", "func_decl_name": "aspeed_vuart_probe", "is_cond": true, "line_numbers": [431, 432], "line_cids": ["", ""], "line_strs": ["\tres = platform_get_resource(pdev, IORESOURCE_MEM, 0);", ""]}]}

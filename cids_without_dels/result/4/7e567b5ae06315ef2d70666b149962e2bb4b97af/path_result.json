@@ -1,0 +1,1 @@
+{"sound/soc/soc-topology.c": [{"patch_file_name": "sound/soc/soc-topology.c", "func_decl_name": "snd_soc_tplg_component_remove", "is_cond": false, "line_numbers": [2707, 2748], "line_cids": ["", ""], "line_strs": ["\twhile (pass >= SOC_TPLG_PASS_START) {", "\t\tpass--;"]}]}

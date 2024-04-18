@@ -1,0 +1,1 @@
+{"net/ipv6/ip6_gre.c": [{"patch_file_name": "net/ipv6/ip6_gre.c", "func_decl_name": "ip6erspan_set_version", "is_cond": true, "line_numbers": [1724, 1725], "line_cids": ["", ""], "line_strs": ["{", "\tparms->erspan_ver = 1;"]}]}

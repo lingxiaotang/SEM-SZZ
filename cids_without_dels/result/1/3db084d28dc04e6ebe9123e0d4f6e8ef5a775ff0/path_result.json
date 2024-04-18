@@ -1,0 +1,1 @@
+{"drivers/net/ethernet/hisilicon/hns3/hns3_enet.c": [{"patch_file_name": "drivers/net/ethernet/hisilicon/hns3/hns3_enet.c", "func_decl_name": "hns3_set_l3l4_type_csum", "is_cond": true, "line_numbers": [745, 746], "line_cids": ["", ""], "line_strs": ["\tcase IPPROTO_UDP:", "\t\thnae_set_field(*type_cs_vlan_tso,"]}]}

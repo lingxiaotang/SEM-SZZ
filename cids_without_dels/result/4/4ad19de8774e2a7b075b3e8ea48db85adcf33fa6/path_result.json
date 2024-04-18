@@ -1,0 +1,1 @@
+{"net/ipv6/tcp_ipv6.c": [{"patch_file_name": "net/ipv6/tcp_ipv6.c", "func_decl_name": "tcp_v6_rcv", "is_cond": false, "line_numbers": [1537, 1537], "line_cids": ["", ""], "line_strs": ["\t\tsk2 = inet6_lookup_listener(dev_net(skb->dev), &tcp_hashinfo,", "\t\tsk2 = inet6_lookup_listener(dev_net(skb->dev), &tcp_hashinfo,"]}]}

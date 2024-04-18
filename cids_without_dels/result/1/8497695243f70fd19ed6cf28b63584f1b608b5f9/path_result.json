@@ -1,0 +1,1 @@
+{"arch/s390/lib/spinlock.c": [{"patch_file_name": "arch/s390/lib/spinlock.c", "func_decl_name": "arch_spin_lock_wait_flags", "is_cond": true, "line_numbers": [107, 108], "line_cids": ["", ""], "line_strs": ["\t\t\tlocal_irq_restore(flags);", "\t\t}"]}]}

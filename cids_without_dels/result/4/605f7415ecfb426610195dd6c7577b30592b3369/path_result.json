@@ -1,0 +1,1 @@
+{"block/bio.c": [{"patch_file_name": "block/bio.c", "func_decl_name": "bio_alloc_cache_destroy", "is_cond": false, "line_numbers": [721, 724], "line_cids": ["", ""], "line_strs": ["\t\tcache = per_cpu_ptr(bs->cache, cpu);", "\tfree_percpu(bs->cache);"]}]}

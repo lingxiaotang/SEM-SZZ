@@ -1,0 +1,1 @@
+{"drivers/pci/controller/dwc/pcie-qcom-ep.c": [{"patch_file_name": "drivers/pci/controller/dwc/pcie-qcom-ep.c", "func_decl_name": "qcom_pcie_ep_get_io_resources", "is_cond": true, "line_numbers": [476, 477], "line_cids": ["", ""], "line_strs": ["\t\t\t\t\t\t\t \"mmio\");", "\tpcie_ep->mmio = devm_pci_remap_cfg_resource(dev, pcie_ep->mmio_res);"]}]}

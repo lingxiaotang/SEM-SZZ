@@ -1,0 +1,1 @@
+{"drivers/hid/hid-sony.c": [{"patch_file_name": "drivers/hid/hid-sony.c", "func_decl_name": "sony_input_configured", "is_cond": true, "line_numbers": [2634, 2635], "line_cids": ["", ""], "line_strs": ["\t\tsony_battery_remove(sc);", "\tsony_cancel_work_sync(sc);"]}]}

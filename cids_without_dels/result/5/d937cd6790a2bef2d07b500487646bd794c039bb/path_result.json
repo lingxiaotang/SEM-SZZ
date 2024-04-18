@@ -1,0 +1,1 @@
+{"sound/usb/mixer.c": [{"patch_file_name": "sound/usb/mixer.c", "func_decl_name": "parse_audio_feature_unit", "is_cond": true, "line_numbers": [1471, 1472], "line_cids": ["", ""], "line_strs": ["\tif (state->mixer->protocol == UAC_VERSION_1) {", "\t\tcsize = hdr->bControlSize;"]}]}

@@ -1,0 +1,1 @@
+{"drivers/clk/qcom/clk-alpha-pll.c": [{"patch_file_name": "drivers/clk/qcom/clk-alpha-pll.c", "func_decl_name": "clk_trion_pll_configure", "is_cond": true, "line_numbers": [1431, 1432], "line_cids": ["", ""], "line_strs": ["{", "\tclk_alpha_pll_write_config(regmap, PLL_L_VAL(pll), config->l);"]}]}

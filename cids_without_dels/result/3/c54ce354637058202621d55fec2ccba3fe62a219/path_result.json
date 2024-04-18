@@ -1,0 +1,1 @@
+{"drivers/clk/clk-composite.c": [{"patch_file_name": "drivers/clk/clk-composite.c", "func_decl_name": "clk_composite_determine_rate", "is_cond": false, "line_numbers": [99, 100], "line_cids": ["", ""], "line_strs": ["\t\t\treq->rate = tmp_req.rate;", "\t\t\treq->best_parent_rate = tmp_req.best_parent_rate;"]}]}

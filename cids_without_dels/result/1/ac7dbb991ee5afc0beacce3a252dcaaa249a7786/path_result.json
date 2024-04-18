@@ -1,0 +1,1 @@
+{"drivers/gpio/gpiolib.c": [{"patch_file_name": "drivers/gpio/gpiolib.c", "func_decl_name": "lineevent_create", "is_cond": true, "line_numbers": [755, 756], "line_cids": ["", ""], "line_strs": ["", "\t/* This is just wrong: we don't look for events on output lines */"]}]}

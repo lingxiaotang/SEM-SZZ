@@ -1,0 +1,1 @@
+{"drivers/s390/cio/qdio_main.c": [{"patch_file_name": "drivers/s390/cio/qdio_main.c", "func_decl_name": "get_outbound_buffer_frontier", "is_cond": true, "line_numbers": [738, 739], "line_cids": ["", ""], "line_strs": ["\tcase SLSB_P_OUTPUT_EMPTY:", "\t\t/* the adapter got it */"]}]}

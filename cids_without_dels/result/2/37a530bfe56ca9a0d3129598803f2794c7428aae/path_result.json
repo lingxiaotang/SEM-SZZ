@@ -1,0 +1,1 @@
+{"fs/ntfs3/inode.c": [{"patch_file_name": "fs/ntfs3/inode.c", "func_decl_name": "ntfs_read_mft", "is_cond": true, "line_numbers": [430, 431], "line_cids": ["", ""], "line_strs": ["\t} else if (fname && fname->home.low == cpu_to_le32(MFT_REC_EXTEND) &&", "\t\t   fname->home.seq == cpu_to_le16(MFT_REC_EXTEND)) {"]}]}

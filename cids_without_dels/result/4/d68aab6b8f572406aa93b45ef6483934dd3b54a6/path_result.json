@@ -1,0 +1,1 @@
+{"fs/quota/dquot.c": [{"patch_file_name": "fs/quota/dquot.c", "func_decl_name": "dqcache_shrink_scan", "is_cond": false, "line_numbers": [706, 706], "line_cids": ["", ""], "line_strs": ["\twhile (head != &free_dquots && sc->nr_to_scan) {", "\twhile (head != &free_dquots && sc->nr_to_scan) {"]}]}

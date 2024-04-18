@@ -1,0 +1,1 @@
+{"sound/usb/endpoint.c": [{"patch_file_name": "sound/usb/endpoint.c", "func_decl_name": "snd_usb_endpoint_configure", "is_cond": true, "line_numbers": [1289, 1290], "line_cids": ["", ""], "line_strs": ["\tiface_first = ep->cur_audiofmt->protocol == UAC_VERSION_1;", "\tif (iface_first) {"]}]}

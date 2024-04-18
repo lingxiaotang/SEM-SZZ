@@ -1,0 +1,1 @@
+{"drivers/iio/adc/at91-sama5d2_adc.c": [{"patch_file_name": "drivers/iio/adc/at91-sama5d2_adc.c", "func_decl_name": "at91_adc_configure_trigger", "is_cond": true, "line_numbers": [733, 734], "line_cids": ["", ""], "line_strs": ["", "\t\tif (state) {"]}]}

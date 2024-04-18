@@ -1,0 +1,1 @@
+{"drivers/net/ethernet/mellanox/mlx5/core/devlink.c": [{"patch_file_name": "drivers/net/ethernet/mellanox/mlx5/core/devlink.c", "func_decl_name": "mlx5_devlink_enable_roce_validate", "is_cond": true, "line_numbers": [275, 276], "line_cids": ["", ""], "line_strs": ["\t}", ""]}]}

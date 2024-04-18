@@ -1,0 +1,1 @@
+{"drivers/mmc/core/block.c": [{"patch_file_name": "drivers/mmc/core/block.c", "func_decl_name": "mmc_blk_alloc_req", "is_cond": false, "line_numbers": [2318, 2318], "line_cids": ["", ""], "line_strs": ["\tif (ret)", "\tif (ret)"]}]}

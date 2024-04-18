@@ -1,0 +1,1 @@
+{"arch/mips/bcm63xx/clk.c": [{"patch_file_name": "arch/mips/bcm63xx/clk.c", "func_decl_name": "clk_get_rate", "is_cond": true, "line_numbers": [341, 342], "line_cids": ["", ""], "line_strs": ["{", "\treturn clk->rate;"]}]}

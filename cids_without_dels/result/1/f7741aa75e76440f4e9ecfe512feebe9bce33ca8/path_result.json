@@ -1,0 +1,1 @@
+{"drivers/gpu/drm/savage/savage_state.c": [{"patch_file_name": "drivers/gpu/drm/savage/savage_state.c", "func_decl_name": "savage_bci_cmdbuf", "is_cond": false, "line_numbers": [1006, 1006], "line_cids": ["", ""], "line_strs": ["\t\t\tret = PTR_ERR(kvb_addr);", "\t\t\tret = PTR_ERR(kvb_addr);"]}]}

@@ -1,0 +1,1 @@
+{"drivers/uio/uio_hv_generic.c": [{"patch_file_name": "drivers/uio/uio_hv_generic.c", "func_decl_name": "hv_uio_probe", "is_cond": true, "line_numbers": [328, 329], "line_cids": ["", ""], "line_strs": ["", "\thv_set_drvdata(dev, pdata);"]}]}

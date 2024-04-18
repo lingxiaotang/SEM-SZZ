@@ -1,0 +1,1 @@
+{"drivers/net/ethernet/xilinx/xilinx_axienet_main.c": [{"patch_file_name": "drivers/net/ethernet/xilinx/xilinx_axienet_main.c", "func_decl_name": "__axienet_device_reset", "is_cond": true, "line_numbers": [518, 519], "line_cids": ["", ""], "line_strs": ["", "\treturn 0;"]}]}

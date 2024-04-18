@@ -1,0 +1,1 @@
+{"drivers/mmc/host/renesas_sdhi_internal_dmac.c": [{"patch_file_name": "drivers/mmc/host/renesas_sdhi_internal_dmac.c", "func_decl_name": "renesas_sdhi_internal_dmac_complete", "is_cond": true, "line_numbers": [235, 236], "line_cids": ["", ""], "line_strs": ["", "\tif (!host->data)"]}]}

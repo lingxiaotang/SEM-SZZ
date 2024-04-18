@@ -1,0 +1,1 @@
+{"drivers/platform/x86/think-lmi.c": [{"patch_file_name": "drivers/platform/x86/think-lmi.c", "func_decl_name": "tlmi_sysfs_init", "is_cond": true, "line_numbers": [689, 689], "line_cids": ["", ""], "line_strs": ["\tfor (i = 0; i < TLMI_SETTINGS_COUNT; i++) {", "\tfor (i = 0; i < TLMI_SETTINGS_COUNT; i++) {"]}]}

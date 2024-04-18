@@ -1,0 +1,1 @@
+{"drivers/usb/gadget/udc/bdc/bdc_pci.c": [{"patch_file_name": "drivers/usb/gadget/udc/bdc/bdc_pci.c", "func_decl_name": "bdc_pci_probe", "is_cond": false, "line_numbers": [76, 76], "line_cids": ["", ""], "line_strs": ["\tret = platform_device_add_resources(bdc, res, ARRAY_SIZE(res));", "\tret = platform_device_add_resources(bdc, res, ARRAY_SIZE(res));"]}]}

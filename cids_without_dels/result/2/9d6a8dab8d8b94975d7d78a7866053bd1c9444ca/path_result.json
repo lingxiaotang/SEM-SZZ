@@ -1,0 +1,1 @@
+{"drivers/nvmem/imx-ocotp.c": [{"patch_file_name": "drivers/nvmem/imx-ocotp.c", "func_decl_name": "imx_ocotp_probe", "is_cond": true, "line_numbers": [348, 349], "line_cids": ["", ""], "line_strs": ["\tpriv->config = &imx_ocotp_nvmem_config;", "\tnvmem = nvmem_register(&imx_ocotp_nvmem_config);"]}]}

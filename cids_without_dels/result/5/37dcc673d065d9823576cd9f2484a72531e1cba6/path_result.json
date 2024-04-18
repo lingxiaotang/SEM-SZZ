@@ -1,0 +1,1 @@
+{"mm/frontswap.c": [{"patch_file_name": "mm/frontswap.c", "func_decl_name": "frontswap_init", "is_cond": true, "line_numbers": [127, 128], "line_cids": ["", ""], "line_strs": ["\tfrontswap_map_set(sis, map);", "\tfrontswap_ops->init(type);"]}]}

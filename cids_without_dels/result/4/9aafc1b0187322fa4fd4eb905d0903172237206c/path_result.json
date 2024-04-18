@@ -1,0 +1,1 @@
+{"fs/overlayfs/export.c": [{"patch_file_name": "fs/overlayfs/export.c", "func_decl_name": "ovl_fid_to_fh", "is_cond": true, "line_numbers": [785, 786], "line_cids": ["", ""], "line_strs": ["", "\tfh = kzalloc(buflen, GFP_KERNEL);"]}]}

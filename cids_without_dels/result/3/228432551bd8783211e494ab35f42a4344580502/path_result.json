@@ -1,0 +1,1 @@
+{"drivers/char/hw_random/virtio-rng.c": [{"patch_file_name": "drivers/char/hw_random/virtio-rng.c", "func_decl_name": "probe_common", "is_cond": false, "line_numbers": [156, 156], "line_cids": ["", ""], "line_strs": ["\tvi->vq = virtio_find_single_vq(vdev, random_recv_done, \"input\");", "\tvi->vq = virtio_find_single_vq(vdev, random_recv_done, \"input\");"]}]}

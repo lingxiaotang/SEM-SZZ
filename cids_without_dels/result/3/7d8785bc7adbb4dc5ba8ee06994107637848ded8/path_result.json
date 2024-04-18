@@ -1,0 +1,1 @@
+{"sound/soc/sof/core.c": [{"patch_file_name": "sound/soc/sof/core.c", "func_decl_name": "sof_probe_continue", "is_cond": false, "line_numbers": [165, 179], "line_cids": ["", ""], "line_strs": ["\tif (ret < 0) {", "\t\tdev_err(sdev->dev, \"error: failed to init DSP IPC %d\\n\", ret);"]}]}

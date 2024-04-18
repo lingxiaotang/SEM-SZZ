@@ -1,0 +1,1 @@
+{"drivers/net/wireless/realtek/rtw89/ser.c": [{"patch_file_name": "drivers/net/wireless/realtek/rtw89/ser.c", "func_decl_name": "ser_idle_st_hdl", "is_cond": true, "line_numbers": [396, 397], "line_cids": ["", ""], "line_strs": ["\t\trtw89_hci_recovery_start(rtwdev);", "\tdefault:"]}]}

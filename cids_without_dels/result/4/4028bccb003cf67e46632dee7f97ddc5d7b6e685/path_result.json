@@ -1,0 +1,1 @@
+{"drivers/infiniband/sw/rdmavt/qp.c": [{"patch_file_name": "drivers/infiniband/sw/rdmavt/qp.c", "func_decl_name": "rvt_ruc_loopback", "is_cond": true, "line_numbers": [3075, 3076], "line_cids": ["", ""], "line_strs": ["\t\t\tgoto inv_err;", "\t\tif (unlikely(!rvt_rkey_ok(qp, &qp->r_sge.sge, sizeof(u64),"]}]}

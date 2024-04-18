@@ -1,0 +1,1 @@
+{"drivers/crypto/ccp/psp-dev.c": [{"patch_file_name": "drivers/crypto/ccp/psp-dev.c", "func_decl_name": "psp_dev_destroy", "is_cond": true, "line_numbers": [860, 861], "line_cids": ["", ""], "line_strs": ["", "\tif (psp->sev_misc)"]}]}

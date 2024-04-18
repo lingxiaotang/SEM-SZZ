@@ -1,0 +1,1 @@
+{"drivers/media/platform/exynos4-is/media-dev.c": [{"patch_file_name": "drivers/media/platform/exynos4-is/media-dev.c", "func_decl_name": "fimc_md_get_pinctrl", "is_cond": true, "line_numbers": [1272, 1273], "line_cids": ["", ""], "line_strs": ["\t\t\t\t\tPINCTRL_STATE_IDLE);", "\treturn 0;"]}]}

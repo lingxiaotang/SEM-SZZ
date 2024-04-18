@@ -1,0 +1,1 @@
+{"drivers/net/ethernet/pensando/ionic/ionic_lif.c": [{"patch_file_name": "drivers/net/ethernet/pensando/ionic/ionic_lif.c", "func_decl_name": "ionic_addr_del", "is_cond": true, "line_numbers": [1381, 1382], "line_cids": ["", ""], "line_strs": ["{", "\treturn ionic_lif_list_addr(netdev_priv(netdev), addr, DEL_ADDR);"]}]}

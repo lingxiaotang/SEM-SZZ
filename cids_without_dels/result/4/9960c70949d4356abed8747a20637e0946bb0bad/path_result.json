@@ -1,0 +1,1 @@
+{"drivers/iio/common/st_sensors/st_sensors_core.c": [{"patch_file_name": "drivers/iio/common/st_sensors/st_sensors_core.c", "func_decl_name": "st_sensors_init_sensor", "is_cond": true, "line_numbers": [373, 374], "line_cids": ["", ""], "line_strs": ["\tof_pdata = st_sensors_dev_probe(indio_dev->dev.parent, pdata);", "\tif (of_pdata)"]}]}

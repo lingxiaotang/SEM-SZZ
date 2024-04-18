@@ -1,0 +1,1 @@
+{"kernel/bpf/ringbuf.c": [{"patch_file_name": "kernel/bpf/ringbuf.c", "func_decl_name": "__bpf_ringbuf_reserve", "is_cond": true, "line_numbers": [317, 318], "line_cids": ["", ""], "line_strs": ["\tlen = round_up(size + BPF_RINGBUF_HDR_SZ, 8);", "\tcons_pos = smp_load_acquire(&rb->consumer_pos);"]}]}

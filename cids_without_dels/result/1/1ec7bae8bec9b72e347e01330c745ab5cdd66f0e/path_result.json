@@ -1,0 +1,1 @@
+{"net/mac80211/rx.c": [{"patch_file_name": "net/mac80211/rx.c", "func_decl_name": "ieee80211_accept_frame", "is_cond": true, "line_numbers": [3386, 3387], "line_cids": ["", ""], "line_strs": ["\t\t\tif (ieee80211_is_action(hdr->frame_control) &&", "\t\t\t    !ether_addr_equal(bssid, hdr->addr1))"]}]}

@@ -1,0 +1,1 @@
+{"drivers/infiniband/ulp/ipoib/ipoib_ib.c": [{"patch_file_name": "drivers/infiniband/ulp/ipoib/ipoib_ib.c", "func_decl_name": "update_parent_pkey", "is_cond": true, "line_numbers": [980, 981], "line_cids": ["", ""], "line_strs": ["\t\tpriv->dev->broadcast[9] = priv->pkey & 0xff;", "\t\treturn 0;"]}]}

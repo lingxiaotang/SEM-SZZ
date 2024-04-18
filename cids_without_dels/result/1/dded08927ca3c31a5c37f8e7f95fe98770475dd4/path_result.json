@@ -1,0 +1,1 @@
+{"net/nfc/llcp_sock.c": [{"patch_file_name": "net/nfc/llcp_sock.c", "func_decl_name": "llcp_sock_sendmsg", "is_cond": true, "line_numbers": [791, 792], "line_cids": ["", ""], "line_strs": ["", "\tif (sk->sk_type == SOCK_DGRAM) {"]}]}

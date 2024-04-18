@@ -1,0 +1,1 @@
+{"drivers/net/ethernet/mellanox/mlx5/core/en_dcbnl.c": [{"patch_file_name": "drivers/net/ethernet/mellanox/mlx5/core/en_dcbnl.c", "func_decl_name": "mlx5e_trust_initialize", "is_cond": true, "line_numbers": [1202, 1203], "line_cids": ["", ""], "line_strs": ["", "\tmlx5e_params_calc_trust_tx_min_inline_mode(priv->mdev, &priv->channels.params,"]}]}

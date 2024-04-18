@@ -1,0 +1,1 @@
+{"drivers/hwmon/pmbus/pxe1610.c": [{"patch_file_name": "drivers/hwmon/pmbus/pxe1610.c", "func_decl_name": "pxe1610_identify", "is_cond": true, "line_numbers": [43, 43], "line_cids": ["", ""], "line_strs": ["\t\t\tdefault:", "\t\t\tdefault:"]}]}

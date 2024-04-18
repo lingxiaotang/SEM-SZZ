@@ -1,0 +1,1 @@
+{"drivers/usb/typec/tcpm/tcpm.c": [{"patch_file_name": "drivers/usb/typec/tcpm/tcpm.c", "func_decl_name": "vdm_run_state_machine", "is_cond": true, "line_numbers": [1944, 1945], "line_cids": ["", ""], "line_strs": ["\t\t\tport->vdm_state = VDM_STATE_READY;", "\t\t\ttcpm_ams_finish(port);"]}]}

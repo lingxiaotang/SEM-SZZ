@@ -1,0 +1,1 @@
+{"fs/nfsd/vfs.c": [{"patch_file_name": "fs/nfsd/vfs.c", "func_decl_name": "nfsd_vfs_write", "is_cond": true, "line_numbers": [997, 998], "line_cids": ["", ""], "line_strs": ["\t\tdown_write(&nf->nf_rwsem);", "\t\thost_err = vfs_iter_write(file, &iter, &pos, flags);"]}]}

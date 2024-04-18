@@ -1,0 +1,1 @@
+{"drivers/gpu/drm/drm_edid.c": [{"patch_file_name": "drivers/gpu/drm/drm_edid.c", "func_decl_name": "drm_cvt_modes", "is_cond": true, "line_numbers": [3116, 3117], "line_cids": ["", ""], "line_strs": ["\t\t\tbreak;", "\t\t}"]}]}

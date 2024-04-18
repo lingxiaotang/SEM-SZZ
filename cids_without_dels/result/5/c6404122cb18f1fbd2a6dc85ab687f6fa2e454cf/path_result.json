@@ -1,0 +1,1 @@
+{"net/tipc/net.c": [{"patch_file_name": "net/tipc/net.c", "func_decl_name": "__tipc_nl_net_set", "is_cond": true, "line_numbers": [254, 255], "line_cids": ["", ""], "line_strs": ["", "\t\t*w0 = nla_get_u64(attrs[TIPC_NLA_NET_NODEID]);"]}], "net/tipc/netlink.c": []}

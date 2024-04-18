@@ -1,0 +1,1 @@
+{"drivers/net/ethernet/ti/am65-cpsw-nuss.c": [{"patch_file_name": "drivers/net/ethernet/ti/am65-cpsw-nuss.c", "func_decl_name": "am65_cpsw_nuss_ndo_slave_open", "is_cond": true, "line_numbers": [638, 647], "line_cids": ["", ""], "line_strs": ["\t\tif (!port->slave.phy) {", "\tphy_attached_info(port->slave.phy);"]}]}

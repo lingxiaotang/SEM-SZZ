@@ -1,0 +1,1 @@
+{"drivers/net/ethernet/amazon/ena/ena_ethtool.c": [{"patch_file_name": "drivers/net/ethernet/amazon/ena/ena_ethtool.c", "func_decl_name": "ena_set_rxfh", "is_cond": true, "line_numbers": [738, 739], "line_cids": ["", ""], "line_strs": ["\tswitch (hfunc) {", "\tcase ETH_RSS_HASH_TOP:"]}], "drivers/net/ethernet/amazon/ena/ena_com.c": []}

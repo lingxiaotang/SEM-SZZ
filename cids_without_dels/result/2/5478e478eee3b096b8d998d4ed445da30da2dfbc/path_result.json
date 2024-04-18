@@ -1,0 +1,1 @@
+{"drivers/misc/eeprom/at24.c": [{"patch_file_name": "drivers/misc/eeprom/at24.c", "func_decl_name": "at24_probe", "is_cond": true, "line_numbers": [732, 733], "line_cids": ["", ""], "line_strs": ["", "\t/* Use I2C operations unless we're stuck with SMBus extensions. */"]}]}

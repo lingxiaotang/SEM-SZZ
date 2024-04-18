@@ -1,0 +1,1 @@
+{"drivers/usb/typec/ucsi/displayport.c": [{"patch_file_name": "drivers/usb/typec/ucsi/displayport.c", "func_decl_name": "ucsi_displayport_remove_partner", "is_cond": true, "line_numbers": [273, 274], "line_cids": ["", ""], "line_strs": ["\tdp = typec_altmode_get_drvdata(alt);", "\tdp->data.conf = 0;"]}]}

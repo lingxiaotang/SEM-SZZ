@@ -1,0 +1,1 @@
+{"tools/perf/util/parse-events.c": [{"patch_file_name": "tools/perf/util/parse-events.c", "func_decl_name": "is_event_supported", "is_cond": false, "line_numbers": [2269, 2269], "line_cids": ["", ""], "line_strs": ["\t\t\tret = perf_evsel__open(evsel, NULL, tmap) >= 0;", "\t\t\tret = perf_evsel__open(evsel, NULL, tmap) >= 0;"]}]}

@@ -1,0 +1,1 @@
+{"drivers/scsi/qla2xxx/qla_init.c": [{"patch_file_name": "drivers/scsi/qla2xxx/qla_init.c", "func_decl_name": "qla2x00_async_iocb_timeout", "is_cond": true, "line_numbers": [119, 120], "line_cids": ["", ""], "line_strs": ["\tcase SRB_LOGIN_CMD:", "\t\t/* Retry as needed. */"]}]}

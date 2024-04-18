@@ -1,0 +1,1 @@
+{"net/nfc/digital_dep.c": [{"patch_file_name": "net/nfc/digital_dep.c", "func_decl_name": "digital_tg_recv_dep_req", "is_cond": true, "line_numbers": [1286, 1286], "line_cids": ["", ""], "line_strs": ["\tif (rc)", "\tif (rc)"]}]}

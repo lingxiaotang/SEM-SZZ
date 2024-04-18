@@ -1,0 +1,1 @@
+{"drivers/net/ethernet/intel/igb/igb_main.c": [{"patch_file_name": "drivers/net/ethernet/intel/igb/igb_main.c", "func_decl_name": "igb_reset_q_vector", "is_cond": true, "line_numbers": [1037, 1038], "line_cids": ["", ""], "line_strs": ["", "\tif (q_vector->tx.ring)"]}]}

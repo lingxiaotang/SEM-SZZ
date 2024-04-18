@@ -1,0 +1,1 @@
+{"net/core/dev.c": [{"patch_file_name": "net/core/dev.c", "func_decl_name": "netdev_name_node_alt_destroy", "is_cond": true, "line_numbers": [333, 334], "line_cids": ["", ""], "line_strs": ["\t\treturn -ENOENT;", "\t__netdev_name_node_alt_destroy(name_node);"]}]}

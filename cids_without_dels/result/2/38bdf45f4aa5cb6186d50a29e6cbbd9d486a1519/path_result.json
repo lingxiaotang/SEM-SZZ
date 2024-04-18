@@ -1,0 +1,1 @@
+{"drivers/bus/mvebu-mbus.c": [{"patch_file_name": "drivers/bus/mvebu-mbus.c", "func_decl_name": "mvebu_mbus_window_is_free", "is_cond": true, "line_numbers": [218, 219], "line_cids": ["", ""], "line_strs": ["\tu32 ctrl = readl(addr + WIN_CTRL_OFF);", "\treturn !(ctrl & WIN_CTRL_ENABLE);"]}]}

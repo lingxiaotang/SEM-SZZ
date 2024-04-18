@@ -1,0 +1,1 @@
+{"drivers/memory/jz4780-nemc.c": [{"patch_file_name": "drivers/memory/jz4780-nemc.c", "func_decl_name": "jz4780_nemc_probe", "is_cond": true, "line_numbers": [293, 294], "line_cids": ["", ""], "line_strs": ["\tres = platform_get_resource(pdev, IORESOURCE_MEM, 0);", ""]}]}

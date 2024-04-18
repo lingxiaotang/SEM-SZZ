@@ -1,0 +1,1 @@
+{"net/llc/af_llc.c": [{"patch_file_name": "net/llc/af_llc.c", "func_decl_name": "llc_ui_sendmsg", "is_cond": true, "line_numbers": [932, 933], "line_cids": ["", ""], "line_strs": ["\tcopied = size - hdrlen;", "\trelease_sock(sk);"]}]}

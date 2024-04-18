@@ -1,0 +1,1 @@
+{"drivers/gpu/drm/msm/dsi/pll/dsi_pll_7nm.c": [{"patch_file_name": "drivers/gpu/drm/msm/dsi/pll/dsi_pll_7nm.c", "func_decl_name": "dsi_pll_7nm_restore_state", "is_cond": true, "line_numbers": [601, 602], "line_cids": ["", ""], "line_strs": ["", "\tDBG(\"DSI PLL%d\", pll_7nm->id);"]}]}

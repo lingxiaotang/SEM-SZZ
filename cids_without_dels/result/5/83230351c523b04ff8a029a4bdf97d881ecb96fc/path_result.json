@@ -1,0 +1,1 @@
+{"security/integrity/integrity_audit.c": [{"patch_file_name": "security/integrity/integrity_audit.c", "func_decl_name": "integrity_audit_message", "is_cond": true, "line_numbers": [47, 48], "line_cids": ["", ""], "line_strs": ["\tab = audit_log_start(audit_context(), GFP_KERNEL, audit_msgno);", "\taudit_log_format(ab, \"pid=%d uid=%u auid=%u ses=%u\","]}]}

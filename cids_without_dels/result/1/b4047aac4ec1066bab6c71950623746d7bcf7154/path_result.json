@@ -1,0 +1,1 @@
+{"drivers/net/ethernet/hisilicon/hns3/hns3_enet.c": [{"patch_file_name": "drivers/net/ethernet/hisilicon/hns3/hns3_enet.c", "func_decl_name": "hns3_reset_notify_up_enet", "is_cond": true, "line_numbers": [4618, 4619], "line_cids": ["", ""], "line_strs": ["", "\tclear_bit(HNS3_NIC_STATE_RESETTING, &priv->state);"]}]}

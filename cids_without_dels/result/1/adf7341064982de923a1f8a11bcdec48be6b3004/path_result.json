@@ -1,0 +1,1 @@
+{"net/mptcp/subflow.c": [{"patch_file_name": "net/mptcp/subflow.c", "func_decl_name": "mptcp_subflow_create_socket", "is_cond": true, "line_numbers": [1139, 1140], "line_cids": ["", ""], "line_strs": ["", "\terr = sock_create_kern(net, sk->sk_family, SOCK_STREAM, IPPROTO_TCP,"]}]}

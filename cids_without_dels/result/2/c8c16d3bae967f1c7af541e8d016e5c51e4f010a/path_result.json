@@ -1,0 +1,1 @@
+{"drivers/infiniband/ulp/iser/iscsi_iser.c": [{"patch_file_name": "drivers/infiniband/ulp/iser/iscsi_iser.c", "func_decl_name": "iscsi_iser_slave_alloc", "is_cond": true, "line_numbers": [981, 982], "line_cids": ["", ""], "line_strs": ["\tiser_conn = session->leadconn->dd_data;", "\tib_dev = iser_conn->ib_conn.device->ib_device;"]}]}

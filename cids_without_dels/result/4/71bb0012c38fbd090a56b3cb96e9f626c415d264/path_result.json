@@ -1,0 +1,1 @@
+{"lib/rhashtable.c": [{"patch_file_name": "lib/rhashtable.c", "func_decl_name": "rhashtable_walk_init", "is_cond": false, "line_numbers": [903, 907], "line_cids": ["", ""], "line_strs": ["\tif (!iter->walker)", "\tlist_add(&iter->walker->list, &ht->walkers);"]}]}

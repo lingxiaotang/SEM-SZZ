@@ -1,0 +1,1 @@
+{"drivers/virtio/virtio_ring.c": [{"patch_file_name": "drivers/virtio/virtio_ring.c", "func_decl_name": "virtqueue_add_indirect_packed", "is_cond": false, "line_numbers": [1003, 1003], "line_cids": ["", ""], "line_strs": ["\tdesc = alloc_indirect_packed(total_sg, gfp);", "\tdesc = alloc_indirect_packed(total_sg, gfp);"]}]}

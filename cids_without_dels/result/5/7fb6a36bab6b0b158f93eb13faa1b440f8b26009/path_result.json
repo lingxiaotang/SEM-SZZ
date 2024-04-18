@@ -1,0 +1,1 @@
+{"drivers/net/ethernet/mellanox/mlxsw/switchx2.c": [{"patch_file_name": "drivers/net/ethernet/mellanox/mlxsw/switchx2.c", "func_decl_name": "mlxsw_sx_port_create", "is_cond": false, "line_numbers": [1096], "line_cids": [""], "line_strs": ["\tfree_percpu(mlxsw_sx_port->pcpu_stats);"]}]}

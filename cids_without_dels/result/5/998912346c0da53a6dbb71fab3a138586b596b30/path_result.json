@@ -1,0 +1,1 @@
+{"drivers/media/usb/gspca/ov519.c": [{"patch_file_name": "drivers/media/usb/gspca/ov519.c", "func_decl_name": "ov518_mode_init_regs", "is_cond": true, "line_numbers": [3605, 3606], "line_cids": ["", ""], "line_strs": ["", "\tpacket_size = le16_to_cpu(alt->endpoint[0].desc.wMaxPacketSize);"]}]}

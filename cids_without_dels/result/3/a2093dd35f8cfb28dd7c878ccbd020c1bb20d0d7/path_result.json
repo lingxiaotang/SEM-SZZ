@@ -1,0 +1,1 @@
+{"drivers/infiniband/core/umem_odp.c": [{"patch_file_name": "drivers/infiniband/core/umem_odp.c", "func_decl_name": "ib_alloc_odp_umem", "is_cond": false, "line_numbers": [352, 353], "line_cids": ["", ""], "line_strs": ["\tumem->writable   = 1;", "\tumem->is_odp = 1;"]}]}

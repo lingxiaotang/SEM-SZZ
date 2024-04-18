@@ -1,0 +1,1 @@
+{"fs/jfs/jfs_dmap.c": [{"patch_file_name": "fs/jfs/jfs_dmap.c", "func_decl_name": "dbMount", "is_cond": true, "line_numbers": [181, 182], "line_cids": ["", ""], "line_strs": ["\tbmp->db_numag = le32_to_cpu(dbmp_le->dn_numag);", "\tbmp->db_maxlevel = le32_to_cpu(dbmp_le->dn_maxlevel);"]}]}

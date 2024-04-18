@@ -1,0 +1,1 @@
+{"drivers/net/wireless/ath/ath10k/mac.c": [{"patch_file_name": "drivers/net/wireless/ath/ath10k/mac.c", "func_decl_name": "ath10k_add_interface", "is_cond": true, "line_numbers": [4344, 4345], "line_cids": ["", ""], "line_strs": ["", "\tmutex_unlock(&ar->conf_mutex);"]}]}

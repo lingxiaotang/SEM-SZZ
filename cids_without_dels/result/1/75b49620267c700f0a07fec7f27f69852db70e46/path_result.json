@@ -1,0 +1,1 @@
+{"arch/powerpc/kvm/book3s_xive_native.c": [{"patch_file_name": "arch/powerpc/kvm/book3s_xive_native.c", "func_decl_name": "xive_native_esb_fault", "is_cond": true, "line_numbers": [253, 254], "line_cids": ["", ""], "line_strs": ["\tstate = &sb->irq_state[src];", "\tkvmppc_xive_select_irq(state, &hw_num, &xd);"]}]}

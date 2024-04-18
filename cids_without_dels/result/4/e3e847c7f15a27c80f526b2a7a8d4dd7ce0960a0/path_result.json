@@ -1,0 +1,1 @@
+{"drivers/gpio/gpiolib.c": [{"patch_file_name": "drivers/gpio/gpiolib.c", "func_decl_name": "linehandle_create", "is_cond": true, "line_numbers": [453, 454], "line_cids": ["", ""], "line_strs": ["", "\t\tdesc = &gdev->descs[offset];"]}]}

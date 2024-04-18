@@ -1,0 +1,1 @@
+{"block/blk-mq.c": [{"patch_file_name": "block/blk-mq.c", "func_decl_name": "blk_complete_request", "is_cond": true, "line_numbers": [739, 739], "line_cids": ["", ""], "line_strs": ["\t\tif (!is_flush)", "\t\tif (!is_flush)"]}]}

@@ -1,0 +1,1 @@
+{"tools/lib/bpf/libbpf.c": [{"patch_file_name": "tools/lib/bpf/libbpf.c", "func_decl_name": "add_dummy_ksym_var", "is_cond": true, "line_numbers": [3218, 3219], "line_cids": ["", ""], "line_strs": ["", "\tsec_btf_id = btf__find_by_name_kind(btf, KSYMS_SEC,"]}]}

@@ -1,0 +1,1 @@
+{"drivers/net/ethernet/micrel/ks8851_par.c": [{"patch_file_name": "drivers/net/ethernet/micrel/ks8851_par.c", "func_decl_name": "ks8851_probe_par", "is_cond": true, "line_numbers": [323, 324], "line_cids": ["", ""], "line_strs": ["\tnetdev->irq = platform_get_irq(pdev, 0);", ""]}]}

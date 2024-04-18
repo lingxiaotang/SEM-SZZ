@@ -1,0 +1,1 @@
+{"drivers/net/ethernet/mellanox/mlx5/core/en/xsk/setup.c": [{"patch_file_name": "drivers/net/ethernet/mellanox/mlx5/core/en/xsk/setup.c", "func_decl_name": "mlx5e_close_xsk", "is_cond": false, "line_numbers": [153, 154], "line_cids": ["", ""], "line_strs": ["\tmlx5e_close_xdpsq(&c->xsksq);", "\tmlx5e_close_cq(&c->xsksq.cq);"]}]}

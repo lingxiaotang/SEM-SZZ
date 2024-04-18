@@ -1,0 +1,1 @@
+{"fs/btrfs/inode.c": [{"patch_file_name": "fs/btrfs/inode.c", "func_decl_name": "__endio_write_update_ordered", "is_cond": true, "line_numbers": [8419, 8420], "line_cids": ["", ""], "line_strs": ["out_test:", "\t/*"]}]}

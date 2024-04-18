@@ -1,0 +1,1 @@
+{"drivers/dma/idxd/init.c": [{"patch_file_name": "drivers/dma/idxd/init.c", "func_decl_name": "idxd_setup_engines", "is_cond": false, "line_numbers": [244, 245], "line_cids": ["", ""], "line_strs": ["\t\tengine->conf_dev.parent = &idxd->conf_dev;", "\t\tengine->conf_dev.type = &idxd_engine_device_type;"]}]}

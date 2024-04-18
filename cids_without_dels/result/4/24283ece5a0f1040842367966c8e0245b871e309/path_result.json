@@ -1,0 +1,1 @@
+{"drivers/net/ethernet/hisilicon/hns3/hns3_ethtool.c": [{"patch_file_name": "drivers/net/ethernet/hisilicon/hns3/hns3_ethtool.c", "func_decl_name": "hns3_set_link_ksettings", "is_cond": true, "line_numbers": [789, 790], "line_cids": ["", ""], "line_strs": ["", "\tif (ops->cfg_mac_speed_dup_h)"]}]}

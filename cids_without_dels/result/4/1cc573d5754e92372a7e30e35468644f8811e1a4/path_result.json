@@ -1,0 +1,1 @@
+{"drivers/hwtracing/coresight/coresight-tmc-etr.c": [{"patch_file_name": "drivers/hwtracing/coresight/coresight-tmc-etr.c", "func_decl_name": "tmc_pages_alloc", "is_cond": true, "line_numbers": [219, 220], "line_cids": ["", ""], "line_strs": ["\t\t\t\t\t\tGFP_KERNEL | __GFP_ZERO, 0);", "\t\t}"]}]}

@@ -1,0 +1,1 @@
+{"drivers/soc/ti/wkup_m3_ipc.c": [{"patch_file_name": "drivers/soc/ti/wkup_m3_ipc.c", "func_decl_name": "wkup_m3_ipc_probe", "is_cond": false, "line_numbers": [460, 460], "line_cids": ["", ""], "line_strs": ["\tif (IS_ERR(task)) {", "\tif (IS_ERR(task)) {"]}]}

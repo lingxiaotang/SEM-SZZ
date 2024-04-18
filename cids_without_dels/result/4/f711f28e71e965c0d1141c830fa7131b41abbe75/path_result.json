@@ -1,0 +1,1 @@
+{"drivers/iio/adc/stm32-adc.c": [{"patch_file_name": "drivers/iio/adc/stm32-adc.c", "func_decl_name": "stm32h7_adc_unprepare", "is_cond": false, "line_numbers": [1118, 1121], "line_cids": ["", ""], "line_strs": ["\tstruct stm32_adc *adc = iio_priv(indio_dev);", "\tstm32_adc_int_ch_disable(adc);"]}]}

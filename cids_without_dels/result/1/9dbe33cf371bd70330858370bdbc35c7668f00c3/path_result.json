@@ -1,0 +1,1 @@
+{"drivers/net/mdio/mdio-aspeed.c": [{"patch_file_name": "drivers/net/mdio/mdio-aspeed.c", "func_decl_name": "aspeed_mdio_read", "is_cond": true, "line_numbers": [63, 64], "line_cids": ["", ""], "line_strs": ["", "\trc = readl_poll_timeout(ctx->base + ASPEED_MDIO_DATA, data,"]}]}

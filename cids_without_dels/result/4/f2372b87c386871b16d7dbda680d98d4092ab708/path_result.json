@@ -1,0 +1,1 @@
+{"drivers/usb/typec/ucsi/displayport.c": [{"patch_file_name": "drivers/usb/typec/ucsi/displayport.c", "func_decl_name": "ucsi_displayport_enter", "is_cond": true, "line_numbers": [77, 78], "line_cids": ["", ""], "line_strs": ["\t\tmutex_unlock(&dp->con->lock);", "\t\treturn -EBUSY;"]}]}

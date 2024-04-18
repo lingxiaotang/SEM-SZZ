@@ -1,0 +1,1 @@
+{"drivers/acpi/apei/apei-base.c": [{"patch_file_name": "drivers/acpi/apei/apei-base.c", "func_decl_name": "apei_map_generic_address", "is_cond": true, "line_numbers": [635, 636], "line_cids": ["", ""], "line_strs": ["", "\tif (!acpi_os_map_generic_address(reg))"]}]}

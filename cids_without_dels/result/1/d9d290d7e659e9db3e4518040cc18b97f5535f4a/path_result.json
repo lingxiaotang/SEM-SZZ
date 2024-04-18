@@ -1,0 +1,1 @@
+{"drivers/nvdimm/region_devs.c": [{"patch_file_name": "drivers/nvdimm/region_devs.c", "func_decl_name": "default_align", "is_cond": true, "line_numbers": [1027, 1028], "line_cids": ["", ""], "line_strs": ["", "\tmappings = max_t(u16, 1, nd_region->ndr_mappings);"]}]}

@@ -1,0 +1,1 @@
+{"drivers/staging/iio/accel/sca3000_core.c": [{"patch_file_name": "drivers/staging/iio/accel/sca3000_core.c", "func_decl_name": "__sca3000_get_base_freq", "is_cond": true, "line_numbers": [470, 471], "line_cids": ["", ""], "line_strs": ["\t\tbreak;", "\t}"]}]}

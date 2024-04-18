@@ -1,0 +1,1 @@
+{"drivers/media/v4l2-core/v4l2-dv-timings.c": [{"patch_file_name": "drivers/media/v4l2-core/v4l2-dv-timings.c", "func_decl_name": "v4l2_valid_dv_timings", "is_cond": true, "line_numbers": [163, 164], "line_cids": ["", ""], "line_strs": ["\t\treturn false;", "\treturn fnc == NULL || fnc(t, fnc_handle);"]}]}

@@ -1,0 +1,1 @@
+{"net/mac80211/mlme.c": [{"patch_file_name": "net/mac80211/mlme.c", "func_decl_name": "ieee80211_determine_chantype", "is_cond": false, "line_numbers": [172], "line_cids": [""], "line_strs": ["\tchandef->width = NL80211_CHAN_WIDTH_20;"]}]}

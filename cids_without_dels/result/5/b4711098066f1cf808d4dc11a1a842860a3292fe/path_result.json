@@ -1,0 +1,1 @@
+{"drivers/xen/pvcalls-front.c": [{"patch_file_name": "drivers/xen/pvcalls-front.c", "func_decl_name": "free_active_ring", "is_cond": true, "line_numbers": [345, 346], "line_cids": ["", ""], "line_strs": ["{", "\tfree_pages((unsigned long)map->active.data.in,"]}]}

@@ -1,0 +1,1 @@
+{"drivers/net/usb/sr9800.c": [{"patch_file_name": "drivers/net/usb/sr9800.c", "func_decl_name": "sr_set_wol", "is_cond": true, "line_numbers": [423, 424], "line_cids": ["", ""], "line_strs": ["", "\tif (wolinfo->wolopts & WAKE_PHY)"]}]}

@@ -1,0 +1,1 @@
+{"drivers/mmc/host/uniphier-sd.c": [{"patch_file_name": "drivers/mmc/host/uniphier-sd.c", "func_decl_name": "uniphier_sd_remove", "is_cond": false, "line_numbers": [661, 662], "line_cids": ["", ""], "line_strs": ["\ttmio_mmc_host_remove(host);", "\tuniphier_sd_clk_disable(host);"]}]}

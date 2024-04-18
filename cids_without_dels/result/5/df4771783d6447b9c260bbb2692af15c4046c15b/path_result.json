@@ -1,0 +1,1 @@
+{"drivers/net/phy/mscc/mscc_main.c": [{"patch_file_name": "drivers/net/phy/mscc/mscc_main.c", "func_decl_name": "vsc8584_config_pre_init", "is_cond": true, "line_numbers": [1364, 1365], "line_cids": ["", ""], "line_strs": ["", "\tphy_base_write(phydev, MSCC_EXT_PAGE_ACCESS, MSCC_PHY_PAGE_STANDARD);"]}]}

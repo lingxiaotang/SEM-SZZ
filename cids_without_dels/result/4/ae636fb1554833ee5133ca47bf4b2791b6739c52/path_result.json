@@ -1,0 +1,1 @@
+{"drivers/net/wireless/rndis_wlan.c": [{"patch_file_name": "drivers/net/wireless/rndis_wlan.c", "func_decl_name": "rndis_wlan_auth_indication", "is_cond": true, "line_numbers": [2930, 2931], "line_cids": ["", ""], "line_strs": ["\t\tauth_req = (void *)buf;", "\t\ttype = \"unknown\";"]}]}

@@ -1,0 +1,1 @@
+{"net/xdp/xsk_buff_pool.c": [{"patch_file_name": "net/xdp/xsk_buff_pool.c", "func_decl_name": "xp_create_and_assign_umem", "is_cond": true, "line_numbers": [82, 82], "line_cids": ["", ""], "line_strs": ["\tfor (i = 0; i < pool->free_heads_cnt; i++) {", "\tfor (i = 0; i < pool->free_heads_cnt; i++) {"]}]}

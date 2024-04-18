@@ -1,0 +1,1 @@
+{"drivers/spi/spi-mem.c": [{"patch_file_name": "drivers/spi/spi-mem.c", "func_decl_name": "spi_mem_access_start", "is_cond": false, "line_numbers": [244, 246], "line_cids": ["", ""], "line_strs": ["\t\tret = pm_runtime_get_sync(ctlr->dev.parent);", "\t\t\tdev_err(&ctlr->dev, \"Failed to power device: %d\\n\","]}]}

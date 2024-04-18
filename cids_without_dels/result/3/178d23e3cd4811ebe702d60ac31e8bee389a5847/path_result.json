@@ -1,0 +1,1 @@
+{"drivers/net/ethernet/mellanox/mlx4/main.c": [{"patch_file_name": "drivers/net/ethernet/mellanox/mlx4/main.c", "func_decl_name": "mlx4_allocate_default_counters", "is_cond": true, "line_numbers": [2275, 2276], "line_cids": ["", ""], "line_strs": ["\t\t\tcontinue;", "\t\t} else {"]}]}

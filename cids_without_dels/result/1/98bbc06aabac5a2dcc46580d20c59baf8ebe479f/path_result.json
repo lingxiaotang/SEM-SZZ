@@ -1,0 +1,1 @@
+{"arch/x86/net/bpf_jit_comp.c": [{"patch_file_name": "arch/x86/net/bpf_jit_comp.c", "func_decl_name": "bpf_jit_free", "is_cond": false, "line_numbers": [788], "line_cids": [""], "line_strs": ["\tif (fp->bpf_func != sk_run_filter) {"]}]}

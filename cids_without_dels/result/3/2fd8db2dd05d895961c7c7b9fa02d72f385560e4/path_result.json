@@ -1,0 +1,1 @@
+{"fs/dlm/lowcomms.c": [{"patch_file_name": "fs/dlm/lowcomms.c", "func_decl_name": "accept_from_sock", "is_cond": false, "line_numbers": [918, 919], "line_cids": ["", ""], "line_strs": ["\tmutex_lock(&newcon->sock_mutex);", "\tif (newcon->sock) {"]}]}

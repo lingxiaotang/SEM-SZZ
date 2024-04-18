@@ -1,0 +1,1 @@
+{"drivers/gpu/drm/i915/gvt/scheduler.c": [{"patch_file_name": "drivers/gpu/drm/i915/gvt/scheduler.c", "func_decl_name": "dispatch_workload", "is_cond": true, "line_numbers": [704, 705], "line_cids": ["", ""], "line_strs": ["out:", "\tif (!IS_ERR_OR_NULL(workload->req)) {"]}]}

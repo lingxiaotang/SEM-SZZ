@@ -1,0 +1,1 @@
+{"drivers/char/tpm/tpm2-space.c": [{"patch_file_name": "drivers/char/tpm/tpm2-space.c", "func_decl_name": "tpm2_map_response_body", "is_cond": true, "line_numbers": [457, 458], "line_cids": ["", ""], "line_strs": ["", "\tif (len != TPM_HEADER_SIZE + 9 + 4 * be32_to_cpu(data->count))"]}]}

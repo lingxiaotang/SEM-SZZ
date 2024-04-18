@@ -1,0 +1,1 @@
+{"drivers/cpufreq/qcom-cpufreq-hw.c": [{"patch_file_name": "drivers/cpufreq/qcom-cpufreq-hw.c", "func_decl_name": "qcom_cpufreq_hw_lmh_exit", "is_cond": true, "line_numbers": [471, 472], "line_cids": ["", ""], "line_strs": ["{", "\tfree_irq(data->throttle_irq, data);"]}]}

@@ -1,0 +1,1 @@
+{"drivers/leds/led-triggers.c": [{"patch_file_name": "drivers/leds/led-triggers.c", "func_decl_name": "led_trigger_set", "is_cond": false, "line_numbers": [170, 171], "line_cids": ["", ""], "line_strs": ["\tled_cdev->trigger = NULL;", "\tled_cdev->trigger_data = NULL;"]}]}

@@ -1,0 +1,1 @@
+{"drivers/net/ethernet/mellanox/mlxbf_gige/mlxbf_gige_main.c": [{"patch_file_name": "drivers/net/ethernet/mellanox/mlxbf_gige/mlxbf_gige_main.c", "func_decl_name": "mlxbf_gige_open", "is_cond": false, "line_numbers": [142, 145], "line_cids": ["", ""], "line_strs": ["\terr = mlxbf_gige_clean_port(priv);", "\terr = mlxbf_gige_rx_init(priv);"]}]}

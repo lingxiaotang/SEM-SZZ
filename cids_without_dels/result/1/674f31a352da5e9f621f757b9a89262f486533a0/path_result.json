@@ -1,0 +1,1 @@
+{"drivers/nvdimm/security.c": [{"patch_file_name": "drivers/nvdimm/security.c", "func_decl_name": "__nvdimm_security_unlock", "is_cond": true, "line_numbers": [179, 180], "line_cids": ["", ""], "line_strs": ["", "\tif (test_bit(NDD_SECURITY_OVERWRITE, &nvdimm->flags)) {"]}]}

@@ -1,0 +1,1 @@
+{"net/tls/tls_sw.c": [{"patch_file_name": "net/tls/tls_sw.c", "func_decl_name": "tls_wait_data", "is_cond": true, "line_numbers": [648, 649], "line_cids": ["", ""], "line_strs": ["", "\t\tif (sock_flag(sk, SOCK_DONE))"]}]}

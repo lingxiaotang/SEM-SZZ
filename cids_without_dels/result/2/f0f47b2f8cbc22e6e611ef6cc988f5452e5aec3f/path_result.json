@@ -1,0 +1,1 @@
+{"drivers/net/ethernet/broadcom/bnxt/bnxt_ethtool.c": [{"patch_file_name": "drivers/net/ethernet/broadcom/bnxt/bnxt_ethtool.c", "func_decl_name": "bnxt_get_regs_len", "is_cond": true, "line_numbers": [1324, 1325], "line_cids": ["", ""], "line_strs": ["", "\treg_len = BNXT_PXP_REG_LEN;"]}]}

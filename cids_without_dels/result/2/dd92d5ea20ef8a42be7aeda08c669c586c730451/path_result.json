@@ -1,0 +1,1 @@
+{"drivers/iio/multiplexer/iio-mux.c": [{"patch_file_name": "drivers/iio/multiplexer/iio-mux.c", "func_decl_name": "mux_configure_channel", "is_cond": true, "line_numbers": [286, 287], "line_cids": ["", ""], "line_strs": ["\t\t\t\t\t     num_ext_info, GFP_KERNEL);", "\tfor (i = 0; i < num_ext_info; ++i) {"]}]}

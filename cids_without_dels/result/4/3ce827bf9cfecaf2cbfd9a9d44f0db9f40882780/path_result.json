@@ -1,0 +1,1 @@
+{"drivers/platform/x86/intel/chtwc_int33fe.c": [{"patch_file_name": "drivers/platform/x86/intel/chtwc_int33fe.c", "func_decl_name": "cht_int33fe_typec_probe", "is_cond": false, "line_numbers": [387, 387], "line_cids": ["", ""], "line_strs": ["\tif (IS_ERR(data->pi3usb30532)) {", "\tif (IS_ERR(data->pi3usb30532)) {"]}]}

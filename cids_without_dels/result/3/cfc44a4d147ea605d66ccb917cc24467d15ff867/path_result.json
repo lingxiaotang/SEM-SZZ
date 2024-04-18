@@ -1,0 +1,1 @@
+{"net/core/net_namespace.c": [{"patch_file_name": "net/core/net_namespace.c", "func_decl_name": "peernet2id_alloc", "is_cond": true, "line_numbers": [221, 222], "line_cids": ["", ""], "line_strs": ["", "\tspin_lock_irqsave(&net->nsid_lock, flags);"]}]}

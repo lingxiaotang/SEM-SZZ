@@ -1,0 +1,1 @@
+{"drivers/net/ethernet/mscc/ocelot_vcap.c": [{"patch_file_name": "drivers/net/ethernet/mscc/ocelot_vcap.c", "func_decl_name": "ocelot_vcap_filter_del", "is_cond": true, "line_numbers": [1267, 1267], "line_cids": ["", ""], "line_strs": ["\tfor (i = index; i < block->count; i++) {", "\tfor (i = index; i < block->count; i++) {"]}]}

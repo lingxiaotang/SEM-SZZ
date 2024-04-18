@@ -1,0 +1,1 @@
+{"net/ipv6/ipv6_sockglue.c": [{"patch_file_name": "net/ipv6/ipv6_sockglue.c", "func_decl_name": "do_ipv6_setsockopt", "is_cond": true, "line_numbers": [421, 422], "line_cids": ["", ""], "line_strs": ["", "\tswitch (optname) {"]}]}

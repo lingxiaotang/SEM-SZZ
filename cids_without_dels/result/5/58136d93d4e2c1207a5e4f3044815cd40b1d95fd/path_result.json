@@ -1,0 +1,1 @@
+{"sound/soc/qcom/qdsp6/q6apm-dai.c": [{"patch_file_name": "sound/soc/qcom/qdsp6/q6apm-dai.c", "func_decl_name": "q6apm_dai_prepare", "is_cond": true, "line_numbers": [149, 150], "line_cids": ["", ""], "line_strs": ["", "\tprtd->pcm_count = snd_pcm_lib_period_bytes(substream);"]}]}

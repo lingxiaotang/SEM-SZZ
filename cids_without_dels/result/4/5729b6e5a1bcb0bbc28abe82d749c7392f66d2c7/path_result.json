@@ -1,0 +1,1 @@
+{"drivers/md/dm-integrity.c": [{"patch_file_name": "drivers/md/dm-integrity.c", "func_decl_name": "dm_integrity_map_continue", "is_cond": true, "line_numbers": [1945, 1946], "line_cids": ["", ""], "line_strs": ["\t\t}", "\t\twait_and_add_new_range(ic, &dio->range);"]}]}

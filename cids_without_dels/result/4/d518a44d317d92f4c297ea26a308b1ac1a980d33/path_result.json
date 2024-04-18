@@ -1,0 +1,1 @@
+{"drivers/infiniband/hw/usnic/usnic_ib_verbs.c": [{"patch_file_name": "drivers/infiniband/hw/usnic/usnic_ib_verbs.c", "func_decl_name": "find_free_vf_and_create_qp_grp", "is_cond": true, "line_numbers": [166, 167], "line_cids": ["", ""], "line_strs": ["\t\tdev_list = usnic_uiom_get_dev_list(pd->umem_pd);", "\t\tfor (i = 0; dev_list[i]; i++) {"]}]}

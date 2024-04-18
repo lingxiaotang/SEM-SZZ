@@ -1,0 +1,1 @@
+{"net/can/j1939/socket.c": [{"patch_file_name": "net/can/j1939/socket.c", "func_decl_name": "j1939_sk_init", "is_cond": false, "line_numbers": [392, 401], "line_cids": ["", ""], "line_strs": ["\tjsk->sk.sk_priority = j1939_to_sk_priority(6);", "\tsk->sk_destruct = j1939_sk_sock_destruct;"]}], "net/can/j1939/main.c": []}

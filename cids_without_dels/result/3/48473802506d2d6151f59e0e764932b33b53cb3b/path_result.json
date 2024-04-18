@@ -1,0 +1,1 @@
+{"drivers/tty/n_gsm.c": [{"patch_file_name": "drivers/tty/n_gsm.c", "func_decl_name": "gsm_dlci_open", "is_cond": true, "line_numbers": [1485, 1486], "line_cids": ["", ""], "line_strs": ["\ttty_register_device(gsm_tty_driver, dlci->addr, NULL);", "\twake_up(&dlci->gsm->event);"]}]}

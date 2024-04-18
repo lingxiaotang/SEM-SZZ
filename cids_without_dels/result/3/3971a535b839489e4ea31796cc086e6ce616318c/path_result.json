@@ -1,0 +1,1 @@
+{"drivers/net/ethernet/mellanox/mlxsw/spectrum_qdisc.c": [{"patch_file_name": "drivers/net/ethernet/mellanox/mlxsw/spectrum_qdisc.c", "func_decl_name": "mlxsw_sp_qdisc_prio_graft", "is_cond": true, "line_numbers": [653, 654], "line_cids": ["", ""], "line_strs": ["", "\t/* See if the grafted qdisc is already offloaded on any tclass. If so,"]}]}

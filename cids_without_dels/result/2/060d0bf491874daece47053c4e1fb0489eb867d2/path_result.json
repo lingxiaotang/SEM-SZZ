@@ -1,0 +1,1 @@
+{"sound/soc/codecs/rt5514-spi.c": [{"patch_file_name": "sound/soc/codecs/rt5514-spi.c", "func_decl_name": "rt5514_spi_pcm_probe", "is_cond": true, "line_numbers": [282, 283], "line_cids": ["", ""], "line_strs": ["\t\t\tGFP_KERNEL);", ""]}]}

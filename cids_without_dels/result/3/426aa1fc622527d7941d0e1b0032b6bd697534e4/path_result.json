@@ -1,0 +1,1 @@
+{"drivers/net/ethernet/mellanox/mlxsw/minimal.c": [{"patch_file_name": "drivers/net/ethernet/mellanox/mlxsw/minimal.c", "func_decl_name": "mlxsw_m_init", "is_cond": true, "line_numbers": [316, 317], "line_cids": ["", ""], "line_strs": ["", "\terr = mlxsw_m_ports_create(mlxsw_m);"]}]}

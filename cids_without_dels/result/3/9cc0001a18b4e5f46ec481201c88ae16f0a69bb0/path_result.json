@@ -1,0 +1,1 @@
+{"net/netfilter/nf_tables_api.c": [{"patch_file_name": "net/netfilter/nf_tables_api.c", "func_decl_name": "nf_tables_updtable", "is_cond": true, "line_numbers": [918, 919], "line_cids": ["", ""], "line_strs": ["", "\ttrans = nft_trans_alloc(ctx, NFT_MSG_NEWTABLE,"]}]}

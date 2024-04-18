@@ -1,0 +1,1 @@
+{"drivers/gpu/drm/i915/gt/uc/intel_guc_capture.c": [{"patch_file_name": "drivers/gpu/drm/i915/gt/uc/intel_guc_capture.c", "func_decl_name": "guc_capture_alloc_one_node", "is_cond": false, "line_numbers": [1040], "line_cids": [""], "line_strs": ["\t\tif (!new->reginfo[i].regs) {"]}]}

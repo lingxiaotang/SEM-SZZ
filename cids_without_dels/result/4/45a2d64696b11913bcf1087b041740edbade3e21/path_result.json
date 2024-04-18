@@ -1,0 +1,1 @@
+{"drivers/char/lp.c": [{"patch_file_name": "drivers/char/lp.c", "func_decl_name": "lp_set_timeout64", "is_cond": true, "line_numbers": [715, 716], "line_cids": ["", ""], "line_strs": ["", "\treturn lp_set_timeout(minor, karg[0], karg[1]);"]}]}

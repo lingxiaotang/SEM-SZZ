@@ -1,0 +1,1 @@
+{"fs/ext4/fsmap.c": [{"patch_file_name": "fs/ext4/fsmap.c", "func_decl_name": "ext4_getfsmap_helper", "is_cond": true, "line_numbers": [110, 111], "line_cids": ["", ""], "line_strs": ["\tif (info->gfi_head->fmh_count == 0) {", "\t\tif (rec_fsblk > info->gfi_next_fsblk)"]}]}

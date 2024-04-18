@@ -1,0 +1,1 @@
+{"drivers/iommu/dmar.c": [{"patch_file_name": "drivers/iommu/dmar.c", "func_decl_name": "dmar_alloc_pci_notify_info", "is_cond": true, "line_numbers": [130, 131], "line_cids": ["", ""], "line_strs": ["", "\t/* Only generate path[] for device addition event */"]}]}

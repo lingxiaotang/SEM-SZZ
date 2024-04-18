@@ -1,0 +1,1 @@
+{"drivers/power/supply/cpcap-battery.c": [{"patch_file_name": "drivers/power/supply/cpcap-battery.c", "func_decl_name": "cpcap_battery_cc_raw_div", "is_cond": true, "line_numbers": [223, 224], "line_cids": ["", ""], "line_strs": ["", "\tsample &= 0xffffff;\t\t/* 24-bits, unsigned */"]}]}

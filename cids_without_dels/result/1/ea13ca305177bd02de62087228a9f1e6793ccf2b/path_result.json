@@ -1,0 +1,1 @@
+{"net/netfilter/nf_flow_table_offload.c": [{"patch_file_name": "net/netfilter/nf_flow_table_offload.c", "func_decl_name": "nf_flow_table_offload_setup", "is_cond": true, "line_numbers": [814, 815], "line_cids": ["", ""], "line_strs": ["", "\tbo.net\t\t= dev_net(dev);"]}]}

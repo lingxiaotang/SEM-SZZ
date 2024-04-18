@@ -1,0 +1,1 @@
+{"net/netfilter/nf_tables_api.c": [{"patch_file_name": "net/netfilter/nf_tables_api.c", "func_decl_name": "nf_tables_commit", "is_cond": false, "line_numbers": [8509, 8509], "line_cids": ["", ""], "line_strs": ["\t\tret = nf_tables_commit_audit_alloc(&adl, trans->ctx.table);", "\t\tret = nf_tables_commit_audit_alloc(&adl, trans->ctx.table);"]}]}

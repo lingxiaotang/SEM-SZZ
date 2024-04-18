@@ -1,0 +1,1 @@
+{"drivers/mmc/host/sdhci-sprd.c": [{"patch_file_name": "drivers/mmc/host/sdhci-sprd.c", "func_decl_name": "sdhci_sprd_probe", "is_cond": false, "line_numbers": [627], "line_cids": [""], "line_strs": ["\tpm_runtime_disable(&pdev->dev);"]}]}

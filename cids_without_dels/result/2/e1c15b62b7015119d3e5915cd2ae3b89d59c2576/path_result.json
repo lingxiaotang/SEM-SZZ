@@ -1,0 +1,1 @@
+{"drivers/net/ethernet/mellanox/mlx5/core/en_main.c": [{"patch_file_name": "drivers/net/ethernet/mellanox/mlx5/core/en_main.c", "func_decl_name": "mlx5e_rx_mpwqe_is_linear_skb", "is_cond": true, "line_numbers": [140, 141], "line_cids": ["", ""], "line_strs": ["", "\tif (MLX5_CAP_GEN(mdev, ext_stride_num_range))"]}]}

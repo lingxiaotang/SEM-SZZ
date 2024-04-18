@@ -1,0 +1,1 @@
+{"net/sctp/input.c": [{"patch_file_name": "net/sctp/input.c", "func_decl_name": "sctp_hash_transport", "is_cond": true, "line_numbers": [884, 885], "line_cids": ["", ""], "line_strs": ["", "\terr = rhltable_insert_key(&sctp_transport_hashtable, &arg,"]}]}

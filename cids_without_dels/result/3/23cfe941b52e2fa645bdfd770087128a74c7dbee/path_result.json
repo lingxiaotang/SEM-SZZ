@@ -1,0 +1,1 @@
+{"net/core/rtnetlink.c": [{"patch_file_name": "net/core/rtnetlink.c", "func_decl_name": "rtnl_offload_xstats_fill", "is_cond": true, "line_numbers": [5244, 5245], "line_cids": ["", ""], "line_strs": ["\t\tsize_l3 = rtnl_offload_xstats_get_size_stats(dev, t_l3);", "\t\tattr = nla_reserve_64bit(skb, attr_id_l3_stats, size_l3,"]}]}

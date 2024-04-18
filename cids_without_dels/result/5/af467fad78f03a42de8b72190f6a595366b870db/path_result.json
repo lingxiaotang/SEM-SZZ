@@ -1,0 +1,1 @@
+{"drivers/mmc/host/sdhci-of-at91.c": [{"patch_file_name": "drivers/mmc/host/sdhci-of-at91.c", "func_decl_name": "sdhci_at91_reset", "is_cond": true, "line_numbers": [128, 129], "line_cids": ["", ""], "line_strs": ["\t\t\t     SDMMC_CALCR);", "\t}"]}]}

@@ -1,0 +1,1 @@
+{"drivers/extcon/extcon-palmas.c": [{"patch_file_name": "drivers/extcon/extcon-palmas.c", "func_decl_name": "palmas_usb_probe", "is_cond": true, "line_numbers": [362, 363], "line_cids": ["", ""], "line_strs": ["\t/* perform initial detection */", "\tpalmas_gpio_id_detect(&palmas_usb->wq_detectid.work);"]}]}

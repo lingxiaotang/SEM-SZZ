@@ -1,0 +1,1 @@
+{"kernel/trace/trace_events_hist.c": [{"patch_file_name": "kernel/trace/trace_events_hist.c", "func_decl_name": "contains_operator", "is_cond": true, "line_numbers": [1557, 1558], "line_cids": ["", ""], "line_strs": ["\tcase '-':", "\t\tif (*str == '-')"]}]}

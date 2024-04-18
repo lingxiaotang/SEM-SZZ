@@ -1,0 +1,1 @@
+{"drivers/net/wireless/quantenna/qtnfmac/pearl/pcie.c": [{"patch_file_name": "drivers/net/wireless/quantenna/qtnfmac/pearl/pcie.c", "func_decl_name": "qtnf_fw_work_handler", "is_cond": true, "line_numbers": [1187, 1188], "line_cids": ["", ""], "line_strs": ["\t\tpr_err(\"card is not ready\\n\");", "\t\tgoto fw_load_fail;"]}]}

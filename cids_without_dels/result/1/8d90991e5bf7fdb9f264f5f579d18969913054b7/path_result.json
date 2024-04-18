@@ -1,0 +1,1 @@
+{"drivers/net/mdio/mdio-mscc-miim.c": [{"patch_file_name": "drivers/net/mdio/mdio-mscc-miim.c", "func_decl_name": "mscc_miim_write", "is_cond": true, "line_numbers": [147, 148], "line_cids": ["", ""], "line_strs": ["", "\tret = mscc_miim_wait_pending(bus);"]}]}

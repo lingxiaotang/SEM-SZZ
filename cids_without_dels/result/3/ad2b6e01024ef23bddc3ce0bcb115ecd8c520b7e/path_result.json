@@ -1,0 +1,1 @@
+{"arch/powerpc/perf/imc-pmu.c": [{"patch_file_name": "arch/powerpc/perf/imc-pmu.c", "func_decl_name": "ppc_nest_imc_cpu_offline", "is_cond": true, "line_numbers": [311, 312], "line_cids": ["", ""], "line_strs": ["", "\t/*"]}]}

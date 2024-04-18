@@ -1,0 +1,1 @@
+{"drivers/block/nbd.c": [{"patch_file_name": "drivers/block/nbd.c", "func_decl_name": "nbd_dev_add", "is_cond": true, "line_numbers": [1753, 1754], "line_cids": ["", ""], "line_strs": ["\tdisk->first_minor = index << part_shift;", "\tdisk->minors = 1 << part_shift;"]}]}

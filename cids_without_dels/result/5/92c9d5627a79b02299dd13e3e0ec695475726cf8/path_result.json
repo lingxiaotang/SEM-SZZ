@@ -1,0 +1,1 @@
+{"drivers/net/phy/phy_device.c": [{"patch_file_name": "drivers/net/phy/phy_device.c", "func_decl_name": "phy_support_sym_pause", "is_cond": false, "line_numbers": [1943], "line_cids": [""], "line_strs": ["\tphydev->supported |= SUPPORTED_Pause;"]}]}

@@ -1,0 +1,1 @@
+{"drivers/mtd/spi-nor/spi-nor.c": [{"patch_file_name": "drivers/mtd/spi-nor/spi-nor.c", "func_decl_name": "spi_nor_sr2_bit1_quad_enable", "is_cond": false, "line_numbers": [2124, 2127], "line_cids": ["", ""], "line_strs": ["\tif (nor->bouncebuf[0] & SR2_QUAD_EN_BIT1)", "\treturn spi_nor_write_16bit_cr_and_check(nor, nor->bouncebuf[0]);"]}]}

@@ -1,0 +1,1 @@
+{"fs/nsfs.c": [{"patch_file_name": "fs/nsfs.c", "func_decl_name": "__ns_get_path", "is_cond": false, "line_numbers": [93, 94], "line_cids": ["", ""], "line_strs": ["\td_instantiate(dentry, inode);", "\tdentry->d_fsdata = (void *)ns->ops;"]}]}

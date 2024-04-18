@@ -1,0 +1,1 @@
+{"drivers/base/power/opp/core.c": [{"patch_file_name": "drivers/base/power/opp/core.c", "func_decl_name": "_opp_set_availability", "is_cond": true, "line_numbers": [1591, 1592], "line_cids": ["", ""], "line_strs": ["", "unlock:"]}]}

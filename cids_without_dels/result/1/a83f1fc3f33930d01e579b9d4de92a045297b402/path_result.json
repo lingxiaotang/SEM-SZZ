@@ -1,0 +1,1 @@
+{"drivers/soc/tegra/pmc.c": [{"patch_file_name": "drivers/soc/tegra/pmc.c", "func_decl_name": "tegra_pmc_probe", "is_cond": true, "line_numbers": [1230, 1231], "line_cids": ["", ""], "line_strs": ["", "\terr = tegra_pmc_parse_dt(pmc, pdev->dev.of_node);"]}]}

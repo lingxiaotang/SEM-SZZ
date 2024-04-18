@@ -1,0 +1,1 @@
+{"drivers/leds/leds-lm36274.c": [{"patch_file_name": "drivers/leds/leds-lm36274.c", "func_decl_name": "lm36274_probe", "is_cond": false, "line_numbers": [122], "line_cids": [""], "line_strs": ["\tret = lm36274_parse_dt(chip, &init_data);"]}]}

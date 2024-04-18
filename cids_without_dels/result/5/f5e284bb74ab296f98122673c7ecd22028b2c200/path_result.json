@@ -1,0 +1,1 @@
+{"drivers/gpu/drm/arm/display/komeda/komeda_plane.c": [{"patch_file_name": "drivers/gpu/drm/arm/display/komeda/komeda_plane.c", "func_decl_name": "komeda_plane_add", "is_cond": true, "line_numbers": [258, 259], "line_cids": ["", ""], "line_strs": ["\t\t\t\t\t       layer->layer_type, &n_formats);", ""]}]}

@@ -1,0 +1,1 @@
+{"tools/power/cpupower/utils/helpers/cpuid.c": [{"patch_file_name": "tools/power/cpupower/utils/helpers/cpuid.c", "func_decl_name": "get_cpu_info", "is_cond": true, "line_numbers": [158, 159], "line_cids": ["", ""], "line_strs": ["\t\t\t\tcpu_info->caps |= CPUPOWER_CAP_HAS_TURBO_RATIO;", "\t\t\tcase 0x2A:\t/* SNB */"]}]}

@@ -1,0 +1,1 @@
+{"drivers/crypto/talitos.c": [{"patch_file_name": "drivers/crypto/talitos.c", "func_decl_name": "ablkcipher_decrypt", "is_cond": true, "line_numbers": [1775, 1776], "line_cids": ["", ""], "line_strs": ["\tstruct talitos_edesc *edesc;", ""]}]}

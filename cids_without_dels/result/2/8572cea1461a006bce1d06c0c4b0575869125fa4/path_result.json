@@ -1,0 +1,1 @@
+{"drivers/net/ethernet/netronome/nfp/flower/main.c": [{"patch_file_name": "drivers/net/ethernet/netronome/nfp/flower/main.c", "func_decl_name": "nfp_flower_spawn_phy_reprs", "is_cond": false, "line_numbers": [509, 510], "line_cids": ["", ""], "line_strs": ["\t\trepr = nfp_repr_alloc(app);", "\t\tif (!repr) {"]}]}

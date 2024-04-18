@@ -1,0 +1,1 @@
+{"drivers/staging/vboxvideo/vbox_mode.c": [{"patch_file_name": "drivers/staging/vboxvideo/vbox_mode.c", "func_decl_name": "vbox_cursor_atomic_update", "is_cond": false, "line_numbers": [420], "line_cids": [""], "line_strs": ["\tmutex_lock(&vbox->hw_mutex);"]}]}

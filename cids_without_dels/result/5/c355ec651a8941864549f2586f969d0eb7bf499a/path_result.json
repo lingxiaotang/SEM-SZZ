@@ -1,0 +1,1 @@
+{"drivers/platform/x86/wmi.c": [{"patch_file_name": "drivers/platform/x86/wmi.c", "func_decl_name": "wmi_dev_match", "is_cond": true, "line_numbers": [770, 771], "line_cids": ["", ""], "line_strs": ["", "\twhile (id->guid_string) {"]}]}

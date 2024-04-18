@@ -1,0 +1,1 @@
+{"sound/soc/qcom/lpass-apq8016.c": [{"patch_file_name": "sound/soc/qcom/lpass-apq8016.c", "func_decl_name": "apq8016_lpass_init", "is_cond": true, "line_numbers": [170, 171], "line_cids": ["", ""], "line_strs": ["\t\t\t\t     sizeof(*drvdata->clks), GFP_KERNEL);", "\tdrvdata->num_clks = variant->num_clks;"]}]}

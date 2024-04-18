@@ -1,0 +1,1 @@
+{"drivers/net/wireless/mediatek/mt76/mt7921/sdio_mcu.c": [{"patch_file_name": "drivers/net/wireless/mediatek/mt76/mt7921/sdio_mcu.c", "func_decl_name": "mt7921s_mcu_fw_pmctrl", "is_cond": true, "line_numbers": [117, 118], "line_cids": ["", ""], "line_strs": ["", "\tsdio_writel(func, WHLPCR_FW_OWN_REQ_SET, MCR_WHLPCR, NULL);"]}]}

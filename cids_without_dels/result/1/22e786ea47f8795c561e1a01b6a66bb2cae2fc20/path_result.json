@@ -1,0 +1,1 @@
+{"drivers/scsi/qla2xxx/qla_gs.c": [{"patch_file_name": "drivers/scsi/qla2xxx/qla_gs.c", "func_decl_name": "qla2x00_async_gpnid_sp_done", "is_cond": true, "line_numbers": [3213, 3214], "line_cids": ["", ""], "line_strs": ["", "\tmemset(&ea, 0, sizeof(ea));"]}]}

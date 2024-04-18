@@ -1,0 +1,1 @@
+{"drivers/mtd/spi-nor/core.c": [{"patch_file_name": "drivers/mtd/spi-nor/core.c", "func_decl_name": "spi_nor_init_erase_cmd_list", "is_cond": true, "line_numbers": [1518, 1519], "line_cids": ["", ""], "line_strs": ["\t\tif (prev_erase != erase ||", "\t\t    region->offset & SNOR_OVERLAID_REGION) {"]}]}

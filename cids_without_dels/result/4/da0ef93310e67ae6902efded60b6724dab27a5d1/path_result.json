@@ -1,0 +1,1 @@
+{"arch/powerpc/mm/book3s64/hash_utils.c": [{"patch_file_name": "arch/powerpc/mm/book3s64/hash_utils.c", "func_decl_name": "hash__setup_initial_memory_limit", "is_cond": false, "line_numbers": [1904], "line_cids": [""], "line_strs": ["\t\tppc64_rma_size = first_memblock_size;"]}]}

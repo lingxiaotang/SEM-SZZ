@@ -1,0 +1,1 @@
+{"drivers/net/ethernet/intel/iavf/iavf_ethtool.c": [{"patch_file_name": "drivers/net/ethernet/intel/iavf/iavf_ethtool.c", "func_decl_name": "iavf_set_channels", "is_cond": true, "line_numbers": [1800, 1801], "line_cids": ["", ""], "line_strs": ["\tiavf_schedule_reset(adapter);", "\treturn 0;"]}]}

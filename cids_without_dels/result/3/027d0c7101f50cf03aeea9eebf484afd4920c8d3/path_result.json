@@ -1,0 +1,1 @@
+{"arch/arm64/mm/hugetlbpage.c": [{"patch_file_name": "arch/arm64/mm/hugetlbpage.c", "func_decl_name": "huge_pte_alloc", "is_cond": true, "line_numbers": [232, 233], "line_cids": ["", ""], "line_strs": ["\t\tpmdp = pmd_alloc(mm, pudp, addr);", ""]}]}

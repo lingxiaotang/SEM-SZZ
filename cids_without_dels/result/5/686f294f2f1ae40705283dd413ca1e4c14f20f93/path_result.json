@@ -1,0 +1,1 @@
+{"virt/kvm/arm/vgic/vgic-its.c": [{"patch_file_name": "virt/kvm/arm/vgic/vgic-its.c", "func_decl_name": "vgic_its_alloc_collection", "is_cond": true, "line_numbers": [823, 824], "line_cids": ["", ""], "line_strs": ["\tcollection = kzalloc(sizeof(*collection), GFP_KERNEL);", ""]}]}

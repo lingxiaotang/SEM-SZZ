@@ -1,0 +1,1 @@
+{"drivers/iio/adc/ti-adc128s052.c": [{"patch_file_name": "drivers/iio/adc/ti-adc128s052.c", "func_decl_name": "adc128_probe", "is_cond": true, "line_numbers": [173, 174], "line_cids": ["", ""], "line_strs": ["\tret = iio_device_register(indio_dev);", ""]}]}

@@ -1,0 +1,1 @@
+{"drivers/dma/ti/dma-crossbar.c": [{"patch_file_name": "drivers/dma/ti/dma-crossbar.c", "func_decl_name": "ti_dra7_xbar_route_allocate", "is_cond": false, "line_numbers": [252, 253], "line_cids": ["", ""], "line_strs": ["\tdma_spec->np = of_parse_phandle(ofdma->of_node, \"dma-masters\", 0);", "\tif (!dma_spec->np) {"]}]}

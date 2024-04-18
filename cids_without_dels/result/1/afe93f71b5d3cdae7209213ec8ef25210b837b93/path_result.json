@@ -1,0 +1,1 @@
+{"drivers/net/ethernet/mellanox/mlx5/core/en_tc.c": [{"patch_file_name": "drivers/net/ethernet/mellanox/mlx5/core/en_tc.c", "func_decl_name": "__parse_cls_flower", "is_cond": true, "line_numbers": [2147, 2148], "line_cids": ["", ""], "line_strs": ["\t\t    match.mask->vlan_tpid) {", "\t\t\tif (match.key->vlan_tpid == htons(ETH_P_8021AD)) {"]}]}

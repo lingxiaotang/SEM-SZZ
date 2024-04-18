@@ -1,0 +1,1 @@
+{"drivers/net/ethernet/intel/i40e/i40e_xsk.c": [{"patch_file_name": "drivers/net/ethernet/intel/i40e/i40e_xsk.c", "func_decl_name": "i40e_xsk_umem_disable", "is_cond": true, "line_numbers": [159, 160], "line_cids": ["", ""], "line_strs": ["\t\t\treturn err;", "\t}"]}]}

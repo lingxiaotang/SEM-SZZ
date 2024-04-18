@@ -1,0 +1,1 @@
+{"drivers/clk/hisilicon/clk-hi3660-stub.c": [{"patch_file_name": "drivers/clk/hisilicon/clk-hi3660-stub.c", "func_decl_name": "hi3660_stub_clk_probe", "is_cond": true, "line_numbers": [151, 152], "line_cids": ["", ""], "line_strs": ["\tres = platform_get_resource(pdev, IORESOURCE_MEM, 0);", "\tfreq_reg = devm_ioremap(dev, res->start, resource_size(res));"]}]}

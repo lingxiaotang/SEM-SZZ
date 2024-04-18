@@ -1,0 +1,1 @@
+{"drivers/gpu/drm/vmwgfx/vmwgfx_execbuf.c": [{"patch_file_name": "drivers/gpu/drm/vmwgfx/vmwgfx_execbuf.c", "func_decl_name": "vmw_cmd_dx_view_define", "is_cond": true, "line_numbers": [2429, 2430], "line_cids": ["", ""], "line_strs": ["\tcmd = container_of(header, typeof(*cmd), header);", "\tret = vmw_cmd_res_check(dev_priv, sw_context, vmw_res_surface,"]}]}

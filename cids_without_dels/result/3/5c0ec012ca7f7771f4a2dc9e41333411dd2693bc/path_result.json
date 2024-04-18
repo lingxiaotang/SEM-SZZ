@@ -1,0 +1,1 @@
+{"drivers/net/wireless/ath/ath11k/core.c": [{"patch_file_name": "drivers/net/wireless/ath/ath11k/core.c", "func_decl_name": "ath11k_core_get_rproc", "is_cond": true, "line_numbers": [850, 851], "line_cids": ["", ""], "line_strs": ["", "\tif (ab->bus_params.mhi_support)"]}]}

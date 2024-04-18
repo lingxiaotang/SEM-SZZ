@@ -1,0 +1,1 @@
+{"net/xdp/xsk.c": [{"patch_file_name": "net/xdp/xsk.c", "func_decl_name": "xsk_generic_rcv", "is_cond": true, "line_numbers": [120, 121], "line_cids": ["", ""], "line_strs": ["", "\tif (!xskq_peek_addr(xs->umem->fq, &addr) ||"]}]}

@@ -1,0 +1,1 @@
+{"drivers/net/ethernet/broadcom/bnxt/bnxt.c": [{"patch_file_name": "drivers/net/ethernet/broadcom/bnxt/bnxt.c", "func_decl_name": "bnxt_reinit_after_abort", "is_cond": true, "line_numbers": [9892, 9893], "line_cids": ["", ""], "line_strs": ["", "\trc = bnxt_fw_init_one(bp);"]}]}

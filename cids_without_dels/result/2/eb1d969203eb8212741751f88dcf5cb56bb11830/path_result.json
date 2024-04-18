@@ -1,0 +1,1 @@
+{"drivers/media/test-drivers/vivid/vivid-vid-cap.c": [{"patch_file_name": "drivers/media/test-drivers/vivid/vivid-vid-cap.c", "func_decl_name": "vivid_update_format_cap", "is_cond": true, "line_numbers": [468, 469], "line_cids": ["", ""], "line_strs": ["\ttpg_update_mv_step(&dev->tpg);", "\tdims[0] = roundup(dev->src_rect.width, PIXEL_ARRAY_DIV);"]}]}

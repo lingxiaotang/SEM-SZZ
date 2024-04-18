@@ -1,0 +1,1 @@
+{"drivers/firmware/turris-mox-rwtm.c": [{"patch_file_name": "drivers/firmware/turris-mox-rwtm.c", "func_decl_name": "turris_mox_rwtm_probe", "is_cond": true, "line_numbers": [506, 506], "line_cids": ["", ""], "line_strs": ["\tif (ret < 0) {", "\tif (ret < 0) {"]}]}

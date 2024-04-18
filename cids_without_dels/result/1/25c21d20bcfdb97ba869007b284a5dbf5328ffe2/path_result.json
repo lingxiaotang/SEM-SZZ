@@ -1,0 +1,1 @@
+{"drivers/scsi/aacraid/commctrl.c": [{"patch_file_name": "drivers/scsi/aacraid/commctrl.c", "func_decl_name": "aac_send_raw_srb", "is_cond": false, "line_numbers": [518, 518], "line_cids": ["", ""], "line_strs": ["\t\trcode = PTR_ERR(user_srbcmd);", "\t\trcode = PTR_ERR(user_srbcmd);"]}]}

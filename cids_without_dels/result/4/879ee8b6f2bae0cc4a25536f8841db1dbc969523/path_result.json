@@ -1,0 +1,1 @@
+{"sound/soc/intel/boards/kbl_rt5663_rt5514_max98927.c": [{"patch_file_name": "sound/soc/intel/boards/kbl_rt5663_rt5514_max98927.c", "func_decl_name": "kabylake_set_bias_level", "is_cond": true, "line_numbers": [702, 703], "line_cids": ["", ""], "line_strs": ["\t\tif (dapm->bias_level == SND_SOC_BIAS_ON) {", "\t\t\tdev_dbg(card->dev, \"Disable mclk\");"]}]}

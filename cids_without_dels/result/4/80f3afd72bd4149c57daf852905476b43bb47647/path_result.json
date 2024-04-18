@@ -1,0 +1,1 @@
+{"drivers/misc/fastrpc.c": [{"patch_file_name": "drivers/misc/fastrpc.c", "func_decl_name": "fastrpc_get_args", "is_cond": true, "line_numbers": [681, 681], "line_cids": ["", ""], "line_strs": ["\t\tif (ctx->maps[i]) {", "\t\tif (ctx->maps[i]) {"]}]}

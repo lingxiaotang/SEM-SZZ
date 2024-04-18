@@ -1,0 +1,1 @@
+{"net/sched/act_ife.c": [{"patch_file_name": "net/sched/act_ife.c", "func_decl_name": "tcf_ife_init", "is_cond": true, "line_numbers": [483, 484], "line_cids": ["", ""], "line_strs": ["", "\terr = nla_parse_nested_deprecated(tb, TCA_IFE_MAX, nla, ife_policy,"]}]}

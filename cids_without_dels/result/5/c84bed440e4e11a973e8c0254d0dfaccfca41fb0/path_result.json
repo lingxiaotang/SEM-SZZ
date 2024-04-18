@@ -1,0 +1,1 @@
+{"net/ipv4/ip_gre.c": [{"patch_file_name": "net/ipv4/ip_gre.c", "func_decl_name": "erspan_tunnel_init", "is_cond": false, "line_numbers": [1256, 1258], "line_cids": ["", ""], "line_strs": ["\tdev->priv_flags\t\t|= IFF_LIVE_ADDR_CHANGE;", "\treturn ip_tunnel_init(dev);"]}]}

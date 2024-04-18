@@ -1,0 +1,1 @@
+{"drivers/net/ethernet/netronome/nfp/flower/action.c": [{"patch_file_name": "drivers/net/ethernet/netronome/nfp/flower/action.c", "func_decl_name": "nfp_flower_loop_action", "is_cond": true, "line_numbers": [748, 749], "line_cids": ["", ""], "line_strs": ["", "\t\t/* Pre-tunnel action is required for tunnel encap."]}]}

@@ -1,0 +1,1 @@
+{"crypto/ecdh_helper.c": [{"patch_file_name": "crypto/ecdh_helper.c", "func_decl_name": "crypto_ecdh_decode_key", "is_cond": true, "line_numbers": [69, 70], "line_cids": ["", ""], "line_strs": ["", "\tptr = ecdh_unpack_data(&params->curve_id, ptr, sizeof(params->curve_id));"]}]}

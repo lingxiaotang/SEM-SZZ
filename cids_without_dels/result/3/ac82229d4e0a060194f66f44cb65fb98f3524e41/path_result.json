@@ -1,0 +1,1 @@
+{"drivers/mtd/spi-nor/spi-nor.c": [{"patch_file_name": "drivers/mtd/spi-nor/spi-nor.c", "func_decl_name": "spi_nor_check", "is_cond": true, "line_numbers": [2880, 2881], "line_cids": ["", ""], "line_strs": ["\tif (!nor->dev ||", "\t    (!nor->spimem && nor->controller_ops &&"]}]}

@@ -1,0 +1,1 @@
+{"arch/powerpc/mm/hugetlbpage.c": [{"patch_file_name": "arch/powerpc/mm/hugetlbpage.c", "func_decl_name": "huge_pte_alloc", "is_cond": true, "line_numbers": [173, 174], "line_cids": ["", ""], "line_strs": ["\tif (hugepd_none(*hpdp) && __hugepte_alloc(mm, hpdp, addr,", "\t\t\t\t\t\t  pdshift, pshift, ptl))"]}]}

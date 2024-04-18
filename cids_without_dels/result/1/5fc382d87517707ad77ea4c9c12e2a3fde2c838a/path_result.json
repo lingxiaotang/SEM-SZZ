@@ -1,0 +1,1 @@
+{"net/sctp/socket.c": [{"patch_file_name": "net/sctp/socket.c", "func_decl_name": "sctp_transport_walk_start", "is_cond": false, "line_numbers": [4394, 4396], "line_cids": ["", ""], "line_strs": ["\terr = rhashtable_walk_start(iter);", "\t\trhashtable_walk_exit(iter);"]}]}

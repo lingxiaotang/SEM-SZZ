@@ -1,0 +1,1 @@
+{"drivers/gpu/drm/i915/gem/i915_gem_mman.c": [{"patch_file_name": "drivers/gpu/drm/i915/gem/i915_gem_mman.c", "func_decl_name": "i915_gem_mmap", "is_cond": true, "line_numbers": [749, 750], "line_cids": ["", ""], "line_strs": ["", "\tvma->vm_flags |= VM_PFNMAP | VM_DONTEXPAND | VM_DONTDUMP;"]}]}

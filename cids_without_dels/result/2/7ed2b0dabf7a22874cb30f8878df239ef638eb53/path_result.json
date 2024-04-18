@@ -1,0 +1,1 @@
+{"drivers/gpu/drm/bridge/adv7511/adv7511_drv.c": [{"patch_file_name": "drivers/gpu/drm/bridge/adv7511/adv7511_drv.c", "func_decl_name": "adv7511_probe", "is_cond": false, "line_numbers": [1314, 1316], "line_cids": ["", ""], "line_strs": ["\tdrm_bridge_remove(&adv7511->bridge);", "\ti2c_unregister_device(adv7511->i2c_cec);"]}]}

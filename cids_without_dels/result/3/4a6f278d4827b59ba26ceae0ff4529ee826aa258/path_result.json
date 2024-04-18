@@ -1,0 +1,1 @@
+{"fs/fuse/file.c": [{"patch_file_name": "fs/fuse/file.c", "func_decl_name": "fuse_file_fallocate", "is_cond": true, "line_numbers": [3003, 3004], "line_cids": ["", ""], "line_strs": ["", "\tif (!(mode & FALLOC_FL_KEEP_SIZE))"]}]}

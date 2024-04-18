@@ -1,0 +1,1 @@
+{"drivers/crypto/vmx/aes_xts.c": [{"patch_file_name": "drivers/crypto/vmx/aes_xts.c", "func_decl_name": "p8_aes_xts_crypt", "is_cond": true, "line_numbers": [86, 87], "line_cids": ["", ""], "line_strs": ["", "\tif (!crypto_simd_usable() || (req->cryptlen % XTS_BLOCK_SIZE) != 0) {"]}]}

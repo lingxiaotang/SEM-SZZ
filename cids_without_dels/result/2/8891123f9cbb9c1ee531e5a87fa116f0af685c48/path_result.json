@@ -1,0 +1,1 @@
+{"drivers/base/swnode.c": [{"patch_file_name": "drivers/base/swnode.c", "func_decl_name": "software_node_register", "is_cond": true, "line_numbers": [940, 941], "line_cids": ["", ""], "line_strs": ["", "\treturn PTR_ERR_OR_ZERO(swnode_register(node, parent, 0));"]}]}

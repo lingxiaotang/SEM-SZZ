@@ -1,0 +1,1 @@
+{"drivers/net/usb/r8152.c": [{"patch_file_name": "drivers/net/usb/r8152.c", "func_decl_name": "rtl8152_set_wol", "is_cond": true, "line_numbers": [4508, 4509], "line_cids": ["", ""], "line_strs": ["", "\tret = usb_autopm_get_interface(tp->intf);"]}]}

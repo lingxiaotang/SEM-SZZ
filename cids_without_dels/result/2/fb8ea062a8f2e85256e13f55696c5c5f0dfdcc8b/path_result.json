@@ -1,0 +1,1 @@
+{"arch/metag/lib/usercopy.c": [{"patch_file_name": "arch/metag/lib/usercopy.c", "func_decl_name": "__copy_user", "is_cond": true, "line_numbers": [540, 541], "line_cids": ["", ""], "line_strs": ["\t\tn--;", "\t}"]}]}

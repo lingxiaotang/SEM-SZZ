@@ -1,0 +1,1 @@
+{"fs/ksmbd/smb2pdu.c": [{"patch_file_name": "fs/ksmbd/smb2pdu.c", "func_decl_name": "smb2_tree_disconnect", "is_cond": false, "line_numbers": [2044, 2058], "line_cids": ["", ""], "line_strs": ["\tinc_rfc1001_len(work->response_buf, 4);", "\tksmbd_close_tree_conn_fds(work);"]}]}

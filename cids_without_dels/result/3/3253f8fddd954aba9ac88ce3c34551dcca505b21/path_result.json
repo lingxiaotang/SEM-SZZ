@@ -1,0 +1,1 @@
+{"drivers/net/wireless/mediatek/mt76/mt7615/mcu.c": [{"patch_file_name": "drivers/net/wireless/mediatek/mt76/mt7615/mcu.c", "func_decl_name": "mt7615_mcu_rx_csa_notify", "is_cond": true, "line_numbers": [413, 414], "line_cids": ["", ""], "line_strs": ["", "\tif (ext_phy && ext_phy->omac_mask & BIT_ULL(c->omac_idx))"]}]}

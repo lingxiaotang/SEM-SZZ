@@ -1,0 +1,1 @@
+{"kernel/events/core.c": [{"patch_file_name": "kernel/events/core.c", "func_decl_name": "find_get_context", "is_cond": false, "line_numbers": [4611, 4612], "line_cids": ["", ""], "line_strs": ["\t\tget_ctx(ctx);", "\t\t++ctx->pin_count;"]}]}

@@ -1,0 +1,1 @@
+{"net/can/isotp.c": [{"patch_file_name": "net/can/isotp.c", "func_decl_name": "isotp_recvmsg", "is_cond": true, "line_numbers": [1054, 1055], "line_cids": ["", ""], "line_strs": ["", "\tskb = skb_recv_datagram(sk, flags, noblock, &err);"]}]}

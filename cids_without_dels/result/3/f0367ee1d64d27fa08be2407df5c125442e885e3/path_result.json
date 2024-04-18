@@ -1,0 +1,1 @@
+{"arch/x86/kvm/x86.c": [{"patch_file_name": "arch/x86/kvm/x86.c", "func_decl_name": "emulator_get_segment", "is_cond": true, "line_numbers": [5069, 5070], "line_cids": ["", ""], "line_strs": ["\t\tmemset(desc, 0, sizeof(*desc));", "\t\treturn false;"]}]}

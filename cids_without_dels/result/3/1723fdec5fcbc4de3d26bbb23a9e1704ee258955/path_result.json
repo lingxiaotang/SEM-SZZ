@@ -1,0 +1,1 @@
+{"drivers/spi/spi.c": [{"patch_file_name": "drivers/spi/spi.c", "func_decl_name": "spi_get_gpio_descs", "is_cond": true, "line_numbers": [2199, 2200], "line_cids": ["", ""], "line_strs": ["\t\t\t\t\t\t      GPIOD_OUT_LOW);", ""]}]}

@@ -1,0 +1,1 @@
+{"drivers/clk/clk-aspeed.c": [{"patch_file_name": "drivers/clk/clk-aspeed.c", "func_decl_name": "aspeed_clk_is_enabled", "is_cond": true, "line_numbers": [217, 218], "line_cids": ["", ""], "line_strs": ["", "\tregmap_read(gate->map, ASPEED_CLK_STOP_CTRL, &reg);"]}]}

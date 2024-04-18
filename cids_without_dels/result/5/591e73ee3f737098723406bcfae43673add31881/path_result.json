@@ -1,0 +1,1 @@
+{"net/mac80211/main.c": [{"patch_file_name": "net/mac80211/main.c", "func_decl_name": "ieee80211_link_info_change_notify", "is_cond": true, "line_numbers": [283, 284], "line_cids": ["", ""], "line_strs": ["", "\tdrv_link_info_changed(local, sdata, link_id, changed);"]}]}

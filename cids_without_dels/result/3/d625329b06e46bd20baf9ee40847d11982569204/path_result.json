@@ -1,0 +1,1 @@
+{"net/sctp/ipv6.c": [{"patch_file_name": "net/sctp/ipv6.c", "func_decl_name": "sctp_inet6_cmp_addr", "is_cond": true, "line_numbers": [897, 898], "line_cids": ["", ""], "line_strs": ["", "\treturn __sctp_v6_cmp_addr(addr1, addr2);"]}]}

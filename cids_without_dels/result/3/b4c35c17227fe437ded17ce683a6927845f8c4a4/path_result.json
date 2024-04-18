@@ -1,0 +1,1 @@
+{"drivers/net/wireless/marvell/mwifiex/cfp.c": [{"patch_file_name": "drivers/net/wireless/marvell/mwifiex/cfp.c", "func_decl_name": "mwifiex_adjust_data_rate", "is_cond": true, "line_numbers": [533, 534], "line_cids": ["", ""], "line_strs": ["", "\treturn rate_index;"]}]}

@@ -1,0 +1,1 @@
+{"net/mac80211/offchannel.c": [{"patch_file_name": "net/mac80211/offchannel.c", "func_decl_name": "ieee80211_sw_roc_work", "is_cond": false, "line_numbers": [360], "line_cids": [""], "line_strs": ["\t\tieee80211_recalc_idle(local);"]}]}

@@ -1,0 +1,1 @@
+{"drivers/media/i2c/adv748x/adv748x-hdmi.c": [{"patch_file_name": "drivers/media/i2c/adv748x/adv748x-hdmi.c", "func_decl_name": "adv748x_hdmi_fill_format", "is_cond": true, "line_numbers": [107, 108], "line_cids": ["", ""], "line_strs": ["\tfmt->height = hdmi->timings.bt.height;", "}"]}]}

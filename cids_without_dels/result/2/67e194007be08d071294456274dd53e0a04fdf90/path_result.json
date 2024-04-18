@@ -1,0 +1,1 @@
+{"net/ipv6/ip6_fib.c": [{"patch_file_name": "net/ipv6/ip6_fib.c", "func_decl_name": "fib6_add_rt2node", "is_cond": true, "line_numbers": [925, 926], "line_cids": ["", ""], "line_strs": ["\t\t\twhile (iter) {", "\t\t\t\tif (rt6_qualify_for_ecmp(iter)) {"]}]}

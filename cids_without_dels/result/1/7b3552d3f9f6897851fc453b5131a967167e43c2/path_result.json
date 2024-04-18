@@ -1,0 +1,1 @@
+{"kernel/bpf/verifier.c": [{"patch_file_name": "kernel/bpf/verifier.c", "func_decl_name": "check_helper_mem_access", "is_cond": true, "line_numbers": [4863, 4864], "line_cids": ["", ""], "line_strs": ["\tcase PTR_TO_MAP_KEY:", "\t\treturn check_mem_region_access(env, regno, reg->off, access_size,"]}]}

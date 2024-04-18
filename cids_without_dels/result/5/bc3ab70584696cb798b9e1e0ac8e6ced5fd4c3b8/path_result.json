@@ -1,0 +1,1 @@
+{"drivers/s390/net/qeth_l3_main.c": [{"patch_file_name": "drivers/s390/net/qeth_l3_main.c", "func_decl_name": "qeth_l3_add_mc_to_hash", "is_cond": true, "line_numbers": [1373, 1373], "line_cids": ["", ""], "line_strs": ["\tfor (im4 = rcu_dereference(in4_dev->mc_list); im4 != NULL;", "\tfor (im4 = rcu_dereference(in4_dev->mc_list); im4 != NULL;"]}]}

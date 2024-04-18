@@ -1,0 +1,1 @@
+{"fs/read_write.c": [{"patch_file_name": "fs/read_write.c", "func_decl_name": "do_sendfile", "is_cond": true, "line_numbers": [1265, 1266], "line_cids": ["", ""], "line_strs": ["\t} else {", "\t\tretval = splice_file_to_pipe(in.file, opipe, &pos, count, fl);"]}]}

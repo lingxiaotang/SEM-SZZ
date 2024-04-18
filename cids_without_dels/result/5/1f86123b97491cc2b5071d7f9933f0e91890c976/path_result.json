@@ -1,0 +1,1 @@
+{"net/core/sock.c": [{"patch_file_name": "net/core/sock.c", "func_decl_name": "sock_setsockopt", "is_cond": true, "line_numbers": [1317, 1318], "line_cids": ["", ""], "line_strs": ["\tcase SO_RCVMARK:", "\t\tsock_valbool_flag(sk, SOCK_RCVMARK, valbool);"]}]}

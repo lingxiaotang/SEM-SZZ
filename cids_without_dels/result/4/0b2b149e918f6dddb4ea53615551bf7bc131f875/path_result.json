@@ -1,0 +1,1 @@
+{"drivers/usb/dwc3/dwc3-imx8mp.c": [{"patch_file_name": "drivers/usb/dwc3/dwc3-imx8mp.c", "func_decl_name": "dwc3_imx8mp_probe", "is_cond": false, "line_numbers": [164, 165], "line_cids": ["", ""], "line_strs": ["\terr = pm_runtime_get_sync(dev);", "\tif (err < 0)"]}]}

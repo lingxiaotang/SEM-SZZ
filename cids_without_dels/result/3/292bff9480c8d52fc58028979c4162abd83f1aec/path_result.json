@@ -1,0 +1,1 @@
+{"drivers/net/wireless/ath/ath11k/wmi.c": [{"patch_file_name": "drivers/net/wireless/ath/ath11k/wmi.c", "func_decl_name": "ath11k_wmi_set_hw_mode", "is_cond": true, "line_numbers": [3462, 3463], "line_cids": ["", ""], "line_strs": ["\tskb = ath11k_wmi_alloc_skb(wmi_ab, len);", "\tcmd = (struct wmi_pdev_set_hw_mode_cmd_param *)skb->data;"]}]}

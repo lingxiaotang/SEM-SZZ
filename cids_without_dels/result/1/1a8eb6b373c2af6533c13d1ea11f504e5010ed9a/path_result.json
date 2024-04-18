@@ -1,0 +1,1 @@
+{"drivers/mmc/host/sdhci-pci-core.c": [{"patch_file_name": "drivers/mmc/host/sdhci-pci-core.c", "func_decl_name": "intel_select_drive_strength", "is_cond": true, "line_numbers": [603, 604], "line_cids": ["", ""], "line_strs": ["", "\treturn intel_host->drv_strength;"]}]}

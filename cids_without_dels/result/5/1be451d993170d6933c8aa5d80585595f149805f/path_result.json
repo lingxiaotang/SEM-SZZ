@@ -1,0 +1,1 @@
+{"net/xfrm/xfrm_input.c": [{"patch_file_name": "net/xfrm/xfrm_input.c", "func_decl_name": "xfrm_prepare_input", "is_cond": true, "line_numbers": [378, 379], "line_cids": ["", ""], "line_strs": ["\t\tskb->protocol = htons(ETH_P_IPV6);", "\tdefault:"]}]}

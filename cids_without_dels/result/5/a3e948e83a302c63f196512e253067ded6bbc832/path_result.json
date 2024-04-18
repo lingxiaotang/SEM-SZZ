@@ -1,0 +1,1 @@
+{"net/mpls/af_mpls.c": [{"patch_file_name": "net/mpls/af_mpls.c", "func_decl_name": "mpls_nh_assign_dev", "is_cond": true, "line_numbers": [536, 537], "line_cids": ["", ""], "line_strs": ["", "\tRCU_INIT_POINTER(nh->nh_dev, dev);"]}]}

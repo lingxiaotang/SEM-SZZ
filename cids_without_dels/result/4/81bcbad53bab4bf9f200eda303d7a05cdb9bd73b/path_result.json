@@ -1,0 +1,1 @@
+{"drivers/hid/hid-multitouch.c": [{"patch_file_name": "drivers/hid/hid-multitouch.c", "func_decl_name": "mt_store_field", "is_cond": true, "line_numbers": [643, 644], "line_cids": ["", ""], "line_strs": ["\t    *target != DEFAULT_ZERO) {", "\t\tusage = mt_allocate_usage(hdev, application);"]}]}

@@ -1,0 +1,1 @@
+{"drivers/net/wireless/intel/iwlwifi/mvm/led.c": [{"patch_file_name": "drivers/net/wireless/intel/iwlwifi/mvm/led.c", "func_decl_name": "iwl_mvm_leds_init", "is_cond": true, "line_numbers": [131, 132], "line_cids": ["", ""], "line_strs": ["\t\t\t\t   wiphy_name(mvm->hw->wiphy));", "\tmvm->led.brightness_set = iwl_led_brightness_set;"]}]}

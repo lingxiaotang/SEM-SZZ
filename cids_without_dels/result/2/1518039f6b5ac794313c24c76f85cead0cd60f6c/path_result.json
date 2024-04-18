@@ -1,0 +1,1 @@
+{"net/ipv6/addrconf.c": [{"patch_file_name": "net/ipv6/addrconf.c", "func_decl_name": "inet6_dump_addr", "is_cond": true, "line_numbers": [5122, 5123], "line_cids": ["", ""], "line_strs": ["\t\t\t\t\t\t     &fillargs);", "\t\t\t}"]}]}

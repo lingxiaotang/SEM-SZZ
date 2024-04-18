@@ -1,0 +1,1 @@
+{"drivers/cpufreq/qcom-cpufreq-kryo.c": [{"patch_file_name": "drivers/cpufreq/qcom-cpufreq-kryo.c", "func_decl_name": "qcom_cpufreq_kryo_probe", "is_cond": true, "line_numbers": [117, 118], "line_cids": ["", ""], "line_strs": ["\tnvmem_cell_put(speedbin_nvmem);", ""]}]}

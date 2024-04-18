@@ -1,0 +1,1 @@
+{"drivers/gpu/drm/sun4i/sun4i_tcon.c": [{"patch_file_name": "drivers/gpu/drm/sun4i/sun4i_tcon.c", "func_decl_name": "sun4i_tcon_find_engine", "is_cond": true, "line_numbers": [475, 476], "line_cids": ["", ""], "line_strs": ["", "\tfor_each_available_child_of_node(port, ep) {"]}]}

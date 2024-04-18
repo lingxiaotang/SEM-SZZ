@@ -1,0 +1,1 @@
+{"drivers/mmc/host/mmci_stm32_sdmmc.c": [{"patch_file_name": "drivers/mmc/host/mmci_stm32_sdmmc.c", "func_decl_name": "sdmmc_idma_finalize", "is_cond": true, "line_numbers": [190, 191], "line_cids": ["", ""], "line_strs": ["\twritel_relaxed(0, host->base + MMCI_STM32_IDMACTRLR);", "}"]}]}

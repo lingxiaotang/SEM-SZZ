@@ -1,0 +1,1 @@
+{"drivers/ntb/hw/amd/ntb_hw_amd.c": [{"patch_file_name": "drivers/ntb/hw/amd/ntb_hw_amd.c", "func_decl_name": "amd_ntb_init_pci", "is_cond": false, "line_numbers": [1205, 1207], "line_cids": ["", ""], "line_strs": ["\tpci_clear_master(pdev);", "\tpci_disable_device(pdev);"]}]}

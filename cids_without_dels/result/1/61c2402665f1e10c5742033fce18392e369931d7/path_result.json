@@ -1,0 +1,1 @@
+{"net/sched/sch_fq_pie.c": [{"patch_file_name": "net/sched/sch_fq_pie.c", "func_decl_name": "fq_pie_destroy", "is_cond": false, "line_numbers": [533, 534], "line_cids": ["", ""], "line_strs": ["\ttcf_block_put(q->block);", "\tdel_timer_sync(&q->adapt_timer);"]}]}

@@ -1,0 +1,1 @@
+{"drivers/net/wireless/intel/iwlwifi/mei/main.c": [{"patch_file_name": "drivers/net/wireless/intel/iwlwifi/mei/main.c", "func_decl_name": "iwl_mei_handle_sap_data", "is_cond": true, "line_numbers": [1022, 1023], "line_cids": ["", ""], "line_strs": ["\t\tskb = netdev_alloc_skb(netdev, len + QOS_HDR_IV_SNAP_LEN);", ""]}]}

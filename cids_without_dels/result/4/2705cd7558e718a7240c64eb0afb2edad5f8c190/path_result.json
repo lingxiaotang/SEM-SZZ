@@ -1,0 +1,1 @@
+{"drivers/net/wireless/ath/ath9k/htc_hst.c": [{"patch_file_name": "drivers/net/wireless/ath/ath9k/htc_hst.c", "func_decl_name": "ath9k_htc_txcompletion_cb", "is_cond": true, "line_numbers": [341, 342], "line_cids": ["", ""], "line_strs": ["\t\thtc_hdr = (struct htc_frame_hdr *) skb->data;", "\t\tendpoint = &htc_handle->endpoint[htc_hdr->endpoint_id];"]}]}

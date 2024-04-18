@@ -1,0 +1,1 @@
+{"drivers/net/bonding/bond_main.c": [{"patch_file_name": "drivers/net/bonding/bond_main.c", "func_decl_name": "bond_handle_frame", "is_cond": false, "line_numbers": [1189, 1190], "line_cids": ["", ""], "line_strs": ["\t\t\tnskb->dev = bond->dev;", "\t\t\tnetif_rx(nskb);"]}]}

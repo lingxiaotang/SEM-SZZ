@@ -1,0 +1,1 @@
+{"sound/core/pcm_native.c": [{"patch_file_name": "sound/core/pcm_native.c", "func_decl_name": "snd_pcm_mmap_data_fault", "is_cond": true, "line_numbers": [3677, 3678], "line_cids": ["", ""], "line_strs": ["\t\tpage = substream->ops->page(substream, offset);", "\telse"]}]}

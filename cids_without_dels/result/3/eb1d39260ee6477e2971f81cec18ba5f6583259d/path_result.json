@@ -1,0 +1,1 @@
+{"drivers/acpi/pci_root.c": [{"patch_file_name": "drivers/acpi/pci_root.c", "func_decl_name": "acpi_get_pci_dev", "is_cond": false, "line_numbers": [325, 326], "line_cids": ["", ""], "line_strs": ["\t\tif (dev_is_pci(pn->dev)) {", "\t\t\tpci_dev = to_pci_dev(pn->dev);"]}]}

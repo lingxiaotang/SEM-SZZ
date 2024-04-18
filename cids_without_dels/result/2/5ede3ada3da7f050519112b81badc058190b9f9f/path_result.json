@@ -1,0 +1,1 @@
+{"drivers/net/ethernet/hisilicon/hns/hns_ethtool.c": [{"patch_file_name": "drivers/net/ethernet/hisilicon/hns/hns_ethtool.c", "func_decl_name": "__lb_other_process", "is_cond": true, "line_numbers": [417, 418], "line_cids": ["", ""], "line_strs": ["\tdev_kfree_skb_any(skb);", "\tskb = new_skb;"]}]}

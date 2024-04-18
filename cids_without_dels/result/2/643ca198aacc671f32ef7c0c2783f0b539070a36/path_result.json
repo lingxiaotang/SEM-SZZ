@@ -1,0 +1,1 @@
+{"drivers/gpu/drm/rcar-du/rcar_lvds.c": [{"patch_file_name": "drivers/gpu/drm/rcar-du/rcar_lvds.c", "func_decl_name": "rcar_lvds_connector_atomic_check", "is_cond": true, "line_numbers": [90, 91], "line_cids": ["", ""], "line_strs": ["", "\tif (list_empty(&connector->modes)) {"]}]}

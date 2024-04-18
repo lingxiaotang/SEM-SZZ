@@ -1,0 +1,1 @@
+{"fs/ubifs/dir.c": [{"patch_file_name": "fs/ubifs/dir.c", "func_decl_name": "ubifs_lookup", "is_cond": true, "line_numbers": [230, 231], "line_cids": ["", ""], "line_strs": ["\t\tubifs_assert(c, fname_name(&nm) == NULL);", "\t\tdent_key_init_hash(c, &key, dir->i_ino, nm.hash);"]}]}

@@ -1,0 +1,1 @@
+{"sound/soc/soc-dapm.c": [{"patch_file_name": "sound/soc/soc-dapm.c", "func_decl_name": "snd_soc_dapm_new_pcm", "is_cond": false, "line_numbers": [3888, 3931], "line_cids": ["", ""], "line_strs": ["\ttemplate.kcontrol_news = NULL;", "\tret = snd_soc_dapm_add_path(&card->dapm, source, w, NULL, NULL);"]}]}

@@ -1,0 +1,1 @@
+{"net/tipc/bcast.c": [{"patch_file_name": "net/tipc/bcast.c", "func_decl_name": "tipc_mcast_filter_msg", "is_cond": true, "line_numbers": [771, 772], "line_cids": ["", ""], "line_strs": ["\tskb = skb_peek(inputq);", "\thdr = buf_msg(skb);"]}]}

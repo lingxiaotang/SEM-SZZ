@@ -1,0 +1,1 @@
+{"kernel/trace/ring_buffer.c": [{"patch_file_name": "kernel/trace/ring_buffer.c", "func_decl_name": "ring_buffer_reset", "is_cond": false, "line_numbers": [5231], "line_cids": [""], "line_strs": ["\tfor_each_buffer_cpu(buffer, cpu) {"]}]}

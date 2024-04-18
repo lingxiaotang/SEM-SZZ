@@ -1,0 +1,1 @@
+{"drivers/media/usb/zr364xx/zr364xx.c": [{"patch_file_name": "drivers/media/usb/zr364xx/zr364xx.c", "func_decl_name": "zr364xx_start_readpipe", "is_cond": false, "line_numbers": [1033, 1033], "line_cids": ["", ""], "line_strs": ["\tretval = usb_submit_urb(pipe_info->stream_urb, GFP_KERNEL);", "\tretval = usb_submit_urb(pipe_info->stream_urb, GFP_KERNEL);"]}]}

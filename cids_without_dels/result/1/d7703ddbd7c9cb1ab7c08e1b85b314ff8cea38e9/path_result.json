@@ -1,0 +1,1 @@
+{"drivers/net/ethernet/amazon/ena/ena_netdev.c": [{"patch_file_name": "drivers/net/ethernet/amazon/ena/ena_netdev.c", "func_decl_name": "ena_restore_device", "is_cond": false, "line_numbers": [2622], "line_cids": [""], "line_strs": ["\tena_com_admin_destroy(ena_dev);"]}]}

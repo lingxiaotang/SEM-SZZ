@@ -1,0 +1,1 @@
+{"drivers/net/ethernet/hisilicon/hns3/hns3pf/hclge_mdio.c": [{"patch_file_name": "drivers/net/ethernet/hisilicon/hns3/hns3pf/hclge_mdio.c", "func_decl_name": "hclge_mac_start_phy", "is_cond": false, "line_numbers": [190, 198], "line_cids": ["", ""], "line_strs": ["\tret = phy_connect_direct(netdev, phydev,", "\tphy_start(phydev);"]}]}

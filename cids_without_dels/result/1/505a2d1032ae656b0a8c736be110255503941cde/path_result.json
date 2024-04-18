@@ -1,0 +1,1 @@
+{"drivers/dma/idxd/sysfs.c": [{"patch_file_name": "drivers/dma/idxd/sysfs.c", "func_decl_name": "wq_max_transfer_size_store", "is_cond": true, "line_numbers": [907, 908], "line_cids": ["", ""], "line_strs": ["", "\tif (wq->state != IDXD_WQ_DISABLED)"]}]}

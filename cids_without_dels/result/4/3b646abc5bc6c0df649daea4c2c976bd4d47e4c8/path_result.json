@@ -1,0 +1,1 @@
+{"security/apparmor/lsm.c": [{"patch_file_name": "security/apparmor/lsm.c", "func_decl_name": "apparmor_sk_clone_security", "is_cond": true, "line_numbers": [806, 807], "line_cids": ["", ""], "line_strs": ["", "\tnew->label = aa_get_label(ctx->label);"]}]}

@@ -1,0 +1,1 @@
+{"drivers/gpu/drm/i915/gt/selftest_workarounds.c": [{"patch_file_name": "drivers/gpu/drm/i915/gt/selftest_workarounds.c", "func_decl_name": "check_dirty_whitelist", "is_cond": false, "line_numbers": [634], "line_cids": [""], "line_strs": ["\t\t\t\texpect = reg_write(expect, values[v], rsvd);"]}]}

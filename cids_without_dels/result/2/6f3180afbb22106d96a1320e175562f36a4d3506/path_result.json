@@ -1,0 +1,1 @@
+{"drivers/vhost/vhost.c": [{"patch_file_name": "drivers/vhost/vhost.c", "func_decl_name": "vhost_process_iotlb_msg", "is_cond": true, "line_numbers": [1017, 1018], "line_cids": ["", ""], "line_strs": ["\tcase VHOST_IOTLB_INVALIDATE:", "\t\tvhost_vq_meta_reset(dev);"]}]}

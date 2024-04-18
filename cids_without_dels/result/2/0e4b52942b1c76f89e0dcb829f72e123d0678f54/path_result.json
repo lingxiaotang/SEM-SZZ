@@ -1,0 +1,1 @@
+{"drivers/char/hw_random/core.c": [{"patch_file_name": "drivers/char/hw_random/core.c", "func_decl_name": "enable_best_rng", "is_cond": false, "line_numbers": [297, 311], "line_cids": ["", ""], "line_strs": ["\tint ret = -ENODEV;", "\treturn ret;"]}]}

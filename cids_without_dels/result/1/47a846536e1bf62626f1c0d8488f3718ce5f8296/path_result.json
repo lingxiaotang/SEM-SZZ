@@ -1,0 +1,1 @@
+{"block/keyslot-manager.c": [{"patch_file_name": "block/keyslot-manager.c", "func_decl_name": "blk_ksm_init", "is_cond": true, "line_numbers": [105, 106], "line_cids": ["", ""], "line_strs": ["\tslot_hashtable_size = roundup_pow_of_two(num_slots);", "\tksm->log_slot_ht_size = ilog2(slot_hashtable_size);"]}]}

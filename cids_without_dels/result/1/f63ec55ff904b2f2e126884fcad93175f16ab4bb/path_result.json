@@ -1,0 +1,1 @@
+{"drivers/usb/gadget/function/f_fs.c": [{"patch_file_name": "drivers/usb/gadget/function/f_fs.c", "func_decl_name": "ffs_epfile_io", "is_cond": false, "line_numbers": [1116, 1118], "line_cids": ["", ""], "line_strs": ["\t\tio_data->ffs = epfile->ffs;", "\t\treq->context  = io_data;"]}]}

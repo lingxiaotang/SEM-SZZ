@@ -1,0 +1,1 @@
+{"net/bpfilter/bpfilter_kern.c": [{"patch_file_name": "net/bpfilter/bpfilter_kern.c", "func_decl_name": "__bpfilter_process_sockopt", "is_cond": false, "line_numbers": [40, 51], "line_cids": ["", ""], "line_strs": ["\tloff_t pos;", "\tn = kernel_write(bpfilter_ops.info.pipe_to_umh, &req, sizeof(req),"]}]}

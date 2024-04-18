@@ -1,0 +1,1 @@
+{"arch/powerpc/perf/core-book3s.c": [{"patch_file_name": "arch/powerpc/perf/core-book3s.c", "func_decl_name": "is_sier_available", "is_cond": true, "line_numbers": [139, 140], "line_cids": ["", ""], "line_strs": ["{", "\tif (ppmu->flags & PPMU_HAS_SIER)"]}]}

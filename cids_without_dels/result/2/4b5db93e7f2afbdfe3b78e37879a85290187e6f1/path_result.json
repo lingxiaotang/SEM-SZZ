@@ -1,0 +1,1 @@
+{"net/nfc/llcp_sock.c": [{"patch_file_name": "net/nfc/llcp_sock.c", "func_decl_name": "llcp_sock_connect", "is_cond": true, "line_numbers": [675, 676], "line_cids": ["", ""], "line_strs": ["\t}", ""]}]}

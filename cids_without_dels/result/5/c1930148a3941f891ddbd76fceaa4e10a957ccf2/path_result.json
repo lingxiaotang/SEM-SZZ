@@ -1,0 +1,1 @@
+{"drivers/net/ethernet/mscc/ocelot.c": [{"patch_file_name": "drivers/net/ethernet/mscc/ocelot.c", "func_decl_name": "ocelot_apply_bridge_fwd_mask", "is_cond": true, "line_numbers": [1318, 1318], "line_cids": ["", ""], "line_strs": ["\tfor (port = 0; port < ocelot->num_phys_ports; port++) {", "\tfor (port = 0; port < ocelot->num_phys_ports; port++) {"]}]}

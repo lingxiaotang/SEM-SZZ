@@ -1,0 +1,1 @@
+{"sound/soc/tegra/tegra210_adx.c": [{"patch_file_name": "sound/soc/tegra/tegra210_adx.c", "func_decl_name": "tegra210_adx_put_byte_map", "is_cond": true, "line_numbers": [195, 196], "line_cids": ["", ""], "line_strs": ["", "\tif (value >= 0 && value <= 255) {"]}]}

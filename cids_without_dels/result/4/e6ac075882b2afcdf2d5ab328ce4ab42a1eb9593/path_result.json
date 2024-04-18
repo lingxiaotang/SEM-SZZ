@@ -1,0 +1,1 @@
+{"drivers/net/macsec.c": [{"patch_file_name": "drivers/net/macsec.c", "func_decl_name": "macsec_notify", "is_cond": true, "line_numbers": [3492, 3493], "line_cids": ["", ""], "line_strs": ["\tswitch (event) {", "\tcase NETDEV_UNREGISTER: {"]}]}

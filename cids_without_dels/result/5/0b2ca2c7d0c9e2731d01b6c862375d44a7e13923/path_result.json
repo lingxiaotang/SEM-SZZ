@@ -1,0 +1,1 @@
+{"arch/s390/pci/pci_event.c": [{"patch_file_name": "arch/s390/pci/pci_event.c", "func_decl_name": "__zpci_event_availability", "is_cond": true, "line_numbers": [103, 104], "line_cids": ["", ""], "line_strs": ["", "\t\tpdev = pci_scan_single_device(zdev->zbus->bus, zdev->devfn);"]}]}

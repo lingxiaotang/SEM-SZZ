@@ -1,0 +1,1 @@
+{"drivers/mmc/host/mxs-mmc.c": [{"patch_file_name": "drivers/mmc/host/mxs-mmc.c", "func_decl_name": "mxs_mmc_probe", "is_cond": true, "line_numbers": [593, 594], "line_cids": ["", ""], "line_strs": ["\t\t}", "\t}"]}]}

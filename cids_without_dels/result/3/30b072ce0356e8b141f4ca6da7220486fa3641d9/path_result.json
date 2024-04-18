@@ -1,0 +1,1 @@
+{"arch/x86/kvm/mtrr.c": [{"patch_file_name": "arch/x86/kvm/mtrr.c", "func_decl_name": "mtrr_lookup_var_start", "is_cond": false, "line_numbers": [541, 542], "line_cids": ["", ""], "line_strs": ["\titer->start_max = iter->start;", "\titer->range = list_prepare_entry(iter->range, &mtrr_state->head, node);"]}]}

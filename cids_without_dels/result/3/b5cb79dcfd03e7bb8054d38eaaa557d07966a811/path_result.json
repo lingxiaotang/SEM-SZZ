@@ -1,0 +1,1 @@
+{"fs/erofs/fscache.c": [{"patch_file_name": "fs/erofs/fscache.c", "func_decl_name": "erofs_fscache_alloc_request", "is_cond": false, "line_numbers": [19, 20], "line_cids": ["", ""], "line_strs": ["\trreq->mapping\t= mapping;", "\tINIT_LIST_HEAD(&rreq->subrequests);"]}]}

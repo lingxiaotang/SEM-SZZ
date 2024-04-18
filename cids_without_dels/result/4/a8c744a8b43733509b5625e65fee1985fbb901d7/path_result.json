@@ -1,0 +1,1 @@
+{"net/ipv6/udp.c": [{"patch_file_name": "net/ipv6/udp.c", "func_decl_name": "udp_v6_send_skb", "is_cond": true, "line_numbers": [1053, 1054], "line_cids": ["", ""], "line_strs": ["\t\t\treturn -EINVAL;", "\t\tif (skb->ip_summed != CHECKSUM_PARTIAL || is_udplite)"]}]}

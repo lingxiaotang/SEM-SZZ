@@ -1,0 +1,1 @@
+{"kernel/bpf/stackmap.c": [{"patch_file_name": "kernel/bpf/stackmap.c", "func_decl_name": "stack_map_alloc", "is_cond": true, "line_numbers": [117, 118], "line_cids": ["", ""], "line_strs": ["\tn_buckets = roundup_pow_of_two(attr->max_entries);", ""]}]}

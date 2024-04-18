@@ -1,0 +1,1 @@
+{"net/netfilter/nf_tables_api.c": [{"patch_file_name": "net/netfilter/nf_tables_api.c", "func_decl_name": "nft_flush_set", "is_cond": false, "line_numbers": [3905, 3910], "line_cids": ["", ""], "line_strs": ["\tif (!set->ops->deactivate_one(ctx->net, set, elem->priv)) {", "\tnft_trans_elem_set(trans) = set;"]}]}

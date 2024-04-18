@@ -1,0 +1,1 @@
+{"fs/ubifs/tnc.c": [{"patch_file_name": "fs/ubifs/tnc.c", "func_decl_name": "ubifs_tnc_remove_ino", "is_cond": true, "line_numbers": [2789, 2789], "line_cids": ["", ""], "line_strs": ["\twhile (1) {", "\twhile (1) {"]}], "fs/ubifs/xattr.c": []}

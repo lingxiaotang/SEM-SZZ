@@ -1,0 +1,1 @@
+{"drivers/net/wan/hdlc_ppp.c": [{"patch_file_name": "drivers/net/wan/hdlc_ppp.c", "func_decl_name": "ppp_timer", "is_cond": true, "line_numbers": [571, 572], "line_cids": ["", ""], "line_strs": ["\tspin_lock_irqsave(&ppp->lock, flags);", "\tswitch (proto->state) {"]}]}

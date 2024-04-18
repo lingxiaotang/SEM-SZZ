@@ -1,0 +1,1 @@
+{"drivers/net/ethernet/hisilicon/hns3/hns3pf/hclge_main.c": [{"patch_file_name": "drivers/net/ethernet/hisilicon/hns3/hns3pf/hclge_main.c", "func_decl_name": "hclge_set_vf_link_state", "is_cond": true, "line_numbers": [3378, 3379], "line_cids": ["", ""], "line_strs": ["", "\tret = hclge_push_vf_link_status(vport);"]}]}

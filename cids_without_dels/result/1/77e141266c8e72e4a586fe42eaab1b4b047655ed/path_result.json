@@ -1,0 +1,1 @@
+{"drivers/pinctrl/intel/pinctrl-intel.c": [{"patch_file_name": "drivers/pinctrl/intel/pinctrl-intel.c", "func_decl_name": "intel_pinctrl_add_padgroups_by_size", "is_cond": true, "line_numbers": [1394, 1396], "line_cids": ["", ""], "line_strs": ["\t\tnpins -= gpps[i].size;", "\t\tgpps[i].padown_num = padown_num;"]}]}

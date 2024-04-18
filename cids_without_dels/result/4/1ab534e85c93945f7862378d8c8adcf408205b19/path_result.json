@@ -1,0 +1,1 @@
+{"arch/x86/kernel/cpu/intel.c": [{"patch_file_name": "arch/x86/kernel/cpu/intel.c", "func_decl_name": "bad_spectre_microcode", "is_cond": true, "line_numbers": [152, 153], "line_cids": ["", ""], "line_strs": ["", "\tfor (i = 0; i < ARRAY_SIZE(spectre_bad_microcodes); i++) {"]}]}

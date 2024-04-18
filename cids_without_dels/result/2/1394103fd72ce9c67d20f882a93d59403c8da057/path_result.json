@@ -1,0 +1,1 @@
+{"drivers/vdpa/vdpa_user/vduse_dev.c": [{"patch_file_name": "drivers/vdpa/vdpa_user/vduse_dev.c", "func_decl_name": "vduse_dev_ioctl", "is_cond": true, "line_numbers": [968, 969], "line_cids": ["", ""], "line_strs": ["\tcase VDUSE_DEV_INJECT_CONFIG_IRQ:", "\t\tret = 0;"]}]}

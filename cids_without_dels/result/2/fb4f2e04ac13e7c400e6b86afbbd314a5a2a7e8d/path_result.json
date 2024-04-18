@@ -1,0 +1,1 @@
+{"drivers/tty/serial/stm32-usart.c": [{"patch_file_name": "drivers/tty/serial/stm32-usart.c", "func_decl_name": "stm32_usart_tx_dma_complete", "is_cond": false, "line_numbers": [292, 296], "line_cids": ["", ""], "line_strs": ["\tstruct stm32_port *stm32port = to_stm32_port(port);", "\tstm32port->tx_dma_busy = false;"]}]}

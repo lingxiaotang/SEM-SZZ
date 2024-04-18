@@ -1,0 +1,1 @@
+{"drivers/power/reset/mt6323-poweroff.c": [{"patch_file_name": "drivers/power/reset/mt6323-poweroff.c", "func_decl_name": "mt6323_pwrc_probe", "is_cond": true, "line_numbers": [59, 60], "line_cids": ["", ""], "line_strs": ["\tres = platform_get_resource(pdev, IORESOURCE_MEM, 0);", "\tpwrc->base = res->start;"]}]}

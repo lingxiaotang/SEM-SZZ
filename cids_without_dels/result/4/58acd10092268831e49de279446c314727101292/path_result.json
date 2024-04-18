@@ -1,0 +1,1 @@
+{"net/sctp/auth.c": [{"patch_file_name": "net/sctp/auth.c", "func_decl_name": "sctp_auth_set_key", "is_cond": true, "line_numbers": [862, 863], "line_cids": ["", ""], "line_strs": ["\t\tsctp_auth_shkey_release(shkey);", "\t}"]}]}

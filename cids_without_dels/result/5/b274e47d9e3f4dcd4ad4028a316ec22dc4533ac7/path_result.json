@@ -1,0 +1,1 @@
+{"drivers/net/gtp.c": [{"patch_file_name": "drivers/net/gtp.c", "func_decl_name": "gtp_genl_fill_info", "is_cond": true, "line_numbers": [1181, 1182], "line_cids": ["", ""], "line_strs": ["\tif (nla_put_u32(skb, GTPA_VERSION, pctx->gtp_version) ||", "\t    nla_put_be32(skb, GTPA_PEER_ADDRESS, pctx->peer_addr_ip4.s_addr) ||"]}]}

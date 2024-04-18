@@ -1,0 +1,1 @@
+{"net/wireless/nl80211.c": [{"patch_file_name": "net/wireless/nl80211.c", "func_decl_name": "nl80211_authenticate", "is_cond": true, "line_numbers": [10412, 10413], "line_cids": ["", ""], "line_strs": ["\tif (req.link_id >= 0) {", "\t\tif (!info->attrs[NL80211_ATTR_MLD_ADDR])"]}]}

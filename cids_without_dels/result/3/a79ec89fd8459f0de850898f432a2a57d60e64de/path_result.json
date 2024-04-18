@@ -1,0 +1,1 @@
+{"kernel/sched/deadline.c": [{"patch_file_name": "kernel/sched/deadline.c", "func_decl_name": "dl_task_timer", "is_cond": true, "line_numbers": [537, 538], "line_cids": ["", ""], "line_strs": ["\tupdate_rq_clock(rq);", "\tenqueue_task_dl(rq, p, ENQUEUE_REPLENISH);"]}]}

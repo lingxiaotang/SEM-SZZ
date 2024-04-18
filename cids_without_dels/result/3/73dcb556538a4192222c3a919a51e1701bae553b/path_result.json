@@ -1,0 +1,1 @@
+{"net/dsa/slave.c": [{"patch_file_name": "net/dsa/slave.c", "func_decl_name": "dsa_slave_create", "is_cond": false, "line_numbers": [1204, 1207], "line_cids": ["", ""], "line_strs": ["\tret = dsa_slave_phy_setup(p, slave_dev);", "\t\tfree_netdev(slave_dev);"]}]}

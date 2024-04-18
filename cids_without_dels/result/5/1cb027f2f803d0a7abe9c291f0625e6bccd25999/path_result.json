@@ -1,0 +1,1 @@
+{"drivers/bluetooth/virtio_bt.c": [{"patch_file_name": "drivers/bluetooth/virtio_bt.c", "func_decl_name": "virtbt_add_inbuf", "is_cond": true, "line_numbers": [36, 37], "line_cids": ["", ""], "line_strs": ["\tskb = alloc_skb(1000, GFP_KERNEL);", "\tsg_init_one(sg, skb->data, 1000);"]}]}

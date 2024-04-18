@@ -1,0 +1,1 @@
+{"drivers/net/ethernet/stmicro/stmmac/stmmac_pci.c": [{"patch_file_name": "drivers/net/ethernet/stmicro/stmmac/stmmac_pci.c", "func_decl_name": "stmmac_pci_remove", "is_cond": true, "line_numbers": [302, 303], "line_cids": ["", ""], "line_strs": ["\tstmmac_dvr_remove(&pdev->dev);", "\tpci_disable_device(pdev);"]}]}

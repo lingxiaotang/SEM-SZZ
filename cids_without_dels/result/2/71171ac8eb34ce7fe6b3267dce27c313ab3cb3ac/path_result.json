@@ -1,0 +1,1 @@
+{"net/ax25/af_ax25.c": [{"patch_file_name": "net/ax25/af_ax25.c", "func_decl_name": "ax25_kill_by_device", "is_cond": true, "line_numbers": [89, 90], "line_cids": ["", ""], "line_strs": ["\t\t\tsk = s->sk;", "\t\t\tsock_hold(sk);"]}]}

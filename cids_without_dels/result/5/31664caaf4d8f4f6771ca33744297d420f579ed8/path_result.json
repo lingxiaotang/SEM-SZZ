@@ -1,0 +1,1 @@
+{"drivers/iio/light/noa1305.c": [{"patch_file_name": "drivers/iio/light/noa1305.c", "func_decl_name": "noa1305_scale", "is_cond": true, "line_numbers": [87, 88], "line_cids": ["", ""], "line_strs": ["\t\t*val2 = 77 * 4;", "\tcase NOA1305_INTEGR_TIME_200MS:"]}]}

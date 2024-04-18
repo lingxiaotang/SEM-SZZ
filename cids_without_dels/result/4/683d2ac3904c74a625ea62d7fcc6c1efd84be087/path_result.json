@@ -1,0 +1,1 @@
+{"kernel/bpf/sockmap.c": [{"patch_file_name": "kernel/bpf/sockmap.c", "func_decl_name": "sock_hash_alloc", "is_cond": true, "line_numbers": [1992, 1993], "line_cids": ["", ""], "line_strs": ["", "\terr = bpf_tcp_ulp_register();"]}]}

@@ -1,0 +1,1 @@
+{"drivers/bus/ti-sysc.c": [{"patch_file_name": "drivers/bus/ti-sysc.c", "func_decl_name": "sysc_init_soc", "is_cond": true, "line_numbers": [2957, 2958], "line_cids": ["", ""], "line_strs": ["\t\t\tsysc_add_disabled(0x48310000);  /* rng */", "\t\tdefault:"]}]}

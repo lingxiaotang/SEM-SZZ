@@ -1,0 +1,1 @@
+{"drivers/scsi/hisi_sas/hisi_sas_v2_hw.c": [{"patch_file_name": "drivers/scsi/hisi_sas/hisi_sas_v2_hw.c", "func_decl_name": "slot_err_v2_hw", "is_cond": true, "line_numbers": [1711, 1712], "line_cids": ["", ""], "line_strs": ["\t\t\tts->open_rej_reason = SAS_OREJ_NO_DEST;", "\t\t}"]}]}

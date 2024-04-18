@@ -1,0 +1,1 @@
+{"net/core/skbuff.c": [{"patch_file_name": "net/core/skbuff.c", "func_decl_name": "skb_send_sock_locked", "is_cond": true, "line_numbers": [2332, 2332], "line_cids": ["", ""], "line_strs": ["\twhile (offset < skb_headlen(skb) && len) {", "\twhile (offset < skb_headlen(skb) && len) {"]}]}

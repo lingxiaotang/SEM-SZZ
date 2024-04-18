@@ -1,0 +1,1 @@
+{"drivers/mtd/nand/raw/arasan-nand-controller.c": [{"patch_file_name": "drivers/mtd/nand/raw/arasan-nand-controller.c", "func_decl_name": "anfc_setup_interface", "is_cond": true, "line_numbers": [975, 976], "line_cids": ["", ""], "line_strs": ["\t\t\treturn PTR_ERR(nvddr);", "\t} else {"]}]}

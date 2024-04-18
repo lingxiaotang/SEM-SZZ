@@ -1,0 +1,1 @@
+{"drivers/soc/bcm/bcm63xx/bcm-pmb.c": [{"patch_file_name": "drivers/soc/bcm/bcm63xx/bcm-pmb.c", "func_decl_name": "bcm_pmb_probe", "is_cond": true, "line_numbers": [314, 315], "line_cids": ["", ""], "line_strs": ["", "\t\tpd->pmb = pmb;"]}]}

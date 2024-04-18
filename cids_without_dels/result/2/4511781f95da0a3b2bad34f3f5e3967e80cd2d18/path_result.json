@@ -1,0 +1,1 @@
+{"sound/usb/clock.c": [{"patch_file_name": "sound/usb/clock.c", "func_decl_name": "__uac_clock_find_source", "is_cond": true, "line_numbers": [326, 327], "line_cids": ["", ""], "line_strs": ["\t\tif (ret > 0) {", "\t\t\terr = uac_clock_selector_set_val(chip, entity_id, cur);"]}]}

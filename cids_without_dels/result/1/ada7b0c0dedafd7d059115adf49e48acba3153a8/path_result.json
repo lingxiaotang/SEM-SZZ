@@ -1,0 +1,1 @@
+{"drivers/iio/adc/adi-axi-adc.c": [{"patch_file_name": "drivers/iio/adc/adi-axi-adc.c", "func_decl_name": "adi_axi_adc_attach_client", "is_cond": false, "line_numbers": [308, 309], "line_cids": ["", ""], "line_strs": ["\tcln = of_parse_phandle(dev->of_node, \"adi,adc-dev\", 0);", "\tif (!cln) {"]}]}

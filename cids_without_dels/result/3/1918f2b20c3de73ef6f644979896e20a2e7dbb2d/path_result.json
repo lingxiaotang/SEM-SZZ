@@ -1,0 +1,1 @@
+{"drivers/s390/crypto/vfio_ap_ops.c": [{"patch_file_name": "drivers/s390/crypto/vfio_ap_ops.c", "func_decl_name": "unassign_control_domain_store", "is_cond": true, "line_numbers": [1380, 1381], "line_cids": ["", ""], "line_strs": ["", "\tclear_bit_inv(domid, matrix_mdev->matrix.adm);"]}]}

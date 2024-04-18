@@ -1,0 +1,1 @@
+{"sound/soc/soc-pcm.c": [{"patch_file_name": "sound/soc/soc-pcm.c", "func_decl_name": "dpcm_runtime_base_format", "is_cond": true, "line_numbers": [1696, 1697], "line_cids": ["", ""], "line_strs": ["\t\tfor (i = 0; i < be->num_codecs; i++) {", "\t\t\tcodec_dai_drv = be->codec_dais[i]->driver;"]}]}

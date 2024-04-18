@@ -1,0 +1,1 @@
+{"net/nfc/nci/core.c": [{"patch_file_name": "net/nfc/nci/core.c", "func_decl_name": "nci_close_device", "is_cond": false, "line_numbers": [562, 563], "line_cids": ["", ""], "line_strs": ["\tif (!test_and_clear_bit(NCI_UP, &ndev->flags)) {", "\t\tdel_timer_sync(&ndev->cmd_timer);"]}]}

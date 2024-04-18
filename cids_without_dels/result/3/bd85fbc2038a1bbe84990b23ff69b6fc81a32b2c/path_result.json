@@ -1,0 +1,1 @@
+{"drivers/net/ethernet/mellanox/mlx4/mr.c": [{"patch_file_name": "drivers/net/ethernet/mellanox/mlx4/mr.c", "func_decl_name": "mlx4_mr_hw_write_mpt", "is_cond": false, "line_numbers": [370], "line_cids": [""], "line_strs": ["\t\tmmr->pd = be32_to_cpu((*mpt_entry)->pd_flags) & MLX4_MPT_PD_MASK;"]}]}

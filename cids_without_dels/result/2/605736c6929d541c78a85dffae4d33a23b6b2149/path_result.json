@@ -1,0 +1,1 @@
+{"tools/power/x86/turbostat/turbostat.c": [{"patch_file_name": "tools/power/x86/turbostat/turbostat.c", "func_decl_name": "snapshot_cpu_lpi_us", "is_cond": false, "line_numbers": [2917, 2917], "line_cids": ["", ""], "line_strs": ["\tretval = fscanf(fp, \"%lld\", &cpuidle_cur_cpu_lpi_us);", "\tretval = fscanf(fp, \"%lld\", &cpuidle_cur_cpu_lpi_us);"]}]}

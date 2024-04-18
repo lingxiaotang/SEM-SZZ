@@ -1,0 +1,1 @@
+{"drivers/pci/controller/pci-hyperv.c": [{"patch_file_name": "drivers/pci/controller/pci-hyperv.c", "func_decl_name": "pci_devices_present_work", "is_cond": true, "line_numbers": [1775, 1775], "line_cids": ["", ""], "line_strs": ["\twhile (!list_empty(&removed)) {", "\twhile (!list_empty(&removed)) {"]}]}

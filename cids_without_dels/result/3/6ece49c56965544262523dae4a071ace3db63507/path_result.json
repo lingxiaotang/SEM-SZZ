@@ -1,0 +1,1 @@
+{"drivers/spi/spi-amd.c": [{"patch_file_name": "drivers/spi/spi-amd.c", "func_decl_name": "amd_spi_probe", "is_cond": false, "line_numbers": [304, 307], "line_cids": ["", ""], "line_strs": ["\tmaster->transfer_one_message = amd_spi_master_transfer;", "\terr = devm_spi_register_master(dev, master);"]}]}

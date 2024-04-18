@@ -1,0 +1,1 @@
+{"mm/damon/dbgfs.c": [{"patch_file_name": "mm/damon/dbgfs.c", "func_decl_name": "dbgfs_rm_context", "is_cond": true, "line_numbers": [907, 908], "line_cids": ["", ""], "line_strs": ["", "\tnew_dirs = kmalloc_array(dbgfs_nr_ctxs - 1, sizeof(*dbgfs_dirs),"]}]}

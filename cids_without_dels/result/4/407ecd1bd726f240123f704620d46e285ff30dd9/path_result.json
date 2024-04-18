@@ -1,0 +1,1 @@
+{"drivers/net/ethernet/sfc/ef100_nic.c": [{"patch_file_name": "drivers/net/ethernet/sfc/ef100_nic.c", "func_decl_name": "ef100_update_stats", "is_cond": true, "line_numbers": [611, 612], "line_cids": ["", ""], "line_strs": ["", "\tefx_nic_copy_stats(efx, mc_stats);"]}]}

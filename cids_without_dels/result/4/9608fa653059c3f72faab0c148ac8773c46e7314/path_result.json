@@ -1,0 +1,1 @@
+{"net/sched/act_mpls.c": [{"patch_file_name": "net/sched/act_mpls.c", "func_decl_name": "tcf_mpls_act", "is_cond": true, "line_numbers": [107, 108], "line_cids": ["", ""], "line_strs": ["\tcase TCA_MPLS_ACT_MODIFY:", "\t\tnew_lse = tcf_mpls_get_lse(mpls_hdr(skb), p, false);"]}]}

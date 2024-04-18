@@ -1,0 +1,1 @@
+{"drivers/gpu/drm/amd/amdgpu/amdgpu_gmc.c": [{"patch_file_name": "drivers/gpu/drm/amd/amdgpu/amdgpu_gmc.c", "func_decl_name": "amdgpu_gmc_get_vbios_allocations", "is_cond": true, "line_numbers": [657, 657], "line_cids": ["", ""], "line_strs": ["\t\tbreak;", "\t\tbreak;"]}]}

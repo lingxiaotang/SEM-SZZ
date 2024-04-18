@@ -1,0 +1,1 @@
+{"net/netfilter/nft_set_pipapo.c": [{"patch_file_name": "net/netfilter/nft_set_pipapo.c", "func_decl_name": "pipapo_clone", "is_cond": true, "line_numbers": [1292, 1293], "line_cids": ["", ""], "line_strs": ["#endif", ""]}]}

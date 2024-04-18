@@ -1,0 +1,1 @@
+{"drivers/net/ethernet/mellanox/mlx5/core/fs_core.c": [{"patch_file_name": "drivers/net/ethernet/mellanox/mlx5/core/fs_core.c", "func_decl_name": "add_rule_fg", "is_cond": false, "line_numbers": [1264, 1266], "line_cids": ["", ""], "line_strs": ["\thandle = add_rule_fte(fte, fg, dest, dest_num, false);", "\t\tkfree(fte);"]}]}

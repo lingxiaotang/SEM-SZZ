@@ -1,0 +1,1 @@
+{"drivers/scsi/qla2xxx/qla_os.c": [{"patch_file_name": "drivers/scsi/qla2xxx/qla_os.c", "func_decl_name": "qla2xxx_eh_abort", "is_cond": true, "line_numbers": [1336, 1337], "line_cids": ["", ""], "line_strs": ["\t\tbreak;", "\tdefault:"]}]}

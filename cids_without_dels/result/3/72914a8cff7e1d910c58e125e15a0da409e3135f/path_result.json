@@ -1,0 +1,1 @@
+{"drivers/mtd/chips/cfi_cmdset_0002.c": [{"patch_file_name": "drivers/mtd/chips/cfi_cmdset_0002.c", "func_decl_name": "cfi_check_err_status", "is_cond": true, "line_numbers": [138, 139], "line_cids": ["", ""], "line_strs": ["", "\tif (map_word_bitsset(map, status, CMD(0x3a))) {"]}]}

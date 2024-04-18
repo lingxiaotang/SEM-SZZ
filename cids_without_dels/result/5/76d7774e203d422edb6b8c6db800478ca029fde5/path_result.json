@@ -1,0 +1,1 @@
+{"drivers/net/ethernet/aquantia/atlantic/aq_ptp.c": [{"patch_file_name": "drivers/net/ethernet/aquantia/atlantic/aq_ptp.c", "func_decl_name": "aq_ptp_poll", "is_cond": true, "line_numbers": [688, 688], "line_cids": ["", ""], "line_strs": ["\tif (err < 0)", "\tif (err < 0)"]}]}

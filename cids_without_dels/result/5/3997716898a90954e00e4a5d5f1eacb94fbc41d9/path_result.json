@@ -1,0 +1,1 @@
+{"drivers/media/platform/rcar-vin/rcar-v4l2.c": [{"patch_file_name": "drivers/media/platform/rcar-vin/rcar-v4l2.c", "func_decl_name": "rvin_mc_s_fmt_vid_cap", "is_cond": false, "line_numbers": [701, 703], "line_cids": ["", ""], "line_strs": ["\trvin_mc_try_format(vin, &f->fmt.pix);", "\tvin->format = f->fmt.pix;"]}]}

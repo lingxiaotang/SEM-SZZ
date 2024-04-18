@@ -1,0 +1,1 @@
+{"drivers/watchdog/keembay_wdt.c": [{"patch_file_name": "drivers/watchdog/keembay_wdt.c", "func_decl_name": "keembay_wdt_set_timeout", "is_cond": false, "line_numbers": [110, 111], "line_cids": ["", ""], "line_strs": ["\twdog->timeout = t;", "\tkeembay_wdt_set_timeout_reg(wdog);"]}]}

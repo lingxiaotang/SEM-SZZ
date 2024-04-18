@@ -1,0 +1,1 @@
+{"drivers/gpu/drm/drm_mipi_dsi.c": [{"patch_file_name": "drivers/gpu/drm/drm_mipi_dsi.c", "func_decl_name": "mipi_dsi_remove_device_fn", "is_cond": false, "line_numbers": [347, 349], "line_cids": ["", ""], "line_strs": ["\tstruct mipi_dsi_device *dsi = to_mipi_dsi_device(dev);", "\tmipi_dsi_device_unregister(dsi);"]}]}

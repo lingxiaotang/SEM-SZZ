@@ -1,0 +1,1 @@
+{"drivers/pinctrl/qcom/pinctrl-spmi-mpp.c": [{"patch_file_name": "drivers/pinctrl/qcom/pinctrl-spmi-mpp.c", "func_decl_name": "pmic_mpp_set_mux", "is_cond": true, "line_numbers": [321, 322], "line_cids": ["", ""], "line_strs": ["\tret = pmic_mpp_write_mode_ctl(state, pad);", ""]}]}

@@ -1,0 +1,1 @@
+{"drivers/of/of_mdio.c": [{"patch_file_name": "drivers/of/of_mdio.c", "func_decl_name": "of_phy_find_device", "is_cond": false, "line_numbers": [292, 292], "line_cids": ["", ""], "line_strs": ["\t\tmdiodev = to_mdio_device(d);", "\t\tmdiodev = to_mdio_device(d);"]}]}

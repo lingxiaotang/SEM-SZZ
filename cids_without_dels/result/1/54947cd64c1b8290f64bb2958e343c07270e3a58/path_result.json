@@ -1,0 +1,1 @@
+{"sound/pci/hda/patch_realtek.c": [{"patch_file_name": "sound/pci/hda/patch_realtek.c", "func_decl_name": "alc_fixup_tpt470_dock", "is_cond": false, "line_numbers": [4991, 4994], "line_cids": ["", ""], "line_strs": ["\tstruct alc_spec *spec = codec->spec;", "\t\tspec->parse_flags = HDA_PINCFG_NO_HP_FIXUP;"]}]}

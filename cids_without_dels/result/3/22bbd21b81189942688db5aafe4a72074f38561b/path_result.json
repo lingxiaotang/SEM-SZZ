@@ -1,0 +1,1 @@
+{"drivers/pinctrl/intel/pinctrl-baytrail.c": [{"patch_file_name": "drivers/pinctrl/intel/pinctrl-baytrail.c", "func_decl_name": "byt_gpio_dbg_show", "is_cond": true, "line_numbers": [1377, 1377], "line_cids": ["", ""], "line_strs": ["\tfor (i = 0; i < vg->soc_data->npins; i++) {", "\tfor (i = 0; i < vg->soc_data->npins; i++) {"]}]}

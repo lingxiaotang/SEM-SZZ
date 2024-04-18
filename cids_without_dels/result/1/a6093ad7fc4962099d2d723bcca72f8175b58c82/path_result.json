@@ -1,0 +1,1 @@
+{"drivers/pci/controller/dwc/pci-imx6.c": [{"patch_file_name": "drivers/pci/controller/dwc/pci-imx6.c", "func_decl_name": "imx6_pcie_attach_pd", "is_cond": true, "line_numbers": [312, 313], "line_cids": ["", ""], "line_strs": ["\t\treturn PTR_ERR(imx6_pcie->pd_pcie);", "\tlink = device_link_add(dev, imx6_pcie->pd_pcie,"]}]}

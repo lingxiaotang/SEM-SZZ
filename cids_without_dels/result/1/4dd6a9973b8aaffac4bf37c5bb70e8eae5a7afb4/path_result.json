@@ -1,0 +1,1 @@
+{"drivers/soc/ti/ti_sci_pm_domains.c": [{"patch_file_name": "drivers/soc/ti/ti_sci_pm_domains.c", "func_decl_name": "ti_sci_pm_domain_probe", "is_cond": false, "line_numbers": [177, 179], "line_cids": ["", ""], "line_strs": ["\tti_sci_pd->dev = dev;", "\tti_sci_pd->pd.attach_dev = ti_sci_pd_attach_dev;"]}]}

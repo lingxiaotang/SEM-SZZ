@@ -1,0 +1,1 @@
+{"drivers/pinctrl/nuvoton/pinctrl-npcm7xx.c": [{"patch_file_name": "drivers/pinctrl/nuvoton/pinctrl-npcm7xx.c", "func_decl_name": "npcm7xx_gpio_of", "is_cond": true, "line_numbers": [1927, 1928], "line_cids": ["", ""], "line_strs": ["\t\t\t\t\t       np);", "\t\t\tpctrl->gpio_bank[id].gc.dbg_show = npcmgpio_dbg_show;"]}]}

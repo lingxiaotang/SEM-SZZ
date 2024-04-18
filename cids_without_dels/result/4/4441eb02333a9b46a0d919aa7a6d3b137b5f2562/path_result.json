@@ -1,0 +1,1 @@
+{"arch/powerpc/kernel/hw_breakpoint.c": [{"patch_file_name": "arch/powerpc/kernel/hw_breakpoint.c", "func_decl_name": "get_instr_detail", "is_cond": true, "line_numbers": [646, 647], "line_cids": ["", ""], "line_strs": ["\t\t*ea &= ~(*size - 1);", "\t}"]}]}

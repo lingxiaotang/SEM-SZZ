@@ -1,0 +1,1 @@
+{"arch/s390/kernel/crash_dump.c": [{"patch_file_name": "arch/s390/kernel/crash_dump.c", "func_decl_name": "copy_oldmem_page", "is_cond": true, "line_numbers": [221, 222], "line_cids": ["", ""], "line_strs": ["", "\tif (!csize)"]}]}

@@ -1,0 +1,1 @@
+{"drivers/usb/serial/mos7840.c": [{"patch_file_name": "drivers/usb/serial/mos7840.c", "func_decl_name": "mos7840_control_callback", "is_cond": true, "line_numbers": [470, 471], "line_cids": ["", ""], "line_strs": ["\tdev_dbg(dev, \"%s urb buffer size is %d\\n\", __func__, urb->actual_length);", "\tdev_dbg(dev, \"%s mos7840_port->MsrLsr is %d port %d\\n\", __func__,"]}]}

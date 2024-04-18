@@ -1,0 +1,1 @@
+{"drivers/cpufreq/imx6q-cpufreq.c": [{"patch_file_name": "drivers/cpufreq/imx6q-cpufreq.c", "func_decl_name": "imx6ul_opp_check_speed_grading", "is_cond": true, "line_numbers": [283, 283], "line_cids": ["", ""], "line_strs": ["\t\tif (!np)", "\t\tif (!np)"]}]}

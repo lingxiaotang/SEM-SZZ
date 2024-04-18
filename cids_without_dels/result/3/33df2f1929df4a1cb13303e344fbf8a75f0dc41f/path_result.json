@@ -1,0 +1,1 @@
+{"drivers/infiniband/core/counters.c": [{"patch_file_name": "drivers/infiniband/core/counters.c", "func_decl_name": "rdma_counter_bind_qp_auto", "is_cond": true, "line_numbers": [288, 289], "line_cids": ["", ""], "line_strs": ["", "\tif (!rdma_is_port_valid(dev, port))"]}]}

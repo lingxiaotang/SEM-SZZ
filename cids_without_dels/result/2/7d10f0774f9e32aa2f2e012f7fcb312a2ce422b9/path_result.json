@@ -1,0 +1,1 @@
+{"drivers/net/ethernet/stmicro/stmmac/dwmac-qcom-ethqos.c": [{"patch_file_name": "drivers/net/ethernet/stmicro/stmmac/dwmac-qcom-ethqos.c", "func_decl_name": "ethqos_configure", "is_cond": true, "line_numbers": [414, 414], "line_cids": ["", ""], "line_strs": ["\t\t\tif (dll_lock & SDC4_STATUS_DLL_LOCK)", "\t\t\tif (dll_lock & SDC4_STATUS_DLL_LOCK)"]}]}

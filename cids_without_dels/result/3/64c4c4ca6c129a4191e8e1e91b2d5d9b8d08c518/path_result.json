@@ -1,0 +1,1 @@
+{"drivers/staging/pi433/pi433_if.c": [{"patch_file_name": "drivers/staging/pi433/pi433_if.c", "func_decl_name": "pi433_probe", "is_cond": true, "line_numbers": [1247, 1248], "line_cids": ["", ""], "line_strs": ["\tdevice->cdev = cdev_alloc();", "\tdevice->cdev->owner = THIS_MODULE;"]}]}

@@ -1,0 +1,1 @@
+{"drivers/firmware/imx/imx-scu-irq.c": [{"patch_file_name": "drivers/firmware/imx/imx-scu-irq.c", "func_decl_name": "imx_scu_irq_group_enable", "is_cond": true, "line_numbers": [102, 103], "line_cids": ["", ""], "line_strs": ["", "\thdr->ver = IMX_SC_RPC_VERSION;"]}]}

@@ -1,0 +1,1 @@
+{"arch/arm64/kvm/regmap.c": [{"patch_file_name": "arch/arm64/kvm/regmap.c", "func_decl_name": "vcpu_write_spsr32", "is_cond": true, "line_numbers": [180, 181], "line_cids": ["", ""], "line_strs": ["\t\twrite_sysreg_el1(v, SYS_SPSR);", "\tcase KVM_SPSR_ABT:"]}]}

@@ -1,0 +1,1 @@
+{"drivers/usb/mon/mon_bin.c": [{"patch_file_name": "drivers/usb/mon/mon_bin.c", "func_decl_name": "mon_bin_mmap", "is_cond": true, "line_numbers": [1270, 1271], "line_cids": ["", ""], "line_strs": ["\tvma->vm_ops = &mon_bin_vm_ops;", "\tvma->vm_flags |= VM_DONTEXPAND | VM_DONTDUMP;"]}]}

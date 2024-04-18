@@ -1,0 +1,1 @@
+{"sound/usb/mixer.c": [{"patch_file_name": "sound/usb/mixer.c", "func_decl_name": "snd_usb_mixer_controls_badd", "is_cond": true, "line_numbers": [2932, 2933], "line_cids": ["", ""], "line_strs": ["\t\tiface = usb_ifnum_to_if(dev, intf);", "\t\tnum = iface->num_altsetting;"]}]}

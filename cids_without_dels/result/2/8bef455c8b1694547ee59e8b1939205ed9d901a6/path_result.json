@@ -1,0 +1,1 @@
+{"drivers/iio/adc/xilinx-xadc-core.c": [{"patch_file_name": "drivers/iio/adc/xilinx-xadc-core.c", "func_decl_name": "xadc_preenable", "is_cond": true, "line_numbers": [800, 801], "line_cids": ["", ""], "line_strs": ["", "\tret = xadc_write_adc_reg(xadc, XADC_REG_SEQ(1), scan_mask >> 16);"]}]}

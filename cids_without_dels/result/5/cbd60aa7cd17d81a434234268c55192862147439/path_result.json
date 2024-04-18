@@ -1,0 +1,1 @@
+{"fs/btrfs/tree-log.c": [{"patch_file_name": "fs/btrfs/tree-log.c", "func_decl_name": "btrfs_sync_log", "is_cond": false, "line_numbers": [2834, 2868], "line_cids": ["", ""], "line_strs": ["\troot_log_ctx.log_transid = log_root_tree->log_transid;", "\tif (log_root_tree->log_transid_committed >= root_log_ctx.log_transid) {"]}]}

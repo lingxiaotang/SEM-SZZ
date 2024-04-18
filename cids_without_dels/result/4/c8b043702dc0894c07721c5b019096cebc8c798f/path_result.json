@@ -1,0 +1,1 @@
+{"drivers/net/ethernet/lantiq_xrx200.c": [{"patch_file_name": "drivers/net/ethernet/lantiq_xrx200.c", "func_decl_name": "xrx200_hw_receive", "is_cond": true, "line_numbers": [241, 242], "line_cids": ["", ""], "line_strs": ["\tskb = build_skb(buf, priv->rx_skb_size);", "\tskb_reserve(skb, NET_SKB_PAD);"]}]}

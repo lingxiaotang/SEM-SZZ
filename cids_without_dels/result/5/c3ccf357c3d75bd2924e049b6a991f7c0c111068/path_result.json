@@ -1,0 +1,1 @@
+{"drivers/spi/spi-sh-msiof.c": [{"patch_file_name": "drivers/spi/spi-sh-msiof.c", "func_decl_name": "sh_msiof_spi_set_clk_regs", "is_cond": true, "line_numbers": [264, 265], "line_cids": ["", ""], "line_strs": ["\t\tbrps = DIV_ROUND_UP(div, sh_msiof_spi_div_table[k].div);", "\t\tif (brps <= 32) /* max of brdv is 32 */"]}]}

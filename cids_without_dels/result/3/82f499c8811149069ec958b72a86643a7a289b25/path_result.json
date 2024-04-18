@@ -1,0 +1,1 @@
+{"drivers/irqchip/irq-gic-v3-its.c": [{"patch_file_name": "drivers/irqchip/irq-gic-v3-its.c", "func_decl_name": "redist_disable_lpis", "is_cond": true, "line_numbers": [3429, 3430], "line_cids": ["", ""], "line_strs": ["", "\tif (!gic_rdists_supports_plpis()) {"]}]}

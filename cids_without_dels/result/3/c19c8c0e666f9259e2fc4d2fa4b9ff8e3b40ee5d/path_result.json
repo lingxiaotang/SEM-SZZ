@@ -1,0 +1,1 @@
+{"drivers/net/ethernet/emulex/benet/be_main.c": [{"patch_file_name": "drivers/net/ethernet/emulex/benet/be_main.c", "func_decl_name": "be_probe", "is_cond": false, "line_numbers": [5902], "line_cids": [""], "line_strs": ["\tpci_release_regions(pdev);"]}]}

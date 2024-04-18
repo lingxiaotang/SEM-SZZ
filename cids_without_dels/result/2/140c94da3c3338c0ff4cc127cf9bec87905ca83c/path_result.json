@@ -1,0 +1,1 @@
+{"drivers/gpu/drm/amd/amdgpu/dce_v11_0.c": [{"patch_file_name": "drivers/gpu/drm/amd/amdgpu/dce_v11_0.c", "func_decl_name": "dce_v11_0_sw_fini", "is_cond": false, "line_numbers": [3160, 3162], "line_cids": ["", ""], "line_strs": ["\tdce_v11_0_afmt_fini(adev);", "\tadev->mode_info.mode_config_initialized = false;"]}]}

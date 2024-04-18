@@ -1,0 +1,1 @@
+{"drivers/scsi/lpfc/lpfc_scsi.c": [{"patch_file_name": "drivers/scsi/lpfc/lpfc_scsi.c", "func_decl_name": "lpfc_target_reset_handler", "is_cond": true, "line_numbers": [6142, 6143], "line_cids": ["", ""], "line_strs": ["", "\trdata = rport->dd_data;"]}]}

@@ -1,0 +1,1 @@
+{"drivers/net/dsa/ocelot/felix_vsc9959.c": [{"patch_file_name": "drivers/net/dsa/ocelot/felix_vsc9959.c", "func_decl_name": "vsc9959_psfp_counters_get", "is_cond": false, "line_numbers": [1889], "line_cids": [""], "line_strs": ["\tocelot_rmw(ocelot, SYS_STAT_CFG_STAT_VIEW(index),"]}]}

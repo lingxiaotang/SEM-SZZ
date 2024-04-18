@@ -1,0 +1,1 @@
+{"sound/soc/soc-topology.c": [{"patch_file_name": "sound/soc/soc-topology.c", "func_decl_name": "soc_tplg_dapm_widget_create", "is_cond": false, "line_numbers": [1466, 1467], "line_cids": ["", ""], "line_strs": ["\tret = soc_tplg_widget_load(tplg, &template, w);", "\tif (ret < 0)"]}]}

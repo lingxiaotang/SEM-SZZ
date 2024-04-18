@@ -1,0 +1,1 @@
+{"drivers/pinctrl/mediatek/pinctrl-mtk-common-v2.c": [{"patch_file_name": "drivers/pinctrl/mediatek/pinctrl-mtk-common-v2.c", "func_decl_name": "mtk_pinconf_bias_get_rsel", "is_cond": true, "line_numbers": [813, 814], "line_cids": ["", ""], "line_strs": ["\terr = mtk_hw_get_value(hw, desc, PINCTRL_PIN_REG_PD, &pd);", ""]}]}

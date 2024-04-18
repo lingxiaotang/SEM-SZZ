@@ -1,0 +1,1 @@
+{"drivers/infiniband/core/uverbs_main.c": [{"patch_file_name": "drivers/infiniband/core/uverbs_main.c", "func_decl_name": "uverbs_user_mmap_disassociate", "is_cond": true, "line_numbers": [822, 823], "line_cids": ["", ""], "line_strs": ["\t\t\t\tlist_del_init(&priv->list);", "\t\t\t\tmm = NULL;"]}]}

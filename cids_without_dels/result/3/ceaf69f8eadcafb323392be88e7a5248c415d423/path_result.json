@@ -1,0 +1,1 @@
+{"fs/notify/fanotify/fanotify_user.c": [{"patch_file_name": "fs/notify/fanotify/fanotify_user.c", "func_decl_name": "do_fanotify_mark", "is_cond": true, "line_numbers": [1659, 1660], "line_cids": ["", ""], "line_strs": ["", "\t/* Mask out FAN_EVENT_ON_CHILD flag for sb/mount/non-dir marks */"]}]}

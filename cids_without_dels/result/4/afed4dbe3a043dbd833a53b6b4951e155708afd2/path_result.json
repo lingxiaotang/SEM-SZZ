@@ -1,0 +1,1 @@
+{"sound/soc/blackfin/bf5xx-i2s.c": [{"patch_file_name": "sound/soc/blackfin/bf5xx-i2s.c", "func_decl_name": "bf5xx_i2s_hw_params", "is_cond": true, "line_numbers": [123, 124], "line_cids": ["", ""], "line_strs": ["\t\tsport_handle->wdsize = 1;", "\tcase SNDRV_PCM_FORMAT_S16_LE:"]}]}

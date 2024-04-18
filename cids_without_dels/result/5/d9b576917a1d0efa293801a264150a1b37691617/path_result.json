@@ -1,0 +1,1 @@
+{"drivers/input/keyboard/hil_kbd.c": [{"patch_file_name": "drivers/input/keyboard/hil_kbd.c", "func_decl_name": "hil_dev_connect", "is_cond": true, "line_numbers": [511, 512], "line_cids": ["", ""], "line_strs": ["\t\tif (HIL_IDD_NUM_BUTTONS(idd) ||", "\t\t    HIL_IDD_NUM_AXES_PER_SET(*idd)) {"]}]}

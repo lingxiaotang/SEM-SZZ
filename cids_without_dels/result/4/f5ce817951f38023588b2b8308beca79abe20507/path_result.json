@@ -1,0 +1,1 @@
+{"sound/usb/quirks.c": [{"patch_file_name": "sound/usb/quirks.c", "func_decl_name": "snd_usb_interface_dsd_format_quirks", "is_cond": true, "line_numbers": [1377, 1378], "line_cids": ["", ""], "line_strs": ["\t\t\tcase 0x19b:", "\t\t\t\treturn SNDRV_PCM_FMTBIT_DSD_U32_BE;"]}]}

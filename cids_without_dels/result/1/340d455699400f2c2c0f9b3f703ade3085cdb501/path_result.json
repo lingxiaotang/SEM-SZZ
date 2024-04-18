@@ -1,0 +1,1 @@
+{"drivers/pci/controller/pci-hyperv.c": [{"patch_file_name": "drivers/pci/controller/pci-hyperv.c", "func_decl_name": "pci_devices_present_work", "is_cond": true, "line_numbers": [1778, 1779], "line_cids": ["", ""], "line_strs": ["\t\tlist_del(&hpdev->list_entry);", "\t\tput_pcichild(hpdev);"]}]}

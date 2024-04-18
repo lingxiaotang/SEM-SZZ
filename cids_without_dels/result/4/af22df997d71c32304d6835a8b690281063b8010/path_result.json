@@ -1,0 +1,1 @@
+{"arch/arm64/kvm/hyp/vgic-v3-sr.c": [{"patch_file_name": "arch/arm64/kvm/hyp/vgic-v3-sr.c", "func_decl_name": "__vgic_v3_get_gic_config", "is_cond": true, "line_numbers": [429, 430, 433, 438, 440], "line_cids": ["", "", "", "", ""], "line_strs": ["\tif (has_vhe())", "\t\tflags = local_daif_save();", "\tisb();", "\tisb();", "\tif (has_vhe())"]}]}

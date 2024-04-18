@@ -1,0 +1,1 @@
+{"sound/soc/soc-dapm.c": [{"patch_file_name": "sound/soc/soc-dapm.c", "func_decl_name": "snd_soc_dapm_get_volsw", "is_cond": true, "line_numbers": [3051, 3052], "line_cids": ["", ""], "line_strs": ["", "\tif (invert)"]}]}

@@ -1,0 +1,1 @@
+{"drivers/mfd/intel-lpss.c": [{"patch_file_name": "drivers/mfd/intel-lpss.c", "func_decl_name": "intel_lpss_probe", "is_cond": false, "line_numbers": [455, 458], "line_cids": ["", ""], "line_strs": ["\tintel_lpss_ltr_hide(lpss);", "\tida_simple_remove(&intel_lpss_devid_ida, lpss->devid);"]}]}

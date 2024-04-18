@@ -1,0 +1,1 @@
+{"net/ncsi/ncsi-netlink.c": [{"patch_file_name": "net/ncsi/ncsi-netlink.c", "func_decl_name": "ncsi_pkg_info_nl", "is_cond": true, "line_numbers": [192, 193], "line_cids": ["", ""], "line_strs": ["\tattr = nla_nest_start(skb, NCSI_ATTR_PACKAGE_LIST);", "\trc = ncsi_write_package_info(skb, ndp, package_id);"]}]}

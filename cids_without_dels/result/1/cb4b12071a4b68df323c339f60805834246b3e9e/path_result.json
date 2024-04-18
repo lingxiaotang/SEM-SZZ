@@ -1,0 +1,1 @@
+{"drivers/net/ethernet/microchip/lan743x_ptp.c": [{"patch_file_name": "drivers/net/ethernet/microchip/lan743x_ptp.c", "func_decl_name": "lan743x_ptpci_verify_pin_config", "is_cond": true, "line_numbers": [1060, 1061], "line_cids": ["", ""], "line_strs": ["\tcase PTP_PF_EXTTS:", "\t\tbreak;"]}]}

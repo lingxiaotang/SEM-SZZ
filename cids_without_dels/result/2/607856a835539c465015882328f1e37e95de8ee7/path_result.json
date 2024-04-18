@@ -1,0 +1,1 @@
+{"drivers/gpu/drm/i915/display/intel_dsb.c": [{"patch_file_name": "drivers/gpu/drm/i915/display/intel_dsb.c", "func_decl_name": "intel_dsb_prepare", "is_cond": true, "line_numbers": [273, 274], "line_cids": ["", ""], "line_strs": ["\tdsb = kmalloc(sizeof(*dsb), GFP_KERNEL);", ""]}]}

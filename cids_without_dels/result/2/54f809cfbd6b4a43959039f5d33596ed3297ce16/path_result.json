@@ -1,0 +1,1 @@
+{"drivers/gpu/drm/drm_atomic_helper.c": [{"patch_file_name": "drivers/gpu/drm/drm_atomic_helper.c", "func_decl_name": "__drm_atomic_helper_crtc_destroy_state", "is_cond": true, "line_numbers": [3329, 3330], "line_cids": ["", ""], "line_strs": ["\tif (state->commit) {", "\t\tkfree(state->commit->event);"]}]}

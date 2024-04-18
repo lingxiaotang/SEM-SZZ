@@ -1,0 +1,1 @@
+{"arch/x86/kernel/apic/vector.c": [{"patch_file_name": "arch/x86/kernel/apic/vector.c", "func_decl_name": "allocate_vector", "is_cond": true, "line_numbers": [237, 238], "line_cids": ["", ""], "line_strs": ["", "\tvector = irq_matrix_alloc(vector_matrix, dest, resvd, &cpu);"]}]}

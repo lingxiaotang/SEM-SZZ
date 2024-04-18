@@ -1,0 +1,1 @@
+{"drivers/md/dm-writecache.c": [{"patch_file_name": "drivers/md/dm-writecache.c", "func_decl_name": "writecache_discard", "is_cond": true, "line_numbers": [855, 856], "line_cids": ["", ""], "line_strs": ["\t\t\t}", "\t\t\twritecache_free_entry(wc, e);"]}]}

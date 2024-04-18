@@ -1,0 +1,1 @@
+{"drivers/iio/industrialio-core.c": [{"patch_file_name": "drivers/iio/industrialio-core.c", "func_decl_name": "iio_device_unregister_sysfs", "is_cond": false, "line_numbers": [1601, 1602], "line_cids": ["", ""], "line_strs": ["\tiio_dev_opaque->chan_attr_group.attrs = NULL;", "\tkfree(iio_dev_opaque->groups);"]}]}

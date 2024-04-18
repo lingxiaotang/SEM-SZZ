@@ -1,0 +1,1 @@
+{"net/socket.c": [{"patch_file_name": "net/socket.c", "func_decl_name": "sock_poll", "is_cond": true, "line_numbers": [1135, 1136], "line_cids": ["", ""], "line_strs": ["\tsock_poll_busy_loop(sock, events);", "\treturn sock->ops->poll(file, sock, wait) | sock_poll_busy_flag(sock);"]}]}

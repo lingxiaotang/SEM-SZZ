@@ -1,0 +1,1 @@
+{"drivers/net/xen-netback/rx.c": [{"patch_file_name": "drivers/net/xen-netback/rx.c", "func_decl_name": "xenvif_rx_action", "is_cond": true, "line_numbers": [497, 498], "line_cids": ["", ""], "line_strs": ["\twhile (xenvif_rx_ring_slots_available(queue) &&", "\t       work_done < RX_BATCH_SIZE) {"]}]}

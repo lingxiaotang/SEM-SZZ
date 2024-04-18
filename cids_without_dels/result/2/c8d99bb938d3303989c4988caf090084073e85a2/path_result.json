@@ -1,0 +1,1 @@
+{"drivers/gpu/drm/msm/msm_gem_submit.c": [{"patch_file_name": "drivers/gpu/drm/msm/msm_gem_submit.c", "func_decl_name": "submit_lookup_cmds", "is_cond": false, "line_numbers": [209], "line_cids": [""], "line_strs": ["\t\tret = copy_from_user(submit->cmd[i].relocs, userptr, sz);"]}]}

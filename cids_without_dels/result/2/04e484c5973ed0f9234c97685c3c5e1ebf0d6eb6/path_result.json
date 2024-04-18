@@ -1,0 +1,1 @@
+{"fs/btrfs/discard.c": [{"patch_file_name": "fs/btrfs/discard.c", "func_decl_name": "btrfs_discard_punt_unused_bgs_list", "is_cond": false, "line_numbers": [621, 622], "line_cids": ["", ""], "line_strs": ["\t\tlist_del_init(&block_group->bg_list);", "\t\tbtrfs_discard_queue_work(&fs_info->discard_ctl, block_group);"]}]}

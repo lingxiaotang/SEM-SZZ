@@ -1,0 +1,1 @@
+{"arch/x86/kvm/vmx/vmx.c": [{"patch_file_name": "arch/x86/kvm/vmx/vmx.c", "func_decl_name": "vmx_check_intercept", "is_cond": true, "line_numbers": [7208, 7209], "line_cids": ["", ""], "line_strs": ["", "\t/* TODO: check more intercepts... */"]}]}

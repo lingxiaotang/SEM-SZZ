@@ -1,0 +1,1 @@
+{"drivers/s390/cio/vfio_ccw_cp.c": [{"patch_file_name": "drivers/s390/cio/vfio_ccw_cp.c", "func_decl_name": "cp_init", "is_cond": true, "line_numbers": [640, 641], "line_cids": ["", ""], "line_strs": ["", "\t/*"]}]}

@@ -1,0 +1,1 @@
+{"fs/namespace.c": [{"patch_file_name": "fs/namespace.c", "func_decl_name": "mntput_no_expire", "is_cond": true, "line_numbers": [1197, 1212, 1215, 1216], "line_cids": ["", "", "", ""], "line_strs": ["\trcu_read_lock();", "\tlock_mount_hash();", "\t\trcu_read_unlock();", "\t\tunlock_mount_hash();"]}]}

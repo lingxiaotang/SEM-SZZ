@@ -1,0 +1,1 @@
+{"drivers/gpu/drm/i915/i915_perf.c": [{"patch_file_name": "drivers/gpu/drm/i915/i915_perf.c", "func_decl_name": "i915_perf_release", "is_cond": false, "line_numbers": [2514, 2516], "line_cids": ["", ""], "line_strs": ["\tmutex_lock(&dev_priv->perf.lock);", "\tmutex_unlock(&dev_priv->perf.lock);"]}]}

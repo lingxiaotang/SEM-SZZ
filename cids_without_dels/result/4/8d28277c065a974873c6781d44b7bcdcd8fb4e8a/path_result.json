@@ -1,0 +1,1 @@
+{"sound/firewire/tascam/tascam.c": [{"patch_file_name": "sound/firewire/tascam/tascam.c", "func_decl_name": "tscm_free", "is_cond": false, "line_numbers": [93, 95], "line_cids": ["", ""], "line_strs": ["\tfw_unit_put(tscm->unit);", "\tmutex_destroy(&tscm->mutex);"]}]}

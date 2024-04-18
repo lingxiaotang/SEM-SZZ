@@ -1,0 +1,1 @@
+{"drivers/net/ethernet/chelsio/cxgb3/t3_hw.c": [{"patch_file_name": "drivers/net/ethernet/chelsio/cxgb3/t3_hw.c", "func_decl_name": "t3_prep_adapter", "is_cond": true, "line_numbers": [3615, 3616], "line_cids": ["", ""], "line_strs": ["\t    pci_find_capability(adapter->pdev, PCI_CAP_ID_VPD);", "\tret = get_vpd_params(adapter, &adapter->params.vpd);"]}]}

@@ -1,0 +1,1 @@
+{"kernel/futex.c": [{"patch_file_name": "kernel/futex.c", "func_decl_name": "handle_futex_death", "is_cond": true, "line_numbers": [3438, 3439], "line_cids": ["", ""], "line_strs": ["", "retry:"]}]}

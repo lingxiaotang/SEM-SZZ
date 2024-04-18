@@ -1,0 +1,1 @@
+{"drivers/mtd/nand/raw/atmel/nand-controller.c": [{"patch_file_name": "drivers/mtd/nand/raw/atmel/nand-controller.c", "func_decl_name": "atmel_hsmc_nand_controller_legacy_init", "is_cond": true, "line_numbers": [2036, 2037], "line_cids": ["", ""], "line_strs": ["\t\t\t\t\t \"atmel,sama5d3-nfc\");", ""]}]}

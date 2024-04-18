@@ -1,0 +1,1 @@
+{"drivers/soundwire/qcom.c": [{"patch_file_name": "drivers/soundwire/qcom.c", "func_decl_name": "qcom_swrm_enumerate", "is_cond": true, "line_numbers": [476, 477], "line_cids": ["", ""], "line_strs": ["\tfor (i = 1; i <= SDW_MAX_DEVICES; i++) {", "\t\t/*SCP_Devid5 - Devid 4*/"]}]}

@@ -1,0 +1,1 @@
+{"drivers/net/usb/ax88172a.c": [{"patch_file_name": "drivers/net/usb/ax88172a.c", "func_decl_name": "ax88172a_bind", "is_cond": false, "line_numbers": [188, 189], "line_cids": ["", ""], "line_strs": ["\tif (ret < ETH_ALEN) {", "\t\tnetdev_err(dev->net, \"Failed to read MAC address: %d\\n\", ret);"]}]}

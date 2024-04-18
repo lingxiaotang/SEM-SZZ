@@ -1,0 +1,1 @@
+{"drivers/net/usb/smsc95xx.c": [{"patch_file_name": "drivers/net/usb/smsc95xx.c", "func_decl_name": "smsc95xx_bind", "is_cond": true, "line_numbers": [1289, 1290], "line_cids": ["", ""], "line_strs": ["\tret = smsc95xx_reset(dev);", ""]}]}

@@ -1,0 +1,1 @@
+{"drivers/gpu/drm/ttm/ttm_bo_vm.c": [{"patch_file_name": "drivers/gpu/drm/ttm/ttm_bo_vm.c", "func_decl_name": "ttm_bo_vm_fault", "is_cond": true, "line_numbers": [168, 169], "line_cids": ["", ""], "line_strs": ["\t\tretval = ret;", "\t\tgoto out_unlock;"]}]}

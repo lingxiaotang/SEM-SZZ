@@ -1,0 +1,1 @@
+{"net/packet/af_packet.c": [{"patch_file_name": "net/packet/af_packet.c", "func_decl_name": "tpacket_snd", "is_cond": true, "line_numbers": [2620, 2621], "line_cids": ["", ""], "line_strs": ["", "\tif (likely(saddr == NULL)) {"]}]}

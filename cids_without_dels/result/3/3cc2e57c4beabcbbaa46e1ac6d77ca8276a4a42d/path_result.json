@@ -1,0 +1,1 @@
+{"drivers/md/dm-crypt.c": [{"patch_file_name": "drivers/md/dm-crypt.c", "func_decl_name": "crypt_ctr", "is_cond": false, "line_numbers": [2738, 2738], "line_cids": ["", ""], "line_strs": ["\t\tif (ret)", "\t\tif (ret)"]}]}

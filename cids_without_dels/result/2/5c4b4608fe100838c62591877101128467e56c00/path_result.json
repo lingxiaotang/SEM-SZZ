@@ -1,0 +1,1 @@
+{"net/tls/tls_device_fallback.c": [{"patch_file_name": "net/tls/tls_device_fallback.c", "func_decl_name": "complete_skb", "is_cond": true, "line_numbers": [211, 212], "line_cids": ["", ""], "line_strs": ["", "\tdelta = nskb->truesize - skb->truesize;"]}]}

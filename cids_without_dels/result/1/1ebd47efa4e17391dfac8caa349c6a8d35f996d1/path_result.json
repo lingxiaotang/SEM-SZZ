@@ -1,0 +1,1 @@
+{"drivers/net/ethernet/rocker/rocker.c": [{"patch_file_name": "drivers/net/ethernet/rocker/rocker.c", "func_decl_name": "rocker_remove_ports", "is_cond": false, "line_numbers": [4821, 4823], "line_cids": ["", ""], "line_strs": ["\t\trocker_port_ig_tbl(rocker_port, SWITCHDEV_TRANS_NONE,", "\t\tunregister_netdev(rocker_port->dev);"]}]}

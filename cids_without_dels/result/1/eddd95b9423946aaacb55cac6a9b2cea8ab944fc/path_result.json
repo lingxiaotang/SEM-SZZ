@@ -1,0 +1,1 @@
+{"drivers/nfc/nxp-nci/i2c.c": [{"patch_file_name": "drivers/nfc/nxp-nci/i2c.c", "func_decl_name": "nxp_nci_i2c_nci_read", "is_cond": true, "line_numbers": [164, 165], "line_cids": ["", ""], "line_strs": ["", "\tr = i2c_master_recv(client, skb_put(*skb, header.plen), header.plen);"]}]}

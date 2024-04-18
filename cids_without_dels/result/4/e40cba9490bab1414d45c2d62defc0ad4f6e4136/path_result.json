@@ -1,0 +1,1 @@
+{"drivers/net/dsa/sja1105/sja1105_main.c": [{"patch_file_name": "drivers/net/dsa/sja1105/sja1105_main.c", "func_decl_name": "sja1105_init_static_vlan", "is_cond": true, "line_numbers": [399, 400], "line_cids": ["", ""], "line_strs": ["\t\tlist_add(&v->list, &priv->dsa_8021q_vlans);", "\t}"]}]}

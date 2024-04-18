@@ -1,0 +1,1 @@
+{"sound/pci/hda/patch_ca0132.c": [{"patch_file_name": "sound/pci/hda/patch_ca0132.c", "func_decl_name": "ca0132_mmio_init", "is_cond": true, "line_numbers": [9185, 9186], "line_cids": ["", ""], "line_strs": ["\t\tbreak;", "\t}"]}]}

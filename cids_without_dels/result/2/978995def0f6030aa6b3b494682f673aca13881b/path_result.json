@@ -1,0 +1,1 @@
+{"drivers/regulator/da9062-regulator.c": [{"patch_file_name": "drivers/regulator/da9062-regulator.c", "func_decl_name": "da9062_ldo_lim_event", "is_cond": false, "line_numbers": [976, 977], "line_cids": ["", ""], "line_strs": ["\t\tif (BIT(regl->info->oc_event.lsb) & bits) {", "\t\t\tregulator_notifier_call_chain(regl->rdev,"]}]}

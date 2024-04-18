@@ -1,0 +1,1 @@
+{"security/selinux/ss/services.c": [{"patch_file_name": "security/selinux/ss/services.c", "func_decl_name": "selinux_audit_rule_match", "is_cond": true, "line_numbers": [3501, 3502], "line_cids": ["", ""], "line_strs": ["", "\tread_lock(&state->ss->policy_rwlock);"]}]}

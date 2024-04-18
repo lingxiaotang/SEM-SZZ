@@ -1,0 +1,1 @@
+{"arch/arm64/kernel/hibernate.c": [{"patch_file_name": "arch/arm64/kernel/hibernate.c", "func_decl_name": "swsusp_arch_suspend", "is_cond": true, "line_numbers": [238, 239], "line_cids": ["", ""], "line_strs": ["", "\tlocal_dbg_save(flags);"]}]}

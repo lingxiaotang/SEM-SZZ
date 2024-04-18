@@ -1,0 +1,1 @@
+{"drivers/mtd/nand/raw/meson_nand.c": [{"patch_file_name": "drivers/mtd/nand/raw/meson_nand.c", "func_decl_name": "meson_nfc_read_buf", "is_cond": true, "line_numbers": [530, 531], "line_cids": ["", ""], "line_strs": ["\tinfo = kzalloc(PER_INFO_BYTE, GFP_KERNEL);", "\tret = meson_nfc_dma_buffer_setup(nand, buf, len, info,"]}]}

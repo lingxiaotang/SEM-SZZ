@@ -1,0 +1,1 @@
+{"arch/powerpc/kvm/book3s_hv.c": [{"patch_file_name": "arch/powerpc/kvm/book3s_hv.c", "func_decl_name": "kvmppc_pseries_do_hcall", "is_cond": false, "line_numbers": [983, 985], "line_cids": ["", ""], "line_strs": ["\t\tret = kvmhv_enter_nested_guest(vcpu);", "\t\t\tkvmppc_set_gpr(vcpu, 3, 0);"]}]}

@@ -1,0 +1,1 @@
+{"drivers/hid/uhid.c": [{"patch_file_name": "drivers/hid/uhid.c", "func_decl_name": "uhid_char_write", "is_cond": true, "line_numbers": [724, 725], "line_cids": ["", ""], "line_strs": ["\tcase UHID_CREATE:", "\t\tret = uhid_dev_create(uhid, &uhid->input_buf);"]}]}

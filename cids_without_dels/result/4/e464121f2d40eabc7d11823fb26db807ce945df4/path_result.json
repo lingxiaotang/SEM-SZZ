@@ -1,0 +1,1 @@
+{"arch/x86/kernel/cpu/mce/intel.c": [{"patch_file_name": "arch/x86/kernel/cpu/mce/intel.c", "func_decl_name": "intel_ppin_init", "is_cond": true, "line_numbers": [488, 489], "line_cids": ["", ""], "line_strs": ["\tcase INTEL_FAM6_ICELAKE_X:", "\tcase INTEL_FAM6_SAPPHIRERAPIDS_X:"]}]}

@@ -1,0 +1,1 @@
+{"drivers/mmc/host/sdhci-of-at91.c": [{"patch_file_name": "drivers/mmc/host/sdhci-of-at91.c", "func_decl_name": "sdhci_at91_probe", "is_cond": false, "line_numbers": [219, 225], "line_cids": ["", ""], "line_strs": ["\tpm_runtime_set_suspended(&pdev->dev);", "\tsdhci_pltfm_free(pdev);"]}]}

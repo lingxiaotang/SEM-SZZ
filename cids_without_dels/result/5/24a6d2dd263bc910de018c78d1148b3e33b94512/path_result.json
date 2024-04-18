@@ -1,0 +1,1 @@
+{"drivers/net/ethernet/cavium/thunder/nic_main.c": [{"patch_file_name": "drivers/net/ethernet/cavium/thunder/nic_main.c", "func_decl_name": "nic_remove", "is_cond": true, "line_numbers": [1443, 1444], "line_cids": ["", ""], "line_strs": ["", "\tif (nic->flags & NIC_SRIOV_ENABLED)"]}]}

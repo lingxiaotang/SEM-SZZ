@@ -1,0 +1,1 @@
+{"sound/pci/lx6464es/lx6464es.c": [{"patch_file_name": "sound/pci/lx6464es/lx6464es.c", "func_decl_name": "snd_lx6464es_create", "is_cond": false, "line_numbers": [1008, 1009], "line_cids": ["", ""], "line_strs": ["\terr = pci_request_regions(pci, card_name);", "\tif (err < 0)"]}]}

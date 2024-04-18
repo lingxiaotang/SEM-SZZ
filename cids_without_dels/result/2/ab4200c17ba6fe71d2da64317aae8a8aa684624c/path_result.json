@@ -1,0 +1,1 @@
+{"tools/perf/util/dwarf-aux.c": [{"patch_file_name": "tools/perf/util/dwarf-aux.c", "func_decl_name": "die_entrypc", "is_cond": true, "line_numbers": [382, 383], "line_cids": ["", ""], "line_strs": ["", "\treturn dwarf_ranges(dw_die, 0, &base, addr, &end) < 0 ? -ENOENT : 0;"]}]}

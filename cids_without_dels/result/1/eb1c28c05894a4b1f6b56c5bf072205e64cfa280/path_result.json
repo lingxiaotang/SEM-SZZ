@@ -1,0 +1,1 @@
+{"net/l2tp/l2tp_ppp.c": [{"patch_file_name": "net/l2tp/l2tp_ppp.c", "func_decl_name": "pppol2tp_connect", "is_cond": true, "line_numbers": [621, 622], "line_cids": ["", ""], "line_strs": ["\terror = -EINVAL;", "\tif (sp->sa_protocol != PX_PROTO_OL2TP)"]}]}

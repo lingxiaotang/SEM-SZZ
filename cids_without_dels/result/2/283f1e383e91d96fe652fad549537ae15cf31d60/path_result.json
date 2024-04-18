@@ -1,0 +1,1 @@
+{"drivers/dma-buf/udmabuf.c": [{"patch_file_name": "drivers/dma-buf/udmabuf.c", "func_decl_name": "unmap_udmabuf", "is_cond": false, "line_numbers": [80], "line_cids": [""], "line_strs": ["\tsg_free_table(sg);"]}]}

@@ -1,0 +1,1 @@
+{"fs/ufs/namei.c": [{"patch_file_name": "fs/ufs/namei.c", "func_decl_name": "ufs_mkdir", "is_cond": false, "line_numbers": [210, 215], "line_cids": ["", ""], "line_strs": ["\terr = ufs_add_link(dentry, inode);", "\td_instantiate(dentry, inode);"]}]}

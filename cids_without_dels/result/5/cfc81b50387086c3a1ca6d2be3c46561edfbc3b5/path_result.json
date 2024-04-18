@@ -1,0 +1,1 @@
+{"net/core/filter.c": [{"patch_file_name": "net/core/filter.c", "func_decl_name": "skb_do_redirect", "is_cond": false, "line_numbers": [1464, 1465], "line_cids": ["", ""], "line_strs": ["\tskb->dev = dev;", "\treturn dev_queue_xmit(skb);"]}]}

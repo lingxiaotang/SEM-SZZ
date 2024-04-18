@@ -1,0 +1,1 @@
+{"drivers/soc/rockchip/pm_domains.c": [{"patch_file_name": "drivers/soc/rockchip/pm_domains.c", "func_decl_name": "rockchip_pm_domain_probe", "is_cond": false, "line_numbers": [422, 424], "line_cids": ["", ""], "line_strs": ["\t\terror = rockchip_pm_add_one_domain(pmu, node);", "\t\t\tdev_err(dev, \"failed to handle node %s: %d\\n\","]}]}

@@ -1,0 +1,1 @@
+{"drivers/tty/serial/liteuart.c": [{"patch_file_name": "drivers/tty/serial/liteuart.c", "func_decl_name": "liteuart_remove", "is_cond": false, "line_numbers": [295], "line_cids": [""], "line_strs": ["\tstruct uart_port *port = platform_get_drvdata(pdev);"]}]}

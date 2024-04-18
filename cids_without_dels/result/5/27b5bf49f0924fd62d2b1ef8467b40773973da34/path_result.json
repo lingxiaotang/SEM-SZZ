@@ -1,0 +1,1 @@
+{"drivers/net/ethernet/hisilicon/hns3/hns3pf/hclge_main.c": [{"patch_file_name": "drivers/net/ethernet/hisilicon/hns3/hns3pf/hclge_main.c", "func_decl_name": "hclge_get_autoneg", "is_cond": true, "line_numbers": [2174, 2175], "line_cids": ["", ""], "line_strs": ["\tstruct hclge_dev *hdev = vport->back;", ""]}]}

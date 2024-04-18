@@ -1,0 +1,1 @@
+{"tools/perf/util/mmap.c": [{"patch_file_name": "tools/perf/util/mmap.c", "func_decl_name": "perf_mmap__read_done", "is_cond": true, "line_numbers": [319, 320], "line_cids": ["", ""], "line_strs": ["{", "\tmap->prev = perf_mmap__read_head(map);"]}]}

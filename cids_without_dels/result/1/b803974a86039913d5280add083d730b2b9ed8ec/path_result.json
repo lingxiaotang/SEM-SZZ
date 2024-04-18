@@ -1,0 +1,1 @@
+{"drivers/mmc/host/cavium.c": [{"patch_file_name": "drivers/mmc/host/cavium.c", "func_decl_name": "finish_dma_single", "is_cond": false, "line_numbers": [375, 376], "line_cids": ["", ""], "line_strs": ["\tdata->bytes_xfered = data->blocks * data->blksz;", "\tdata->error = 0;"]}]}

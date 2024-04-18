@@ -1,0 +1,1 @@
+{"drivers/net/ethernet/mellanox/mlx5/core/devlink.c": [{"patch_file_name": "drivers/net/ethernet/mellanox/mlx5/core/devlink.c", "func_decl_name": "mlx5_devlink_trap_action_set", "is_cond": true, "line_numbers": [248, 249], "line_cids": ["", ""], "line_strs": ["", "\tdl_trap = mlx5_find_trap_by_id(dev, trap->id);"]}]}

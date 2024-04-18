@@ -1,0 +1,1 @@
+{"drivers/gpio/gpiolib-of.c": [{"patch_file_name": "drivers/gpio/gpiolib-of.c", "func_decl_name": "of_find_gpio", "is_cond": true, "line_numbers": [243, 244], "line_cids": ["", ""], "line_strs": ["\t\t\t\t\t\t&of_flags);", "\t\tif (!IS_ERR(desc) || (PTR_ERR(desc) != -ENOENT))"]}]}

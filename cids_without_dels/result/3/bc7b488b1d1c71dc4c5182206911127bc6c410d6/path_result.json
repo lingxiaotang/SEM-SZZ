@@ -1,0 +1,1 @@
+{"drivers/gpu/drm/i915/intel_csr.c": [{"patch_file_name": "drivers/gpu/drm/i915/intel_csr.c", "func_decl_name": "parse_csr_fw", "is_cond": true, "line_numbers": [309, 310], "line_cids": ["", ""], "line_strs": ["", "\t/* Extract CSS Header information*/"]}]}

@@ -1,0 +1,1 @@
+{"crypto/cryptd.c": [{"patch_file_name": "crypto/cryptd.c", "func_decl_name": "cryptd_skcipher_free", "is_cond": false, "line_numbers": [393], "line_cids": [""], "line_strs": ["\tstruct skcipherd_instance_ctx *ctx = skcipher_instance_ctx(inst);"]}]}

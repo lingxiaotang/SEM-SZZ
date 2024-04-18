@@ -1,0 +1,1 @@
+{"drivers/media/usb/rainshadow-cec/rainshadow-cec.c": [{"patch_file_name": "drivers/media/usb/rainshadow-cec/rainshadow-cec.c", "func_decl_name": "rain_irq_work_handler", "is_cond": true, "line_numbers": [123, 132, 133], "line_cids": ["", "", ""], "line_strs": ["\t\tif (rain->buf_len) {", "\t\tif (exit_loop)", "\t\t\tbreak;"]}]}

@@ -1,0 +1,1 @@
+{"net/mac80211/mesh_hwmp.c": [{"patch_file_name": "net/mac80211/mesh_hwmp.c", "func_decl_name": "mesh_path_start_discovery", "is_cond": true, "line_numbers": [1105, 1106], "line_cids": ["", ""], "line_strs": ["\t\t\t       ttl, lifetime, 0, ifmsh->preq_id++, sdata);", "\tmod_timer(&mpath->timer, jiffies + mpath->discovery_timeout);"]}]}

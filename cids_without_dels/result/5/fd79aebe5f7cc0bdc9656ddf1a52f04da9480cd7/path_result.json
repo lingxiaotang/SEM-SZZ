@@ -1,0 +1,1 @@
+{"drivers/soc/ti/omap_prm.c": [{"patch_file_name": "drivers/soc/ti/omap_prm.c", "func_decl_name": "omap_reset_deassert", "is_cond": true, "line_numbers": [486, 487], "line_cids": ["", ""], "line_strs": ["", "\thas_rstst = reset->prm->data->rstst ||"]}]}

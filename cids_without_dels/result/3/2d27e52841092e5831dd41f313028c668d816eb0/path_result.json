@@ -1,0 +1,1 @@
+{"drivers/watchdog/armada_37xx_wdt.c": [{"patch_file_name": "drivers/watchdog/armada_37xx_wdt.c", "func_decl_name": "armada_37xx_wdt_probe", "is_cond": true, "line_numbers": [276, 277], "line_cids": ["", ""], "line_strs": ["\tdev->reg = devm_ioremap(&pdev->dev, res->start, resource_size(res));", ""]}]}

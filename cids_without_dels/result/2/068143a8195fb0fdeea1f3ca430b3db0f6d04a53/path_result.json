@@ -1,0 +1,1 @@
+{"drivers/i2c/busses/i2c-bcm-iproc.c": [{"patch_file_name": "drivers/i2c/busses/i2c-bcm-iproc.c", "func_decl_name": "bcm_iproc_i2c_slave_isr", "is_cond": true, "line_numbers": [362, 363], "line_cids": ["", ""], "line_strs": ["\t\t\t\t\tI2C_SLAVE_WRITE_RECEIVED, &value);", "\t\t}"]}]}

@@ -1,0 +1,1 @@
+{"tools/testing/selftests/clone3/clone3.c": [{"patch_file_name": "tools/testing/selftests/clone3/clone3.c", "func_decl_name": "call_clone3", "is_cond": true, "line_numbers": [54, 55], "line_cids": ["", ""], "line_strs": ["\tswitch (test_mode) {", "\tcase CLONE3_ARGS_ALL_0:"]}]}

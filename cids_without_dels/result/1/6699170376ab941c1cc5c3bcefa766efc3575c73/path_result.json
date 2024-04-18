@@ -1,0 +1,1 @@
+{"net/ethtool/bitset.c": [{"patch_file_name": "net/ethtool/bitset.c", "func_decl_name": "ethnl_update_bitset32_verbose", "is_cond": true, "line_numbers": [450, 451], "line_cids": ["", ""], "line_strs": ["\tno_mask = tb[ETHTOOL_A_BITSET_NOMASK];", ""]}]}

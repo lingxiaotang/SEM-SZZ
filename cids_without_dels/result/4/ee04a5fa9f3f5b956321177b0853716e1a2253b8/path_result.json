@@ -1,0 +1,1 @@
+{"drivers/net/phy/aquantia_main.c": [{"patch_file_name": "drivers/net/phy/aquantia_main.c", "func_decl_name": "aqr107_config_init", "is_cond": true, "line_numbers": [488, 490], "line_cids": ["", ""], "line_strs": ["\tif (phydev->interface != PHY_INTERFACE_MODE_SGMII &&", "\t    phydev->interface != PHY_INTERFACE_MODE_10GKR)"]}]}

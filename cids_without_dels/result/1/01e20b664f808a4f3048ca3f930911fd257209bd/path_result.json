@@ -1,0 +1,1 @@
+{"drivers/staging/comedi/drivers/ni_routes.c": [{"patch_file_name": "drivers/staging/comedi/drivers/ni_routes.c", "func_decl_name": "ni_find_route_source", "is_cond": true, "line_numbers": [489, 490], "line_cids": ["", ""], "line_strs": ["", "\tdest = B(dest); /* subtract NI names offset */"]}]}

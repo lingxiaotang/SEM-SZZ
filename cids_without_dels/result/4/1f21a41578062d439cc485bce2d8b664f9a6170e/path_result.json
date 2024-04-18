@@ -1,0 +1,1 @@
+{"drivers/iio/adc/xilinx-ams.c": [{"patch_file_name": "drivers/iio/adc/xilinx-ams.c", "func_decl_name": "ams_init_module", "is_cond": false, "line_numbers": [1214, 1252], "line_cids": ["", ""], "line_strs": ["\tint num_channels = 0;", "\treturn num_channels;"]}]}

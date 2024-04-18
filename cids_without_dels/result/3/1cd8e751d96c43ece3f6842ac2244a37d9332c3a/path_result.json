@@ -1,0 +1,1 @@
+{"drivers/dma/idxd/device.c": [{"patch_file_name": "drivers/dma/idxd/device.c", "func_decl_name": "idxd_device_clear_state", "is_cond": true, "line_numbers": [710, 711], "line_cids": ["", ""], "line_strs": ["{", "\tidxd_groups_clear_state(idxd);"]}]}

@@ -1,0 +1,1 @@
+{"drivers/net/ethernet/stmicro/stmmac/dwmac-ingenic.c": [{"patch_file_name": "drivers/net/ethernet/stmicro/stmmac/dwmac-ingenic.c", "func_decl_name": "ingenic_mac_probe", "is_cond": false, "line_numbers": [264, 264], "line_cids": ["", ""], "line_strs": ["\tif (IS_ERR(mac->regmap)) {", "\tif (IS_ERR(mac->regmap)) {"]}]}

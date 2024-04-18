@@ -1,0 +1,1 @@
+{"drivers/staging/media/imx/imx7-mipi-csis.c": [{"patch_file_name": "drivers/staging/media/imx/imx7-mipi-csis.c", "func_decl_name": "mipi_csis_async_register", "is_cond": false, "line_numbers": [1171, 1171], "line_cids": ["", ""], "line_strs": ["\tif (ret)", "\tif (ret)"]}]}

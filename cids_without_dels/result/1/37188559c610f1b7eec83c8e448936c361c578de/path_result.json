@@ -1,0 +1,1 @@
+{"drivers/char/pcmcia/cm4000_cs.c": [{"patch_file_name": "drivers/char/pcmcia/cm4000_cs.c", "func_decl_name": "set_protocol", "is_cond": true, "line_numbers": [546, 547], "line_cids": ["", ""], "line_strs": ["\t\t\tDEBUGP(2, dev, \"NumRecBytes = %i\\n\", num_bytes_read);", "\t\t\tbreak;"]}]}

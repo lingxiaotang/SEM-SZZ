@@ -1,0 +1,1 @@
+{"arch/x86/kvm/vmx.c": [{"patch_file_name": "arch/x86/kvm/vmx.c", "func_decl_name": "handle_invept", "is_cond": false, "line_numbers": [7395, 7400], "line_cids": ["", ""], "line_strs": ["\ttype = kvm_register_readl(vcpu, (vmx_instruction_info >> 28) & 0xf);", "\t\tnested_vmx_failValid(vcpu,"]}]}

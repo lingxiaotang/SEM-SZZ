@@ -1,0 +1,1 @@
+{"drivers/staging/wfx/data_rx.c": [{"patch_file_name": "drivers/staging/wfx/data_rx.c", "func_decl_name": "wfx_rx_handle_ba", "is_cond": true, "line_numbers": [19, 20], "line_cids": ["", ""], "line_strs": ["", "\tswitch (mgmt->u.action.u.addba_req.action_code) {"]}]}

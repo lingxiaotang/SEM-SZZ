@@ -1,0 +1,1 @@
+{"arch/powerpc/kvm/book3s_hv.c": [{"patch_file_name": "arch/powerpc/kvm/book3s_hv.c", "func_decl_name": "kvmhv_p9_guest_entry", "is_cond": true, "line_numbers": [3609, 3610], "line_cids": ["", ""], "line_strs": ["\tdec = mfspr(SPRN_DEC);", "\ttb = mftb();"]}]}

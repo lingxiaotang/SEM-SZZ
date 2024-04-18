@@ -1,0 +1,1 @@
+{"drivers/thermal/imx8mm_thermal.c": [{"patch_file_name": "drivers/thermal/imx8mm_thermal.c", "func_decl_name": "imx8mm_tmu_enable", "is_cond": true, "line_numbers": [115, 116], "line_cids": ["", ""], "line_strs": ["\tval = enable ? (val | TER_EN) : (val & ~TER_EN);", "\twritel_relaxed(val, tmu->base + TER);"]}]}

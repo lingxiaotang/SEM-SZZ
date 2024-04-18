@@ -1,0 +1,1 @@
+{"drivers/net/wireless/realtek/rtw89/pci.c": [{"patch_file_name": "drivers/net/wireless/realtek/rtw89/pci.c", "func_decl_name": "__rtw89_pci_check_and_reclaim_tx_resource_noio", "is_cond": false, "line_numbers": [932, 935], "line_cids": ["", ""], "line_strs": ["\tcnt = rtw89_pci_get_avail_txbd_num(tx_ring);", "\treturn cnt;"]}]}

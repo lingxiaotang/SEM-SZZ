@@ -1,0 +1,1 @@
+{"drivers/nvme/target/configfs.c": [{"patch_file_name": "drivers/nvme/target/configfs.c", "func_decl_name": "nvmet_subsys_attr_model_store", "is_cond": false, "line_numbers": [1121, 1129], "line_cids": ["", ""], "line_strs": ["\tif (!new_model_number)", "\tmemcpy(new_model->number, new_model_number, len);"]}]}

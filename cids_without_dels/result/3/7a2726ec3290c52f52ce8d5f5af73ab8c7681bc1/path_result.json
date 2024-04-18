@@ -1,0 +1,1 @@
+{"virt/kvm/kvm_main.c": [{"patch_file_name": "virt/kvm/kvm_main.c", "func_decl_name": "kvm_vm_ioctl_enable_cap_generic", "is_cond": true, "line_numbers": [4587, 4588], "line_cids": ["", ""], "line_strs": ["\tcase KVM_CAP_DIRTY_LOG_RING_ACQ_REL:", "\t\treturn kvm_vm_ioctl_enable_dirty_log_ring(kvm, cap->args[0]);"]}]}

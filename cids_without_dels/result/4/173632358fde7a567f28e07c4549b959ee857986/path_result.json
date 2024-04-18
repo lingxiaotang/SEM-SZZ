@@ -1,0 +1,1 @@
+{"sound/soc/sh/rcar/core.c": [{"patch_file_name": "sound/soc/sh/rcar/core.c", "func_decl_name": "rsnd_node_count", "is_cond": false, "line_numbers": [1224, 1224], "line_cids": ["", ""], "line_strs": ["\t\ti = rsnd_node_fixed_index(np, name, i);", "\t\ti = rsnd_node_fixed_index(np, name, i);"]}]}

@@ -1,0 +1,1 @@
+{"drivers/gpu/drm/drm_fb_helper.c": [{"patch_file_name": "drivers/gpu/drm/drm_fb_helper.c", "func_decl_name": "drm_fbdev_fb_write", "is_cond": true, "line_numbers": [2191, 2192], "line_cids": ["", ""], "line_strs": ["", "\treturn ret ? ret : err;"]}]}

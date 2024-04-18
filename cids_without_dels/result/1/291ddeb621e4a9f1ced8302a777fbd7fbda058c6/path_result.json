@@ -1,0 +1,1 @@
+{"drivers/gpu/drm/ast/ast_mode.c": [{"patch_file_name": "drivers/gpu/drm/ast/ast_mode.c", "func_decl_name": "ast_set_vbios_color_reg", "is_cond": true, "line_numbers": [228, 229], "line_cids": ["", ""], "line_strs": ["\t\tcolor_index = TrueCModeIndex;", "\tdefault:"]}]}

@@ -1,0 +1,1 @@
+{"drivers/gpu/drm/i915/i915_perf.c": [{"patch_file_name": "drivers/gpu/drm/i915/i915_perf.c", "func_decl_name": "create_dynamic_oa_sysfs_entry", "is_cond": false, "line_numbers": [3120], "line_cids": [""], "line_strs": ["\toa_config->sysfs_metric_id.attr.name = \"id\";"]}]}

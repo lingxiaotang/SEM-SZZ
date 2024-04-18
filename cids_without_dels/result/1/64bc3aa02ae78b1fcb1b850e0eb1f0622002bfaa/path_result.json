@@ -1,0 +1,1 @@
+{"drivers/net/wireless/ath/ath11k/mac.c": [{"patch_file_name": "drivers/net/wireless/ath/ath11k/mac.c", "func_decl_name": "ath11k_mac_setup_bcn_tmpl", "is_cond": false, "line_numbers": [1221], "line_cids": [""], "line_strs": ["\t\tarvif->wpaie_present = true;"]}]}

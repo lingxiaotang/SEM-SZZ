@@ -1,0 +1,1 @@
+{"drivers/crypto/ccree/cc_buffer_mgr.c": [{"patch_file_name": "drivers/crypto/ccree/cc_buffer_mgr.c", "func_decl_name": "cc_map_sg", "is_cond": true, "line_numbers": [260, 261], "line_cids": ["", ""], "line_strs": ["", "\t*nents = cc_get_sgl_nents(dev, sg, nbytes, lbytes);"]}]}

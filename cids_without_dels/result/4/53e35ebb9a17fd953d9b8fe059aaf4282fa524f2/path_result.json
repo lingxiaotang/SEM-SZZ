@@ -1,0 +1,1 @@
+{"drivers/net/ethernet/stmicro/stmmac/dwmac-intel.c": [{"patch_file_name": "drivers/net/ethernet/stmicro/stmmac/dwmac-intel.c", "func_decl_name": "intel_crosststamp", "is_cond": true, "line_numbers": [322, 322], "line_cids": ["", ""], "line_strs": ["\tdefault:", "\tdefault:"]}]}

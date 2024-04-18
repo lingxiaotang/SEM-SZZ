@@ -1,0 +1,1 @@
+{"drivers/usb/serial/ti_usb_3410_5052.c": [{"patch_file_name": "drivers/usb/serial/ti_usb_3410_5052.c", "func_decl_name": "ti_startup", "is_cond": true, "line_numbers": [581, 582], "line_cids": ["", ""], "line_strs": ["", "\treturn 0;"]}]}

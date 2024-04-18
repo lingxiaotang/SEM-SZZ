@@ -1,0 +1,1 @@
+{"drivers/net/usb/lan78xx.c": [{"patch_file_name": "drivers/net/usb/lan78xx.c", "func_decl_name": "lan78xx_reset", "is_cond": true, "line_numbers": [2452, 2453], "line_cids": ["", ""], "line_strs": ["\t\tbuf &= ~MAC_CR_GMII_EN_;", "\tret = lan78xx_write_reg(dev, MAC_CR, buf);"]}]}

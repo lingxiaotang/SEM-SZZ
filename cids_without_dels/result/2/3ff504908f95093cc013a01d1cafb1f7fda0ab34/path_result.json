@@ -1,0 +1,1 @@
+{"drivers/net/ethernet/hisilicon/hns3/hns3pf/hclge_cmd.c": [{"patch_file_name": "drivers/net/ethernet/hisilicon/hns3/hns3pf/hclge_cmd.c", "func_decl_name": "hclge_cmd_csq_clean", "is_cond": true, "line_numbers": [151, 152], "line_cids": ["", ""], "line_strs": ["\thead = hclge_read_dev(hw, HCLGE_NIC_CSQ_HEAD_REG);", ""]}]}

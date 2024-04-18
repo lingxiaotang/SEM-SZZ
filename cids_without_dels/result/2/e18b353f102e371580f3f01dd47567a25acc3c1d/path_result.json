@@ -1,0 +1,1 @@
+{"drivers/net/ipvlan/ipvlan_core.c": [{"patch_file_name": "drivers/net/ipvlan/ipvlan_core.c", "func_decl_name": "ipvlan_process_multicast", "is_cond": true, "line_numbers": [268, 279, 281], "line_cids": ["", "", ""], "line_strs": ["\t\t\tlocal_bh_disable();", "\t\t\tlocal_bh_enable();", "\t\trcu_read_unlock();"]}]}

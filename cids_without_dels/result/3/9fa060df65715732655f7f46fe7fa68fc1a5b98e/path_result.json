@@ -1,0 +1,1 @@
+{"drivers/i2c/busses/i2c-pxa.c": [{"patch_file_name": "drivers/i2c/busses/i2c-pxa.c", "func_decl_name": "i2c_pxa_init_recovery", "is_cond": true, "line_numbers": [1350, 1351], "line_cids": ["", ""], "line_strs": ["\ti2c->pinctrl = devm_pinctrl_get(dev);", "\tif (IS_ERR(i2c->pinctrl))"]}]}

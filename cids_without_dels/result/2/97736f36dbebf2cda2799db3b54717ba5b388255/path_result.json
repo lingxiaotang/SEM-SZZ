@@ -1,0 +1,1 @@
+{"drivers/infiniband/hw/hfi1/user_exp_rcv.c": [{"patch_file_name": "drivers/infiniband/hw/hfi1/user_exp_rcv.c", "func_decl_name": "hfi1_user_exp_rcv_setup", "is_cond": true, "line_numbers": [326, 327], "line_cids": ["", ""], "line_strs": ["", "\ttidbuf = kzalloc(sizeof(*tidbuf), GFP_KERNEL);"]}]}

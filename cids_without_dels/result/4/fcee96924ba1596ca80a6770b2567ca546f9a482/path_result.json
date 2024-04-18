@@ -1,0 +1,1 @@
+{"arch/powerpc/sysdev/fsl_rio.c": [{"patch_file_name": "arch/powerpc/sysdev/fsl_rio.c", "func_decl_name": "fsl_rio_setup", "is_cond": false, "line_numbers": [504, 506], "line_cids": ["", ""], "line_strs": ["\trc = of_address_to_resource(rmu_node, 0, &rmu_regs);", "\t\tdev_err(&dev->dev, \"Can't get %pOF property 'reg'\\n\","]}]}

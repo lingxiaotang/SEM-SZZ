@@ -1,0 +1,1 @@
+{"drivers/net/ethernet/amazon/ena/ena_com.c": [{"patch_file_name": "drivers/net/ethernet/amazon/ena/ena_com.c", "func_decl_name": "ena_com_rss_init", "is_cond": false, "line_numbers": [2630, 2634], "line_cids": ["", ""], "line_strs": ["\trc = ena_com_hash_key_allocate(ena_dev);", "\trc = ena_com_hash_ctrl_init(ena_dev);"]}]}

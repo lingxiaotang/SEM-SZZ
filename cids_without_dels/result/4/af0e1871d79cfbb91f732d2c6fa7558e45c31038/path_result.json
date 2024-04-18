@@ -1,0 +1,1 @@
+{"drivers/iio/light/tsl2583.c": [{"patch_file_name": "drivers/iio/light/tsl2583.c", "func_decl_name": "tsl2583_als_calibrate", "is_cond": true, "line_numbers": [343, 344], "line_cids": ["", ""], "line_strs": ["", "\tgain_trim_val = (unsigned int)(((chip->als_settings.als_cal_target)"]}]}

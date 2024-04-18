@@ -1,0 +1,1 @@
+{"virt/kvm/arm/vgic/vgic.c": [{"patch_file_name": "virt/kvm/arm/vgic/vgic.c", "func_decl_name": "kvm_vgic_flush_hwstate", "is_cond": true, "line_numbers": [655, 656], "line_cids": ["", ""], "line_strs": ["{", "\tspin_lock(&vcpu->arch.vgic_cpu.ap_list_lock);"]}]}

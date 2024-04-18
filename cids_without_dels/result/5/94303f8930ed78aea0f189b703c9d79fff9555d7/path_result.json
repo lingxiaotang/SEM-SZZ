@@ -1,0 +1,1 @@
+{"drivers/rtc/rtc-brcmstb-waketimer.c": [{"patch_file_name": "drivers/rtc/rtc-brcmstb-waketimer.c", "func_decl_name": "brcmstb_waketmr_remove", "is_cond": false, "line_numbers": [275, 277], "line_cids": ["", ""], "line_strs": ["\tstruct brcmstb_waketmr *timer = dev_get_drvdata(&pdev->dev);", "\tunregister_reboot_notifier(&timer->reboot_notifier);"]}]}

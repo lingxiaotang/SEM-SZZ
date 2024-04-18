@@ -1,0 +1,1 @@
+{"kernel/padata.c": [{"patch_file_name": "kernel/padata.c", "func_decl_name": "padata_do_serial", "is_cond": true, "line_numbers": [372, 390], "line_cids": ["", ""], "line_strs": ["\tcpu = get_cpu();", "\tput_cpu();"]}]}

@@ -1,0 +1,1 @@
+{"drivers/gpu/drm/virtio/virtgpu_object.c": [{"patch_file_name": "drivers/gpu/drm/virtio/virtgpu_object.c", "func_decl_name": "virtio_gpu_object_shmem_init", "is_cond": false, "line_numbers": [171, 173], "line_cids": ["", ""], "line_strs": ["\tif (IS_ERR(shmem->pages)) {", "\t\treturn PTR_ERR(shmem->pages);"]}]}

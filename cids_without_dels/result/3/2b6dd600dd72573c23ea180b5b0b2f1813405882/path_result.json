@@ -1,0 +1,1 @@
+{"drivers/dma-buf/udmabuf.c": [{"patch_file_name": "drivers/dma-buf/udmabuf.c", "func_decl_name": "udmabuf_create", "is_cond": true, "line_numbers": [195, 195], "line_cids": ["", ""], "line_strs": ["\tif (!ubuf->pages) {", "\tif (!ubuf->pages) {"]}]}

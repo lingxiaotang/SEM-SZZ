@@ -1,0 +1,1 @@
+{"drivers/usb/host/xhci-ext-caps.c": [{"patch_file_name": "drivers/usb/host/xhci-ext-caps.c", "func_decl_name": "xhci_create_intel_xhci_sw_pdev", "is_cond": false, "line_numbers": [57, 57], "line_cids": ["", ""], "line_strs": ["\t\tret = platform_device_add_properties(pdev, role_switch_props);", "\t\tret = platform_device_add_properties(pdev, role_switch_props);"]}]}

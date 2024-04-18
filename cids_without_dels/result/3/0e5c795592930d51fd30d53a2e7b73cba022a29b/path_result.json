@@ -1,0 +1,1 @@
+{"fs/cifs/smb2ops.c": [{"patch_file_name": "fs/cifs/smb2ops.c", "func_decl_name": "smb3_enum_snapshots", "is_cond": false, "line_numbers": [935, 935], "line_cids": ["", ""], "line_strs": ["\tif (ret_data_len && (ioc_buf != NULL) && (retbuf != NULL)) {", "\tif (ret_data_len && (ioc_buf != NULL) && (retbuf != NULL)) {"]}]}

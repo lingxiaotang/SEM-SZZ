@@ -1,0 +1,1 @@
+{"drivers/net/ethernet/mellanox/mlx5/core/dev.c": [{"patch_file_name": "drivers/net/ethernet/mellanox/mlx5/core/dev.c", "func_decl_name": "mlx5_detach_device", "is_cond": true, "line_numbers": [348, 348], "line_cids": ["", ""], "line_strs": ["\tfor (i = ARRAY_SIZE(mlx5_adev_devices) - 1; i >= 0; i--) {", "\tfor (i = ARRAY_SIZE(mlx5_adev_devices) - 1; i >= 0; i--) {"]}]}

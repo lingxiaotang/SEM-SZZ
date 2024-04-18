@@ -1,0 +1,1 @@
+{"drivers/opp/ti-opp-supply.c": [{"patch_file_name": "drivers/opp/ti-opp-supply.c", "func_decl_name": "ti_opp_supply_set_opp", "is_cond": true, "line_numbers": [292, 293], "line_cids": ["", ""], "line_strs": ["", "\t/* Scaling up? Scale voltage before frequency */"]}]}

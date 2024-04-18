@@ -1,0 +1,1 @@
+{"drivers/net/ipvlan/ipvlan_main.c": [{"patch_file_name": "drivers/net/ipvlan/ipvlan_main.c", "func_decl_name": "ipvlan_link_new", "is_cond": true, "line_numbers": [551, 552], "line_cids": ["", ""], "line_strs": ["\t\t\t     GFP_KERNEL);", "\tif (err < 0)"]}]}

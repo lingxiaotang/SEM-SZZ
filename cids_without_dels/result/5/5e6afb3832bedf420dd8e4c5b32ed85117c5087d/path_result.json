@@ -1,0 +1,1 @@
+{"drivers/regulator/da9055-regulator.c": [{"patch_file_name": "drivers/regulator/da9055-regulator.c", "func_decl_name": "da9055_ldo5_6_oc_irq", "is_cond": false, "line_numbers": [488, 490], "line_cids": ["", ""], "line_strs": ["\tstruct da9055_regulator *regulator = data;", "\tregulator_notifier_call_chain(regulator->rdev,"]}]}

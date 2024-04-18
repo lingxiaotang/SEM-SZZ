@@ -1,0 +1,1 @@
+{"drivers/iio/light/ltr501.c": [{"patch_file_name": "drivers/iio/light/ltr501.c", "func_decl_name": "ltr501_is_volatile_reg", "is_cond": true, "line_numbers": [1356, 1357], "line_cids": ["", ""], "line_strs": ["\tcase LTR501_ALS_DATA1:", "\tcase LTR501_ALS_DATA0:"]}]}

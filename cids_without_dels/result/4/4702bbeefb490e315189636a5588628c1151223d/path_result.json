@@ -1,0 +1,1 @@
+{"crypto/lrw.c": [{"patch_file_name": "crypto/lrw.c", "func_decl_name": "decrypt_done", "is_cond": true, "line_numbers": [391, 392], "line_cids": ["", ""], "line_strs": ["\trctx = skcipher_request_ctx(req);", "\tsubreq = &rctx->subreq;"]}]}

@@ -1,0 +1,1 @@
+{"drivers/gpu/drm/amd/amdgpu/gfx_v10_0.c": [{"patch_file_name": "drivers/gpu/drm/amd/amdgpu/gfx_v10_0.c", "func_decl_name": "gfx_v10_0_set_gfx_eop_interrupt_state", "is_cond": true, "line_numbers": [4613, 4614], "line_cids": ["", ""], "line_strs": ["\t\tWREG32(cp_int_cntl_reg, cp_int_cntl);", "\tcase AMDGPU_IRQ_STATE_ENABLE:"]}]}

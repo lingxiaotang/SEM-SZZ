@@ -1,0 +1,1 @@
+{"arch/powerpc/perf/core-book3s.c": [{"patch_file_name": "arch/powerpc/perf/core-book3s.c", "func_decl_name": "perf_event_print_debug", "is_cond": true, "line_numbers": [795, 796], "line_cids": ["", ""], "line_strs": ["", "\tif (!ppmu->n_counter)"]}]}

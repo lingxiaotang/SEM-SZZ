@@ -1,0 +1,1 @@
+{"drivers/usb/dwc3/core.c": [{"patch_file_name": "drivers/usb/dwc3/core.c", "func_decl_name": "dwc3_probe", "is_cond": false, "line_numbers": [1566, 1567], "line_cids": ["", ""], "line_strs": ["\tdwc3_event_buffers_cleanup(dwc);", "\tdwc3_ulpi_exit(dwc);"]}]}

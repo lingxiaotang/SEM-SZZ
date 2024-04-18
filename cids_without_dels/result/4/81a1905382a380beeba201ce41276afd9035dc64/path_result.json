@@ -1,0 +1,1 @@
+{"drivers/bluetooth/hci_bcm.c": [{"patch_file_name": "drivers/bluetooth/hci_bcm.c", "func_decl_name": "bcm_serdev_probe", "is_cond": true, "line_numbers": [975, 976], "line_cids": ["", ""], "line_strs": ["\tbcmdev->dev = &serdev->dev;", "\tbcmdev->hu = &bcmdev->serdev_hu;"]}]}

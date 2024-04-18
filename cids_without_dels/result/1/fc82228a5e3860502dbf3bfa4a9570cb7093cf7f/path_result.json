@@ -1,0 +1,1 @@
+{"fs/ext4/inode.c": [{"patch_file_name": "fs/ext4/inode.c", "func_decl_name": "ext4_inode_is_fast_symlink", "is_cond": true, "line_numbers": [151, 152], "line_cids": ["", ""], "line_strs": ["{", "\treturn S_ISLNK(inode->i_mode) && inode->i_size &&"]}]}

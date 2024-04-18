@@ -1,0 +1,1 @@
+{"net/netfilter/nft_fwd_netdev.c": [{"patch_file_name": "net/netfilter/nft_fwd_netdev.c", "func_decl_name": "nft_fwd_netdev_eval", "is_cond": false, "line_numbers": [31], "line_cids": [""], "line_strs": ["\tnf_fwd_netdev_egress(pkt, oif);"]}]}

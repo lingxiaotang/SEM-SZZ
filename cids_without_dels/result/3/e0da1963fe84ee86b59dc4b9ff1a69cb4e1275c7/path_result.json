@@ -1,0 +1,1 @@
+{"drivers/gpu/drm/i915/i915_gem.c": [{"patch_file_name": "drivers/gpu/drm/i915/i915_gem.c", "func_decl_name": "i915_gem_wait_for_idle", "is_cond": true, "line_numbers": [3300, 3301], "line_cids": ["", ""], "line_strs": ["", "\tif (flags & I915_WAIT_LOCKED) {"]}]}

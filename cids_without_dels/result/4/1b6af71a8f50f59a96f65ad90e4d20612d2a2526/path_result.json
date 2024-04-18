@@ -1,0 +1,1 @@
+{"drivers/irqchip/irq-mips-gic.c": [{"patch_file_name": "drivers/irqchip/irq-mips-gic.c", "func_decl_name": "gic_local_irq_domain_map", "is_cond": true, "line_numbers": [606, 606], "line_cids": ["", ""], "line_strs": ["\tfor (i = 0; i < gic_vpes; i++) {", "\tfor (i = 0; i < gic_vpes; i++) {"]}]}

@@ -1,0 +1,1 @@
+{"drivers/net/ethernet/mellanox/mlx5/core/en_rx_am.c": [{"patch_file_name": "drivers/net/ethernet/mellanox/mlx5/core/en_rx_am.c", "func_decl_name": "mlx5e_am_stats_compare", "is_cond": true, "line_numbers": [203, 204], "line_cids": ["", ""], "line_strs": ["", "\tif (IS_SIGNIFICANT_DIFF(curr->ppms, prev->ppms))"]}]}

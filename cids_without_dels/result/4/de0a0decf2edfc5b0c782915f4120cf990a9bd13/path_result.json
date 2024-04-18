@@ -1,0 +1,1 @@
+{"drivers/mmc/host/sdhci-esdhc-imx.c": [{"patch_file_name": "drivers/mmc/host/sdhci-esdhc-imx.c", "func_decl_name": "esdhc_set_uhs_signaling", "is_cond": true, "line_numbers": [995, 996], "line_cids": ["", ""], "line_strs": ["\tcase MMC_TIMING_UHS_SDR104:", "\tcase MMC_TIMING_MMC_HS200:"]}]}

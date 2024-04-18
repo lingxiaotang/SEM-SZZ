@@ -1,0 +1,1 @@
+{"tools/bootconfig/main.c": [{"patch_file_name": "tools/bootconfig/main.c", "func_decl_name": "apply_xbc", "is_cond": false, "line_numbers": [336, 344], "line_cids": ["", ""], "line_strs": ["\tif (ret < 0) {", "\treturn ret;"]}]}

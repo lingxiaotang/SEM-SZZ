@@ -1,0 +1,1 @@
+{"fs/namespace.c": [{"patch_file_name": "fs/namespace.c", "func_decl_name": "umount_tree", "is_cond": true, "line_numbers": [1372, 1373], "line_cids": ["", ""], "line_strs": ["\t\tlast->mnt_hash.next = unmounted.first;", "\t\tunmounted.first = tmp_list.first;"]}]}

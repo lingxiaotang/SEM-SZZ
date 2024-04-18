@@ -1,0 +1,1 @@
+{"drivers/gpu/drm/drm_fb_helper.c": [{"patch_file_name": "drivers/gpu/drm/drm_fb_helper.c", "func_decl_name": "drm_fb_helper_single_fb_probe", "is_cond": true, "line_numbers": [1811, 1812], "line_cids": ["", ""], "line_strs": ["\t\tDRM_INFO(\"Cannot find any crtc or sizes\\n\");", "\t\treturn -EAGAIN;"]}]}

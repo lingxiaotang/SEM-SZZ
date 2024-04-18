@@ -1,0 +1,1 @@
+{"fs/ntfs3/index.c": [{"patch_file_name": "fs/ntfs3/index.c", "func_decl_name": "indx_add_allocate", "is_cond": false, "line_numbers": [1496, 1496], "line_cids": ["", ""], "line_strs": ["\t\tif (err)", "\t\tif (err)"]}]}

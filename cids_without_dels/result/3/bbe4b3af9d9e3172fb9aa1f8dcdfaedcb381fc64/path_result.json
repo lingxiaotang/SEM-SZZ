@@ -1,0 +1,32 @@
+{
+    "drivers/iommu/intel-svm.c": [
+        {
+            "patch_file_name": "drivers/iommu/intel-svm.c",
+            "func_decl_name": "intel_svm_bind_mm",
+            "is_cond": false,
+            "line_numbers": [
+                398
+            ],
+            "line_cids": [
+                ""
+            ],
+            "line_strs": [
+                "\t\t\tkfree(svm);"
+            ]
+        },
+        {
+            "patch_file_name": "drivers/iommu/intel-svm.c",
+            "func_decl_name": "intel_svm_bind_mm",
+            "is_cond": false,
+            "line_numbers": [
+                398
+            ],
+            "line_cids": [
+                ""
+            ],
+            "line_strs": [
+                "\t\t\tkfree(svm);"
+            ]
+        }
+    ]
+}

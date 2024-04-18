@@ -1,0 +1,1 @@
+{"drivers/gpu/drm/i915/gem/i915_gem_context.c": [{"patch_file_name": "drivers/gpu/drm/i915/gem/i915_gem_context.c", "func_decl_name": "i915_gem_driver_release__contexts", "is_cond": false, "line_numbers": [729], "line_cids": [""], "line_strs": ["\tdestroy_kernel_context(&i915->kernel_context);"]}]}

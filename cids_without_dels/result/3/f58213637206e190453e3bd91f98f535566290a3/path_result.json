@@ -1,0 +1,1 @@
+{"drivers/regulator/pv88060-regulator.c": [{"patch_file_name": "drivers/regulator/pv88060-regulator.c", "func_decl_name": "pv88060_irq_handler", "is_cond": true, "line_numbers": [245, 245], "line_cids": ["", ""], "line_strs": ["\t\tfor (i = 0; i < PV88060_MAX_REGULATORS; i++) {", "\t\tfor (i = 0; i < PV88060_MAX_REGULATORS; i++) {"]}]}

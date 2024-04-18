@@ -1,0 +1,1 @@
+{"drivers/hid/hid-steam.c": [{"patch_file_name": "drivers/hid/hid-steam.c", "func_decl_name": "steam_send_report", "is_cond": true, "line_numbers": [167, 168], "line_cids": ["", ""], "line_strs": ["\tr = steam->hdev->report_enum[HID_FEATURE_REPORT].report_id_hash[0];", "\tif (hid_report_len(r) < 64)"]}]}

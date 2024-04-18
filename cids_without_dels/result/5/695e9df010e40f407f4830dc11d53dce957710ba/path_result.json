@@ -1,0 +1,1 @@
+{"fs/namespace.c": [{"patch_file_name": "fs/namespace.c", "func_decl_name": "fs_fully_visible", "is_cond": true, "line_numbers": [3249, 3250], "line_cids": ["", ""], "line_strs": ["", "\t\t/* Verify the mount flags are equal to or more permissive"]}]}

@@ -1,0 +1,1 @@
+{"drivers/scsi/pm8001/pm80xx_hwi.c": [{"patch_file_name": "drivers/scsi/pm8001/pm80xx_hwi.c", "func_decl_name": "mpi_init_check", "is_cond": true, "line_numbers": [1016], "line_cids": [""], "line_strs": ["\t\tmsleep(FW_READY_INTERVAL);"]}]}

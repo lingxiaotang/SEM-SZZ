@@ -1,0 +1,1 @@
+{"drivers/net/ipa/gsi.c": [{"patch_file_name": "drivers/net/ipa/gsi.c", "func_decl_name": "gsi_channel_setup", "is_cond": false, "line_numbers": [1702, 1702], "line_cids": ["", ""], "line_strs": ["\t\tif (ret)", "\t\tif (ret)"]}]}

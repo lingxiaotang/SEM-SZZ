@@ -1,0 +1,1 @@
+{"fs/cifs/sess.c": [{"patch_file_name": "fs/cifs/sess.c", "func_decl_name": "cifs_ses_add_channel", "is_cond": false, "line_numbers": [471, 471], "line_cids": ["", ""], "line_strs": ["\t\trc = cifs_setup_session(xid, ses, chan->server, cifs_sb->local_nls);", "\t\trc = cifs_setup_session(xid, ses, chan->server, cifs_sb->local_nls);"]}]}

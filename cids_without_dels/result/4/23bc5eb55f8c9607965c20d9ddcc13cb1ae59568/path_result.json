@@ -1,0 +1,1 @@
+{"drivers/media/usb/airspy/airspy.c": [{"patch_file_name": "drivers/media/usb/airspy/airspy.c", "func_decl_name": "airspy_probe", "is_cond": false, "line_numbers": [1006, 1009], "line_cids": ["", ""], "line_strs": ["\tbuf[BUF_SIZE - 1] = '\\0';", "\tdev_info(s->dev, \"Firmware version: %s\\n\", buf);"]}]}

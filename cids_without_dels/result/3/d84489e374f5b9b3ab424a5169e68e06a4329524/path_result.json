@@ -1,0 +1,1 @@
+{"sound/pci/hda/patch_ca0132.c": [{"patch_file_name": "sound/pci/hda/patch_ca0132.c", "func_decl_name": "ca0132_alt_init", "is_cond": false, "line_numbers": [9407, 9450], "line_cids": ["", ""], "line_strs": ["\tca0132_alt_vol_setup(codec);", "\t\tsnd_hda_sequence_write(codec, spec->chip_init_verbs);"]}]}

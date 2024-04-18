@@ -1,0 +1,1 @@
+{"drivers/usb/dwc2/hcd_intr.c": [{"patch_file_name": "drivers/usb/dwc2/hcd_intr.c", "func_decl_name": "dwc2_hc_chhltd_intr_dma", "is_cond": true, "line_numbers": [1979, 1980], "line_cids": ["", ""], "line_strs": ["\t\t\t\t\t  qtd, DWC2_HC_XFER_XACT_ERR);", "\t\tdwc2_hcd_save_data_toggle(hsotg, chan, chnum, qtd);"]}]}

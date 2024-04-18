@@ -1,0 +1,1 @@
+{"tools/perf/arch/x86/util/perf_regs.c": [{"patch_file_name": "tools/perf/arch/x86/util/perf_regs.c", "func_decl_name": "arch__intr_reg_mask", "is_cond": true, "line_numbers": [292, 293], "line_cids": ["", ""], "line_strs": ["", "\tevent_attr_init(&attr);"]}]}

@@ -1,0 +1,1 @@
+{"kernel/tracepoint.c": [{"patch_file_name": "kernel/tracepoint.c", "func_decl_name": "release_probes", "is_cond": true, "line_numbers": [87, 88], "line_cids": ["", ""], "line_strs": ["\t\t\tstruct tp_probes, probes[0]);", "\t\t/*"]}]}

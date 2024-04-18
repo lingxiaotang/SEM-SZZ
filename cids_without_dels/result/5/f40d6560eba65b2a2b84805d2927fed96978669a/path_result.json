@@ -1,0 +1,1 @@
+{"drivers/gpu/drm/bridge/synopsys/dw-hdmi.c": [{"patch_file_name": "drivers/gpu/drm/bridge/synopsys/dw-hdmi.c", "func_decl_name": "hdmi_config_AVI", "is_cond": true, "line_numbers": [1306, 1307], "line_cids": ["", ""], "line_strs": ["\t\t\t\tHDMI_EXTENDED_COLORIMETRY_XV_YCC_601;", "\tcase V4L2_YCBCR_ENC_709:"]}]}

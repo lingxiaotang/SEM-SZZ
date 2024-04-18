@@ -1,0 +1,1 @@
+{"drivers/scsi/ufs/ufshcd.c": [{"patch_file_name": "drivers/scsi/ufs/ufshcd.c", "func_decl_name": "ufshcd_system_suspend", "is_cond": true, "line_numbers": [8980, 8984], "line_cids": ["", ""], "line_strs": ["\tif ((ufs_get_pm_lvl_to_dev_pwr_mode(hba->spm_lvl) ==", "\t     !hba->dev_info.b_rpm_dev_flush_capable)"]}]}

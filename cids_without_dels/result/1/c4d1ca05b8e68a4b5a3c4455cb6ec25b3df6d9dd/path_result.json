@@ -1,0 +1,1 @@
+{"drivers/usb/host/xhci-pci.c": [{"patch_file_name": "drivers/usb/host/xhci-pci.c", "func_decl_name": "xhci_pci_quirks", "is_cond": true, "line_numbers": [233, 235], "line_cids": ["", ""], "line_strs": ["\t    (pdev->device == PCI_DEVICE_ID_INTEL_ALPINE_RIDGE_2C_XHCI ||", "\t     pdev->device == PCI_DEVICE_ID_INTEL_ALPINE_RIDGE_C_2C_XHCI ||"]}]}

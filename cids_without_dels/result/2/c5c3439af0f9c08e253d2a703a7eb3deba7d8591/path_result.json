@@ -1,0 +1,1 @@
+{"scripts/mod/modpost.c": [{"patch_file_name": "scripts/mod/modpost.c", "func_decl_name": "section_mismatch", "is_cond": true, "line_numbers": [1066, 1067], "line_cids": ["", ""], "line_strs": ["", "\tfor (i = 0; i < elems; i++) {"]}]}

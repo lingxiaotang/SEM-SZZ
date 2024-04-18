@@ -1,0 +1,1 @@
+{"net/tipc/node.c": [{"patch_file_name": "net/tipc/node.c", "func_decl_name": "tipc_node_create", "is_cond": true, "line_numbers": [372, 373], "line_cids": ["", ""], "line_strs": ["\tif (n) {", "\t\t/* Same node may come back with new capabilities */"]}]}

@@ -1,0 +1,1 @@
+{"drivers/i2c/busses/i2c-mlxbf.c": [{"patch_file_name": "drivers/i2c/busses/i2c-mlxbf.c", "func_decl_name": "mlxbf_i2c_probe", "is_cond": true, "line_numbers": [2372, 2373], "line_cids": ["", ""], "line_strs": ["\tirq = platform_get_irq(pdev, 0);", "\tret = devm_request_irq(dev, irq, mlxbf_smbus_irq,"]}]}

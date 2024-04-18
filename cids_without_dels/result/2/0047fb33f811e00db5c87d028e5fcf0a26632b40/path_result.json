@@ -1,0 +1,1 @@
+{"arch/x86/kvm/x86.c": [{"patch_file_name": "arch/x86/kvm/x86.c", "func_decl_name": "kvm_arch_vcpu_guestdbg_update_apicv_inhibit", "is_cond": true, "line_numbers": [10980, 10981], "line_cids": ["", ""], "line_strs": ["", "\tdown_write(&kvm->arch.apicv_update_lock);"]}]}

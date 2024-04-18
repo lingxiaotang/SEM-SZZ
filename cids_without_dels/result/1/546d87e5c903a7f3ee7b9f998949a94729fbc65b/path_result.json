@@ -1,0 +1,1 @@
+{"arch/x86/kvm/x86.c": [{"patch_file_name": "arch/x86/kvm/x86.c", "func_decl_name": "kvm_vcpu_ioctl_enable_cap", "is_cond": true, "line_numbers": [3344, 3345], "line_cids": ["", ""], "line_strs": ["\tcase KVM_CAP_HYPERV_SYNIC:", "\t\treturn kvm_hv_activate_synic(vcpu);"]}]}

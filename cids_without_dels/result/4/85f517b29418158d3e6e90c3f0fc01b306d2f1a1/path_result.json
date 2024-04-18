@@ -1,0 +1,1 @@
+{"arch/s390/kvm/priv.c": [{"patch_file_name": "arch/s390/kvm/priv.c", "func_decl_name": "handle_sske", "is_cond": true, "line_numbers": [399, 400], "line_cids": ["", ""], "line_strs": ["\t\t\treturn kvm_s390_inject_program_int(vcpu, PGM_ADDRESSING);", "\t\tif (rc < 0)"]}]}

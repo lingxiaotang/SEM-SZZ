@@ -1,0 +1,1 @@
+{"drivers/usb/usbip/vhci_hcd.c": [{"patch_file_name": "drivers/usb/usbip/vhci_hcd.c", "func_decl_name": "vhci_hub_control", "is_cond": true, "line_numbers": [398, 399], "line_cids": ["", ""], "line_strs": ["\t\t\t\t\t  wValue);", "\t\t\tvhci_hcd->port_status[rhport] &= ~(1 << wValue);"]}]}

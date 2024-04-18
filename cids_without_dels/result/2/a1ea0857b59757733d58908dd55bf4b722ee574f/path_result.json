@@ -1,0 +1,1 @@
+{"drivers/clk/stm32/reset-stm32.c": [{"patch_file_name": "drivers/clk/stm32/reset-stm32.c", "func_decl_name": "stm32_rcc_reset_init", "is_cond": false, "line_numbers": [111, 114], "line_cids": ["", ""], "line_strs": ["\tif (!reset_data)", "\treset_data->membase = base;"]}]}

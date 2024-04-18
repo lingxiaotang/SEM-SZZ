@@ -1,0 +1,1 @@
+{"tools/lib/bpf/btf_dump.c": [{"patch_file_name": "tools/lib/bpf/btf_dump.c", "func_decl_name": "btf_dump__new", "is_cond": true, "line_numbers": [144, 145], "line_cids": ["", ""], "line_strs": ["\t\td->type_names = NULL;", "\t}"]}]}

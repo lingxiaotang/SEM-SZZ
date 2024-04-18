@@ -1,0 +1,1 @@
+{"kernel/trace/trace_hwlat.c": [{"patch_file_name": "kernel/trace/trace_hwlat.c", "func_decl_name": "get_sample", "is_cond": true, "line_numbers": [258, 259], "line_cids": ["", ""], "line_strs": ["\t\t\ttr->max_latency = sample;", "\t}"]}]}

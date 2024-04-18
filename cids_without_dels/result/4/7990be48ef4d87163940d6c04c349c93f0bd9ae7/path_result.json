@@ -1,0 +1,1 @@
+{"drivers/usb/typec/mux/intel_pmc_mux.c": [{"patch_file_name": "drivers/usb/typec/mux/intel_pmc_mux.c", "func_decl_name": "pmc_usb_mux_dp", "is_cond": true, "line_numbers": [159, 160], "line_cids": ["", ""], "line_strs": ["", "\treturn pmc_usb_command(port, (void *)&req, sizeof(req));"]}]}

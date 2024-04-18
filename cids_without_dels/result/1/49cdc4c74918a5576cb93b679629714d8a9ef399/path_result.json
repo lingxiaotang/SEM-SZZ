@@ -1,0 +1,1 @@
+{"net/netfilter/nft_range.c": [{"patch_file_name": "net/netfilter/nft_range.c", "func_decl_name": "nft_range_init", "is_cond": true, "line_numbers": [61, 62], "line_cids": ["", ""], "line_strs": ["", "\terr = nft_data_init(NULL, &priv->data_from, sizeof(priv->data_from),"]}]}

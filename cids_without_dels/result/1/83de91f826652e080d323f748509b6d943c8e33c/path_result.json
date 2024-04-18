@@ -1,0 +1,1 @@
+{"drivers/net/ethernet/mellanox/mlx5/core/steering/dr_domain.c": [{"patch_file_name": "drivers/net/ethernet/mellanox/mlx5/core/steering/dr_domain.c", "func_decl_name": "dr_domain_init_resources", "is_cond": false, "line_numbers": [61, 61], "line_cids": ["", ""], "line_strs": ["\tif (ret) {", "\tif (ret) {"]}]}

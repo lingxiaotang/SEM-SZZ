@@ -1,0 +1,1 @@
+{"drivers/usb/chipidea/ci_hdrc_tegra.c": [{"patch_file_name": "drivers/usb/chipidea/ci_hdrc_tegra.c", "func_decl_name": "tegra_udc_remove", "is_cond": false, "line_numbers": [131, 133], "line_cids": ["", ""], "line_strs": ["\tstruct tegra_udc *udc = platform_get_drvdata(pdev);", "\tusb_phy_set_suspend(udc->phy, 1);"]}]}

@@ -1,0 +1,1 @@
+{"crypto/rsa-pkcs1pad.c": [{"patch_file_name": "crypto/rsa-pkcs1pad.c", "func_decl_name": "pkcs1pad_verify_complete", "is_cond": true, "line_numbers": [478, 479], "line_cids": ["", ""], "line_strs": ["\tif (digest_info) {", "\t\tif (crypto_memneq(out_buf + pos, digest_info->data,"]}]}

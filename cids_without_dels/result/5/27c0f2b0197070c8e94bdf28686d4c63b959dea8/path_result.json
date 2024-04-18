@@ -1,0 +1,1 @@
+{"drivers/clk/zynqmp/clkc.c": [{"patch_file_name": "drivers/clk/zynqmp/clkc.c", "func_decl_name": "zynqmp_clk_register_fixed_factor", "is_cond": true, "line_numbers": [281, 282], "line_cids": ["", ""], "line_strs": ["\tret = eemi_ops->query_data(qdata, ret_payload);", "\tmult = ret_payload[1];"]}]}

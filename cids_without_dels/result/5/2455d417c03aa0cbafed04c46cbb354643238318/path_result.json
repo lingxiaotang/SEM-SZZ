@@ -1,0 +1,1 @@
+{"drivers/media/platform/vim2m.c": [{"patch_file_name": "drivers/media/platform/vim2m.c", "func_decl_name": "vim2m_probe", "is_cond": false, "line_numbers": [1345, 1345], "line_cids": ["", ""], "line_strs": ["\t\tret = PTR_ERR(dev->m2m_dev);", "\t\tret = PTR_ERR(dev->m2m_dev);"]}]}

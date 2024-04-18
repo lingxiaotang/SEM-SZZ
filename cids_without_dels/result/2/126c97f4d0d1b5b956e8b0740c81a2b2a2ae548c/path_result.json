@@ -1,0 +1,1 @@
+{"fs/cifs/sess.c": [{"patch_file_name": "fs/cifs/sess.c", "func_decl_name": "build_ntlmssp_auth_blob", "is_cond": true, "line_numbers": [400, 401], "line_cids": ["", ""], "line_strs": ["\t*pbuffer = kmalloc(size_of_ntlmssp_blob(ses), GFP_KERNEL);", "\tsec_blob = (AUTHENTICATE_MESSAGE *)*pbuffer;"]}]}

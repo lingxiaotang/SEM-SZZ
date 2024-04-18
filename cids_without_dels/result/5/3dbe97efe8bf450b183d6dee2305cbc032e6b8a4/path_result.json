@@ -1,0 +1,1 @@
+{"drivers/pci/probe.c": [{"patch_file_name": "drivers/pci/probe.c", "func_decl_name": "pci_configure_mps", "is_cond": true, "line_numbers": [1732, 1733], "line_cids": ["", ""], "line_strs": ["", "\tmps = pcie_get_mps(dev);"]}]}

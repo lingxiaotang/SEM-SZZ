@@ -1,0 +1,1 @@
+{"net/bluetooth/mgmt.c": [{"patch_file_name": "net/bluetooth/mgmt.c", "func_decl_name": "mgmt_index_removed", "is_cond": true, "line_numbers": [8937, 8938], "line_cids": ["", ""], "line_strs": ["\t/* Cancel any remaining timed work */", "\tcancel_delayed_work_sync(&hdev->discov_off);"]}]}

@@ -1,0 +1,1 @@
+{"net/sctp/sm_statefuns.c": [{"patch_file_name": "net/sctp/sm_statefuns.c", "func_decl_name": "sctp_sf_violation", "is_cond": true, "line_numbers": [4671, 4672], "line_cids": ["", ""], "line_strs": ["", "\t/* Make sure that the chunk has a valid length. */"]}]}

@@ -1,0 +1,1 @@
+{"drivers/pwm/pwm-bcm2835.c": [{"patch_file_name": "drivers/pwm/pwm-bcm2835.c", "func_decl_name": "bcm2835_pwm_probe", "is_cond": false, "line_numbers": [168, 169], "line_cids": ["", ""], "line_strs": ["\tpc->chip.ops = &bcm2835_pwm_ops;", "\tpc->chip.npwm = 2;"]}]}

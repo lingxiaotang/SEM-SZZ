@@ -1,0 +1,1 @@
+{"drivers/iio/common/hid-sensors/hid-sensor-attributes.c": [{"patch_file_name": "drivers/iio/common/hid-sensors/hid-sensor-attributes.c", "func_decl_name": "hid_sensor_parse_common_attributes", "is_cond": true, "line_numbers": [419, 420], "line_cids": ["", ""], "line_strs": ["", "\treturn 0;"]}]}

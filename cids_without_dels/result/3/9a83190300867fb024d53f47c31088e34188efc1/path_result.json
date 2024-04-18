@@ -1,0 +1,1 @@
+{"drivers/usb/class/usbtmc.c": [{"patch_file_name": "drivers/usb/class/usbtmc.c", "func_decl_name": "usbtmc_ioctl_clear", "is_cond": true, "line_numbers": [1698, 1699], "line_cids": ["", ""], "line_strs": ["\t\t} while ((actual == USBTMC_BUFSIZE) &&", "\t\t\t  (n < USBTMC_MAX_READS_TO_CLEAR_BULK_IN));"]}]}

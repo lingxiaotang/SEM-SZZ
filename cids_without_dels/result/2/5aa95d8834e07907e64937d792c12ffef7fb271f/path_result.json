@@ -1,0 +1,1 @@
+{"drivers/iommu/iommu.c": [{"patch_file_name": "drivers/iommu/iommu.c", "func_decl_name": "iommu_group_remove_device", "is_cond": true, "line_numbers": [926, 927], "line_cids": ["", ""], "line_strs": ["", "\tdev_info(dev, \"Removing from iommu group %d\\n\", group->id);"]}]}

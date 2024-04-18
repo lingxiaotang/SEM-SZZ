@@ -1,0 +1,1 @@
+{"drivers/gpu/drm/tegra/plane.c": [{"patch_file_name": "drivers/gpu/drm/tegra/plane.c", "func_decl_name": "tegra_plane_format_get_alpha", "is_cond": true, "line_numbers": [299, 300], "line_cids": ["", ""], "line_strs": ["\t\treturn 0;", "\t}"]}]}

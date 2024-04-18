@@ -1,0 +1,1 @@
+{"net/sctp/socket.c": [{"patch_file_name": "net/sctp/socket.c", "func_decl_name": "sctp_setsockopt_deactivate_key", "is_cond": true, "line_numbers": [3980, 3981], "line_cids": ["", ""], "line_strs": ["", "\tif (val.scact_assoc_id == SCTP_FUTURE_ASSOC ||"]}]}

@@ -1,0 +1,1 @@
+{"kernel/bpf/devmap.c": [{"patch_file_name": "kernel/bpf/devmap.c", "func_decl_name": "dev_map_free", "is_cond": true, "line_numbers": [165, 176], "line_cids": ["", ""], "line_strs": ["\tsynchronize_rcu();", "\t\t\tcond_resched();"]}]}

@@ -1,0 +1,1 @@
+{"drivers/usb/dwc3/gadget.c": [{"patch_file_name": "drivers/usb/dwc3/gadget.c", "func_decl_name": "dwc3_gadget_exit", "is_cond": true, "line_numbers": [4066, 4067], "line_cids": ["", ""], "line_strs": ["{", "\tusb_del_gadget(dwc->gadget);"]}]}

@@ -1,0 +1,1 @@
+{"drivers/gpu/drm/msm/disp/dpu1/dpu_hw_ctl.c": [{"patch_file_name": "drivers/gpu/drm/msm/disp/dpu1/dpu_hw_ctl.c", "func_decl_name": "dpu_hw_ctl_update_pending_flush_wb", "is_cond": true, "line_numbers": [272, 273], "line_cids": ["", ""], "line_strs": ["\t\tctx->pending_flush_mask |= BIT(WB_IDX);", "\tdefault:"]}]}

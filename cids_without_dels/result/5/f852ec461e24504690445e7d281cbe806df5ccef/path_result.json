@@ -1,0 +1,1 @@
+{"drivers/power/ipaq_micro_battery.c": [{"patch_file_name": "drivers/power/ipaq_micro_battery.c", "func_decl_name": "micro_batt_remove", "is_cond": false, "line_numbers": [249, 253], "line_cids": ["", ""], "line_strs": ["\tstruct micro_battery *mb = platform_get_drvdata(pdev);", "\tcancel_delayed_work_sync(&mb->update);"]}]}

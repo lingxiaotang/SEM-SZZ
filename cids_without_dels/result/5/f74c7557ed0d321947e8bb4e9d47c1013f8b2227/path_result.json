@@ -1,0 +1,1 @@
+{"drivers/platform/chrome/cros_ec_proto.c": [{"patch_file_name": "drivers/platform/chrome/cros_ec_proto.c", "func_decl_name": "cros_ec_get_next_event", "is_cond": true, "line_numbers": [796, 797], "line_cids": ["", ""], "line_strs": ["\tret = get_next_event(ec_dev);", "\tif (ret <= 0)"]}]}

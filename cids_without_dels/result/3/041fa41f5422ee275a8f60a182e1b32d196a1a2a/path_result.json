@@ -1,0 +1,1 @@
+{"tools/testing/selftests/arm64/mte/check_tags_inclusion.c": [{"patch_file_name": "tools/testing/selftests/arm64/mte/check_tags_inclusion.c", "func_decl_name": "main", "is_cond": false, "line_numbers": [184, 184], "line_cids": ["", ""], "line_strs": ["\treturn ksft_get_fail_cnt() == 0 ? KSFT_PASS : KSFT_FAIL;", "\treturn ksft_get_fail_cnt() == 0 ? KSFT_PASS : KSFT_FAIL;"]}]}

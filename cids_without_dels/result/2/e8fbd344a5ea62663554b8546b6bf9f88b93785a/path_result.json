@@ -1,0 +1,1 @@
+{"drivers/pci/controller/dwc/pcie-tegra194.c": [{"patch_file_name": "drivers/pci/controller/dwc/pcie-tegra194.c", "func_decl_name": "tegra_pcie_config_ep", "is_cond": false, "line_numbers": [1946, 1950], "line_cids": ["", ""], "line_strs": ["\tpm_runtime_enable(dev);", "\t\tdev_err(dev, \"Failed to initialize DWC Endpoint subsystem: %d\\n\","]}]}

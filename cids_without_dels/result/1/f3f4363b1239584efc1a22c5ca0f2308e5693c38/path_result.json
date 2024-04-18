@@ -1,0 +1,1 @@
+{"drivers/regulator/lp87565-regulator.c": [{"patch_file_name": "drivers/regulator/lp87565-regulator.c", "func_decl_name": "lp87565_regulator_probe", "is_cond": true, "line_numbers": [185, 186], "line_cids": ["", ""], "line_strs": ["\t\tmax_idx = LP87565_BUCK_3210;", "\tdefault:"]}]}

@@ -1,0 +1,1 @@
+{"sound/firewire/digi00x/digi00x.c": [{"patch_file_name": "sound/firewire/digi00x/digi00x.c", "func_decl_name": "dg00x_free", "is_cond": false, "line_numbers": [49, 51], "line_cids": ["", ""], "line_strs": ["\tfw_unit_put(dg00x->unit);", "\tmutex_destroy(&dg00x->mutex);"]}]}

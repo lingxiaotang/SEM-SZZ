@@ -1,0 +1,1 @@
+{"drivers/net/ethernet/mellanox/mlxsw/spectrum_router.c": [{"patch_file_name": "drivers/net/ethernet/mellanox/mlxsw/spectrum_router.c", "func_decl_name": "mlxsw_sp_fib4_entry_offload_unset", "is_cond": true, "line_numbers": [3796, 3797], "line_cids": ["", ""], "line_strs": ["", "\tfor (i = 0; i < nh_grp->count; i++) {"]}]}

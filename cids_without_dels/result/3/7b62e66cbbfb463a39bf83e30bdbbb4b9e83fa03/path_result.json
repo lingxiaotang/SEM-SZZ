@@ -1,0 +1,1 @@
+{"fs/btrfs/compression.c": [{"patch_file_name": "fs/btrfs/compression.c", "func_decl_name": "btrfs_submit_compressed_write", "is_cond": true, "line_numbers": [493, 494], "line_cids": ["", ""], "line_strs": ["\t\t\tbio->bi_end_io = end_compressed_bio_write;", "\t\t\tbio_add_page(bio, page, PAGE_SIZE, 0);"]}]}

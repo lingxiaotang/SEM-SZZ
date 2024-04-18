@@ -1,0 +1,1 @@
+{"kernel/cgroup/cgroup.c": [], "mm/memcontrol.c": [{"patch_file_name": "mm/memcontrol.c", "func_decl_name": "mem_cgroup_sk_alloc", "is_cond": true, "line_numbers": [6698, 6699], "line_cids": ["", ""], "line_strs": ["", "\trcu_read_lock();"]}]}

@@ -1,0 +1,1 @@
+{"drivers/input/misc/da7280.c": [{"patch_file_name": "drivers/input/misc/da7280.c", "func_decl_name": "da7280_parse_properties", "is_cond": true, "line_numbers": [865, 866], "line_cids": ["", ""], "line_strs": ["\t\terror = device_property_read_string(dev, gpi_str3, &str);", "\t\t\thaptics->gpi_ctl[i].polarity ="]}]}

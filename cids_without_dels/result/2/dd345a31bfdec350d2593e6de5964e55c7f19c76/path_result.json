@@ -1,0 +1,1 @@
+{"drivers/tty/serial/mxs-auart.c": [{"patch_file_name": "drivers/tty/serial/mxs-auart.c", "func_decl_name": "mxs_auart_probe", "is_cond": true, "line_numbers": [1665, 1666], "line_cids": ["", ""], "line_strs": ["\t\treturn ret;", ""]}]}

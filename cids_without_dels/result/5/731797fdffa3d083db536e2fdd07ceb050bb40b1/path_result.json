@@ -1,0 +1,1 @@
+{"drivers/net/ethernet/hisilicon/hns3/hns3pf/hclge_dcb.c": [{"patch_file_name": "drivers/net/ethernet/hisilicon/hns3/hns3pf/hclge_dcb.c", "func_decl_name": "hclge_ets_sch_mode_validate", "is_cond": true, "line_numbers": [140, 141], "line_cids": ["", ""], "line_strs": ["\t\t\tif (hdev->tm_info.tc_info[i].tc_sch_mode !=", "\t\t\t\tHCLGE_SCH_MODE_DWRR)"]}]}

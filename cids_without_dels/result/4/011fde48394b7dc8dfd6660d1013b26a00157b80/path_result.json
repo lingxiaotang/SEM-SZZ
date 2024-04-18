@@ -1,0 +1,1 @@
+{"drivers/mmc/host/sdhci-of-esdhc.c": [{"patch_file_name": "drivers/mmc/host/sdhci-of-esdhc.c", "func_decl_name": "esdhc_of_set_clock", "is_cond": true, "line_numbers": [745, 746], "line_cids": ["", ""], "line_strs": ["\t\tsdhci_writel(host, temp, ESDHC_DLLCFG0);", "\t\ttemp = sdhci_readl(host, ESDHC_TBCTL);"]}]}

@@ -1,0 +1,1 @@
+{"net/ipv4/inet_connection_sock.c": [{"patch_file_name": "net/ipv4/inet_connection_sock.c", "func_decl_name": "inet_csk_get_port", "is_cond": true, "line_numbers": [203, 205], "line_cids": ["", ""], "line_strs": ["\t\tif (((tb->fastreuse > 0 && reuse) ||", "\t\t      sk->sk_reuseport && uid_eq(tb->fastuid, uid))) &&"]}]}

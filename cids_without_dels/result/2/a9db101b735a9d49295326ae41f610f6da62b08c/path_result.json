@@ -1,0 +1,1 @@
+{"arch/mips/kernel/branch.c": [{"patch_file_name": "arch/mips/kernel/branch.c", "func_decl_name": "__compute_return_epc_for_insn", "is_cond": true, "line_numbers": [558, 559], "line_cids": ["", ""], "line_strs": ["\t */", "\tcase jal_op:"]}]}

@@ -1,0 +1,1 @@
+{"drivers/md/dm-verity-loadpin.c": [{"patch_file_name": "drivers/md/dm-verity-loadpin.c", "func_decl_name": "is_trusted_verity_target", "is_cond": true, "line_numbers": [24, 25], "line_cids": ["", ""], "line_strs": ["", "\tif (dm_verity_get_root_digest(ti, &root_digest, &digest_size))"]}], "drivers/md/dm-verity-target.c": []}

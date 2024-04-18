@@ -1,0 +1,1 @@
+{"drivers/hwmon/bt1-pvt.c": [{"patch_file_name": "drivers/hwmon/bt1-pvt.c", "func_decl_name": "pvt_probe", "is_cond": true, "line_numbers": [1111, 1112], "line_cids": ["", ""], "line_strs": ["", "\tpvt_init_iface(pvt);"]}]}

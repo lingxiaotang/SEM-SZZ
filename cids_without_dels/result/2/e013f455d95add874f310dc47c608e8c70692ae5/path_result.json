@@ -1,0 +1,1 @@
+{"drivers/remoteproc/qcom_q6v5_mss.c": [{"patch_file_name": "drivers/remoteproc/qcom_q6v5_mss.c", "func_decl_name": "q6v5_load", "is_cond": true, "line_numbers": [413, 414], "line_cids": ["", ""], "line_strs": ["", "\tmemcpy(qproc->mba_region, fw->data, fw->size);"]}]}

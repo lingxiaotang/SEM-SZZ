@@ -1,0 +1,1 @@
+{"drivers/infiniband/hw/efa/efa_main.c": [{"patch_file_name": "drivers/infiniband/hw/efa/efa_main.c", "func_decl_name": "efa_enable_msix", "is_cond": false, "line_numbers": [350, 360], "line_cids": ["", ""], "line_strs": ["\tirq_num = pci_alloc_irq_vectors(dev->pdev, msix_vecs,", "\t\tdev_err(&dev->pdev->dev,"]}]}

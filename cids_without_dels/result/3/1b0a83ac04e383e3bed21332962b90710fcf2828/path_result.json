@@ -1,0 +1,1 @@
+{"drivers/net/ethernet/freescale/fec_main.c": [{"patch_file_name": "drivers/net/ethernet/freescale/fec_main.c", "func_decl_name": "fec_enet_open", "is_cond": true, "line_numbers": [2846, 2847], "line_cids": ["", ""], "line_strs": ["", "\t/* I should reset the ring buffers here, but I don't yet know"]}]}

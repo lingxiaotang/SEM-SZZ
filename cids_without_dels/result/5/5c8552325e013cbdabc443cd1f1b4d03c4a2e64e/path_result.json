@@ -1,0 +1,1 @@
+{"drivers/crypto/sa2ul.c": [{"patch_file_name": "drivers/crypto/sa2ul.c", "func_decl_name": "sa_ul_probe", "is_cond": false, "line_numbers": [2410, 2412], "line_cids": ["", ""], "line_strs": ["\tret = pm_runtime_resume_and_get(dev);", "\t\tdev_err(&pdev->dev, \"%s: failed to get sync: %d\\n\", __func__,"]}]}

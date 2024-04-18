@@ -1,0 +1,1 @@
+{"drivers/gpu/drm/amd/amdgpu/amdgpu_ttm.c": [{"patch_file_name": "drivers/gpu/drm/amd/amdgpu/amdgpu_ttm.c", "func_decl_name": "amdgpu_mem_visible", "is_cond": true, "line_numbers": [441, 442], "line_cids": ["", ""], "line_strs": ["", "\t\t/* ttm_resource_ioremap only supports contiguous memory */"]}]}

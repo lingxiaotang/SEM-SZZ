@@ -1,0 +1,1 @@
+{"net/xfrm/xfrm_policy.c": [{"patch_file_name": "net/xfrm/xfrm_policy.c", "func_decl_name": "xfrm_lookup_route", "is_cond": true, "line_numbers": [2288, 2289], "line_cids": ["", ""], "line_strs": ["", "\treturn dst;"]}]}

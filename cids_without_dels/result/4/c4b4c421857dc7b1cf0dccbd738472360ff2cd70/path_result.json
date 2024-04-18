@@ -1,0 +1,1 @@
+{"net/bridge/br_device.c": [{"patch_file_name": "net/bridge/br_device.c", "func_decl_name": "br_set_mac_address", "is_cond": true, "line_numbers": [247, 248], "line_cids": ["", ""], "line_strs": ["", "\tspin_lock_bh(&br->lock);"]}]}

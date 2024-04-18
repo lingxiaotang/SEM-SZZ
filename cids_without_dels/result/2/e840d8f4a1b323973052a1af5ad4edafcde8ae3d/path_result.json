@@ -1,0 +1,1 @@
+{"drivers/nfc/virtual_ncidev.c": [{"patch_file_name": "drivers/nfc/virtual_ncidev.c", "func_decl_name": "virtual_nci_send", "is_cond": false, "line_numbers": [64, 64], "line_cids": ["", ""], "line_strs": ["\tsend_buff = skb_copy(skb, GFP_KERNEL);", "\tsend_buff = skb_copy(skb, GFP_KERNEL);"]}]}

@@ -1,0 +1,1 @@
+{"drivers/pci/endpoint/functions/pci-epf-test.c": [{"patch_file_name": "drivers/pci/endpoint/functions/pci-epf-test.c", "func_decl_name": "pci_epf_test_clean_dma_chan", "is_cond": true, "line_numbers": [189, 190], "line_cids": ["", ""], "line_strs": ["{", "\tdma_release_channel(epf_test->dma_chan);"]}]}

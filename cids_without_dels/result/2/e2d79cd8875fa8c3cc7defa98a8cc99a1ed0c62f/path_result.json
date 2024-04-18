@@ -1,0 +1,1 @@
+{"drivers/net/ethernet/arc/emac_mdio.c": [{"patch_file_name": "drivers/net/ethernet/arc/emac_mdio.c", "func_decl_name": "arc_mdio_probe", "is_cond": false, "line_numbers": [147, 148], "line_cids": ["", ""], "line_strs": ["\tbus->write = &arc_mdio_write;", "\tbus->reset = &arc_mdio_reset;"]}]}

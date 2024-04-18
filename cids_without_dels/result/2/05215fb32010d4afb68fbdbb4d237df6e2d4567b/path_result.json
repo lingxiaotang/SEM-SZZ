@@ -1,0 +1,1 @@
+{"drivers/memory/of_memory.c": [{"patch_file_name": "drivers/memory/of_memory.c", "func_decl_name": "of_get_ddr_timings", "is_cond": false, "line_numbers": [136, 136], "line_cids": ["", ""], "line_strs": ["\t\t\tif (of_do_get_timings(np_tim, &timings[i])) {", "\t\t\tif (of_do_get_timings(np_tim, &timings[i])) {"]}]}

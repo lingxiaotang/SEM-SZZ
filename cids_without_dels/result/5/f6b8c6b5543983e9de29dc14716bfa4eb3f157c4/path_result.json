@@ -1,0 +1,1 @@
+{"net/bluetooth/sco.c": [{"patch_file_name": "net/bluetooth/sco.c", "func_decl_name": "sco_sock_getsockopt", "is_cond": true, "line_numbers": [1005, 1006], "line_cids": ["", ""], "line_strs": ["\tcase BT_RCVMTU:", "\t\tif (put_user(sco_pi(sk)->conn->mtu, (u32 __user *)optval))"]}]}

@@ -1,0 +1,1 @@
+{"arch/powerpc/sysdev/xive/native.c": [{"patch_file_name": "arch/powerpc/sysdev/xive/native.c", "func_decl_name": "xive_native_setup_cpu", "is_cond": true, "line_numbers": [391, 392], "line_cids": ["", ""], "line_strs": ["", "\t/* Enable the pool VP */"]}]}

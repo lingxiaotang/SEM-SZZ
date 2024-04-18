@@ -1,0 +1,1 @@
+{"drivers/usb/typec/ucsi/ucsi.c": [{"patch_file_name": "drivers/usb/typec/ucsi/ucsi.c", "func_decl_name": "ucsi_connector_change", "is_cond": true, "line_numbers": [352, 353], "line_cids": ["", ""], "line_strs": ["\tif (con->status.change & UCSI_CONSTAT_CONNECT_CHANGE) {", "\t\tif (con->status.connected)"]}]}

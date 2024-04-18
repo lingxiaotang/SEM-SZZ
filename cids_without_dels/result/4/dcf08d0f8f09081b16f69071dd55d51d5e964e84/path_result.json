@@ -1,0 +1,1 @@
+{"sound/soc/sof/imx/imx8.c": [{"patch_file_name": "sound/soc/sof/imx/imx8.c", "func_decl_name": "imx8_probe", "is_cond": false, "line_numbers": [299, 305], "line_cids": ["", ""], "line_strs": ["\tif (!sdev->bar[SOF_FW_BLK_TYPE_SRAM]) {", "\tsdev->mailbox_bar = SOF_FW_BLK_TYPE_SRAM;"]}]}

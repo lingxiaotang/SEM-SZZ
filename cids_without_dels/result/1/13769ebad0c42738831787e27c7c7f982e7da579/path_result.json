@@ -1,0 +1,1 @@
+{"arch/mips/math-emu/cp1emu.c": [{"patch_file_name": "arch/mips/math-emu/cp1emu.c", "func_decl_name": "fpu_emulator_cop1Handler", "is_cond": true, "line_numbers": [2611, 2612], "line_cids": ["", ""], "line_strs": ["\t\t\tbreak;", ""]}]}

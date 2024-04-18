@@ -1,0 +1,1 @@
+{"drivers/cpufreq/imx-cpufreq-dt.c": [{"patch_file_name": "drivers/cpufreq/imx-cpufreq-dt.c", "func_decl_name": "imx_cpufreq_dt_probe", "is_cond": true, "line_numbers": [52, 53], "line_cids": ["", ""], "line_strs": ["\tmkt_segment = (cell_value & OCOTP_CFG3_MKT_SEGMENT_MASK) >> OCOTP_CFG3_MKT_SEGMENT_SHIFT;", "\tsupported_hw[0] = BIT(speed_grade);"]}]}

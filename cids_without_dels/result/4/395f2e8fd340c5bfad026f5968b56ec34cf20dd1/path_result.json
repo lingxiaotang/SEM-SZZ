@@ -1,0 +1,1 @@
+{"drivers/infiniband/hw/hns/hns_roce_hw_v2.c": [{"patch_file_name": "drivers/infiniband/hw/hns/hns_roce_hw_v2.c", "func_decl_name": "get_cqe_status", "is_cond": true, "line_numbers": [3062, 3063], "line_cids": ["", ""], "line_strs": ["\tif (likely(wc->status == IB_WC_SUCCESS ||", "\t\t   wc->status == IB_WC_WR_FLUSH_ERR))"]}]}

@@ -1,0 +1,1 @@
+{"security/integrity/ima/ima_crypto.c": [{"patch_file_name": "security/integrity/ima/ima_crypto.c", "func_decl_name": "ima_calc_boot_aggregate_tfm", "is_cond": true, "line_numbers": [831, 832], "line_cids": ["", ""], "line_strs": ["\t\t\t\t\t crypto_shash_digestsize(tfm));", "\t}"]}]}

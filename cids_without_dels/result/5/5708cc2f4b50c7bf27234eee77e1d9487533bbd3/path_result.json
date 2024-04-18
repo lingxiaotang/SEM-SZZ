@@ -1,0 +1,1 @@
+{"sound/soc/sof/topology.c": [{"patch_file_name": "sound/soc/sof/topology.c", "func_decl_name": "sof_widget_unload", "is_cond": true, "line_numbers": [1360, 1360], "line_cids": ["", ""], "line_strs": ["\tfor (i = 0; i < widget->num_kcontrols; i++) {", "\tfor (i = 0; i < widget->num_kcontrols; i++) {"]}]}

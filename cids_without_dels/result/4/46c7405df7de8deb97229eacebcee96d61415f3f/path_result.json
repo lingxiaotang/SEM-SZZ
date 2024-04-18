@@ -1,0 +1,1 @@
+{"tools/objtool/elf.c": [{"patch_file_name": "tools/objtool/elf.c", "func_decl_name": "elf_create_undef_symbol", "is_cond": false, "line_numbers": [764, 768], "line_cids": ["", ""], "line_strs": ["\tdata->d_align = 1;", "\tsymtab->len += data->d_size;"]}]}

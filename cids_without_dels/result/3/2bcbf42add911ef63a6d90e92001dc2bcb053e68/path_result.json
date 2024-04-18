@@ -1,0 +1,1 @@
+{"drivers/net/ethernet/pensando/ionic/ionic_ethtool.c": [{"patch_file_name": "drivers/net/ethernet/pensando/ionic/ionic_ethtool.c", "func_decl_name": "ionic_get_link_ksettings", "is_cond": true, "line_numbers": [128, 129], "line_cids": ["", ""], "line_strs": ["", "\t/* The port_info data is found in a DMA space that the NIC keeps"]}]}

@@ -1,0 +1,1 @@
+{"drivers/net/ethernet/intel/igc/igc_main.c": [{"patch_file_name": "drivers/net/ethernet/intel/igc/igc_main.c", "func_decl_name": "igc_setup_rx_resources", "is_cond": true, "line_numbers": [507, 508], "line_cids": ["", ""], "line_strs": ["", "\tres = xdp_rxq_info_reg(&rx_ring->xdp_rxq, ndev, index,"]}]}

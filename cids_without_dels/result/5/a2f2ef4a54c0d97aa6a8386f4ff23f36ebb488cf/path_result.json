@@ -1,0 +1,1 @@
+{"net/smc/smc_ib.c": [{"patch_file_name": "net/smc/smc_ib.c", "func_decl_name": "smc_ib_remove_dev", "is_cond": true, "line_numbers": [575, 576], "line_cids": ["", ""], "line_strs": ["\tsmcibdev = ib_get_client_data(ibdev, &smc_ib_client);", "\tib_set_client_data(ibdev, &smc_ib_client, NULL);"]}]}

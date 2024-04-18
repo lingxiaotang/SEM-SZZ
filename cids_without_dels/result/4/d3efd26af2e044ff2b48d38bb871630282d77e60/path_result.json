@@ -1,0 +1,1 @@
+{"sound/soc/codecs/wcd9335.c": [{"patch_file_name": "sound/soc/codecs/wcd9335.c", "func_decl_name": "wcd9335_codec_remove", "is_cond": false, "line_numbers": [4878, 4880], "line_cids": ["", ""], "line_strs": ["\tstruct wcd9335_codec *wcd = dev_get_drvdata(comp->dev);", "\twcd_clsh_ctrl_free(wcd->clsh_ctrl);"]}]}

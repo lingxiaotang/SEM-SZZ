@@ -1,0 +1,1 @@
+{"drivers/net/ethernet/xscale/ixp4xx_eth.c": [{"patch_file_name": "drivers/net/ethernet/xscale/ixp4xx_eth.c", "func_decl_name": "ixp4xx_eth_probe", "is_cond": true, "line_numbers": [1389, 1390], "line_cids": ["", ""], "line_strs": ["\tport->regs = devm_ioremap_resource(dev, res);", ""]}]}

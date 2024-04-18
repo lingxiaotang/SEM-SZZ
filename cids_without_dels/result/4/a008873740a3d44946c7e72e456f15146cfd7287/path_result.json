@@ -1,0 +1,1 @@
+{"drivers/irqchip/irq-gic-v3-its-platform-msi.c": [{"patch_file_name": "drivers/irqchip/irq-gic-v3-its-platform-msi.c", "func_decl_name": "of_pmsi_get_dev_id", "is_cond": true, "line_numbers": [40, 40], "line_cids": ["", ""], "line_strs": ["\t\tif (args.np == irq_domain_get_of_node(domain)) {", "\t\tif (args.np == irq_domain_get_of_node(domain)) {"]}]}

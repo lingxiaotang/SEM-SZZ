@@ -1,0 +1,1 @@
+{"tools/perf/tests/sigtrap.c": [{"patch_file_name": "tools/perf/tests/sigtrap.c", "func_decl_name": "test__sigtrap", "is_cond": true, "line_numbers": [124, 125], "line_cids": ["", ""], "line_strs": ["", "\tpthread_barrier_init(&barrier, NULL, NUM_THREADS + 1);"]}]}

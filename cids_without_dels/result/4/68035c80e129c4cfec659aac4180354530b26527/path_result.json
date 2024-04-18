@@ -1,0 +1,1 @@
+{"drivers/media/usb/uvc/uvc_driver.c": [{"patch_file_name": "drivers/media/usb/uvc/uvc_driver.c", "func_decl_name": "uvc_scan_chain_backward", "is_cond": true, "line_numbers": [1576, 1577], "line_cids": ["", ""], "line_strs": ["", "\t\t\tif (uvc_trace_param & UVC_TRACE_PROBE)"]}]}

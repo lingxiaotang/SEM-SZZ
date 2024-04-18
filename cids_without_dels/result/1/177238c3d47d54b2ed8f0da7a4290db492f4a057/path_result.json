@@ -1,0 +1,1 @@
+{"drivers/usb/image/microtek.c": [{"patch_file_name": "drivers/usb/image/microtek.c", "func_decl_name": "mts_usb_probe", "is_cond": true, "line_numbers": [694, 694], "line_cids": ["", ""], "line_strs": ["\tfor( i = 0; i < altsetting->desc.bNumEndpoints; i++ ) {", "\tfor( i = 0; i < altsetting->desc.bNumEndpoints; i++ ) {"]}]}

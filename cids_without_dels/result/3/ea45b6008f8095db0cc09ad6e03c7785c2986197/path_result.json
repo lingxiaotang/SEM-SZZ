@@ -1,0 +1,1 @@
+{"drivers/dma/dmaengine.c": [{"patch_file_name": "drivers/dma/dmaengine.c", "func_decl_name": "__dma_async_device_channel_register", "is_cond": false, "line_numbers": [1086, 1088], "line_cids": ["", ""], "line_strs": ["\tkfree(chan->dev);", "\tfree_percpu(chan->local);"]}]}

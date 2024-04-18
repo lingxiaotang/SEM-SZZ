@@ -1,0 +1,1 @@
+{"drivers/crypto/talitos.c": [{"patch_file_name": "drivers/crypto/talitos.c", "func_decl_name": "talitos_remove", "is_cond": true, "line_numbers": [3118, 3119], "line_cids": ["", ""], "line_strs": ["\t\t\tcrypto_unregister_aead(&t_alg->algt.alg.aead);", "\t\tcase CRYPTO_ALG_TYPE_AHASH:"]}]}

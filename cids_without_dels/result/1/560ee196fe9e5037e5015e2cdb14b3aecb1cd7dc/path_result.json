@@ -1,0 +1,1 @@
+{"net/sched/sch_fifo.c": [{"patch_file_name": "net/sched/sch_fifo.c", "func_decl_name": "fifo_set_limit", "is_cond": true, "line_numbers": [235, 236], "line_cids": ["", ""], "line_strs": ["", "\tnla = kmalloc(nla_attr_size(sizeof(struct tc_fifo_qopt)), GFP_KERNEL);"]}]}

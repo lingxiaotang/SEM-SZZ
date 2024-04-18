@@ -1,0 +1,1 @@
+{"drivers/mmc/host/meson-mx-sdio.c": [{"patch_file_name": "drivers/mmc/host/meson-mx-sdio.c", "func_decl_name": "meson_mx_mmc_probe", "is_cond": true, "line_numbers": [664, 665], "line_cids": ["", ""], "line_strs": ["\tirq = platform_get_irq(pdev, 0);", "\tret = devm_request_threaded_irq(host->controller_dev, irq,"]}]}

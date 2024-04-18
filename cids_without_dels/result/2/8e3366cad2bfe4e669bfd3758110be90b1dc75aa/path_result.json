@@ -1,0 +1,1 @@
+{"sound/soc/soc-component.c": [{"patch_file_name": "sound/soc/soc-component.c", "func_decl_name": "snd_soc_pcm_component_free", "is_cond": true, "line_numbers": [522, 523], "line_cids": ["", ""], "line_strs": ["", "\tfor_each_rtd_components(rtd, rtdcom, component)"]}]}

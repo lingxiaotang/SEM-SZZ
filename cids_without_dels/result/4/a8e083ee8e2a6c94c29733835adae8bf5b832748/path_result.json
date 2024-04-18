@@ -1,0 +1,1 @@
+{"drivers/net/wireless/marvell/mwl8k.c": [{"patch_file_name": "drivers/net/wireless/marvell/mwl8k.c", "func_decl_name": "mwl8k_txq_init", "is_cond": false, "line_numbers": [1473, 1474], "line_cids": ["", ""], "line_strs": ["\tif (txq->skb == NULL) {", "\t\tdma_free_coherent(&priv->pdev->dev, size, txq->txd,"]}]}

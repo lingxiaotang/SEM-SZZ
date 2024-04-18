@@ -1,0 +1,1 @@
+{"drivers/usb/typec/port-mapper.c": [{"patch_file_name": "drivers/usb/typec/port-mapper.c", "func_decl_name": "typec_link_ports", "is_cond": true, "line_numbers": [62, 63], "line_cids": ["", ""], "line_strs": ["\tbus_for_each_dev(&acpi_bus_type, NULL, &arg, typec_port_match);", ""]}]}

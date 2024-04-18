@@ -1,0 +1,1 @@
+{"drivers/mmc/card/block.c": [{"patch_file_name": "drivers/mmc/card/block.c", "func_decl_name": "power_ro_lock_show", "is_cond": false, "line_numbers": [200], "line_cids": [""], "line_strs": ["\tstruct mmc_blk_data *md = mmc_blk_get(dev_to_disk(dev));"]}]}

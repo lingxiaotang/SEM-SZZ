@@ -1,0 +1,1 @@
+{"arch/x86/kernel/cpu/resctrl/monitor.c": [{"patch_file_name": "arch/x86/kernel/cpu/resctrl/monitor.c", "func_decl_name": "update_mba_bw", "is_cond": true, "line_numbers": [370, 371], "line_cids": ["", ""], "line_strs": ["", "\tr_mba = &rdt_resources_all[RDT_RESOURCE_MBA];"]}]}

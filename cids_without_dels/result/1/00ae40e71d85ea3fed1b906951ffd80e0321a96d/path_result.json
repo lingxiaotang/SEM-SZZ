@@ -1,0 +1,1 @@
+{"drivers/net/ethernet/mellanox/mlxsw/spectrum_switchdev.c": [{"patch_file_name": "drivers/net/ethernet/mellanox/mlxsw/spectrum_switchdev.c", "func_decl_name": "mlxsw_sp_port_obj_del", "is_cond": true, "line_numbers": [1017, 1018], "line_cids": ["", ""], "line_strs": ["\t\t\t\t\t    SWITCHDEV_OBJ_PORT_MDB(obj));", "\tdefault:"]}]}

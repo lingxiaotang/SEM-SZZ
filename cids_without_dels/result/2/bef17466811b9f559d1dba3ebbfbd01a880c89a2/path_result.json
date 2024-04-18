@@ -1,0 +1,1 @@
+{"net/core/drop_monitor.c": [{"patch_file_name": "net/core/drop_monitor.c", "func_decl_name": "net_dm_hw_packet_probe", "is_cond": true, "line_numbers": [902, 903], "line_cids": ["", ""], "line_strs": ["", "\tnskb = skb_clone(skb, GFP_ATOMIC);"]}]}

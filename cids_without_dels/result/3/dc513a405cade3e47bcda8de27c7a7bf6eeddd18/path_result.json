@@ -1,0 +1,1 @@
+{"net/ipv4/fib_rules.c": [{"patch_file_name": "net/ipv4/fib_rules.c", "func_decl_name": "fib4_rule_configure", "is_cond": true, "line_numbers": [233, 234], "line_cids": ["", ""], "line_strs": ["\t}", "\trule4->dscp = inet_dsfield_to_dscp(frh->tos);"]}]}

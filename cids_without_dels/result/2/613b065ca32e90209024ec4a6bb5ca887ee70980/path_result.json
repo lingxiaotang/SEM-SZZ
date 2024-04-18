@@ -1,0 +1,1 @@
+{"drivers/net/ethernet/stmicro/stmmac/dwmac4_core.c": [{"patch_file_name": "drivers/net/ethernet/stmicro/stmmac/dwmac4_core.c", "func_decl_name": "dwmac4_map_mtl_dma", "is_cond": true, "line_numbers": [225, 226], "line_cids": ["", ""], "line_strs": ["\t\tvalue |= MTL_RXQ_DMA_Q04MDMACH(chan);", "\t} else {"]}]}

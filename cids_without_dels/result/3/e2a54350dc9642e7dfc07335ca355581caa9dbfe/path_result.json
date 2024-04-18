@@ -1,0 +1,1 @@
+{"drivers/net/phy/dp83867.c": [{"patch_file_name": "drivers/net/phy/dp83867.c", "func_decl_name": "dp83867_of_init", "is_cond": false, "line_numbers": [676, 683], "line_cids": ["", ""], "line_strs": ["\tdp83867->tx_id_delay = (delay >> DP83867_RGMII_TX_CLK_DELAY_SHIFT) &", "\tdp83867->io_impedance = DP83867_IO_MUX_CFG_IO_IMPEDANCE_MIN / 2;"]}]}

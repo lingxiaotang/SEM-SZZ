@@ -1,0 +1,1 @@
+{"drivers/md/dm-cache-metadata.c": [{"patch_file_name": "drivers/md/dm-cache-metadata.c", "func_decl_name": "blocks_are_clean_separate_dirty", "is_cond": true, "line_numbers": [932, 933], "line_cids": ["", ""], "line_strs": ["", "\tr = dm_bitset_cursor_begin(&cmd->dirty_info, cmd->dirty_root,"]}]}

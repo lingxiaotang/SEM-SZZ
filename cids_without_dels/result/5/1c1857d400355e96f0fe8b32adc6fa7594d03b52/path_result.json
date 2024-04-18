@@ -1,0 +1,1 @@
+{"kernel/trace/trace_probe.c": [{"patch_file_name": "kernel/trace/trace_probe.c", "func_decl_name": "__parse_imm_string", "is_cond": true, "line_numbers": [358, 359], "line_cids": ["", ""], "line_strs": ["\t*pbuf = kstrndup(str, len - 1, GFP_KERNEL);", "\treturn 0;"]}]}

@@ -1,0 +1,1 @@
+{"arch/x86/kernel/cpu/intel_rdt_ctrlmondata.c": [{"patch_file_name": "arch/x86/kernel/cpu/intel_rdt_ctrlmondata.c", "func_decl_name": "rdtgroup_schemata_write", "is_cond": true, "line_numbers": [259, 260], "line_cids": ["", ""], "line_strs": ["\t\t}", "\t\tret = rdtgroup_parse_resource(resname, tok, closid);"]}]}

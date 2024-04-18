@@ -1,0 +1,1 @@
+{"drivers/watchdog/imx_sc_wdt.c": [{"patch_file_name": "drivers/watchdog/imx_sc_wdt.c", "func_decl_name": "imx_sc_wdt_probe", "is_cond": true, "line_numbers": [177, 178], "line_cids": ["", ""], "line_strs": ["\twatchdog_init_timeout(wdog, 0, dev);", "\twatchdog_stop_on_reboot(wdog);"]}]}

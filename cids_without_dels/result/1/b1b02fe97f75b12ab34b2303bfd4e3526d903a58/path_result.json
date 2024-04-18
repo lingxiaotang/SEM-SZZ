@@ -1,0 +1,1 @@
+{"drivers/md/raid5.c": [{"patch_file_name": "drivers/md/raid5.c", "func_decl_name": "handle_stripe_dirtying", "is_cond": true, "line_numbers": [3197, 3198], "line_cids": ["", ""], "line_strs": ["\t}", "\t/* now if nothing is locked, and if we have enough data,"]}]}

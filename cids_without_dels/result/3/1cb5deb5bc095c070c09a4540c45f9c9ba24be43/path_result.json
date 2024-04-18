@@ -1,0 +1,1 @@
+{"fs/xfs/libxfs/xfs_dir2_node.c": [{"patch_file_name": "fs/xfs/libxfs/xfs_dir2_node.c", "func_decl_name": "__xfs_dir3_free_read", "is_cond": false, "line_numbers": [229, 230], "line_cids": ["", ""], "line_strs": ["\t\t__xfs_buf_mark_corrupt(*bpp, fa);", "\t\txfs_trans_brelse(tp, *bpp);"]}]}

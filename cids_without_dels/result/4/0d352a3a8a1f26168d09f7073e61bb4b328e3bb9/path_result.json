@@ -1,0 +1,1 @@
+{"drivers/gpu/drm/v3d/v3d_gem.c": [{"patch_file_name": "drivers/gpu/drm/v3d/v3d_gem.c", "func_decl_name": "v3d_submit_cl_ioctl", "is_cond": false, "line_numbers": [563, 563], "line_cids": ["", ""], "line_strs": ["\t\tret = v3d_job_init(v3d, file_priv, &bin->base,", "\t\tret = v3d_job_init(v3d, file_priv, &bin->base,"]}]}

@@ -1,0 +1,1 @@
+{"kernel/bpf/memalloc.c": [{"patch_file_name": "kernel/bpf/memalloc.c", "func_decl_name": "bpf_mem_alloc_destroy", "is_cond": true, "line_numbers": [508, 508], "line_cids": ["", ""], "line_strs": ["\t\t\tfor (i = 0; i < NUM_CACHES; i++) {", "\t\t\tfor (i = 0; i < NUM_CACHES; i++) {"]}]}

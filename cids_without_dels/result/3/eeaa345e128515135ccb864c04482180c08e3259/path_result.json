@@ -1,0 +1,1 @@
+{"mm/slub.c": [{"patch_file_name": "mm/slub.c", "func_decl_name": "___slab_alloc", "is_cond": false, "line_numbers": [2958, 2965], "line_cids": ["", ""], "line_strs": ["\tfreelist = c->freelist;", "\t\tc->slab = NULL;"]}]}

@@ -1,0 +1,1 @@
+{"net/bridge/br_switchdev.c": [{"patch_file_name": "net/bridge/br_switchdev.c", "func_decl_name": "br_switchdev_fdb_notify", "is_cond": true, "line_numbers": [130, 131], "line_cids": ["", ""], "line_strs": ["\t\treturn;", ""]}]}

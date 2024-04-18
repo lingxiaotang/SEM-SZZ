@@ -1,0 +1,1 @@
+{"drivers/net/ethernet/amd/xgbe/xgbe-pci.c": [{"patch_file_name": "drivers/net/ethernet/amd/xgbe/xgbe-pci.c", "func_decl_name": "xgbe_pci_remove", "is_cond": false, "line_numbers": [426, 428], "line_cids": ["", ""], "line_strs": ["\tpci_free_irq_vectors(pdata->pcidev);", "\txgbe_free_pdata(pdata);"]}]}

@@ -1,0 +1,1 @@
+{"drivers/leds/leds-as3645a.c": [{"patch_file_name": "drivers/leds/leds-as3645a.c", "func_decl_name": "as3645a_parse_node", "is_cond": false, "line_numbers": [530, 532], "line_cids": ["", ""], "line_strs": ["\trval = fwnode_property_read_u32(flash->flash_node, \"led-max-microamp\",", "\tif (rval < 0) {"]}]}

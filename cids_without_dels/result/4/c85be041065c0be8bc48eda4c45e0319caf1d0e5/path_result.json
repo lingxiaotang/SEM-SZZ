@@ -1,0 +1,1 @@
+{"drivers/tty/serial/atmel_serial.c": [{"patch_file_name": "drivers/tty/serial/atmel_serial.c", "func_decl_name": "atmel_prepare_rx_dma", "is_cond": true, "line_numbers": [1290, 1291], "line_cids": ["", ""], "line_strs": ["\t\t\t\t\t DMA_PREP_INTERRUPT);", "\tdesc->callback = atmel_complete_rx_dma;"]}]}

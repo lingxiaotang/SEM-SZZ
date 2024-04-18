@@ -1,0 +1,1 @@
+{"drivers/base/swnode.c": [{"patch_file_name": "drivers/base/swnode.c", "func_decl_name": "device_create_managed_software_node", "is_cond": true, "line_numbers": [1118, 1119], "line_cids": ["", ""], "line_strs": ["", "\treturn 0;"]}]}

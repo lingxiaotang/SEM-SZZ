@@ -1,0 +1,1 @@
+{"drivers/net/ethernet/stmicro/stmmac/stmmac_main.c": [{"patch_file_name": "drivers/net/ethernet/stmicro/stmmac/stmmac_main.c", "func_decl_name": "stmmac_eee_init", "is_cond": false, "line_numbers": [384, 404], "line_cids": ["", ""], "line_strs": ["\tint tx_lpi_timer = priv->tx_lpi_timer;", "\t\tstmmac_set_eee_timer(priv, priv->hw, 0, tx_lpi_timer);"]}]}

@@ -1,0 +1,1 @@
+{"drivers/md/bcache/super.c": [{"patch_file_name": "drivers/md/bcache/super.c", "func_decl_name": "read_super", "is_cond": true, "line_numbers": [230, 231], "line_cids": ["", ""], "line_strs": ["\t\tsb->feature_ro_compat = le64_to_cpu(s->feature_ro_compat);", "\t\terr = read_super_common(sb, bdev, s);"]}]}

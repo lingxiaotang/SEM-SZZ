@@ -1,0 +1,1 @@
+{"drivers/gpu/drm/i915/display/intel_psr.c": [{"patch_file_name": "drivers/gpu/drm/i915/display/intel_psr.c", "func_decl_name": "_intel_psr_post_plane_update", "is_cond": true, "line_numbers": [1839, 1840], "line_cids": ["", ""], "line_strs": ["", "\t\tdrm_WARN_ON(&dev_priv->drm, psr->enabled && !crtc_state->active_planes);"]}]}

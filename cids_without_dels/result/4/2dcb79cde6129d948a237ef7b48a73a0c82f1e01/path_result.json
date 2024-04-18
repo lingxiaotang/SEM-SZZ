@@ -1,0 +1,1 @@
+{"drivers/net/wireless/mediatek/mt76/mt7615/mac.c": [{"patch_file_name": "drivers/net/wireless/mediatek/mt76/mt7615/mac.c", "func_decl_name": "mt7615_mac_fill_rx", "is_cond": true, "line_numbers": [98, 99], "line_cids": ["", ""], "line_strs": ["", "\tmemset(status, 0, sizeof(*status));"]}]}

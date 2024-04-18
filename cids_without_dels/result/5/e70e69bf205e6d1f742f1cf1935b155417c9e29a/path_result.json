@@ -1,0 +1,1 @@
+{"drivers/tty/serial/8250/8250_uniphier.c": [{"patch_file_name": "drivers/tty/serial/8250/8250_uniphier.c", "func_decl_name": "uniphier_uart_probe", "is_cond": false, "line_numbers": [198, 201], "line_cids": ["", ""], "line_strs": ["\tspin_lock_init(&priv->atomic_write_lock);", "\tup.port.private_data = priv;"]}]}

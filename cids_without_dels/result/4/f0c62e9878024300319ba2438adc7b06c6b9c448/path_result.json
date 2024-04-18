@@ -1,0 +1,1 @@
+{"drivers/gpu/drm/vmwgfx/vmwgfx_fifo.c": [{"patch_file_name": "drivers/gpu/drm/vmwgfx/vmwgfx_fifo.c", "func_decl_name": "vmw_local_fifo_reserve", "is_cond": true, "line_numbers": [370, 371], "line_cids": ["", ""], "line_strs": ["\t\t\t\tfifo_state->dynamic_buffer = vmalloc(bytes);", "\t\t\t\treturn fifo_state->dynamic_buffer;"]}]}

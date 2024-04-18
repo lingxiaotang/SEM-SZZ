@@ -1,0 +1,1 @@
+{"arch/powerpc/kernel/process.c": [{"patch_file_name": "arch/powerpc/kernel/process.c", "func_decl_name": "show_user_instructions", "is_cond": true, "line_numbers": [1308, 1309], "line_cids": ["", ""], "line_strs": ["", "\tpr_info(\"%s[%d]: code: \", current->comm, current->pid);"]}]}

@@ -1,0 +1,1 @@
+{"drivers/cpufreq/sti-cpufreq.c": [{"patch_file_name": "drivers/cpufreq/sti-cpufreq.c", "func_decl_name": "sti_cpufreq_init", "is_cond": true, "line_numbers": [261, 262], "line_cids": ["", ""], "line_strs": ["", "\tddata.cpu = get_cpu_device(0);"]}]}

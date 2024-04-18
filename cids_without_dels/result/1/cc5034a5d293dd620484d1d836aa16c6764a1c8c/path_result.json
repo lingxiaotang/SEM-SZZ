@@ -1,0 +1,1 @@
+{"drivers/gpu/drm/radeon/evergreen_cs.c": [{"patch_file_name": "drivers/gpu/drm/radeon/evergreen_cs.c", "func_decl_name": "evergreen_cs_handle_reg", "is_cond": true, "line_numbers": [1301, 1302], "line_cids": ["", ""], "line_strs": ["\t\tib[idx] += (u32)((reloc->gpu_offset >> 8) & 0xffffffff);", "\tcase CB_TARGET_MASK:"]}]}

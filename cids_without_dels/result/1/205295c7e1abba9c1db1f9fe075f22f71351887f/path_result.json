@@ -1,0 +1,1 @@
+{"drivers/perf/arm-cmn.c": [{"patch_file_name": "drivers/perf/arm-cmn.c", "func_decl_name": "arm_cmn_event_attr_is_visible", "is_cond": true, "line_numbers": [597, 598], "line_cids": ["", ""], "line_strs": ["", "\t\tif ((chan == 5 && cmn->rsp_vc_num < 2) ||"]}]}

@@ -1,0 +1,1 @@
+{"arch/powerpc/platforms/pseries/mobility.c": [{"patch_file_name": "arch/powerpc/platforms/pseries/mobility.c", "func_decl_name": "add_dt_node", "is_cond": true, "line_numbers": [224, 225], "line_cids": ["", ""], "line_strs": ["", "\trc = dlpar_attach_node(dn, parent_dn);"]}]}

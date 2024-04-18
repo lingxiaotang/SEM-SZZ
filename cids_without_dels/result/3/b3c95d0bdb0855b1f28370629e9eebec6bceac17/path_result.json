@@ -1,0 +1,1 @@
+{"drivers/gpu/drm/i915/display/intel_hdcp.c": [{"patch_file_name": "drivers/gpu/drm/i915/display/intel_hdcp.c", "func_decl_name": "intel_hdcp_update_pipe", "is_cond": true, "line_numbers": [2223, 2224], "line_cids": ["", ""], "line_strs": ["\t\tmutex_unlock(&hdcp->mutex);", "\t}"]}]}

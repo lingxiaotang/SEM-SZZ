@@ -1,0 +1,1 @@
+{"drivers/net/usb/cdc_ncm.c": [{"patch_file_name": "drivers/net/usb/cdc_ncm.c", "func_decl_name": "cdc_ncm_check_tx_max", "is_cond": true, "line_numbers": [183, 184], "line_cids": ["", ""], "line_strs": ["\tmax = min_t(u32, CDC_NCM_NTB_MAX_SIZE_TX, le32_to_cpu(ctx->ncm_parm.dwNtbOutMaxSize));", ""]}]}

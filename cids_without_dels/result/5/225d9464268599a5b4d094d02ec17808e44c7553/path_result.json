@@ -1,0 +1,1 @@
+{"net/vmw_vsock/vmci_transport.c": [{"patch_file_name": "net/vmw_vsock/vmci_transport.c", "func_decl_name": "vmci_transport_destruct", "is_cond": true, "line_numbers": [1653, 1654], "line_cids": ["", ""], "line_strs": ["{", "\t/* Ensure that the detach callback doesn't use the sk/vsk"]}]}

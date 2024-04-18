@@ -1,0 +1,1 @@
+{"drivers/gpu/drm/vc4/vc4_drv.c": [{"patch_file_name": "drivers/gpu/drm/vc4/vc4_drv.c", "func_decl_name": "vc4_close", "is_cond": false, "line_numbers": [130, 132], "line_cids": ["", ""], "line_strs": ["\tstruct vc4_file *vc4file = file->driver_priv;", "\tvc4_perfmon_close_file(vc4file);"]}]}

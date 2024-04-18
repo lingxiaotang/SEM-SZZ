@@ -1,0 +1,1 @@
+{"drivers/lightnvm/pblk-write.c": [{"patch_file_name": "drivers/lightnvm/pblk-write.c", "func_decl_name": "pblk_end_w_fail", "is_cond": false, "line_numbers": [135], "line_cids": [""], "line_strs": ["\tINIT_LIST_HEAD(&recovery->failed);"]}]}

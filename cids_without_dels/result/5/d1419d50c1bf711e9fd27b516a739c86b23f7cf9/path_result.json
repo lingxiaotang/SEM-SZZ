@@ -1,0 +1,86 @@
+{
+    "drivers/mmc/host/rtsx_pci_sdmmc.c": [
+        {
+            "patch_file_name": "drivers/mmc/host/rtsx_pci_sdmmc.c",
+            "func_decl_name": "sd_send_cmd_get_rsp",
+            "is_cond": false,
+            "line_numbers": [
+                407,
+                416
+            ],
+            "line_cids": [
+                "",
+                ""
+            ],
+            "line_strs": [
+                "\t\tif (ptr[stat_idx] & SD_CRC7_ERR) {",
+                "\t\t\tcmd->resp[i] = get_unaligned_be32(ptr + 1 + i * 4);"
+            ]
+        },
+        {
+            "patch_file_name": "drivers/mmc/host/rtsx_pci_sdmmc.c",
+            "func_decl_name": "sd_send_cmd_get_rsp",
+            "is_cond": false,
+            "line_numbers": [
+                399,
+                407
+            ],
+            "line_cids": [
+                "",
+                ""
+            ],
+            "line_strs": [
+                "\tif ((ptr[0] & 0xC0) != 0) {",
+                "\t\tif (ptr[stat_idx] & SD_CRC7_ERR) {"
+            ]
+        },
+        {
+            "patch_file_name": "drivers/mmc/host/rtsx_pci_sdmmc.c",
+            "func_decl_name": "sd_send_cmd_get_rsp",
+            "is_cond": false,
+            "line_numbers": [
+                399,
+                407
+            ],
+            "line_cids": [
+                "",
+                ""
+            ],
+            "line_strs": [
+                "\tif ((ptr[0] & 0xC0) != 0) {",
+                "\t\tif (ptr[stat_idx] & SD_CRC7_ERR) {"
+            ]
+        },
+        {
+            "patch_file_name": "drivers/mmc/host/rtsx_pci_sdmmc.c",
+            "func_decl_name": "sd_send_cmd_get_rsp",
+            "is_cond": false,
+            "line_numbers": [
+                399,
+                407
+            ],
+            "line_cids": [
+                "",
+                ""
+            ],
+            "line_strs": [
+                "\tif ((ptr[0] & 0xC0) != 0) {",
+                "\t\tif (ptr[stat_idx] & SD_CRC7_ERR) {"
+            ]
+        },
+        {
+            "patch_file_name": "drivers/mmc/host/rtsx_pci_sdmmc.c",
+            "func_decl_name": "sd_send_cmd_get_rsp",
+            "is_cond": false,
+            "line_numbers": [
+                416
+            ],
+            "line_cids": [
+                ""
+            ],
+            "line_strs": [
+                "\t\t\tcmd->resp[i] = get_unaligned_be32(ptr + 1 + i * 4);"
+            ]
+        }
+    ]
+}

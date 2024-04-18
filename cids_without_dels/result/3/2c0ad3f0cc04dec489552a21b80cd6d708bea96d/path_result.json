@@ -1,0 +1,1 @@
+{"drivers/iio/industrialio-buffer.c": [{"patch_file_name": "drivers/iio/industrialio-buffer.c", "func_decl_name": "iio_buffer_wrap_attr", "is_cond": true, "line_numbers": [1314, 1315], "line_cids": ["", ""], "line_strs": ["\tiio_attr->dev_attr.attr.name = kstrdup_const(attr->name, GFP_KERNEL);", "\tsysfs_attr_init(&iio_attr->dev_attr.attr);"]}]}

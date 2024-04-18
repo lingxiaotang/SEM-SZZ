@@ -1,0 +1,1 @@
+{"drivers/vdpa/ifcvf/ifcvf_main.c": [{"patch_file_name": "drivers/vdpa/ifcvf/ifcvf_main.c", "func_decl_name": "ifcvf_request_irq", "is_cond": true, "line_numbers": [80, 81], "line_cids": ["", ""], "line_strs": ["\t\t\t       vf->config_msix_name, vf);", ""]}]}

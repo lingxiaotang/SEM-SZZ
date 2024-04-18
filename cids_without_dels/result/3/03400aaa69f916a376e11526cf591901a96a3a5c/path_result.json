@@ -1,0 +1,1 @@
+{"drivers/net/ethernet/broadcom/bnxt/bnxt.c": [{"patch_file_name": "drivers/net/ethernet/broadcom/bnxt/bnxt.c", "func_decl_name": "bnxt_init_one", "is_cond": false, "line_numbers": [13162, 13163], "line_cids": ["", ""], "line_strs": ["\tbnxt_free_hwrm_resources(bp);", "\tkfree(bp->fw_health);"]}]}

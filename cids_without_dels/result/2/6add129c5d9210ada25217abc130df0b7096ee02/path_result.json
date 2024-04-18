@@ -1,0 +1,1 @@
+{"tools/perf/tests/task-exit.c": [{"patch_file_name": "tools/perf/tests/task-exit.c", "func_decl_name": "test__task_exit", "is_cond": false, "line_numbers": [104, 105], "line_cids": ["", ""], "line_strs": ["\terr = evlist__open(evlist);", "\tif (err < 0) {"]}]}

@@ -1,0 +1,1 @@
+{"tools/testing/selftests/watchdog/watchdog-test.c": [{"patch_file_name": "tools/testing/selftests/watchdog/watchdog-test.c", "func_decl_name": "main", "is_cond": true, "line_numbers": [120, 121], "line_cids": ["", ""], "line_strs": ["", "\toptind = 0;"]}]}

@@ -1,0 +1,1 @@
+{"arch/arm/mach-omap1/board-ams-delta.c": [{"patch_file_name": "arch/arm/mach-omap1/board-ams-delta.c", "func_decl_name": "modem_pm", "is_cond": true, "line_numbers": [752, 753], "line_cids": ["", ""], "line_strs": ["", "\tif (IS_ERR(priv->regulator))"]}]}

@@ -1,0 +1,1 @@
+{"kernel/events/core.c": [{"patch_file_name": "kernel/events/core.c", "func_decl_name": "perf_event_alloc", "is_cond": true, "line_numbers": [10314, 10315], "line_cids": ["", ""], "line_strs": ["", "\t\t/* force hw sync on the address filters */"]}]}

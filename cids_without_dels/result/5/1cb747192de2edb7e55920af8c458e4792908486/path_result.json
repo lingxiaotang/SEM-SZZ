@@ -1,0 +1,1 @@
+{"drivers/net/wireless/ath/ath11k/mac.c": [{"patch_file_name": "drivers/net/wireless/ath/ath11k/mac.c", "func_decl_name": "ath11k_peer_assoc_h_he_6ghz", "is_cond": true, "line_numbers": [2321, 2322], "line_cids": ["", ""], "line_strs": ["", "\tif (sta->bandwidth == IEEE80211_STA_RX_BW_80)"]}]}

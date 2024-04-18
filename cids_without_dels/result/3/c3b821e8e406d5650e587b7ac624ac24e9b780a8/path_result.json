@@ -1,0 +1,1 @@
+{"drivers/pinctrl/ralink/pinctrl-ralink.c": [{"patch_file_name": "drivers/pinctrl/ralink/pinctrl-ralink.c", "func_decl_name": "ralink_pinctrl_pins", "is_cond": true, "line_numbers": [268, 269], "line_cids": ["", ""], "line_strs": ["\t\t\t\t\t\tGFP_KERNEL);", "\t\tfor (j = 0; j < p->func[i]->pin_count; j++)"]}]}

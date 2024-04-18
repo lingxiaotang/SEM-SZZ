@@ -1,0 +1,1 @@
+{"net/core/devlink.c": [{"patch_file_name": "net/core/devlink.c", "func_decl_name": "devlink_nl_cmd_info_get_dumpit", "is_cond": true, "line_numbers": [3899, 3900], "line_cids": ["", ""], "line_strs": ["", "\t\tmutex_lock(&devlink->lock);"]}]}

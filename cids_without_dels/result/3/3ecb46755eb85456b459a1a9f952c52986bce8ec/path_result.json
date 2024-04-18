@@ -1,0 +1,1 @@
+{"sound/soc/samsung/idma.c": [{"patch_file_name": "sound/soc/samsung/idma.c", "func_decl_name": "preallocate_idma_buffer", "is_cond": true, "line_numbers": [362, 363], "line_cids": ["", ""], "line_strs": ["\tbuf->area = (unsigned char * __force)ioremap(buf->addr, buf->bytes);", ""]}]}

@@ -1,0 +1,1 @@
+{"net/mac80211/cfg.c": [{"patch_file_name": "net/mac80211/cfg.c", "func_decl_name": "ieee80211_lookup_key", "is_cond": true, "line_numbers": [572, 573], "line_cids": ["", ""], "line_strs": ["", "\treturn NULL;"]}]}

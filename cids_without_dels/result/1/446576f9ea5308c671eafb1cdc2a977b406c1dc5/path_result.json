@@ -1,0 +1,1 @@
+{"drivers/spi/spi-imx.c": [{"patch_file_name": "drivers/spi/spi-imx.c", "func_decl_name": "spi_imx_probe", "is_cond": false, "line_numbers": [1266, 1266], "line_cids": ["", ""], "line_strs": ["\tif (ret) {", "\tif (ret) {"]}]}

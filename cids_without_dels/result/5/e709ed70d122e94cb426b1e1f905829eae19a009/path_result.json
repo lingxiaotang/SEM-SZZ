@@ -1,0 +1,1 @@
+{"drivers/bus/ti-sysc.c": [{"patch_file_name": "drivers/bus/ti-sysc.c", "func_decl_name": "sysc_reset", "is_cond": true, "line_numbers": [1586, 1587], "line_cids": ["", ""], "line_strs": ["", "\tif (ddata->clk_enable_quirk)"]}]}

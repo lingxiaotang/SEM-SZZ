@@ -1,0 +1,1 @@
+{"drivers/net/ethernet/mellanox/mlx5/core/en/xsk/setup.c": [{"patch_file_name": "drivers/net/ethernet/mellanox/mlx5/core/en/xsk/setup.c", "func_decl_name": "mlx5e_activate_xsk", "is_cond": false, "line_numbers": [144, 146], "line_cids": ["", ""], "line_strs": ["\tset_bit(MLX5E_RQ_STATE_ENABLED, &c->xskrq.state);", "\tmlx5e_trigger_irq(&c->xskicosq);"]}]}

@@ -1,0 +1,1 @@
+{"drivers/gpu/drm/vboxvideo/vbox_drv.c": [{"patch_file_name": "drivers/gpu/drm/vboxvideo/vbox_drv.c", "func_decl_name": "vbox_pci_probe", "is_cond": true, "line_numbers": [43, 44], "line_cids": ["", ""], "line_strs": ["", "\tvbox = kzalloc(sizeof(*vbox), GFP_KERNEL);"]}]}

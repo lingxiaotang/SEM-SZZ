@@ -1,0 +1,1 @@
+{"drivers/scsi/qedf/qedf_main.c": [{"patch_file_name": "drivers/scsi/qedf/qedf_main.c", "func_decl_name": "qedf_upload_connection", "is_cond": true, "line_numbers": [1417, 1418], "line_cids": ["", ""], "line_strs": ["\t\t&term_params_dma, GFP_KERNEL);", ""]}]}

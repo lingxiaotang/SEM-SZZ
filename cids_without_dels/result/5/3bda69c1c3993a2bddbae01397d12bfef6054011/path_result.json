@@ -1,0 +1,1 @@
+{"kernel/events/core.c": [{"patch_file_name": "kernel/events/core.c", "func_decl_name": "get_event_type", "is_cond": true, "line_numbers": [1454, 1455], "line_cids": ["", ""], "line_strs": ["", "\tevent_type = event->attr.pinned ? EVENT_PINNED : EVENT_FLEXIBLE;"]}]}

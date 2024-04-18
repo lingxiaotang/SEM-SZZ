@@ -1,0 +1,1 @@
+{"arch/arm64/kvm/hyp/pgtable.c": [{"patch_file_name": "arch/arm64/kvm/hyp/pgtable.c", "func_decl_name": "__kvm_pgtable_visit", "is_cond": false, "line_numbers": [226], "line_cids": [""], "line_strs": ["\t\tdata->addr += kvm_granule_size(level);"]}]}

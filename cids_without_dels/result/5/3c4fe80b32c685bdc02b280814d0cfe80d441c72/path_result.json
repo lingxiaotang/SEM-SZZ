@@ -1,0 +1,1 @@
+{"drivers/net/ethernet/broadcom/bnxt/bnxt.c": [{"patch_file_name": "drivers/net/ethernet/broadcom/bnxt/bnxt.c", "func_decl_name": "bnxt_hwrm_vnic_set_tpa", "is_cond": true, "line_numbers": [3849, 3850], "line_cids": ["", ""], "line_strs": ["", "\tbnxt_hwrm_cmd_hdr_init(bp, &req, HWRM_VNIC_TPA_CFG, -1, -1);"]}]}

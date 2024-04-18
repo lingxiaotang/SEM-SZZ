@@ -1,0 +1,1 @@
+{"net/sched/sch_dsmark.c": [{"patch_file_name": "net/sched/sch_dsmark.c", "func_decl_name": "dsmark_init", "is_cond": true, "line_numbers": [363, 364], "line_cids": ["", ""], "line_strs": ["\terr = -EINVAL;", "\tindices = nla_get_u16(tb[TCA_DSMARK_INDICES]);"]}]}

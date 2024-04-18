@@ -1,0 +1,1 @@
+{"drivers/remoteproc/ti_k3_r5_remoteproc.c": [{"patch_file_name": "drivers/remoteproc/ti_k3_r5_remoteproc.c", "func_decl_name": "k3_r5_cluster_of_init", "is_cond": false, "line_numbers": [1654, 1654], "line_cids": ["", ""], "line_strs": ["\t\tcpdev = of_find_device_by_node(child);", "\t\tcpdev = of_find_device_by_node(child);"]}]}

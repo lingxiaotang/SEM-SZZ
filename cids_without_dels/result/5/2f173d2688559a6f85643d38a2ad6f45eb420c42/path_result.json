@@ -1,0 +1,1 @@
+{"arch/x86/kvm/x86.c": [{"patch_file_name": "arch/x86/kvm/x86.c", "func_decl_name": "kvm_arch_vcpu_ioctl_run", "is_cond": true, "line_numbers": [7233, 7234], "line_cids": ["", ""], "line_strs": ["\tif (unlikely(vcpu->arch.mp_state == KVM_MP_STATE_UNINITIALIZED)) {", "\t\tkvm_vcpu_block(vcpu);"]}]}

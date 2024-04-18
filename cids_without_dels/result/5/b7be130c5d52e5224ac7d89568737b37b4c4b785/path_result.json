@@ -1,0 +1,1 @@
+{"drivers/net/dsa/bcm_sf2.c": [{"patch_file_name": "drivers/net/dsa/bcm_sf2.c", "func_decl_name": "bcm_sf2_sw_mac_link_down", "is_cond": true, "line_numbers": [811, 812], "line_cids": ["", ""], "line_strs": ["", "\tif (port != core_readl(priv, CORE_IMP0_PRT_ID)) {"]}]}

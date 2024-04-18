@@ -1,0 +1,1 @@
+{"net/sctp/socket.c": [{"patch_file_name": "net/sctp/socket.c", "func_decl_name": "sctp_setsockopt_auth_key", "is_cond": true, "line_numbers": [3815, 3816], "line_cids": ["", ""], "line_strs": ["", "\tif (authkey->sca_assoc_id == SCTP_FUTURE_ASSOC ||"]}]}

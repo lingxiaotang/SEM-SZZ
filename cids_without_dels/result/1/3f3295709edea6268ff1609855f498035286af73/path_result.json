@@ -1,0 +1,1 @@
+{"lib/int_sqrt.c": [{"patch_file_name": "lib/int_sqrt.c", "func_decl_name": "int_sqrt", "is_cond": true, "line_numbers": [25, 26], "line_cids": ["", ""], "line_strs": ["\tm = 1UL << (BITS_PER_LONG - 2);", "\twhile (m != 0) {"]}]}

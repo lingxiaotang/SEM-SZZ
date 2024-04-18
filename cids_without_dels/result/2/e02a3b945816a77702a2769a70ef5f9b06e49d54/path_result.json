@@ -1,0 +1,1 @@
+{"drivers/staging/rtl8712/hal_init.c": [{"patch_file_name": "drivers/staging/rtl8712/hal_init.c", "func_decl_name": "rtl871x_load_fw_cb", "is_cond": false, "line_numbers": [34, 43], "line_cids": ["", ""], "line_strs": ["\tstruct _adapter *adapter = context;", "\t\tcomplete(&adapter->rtl8712_fw_ready);"]}]}

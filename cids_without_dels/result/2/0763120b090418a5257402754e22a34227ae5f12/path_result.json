@@ -1,0 +1,1 @@
+{"net/dsa/tag_hellcreek.c": [{"patch_file_name": "net/dsa/tag_hellcreek.c", "func_decl_name": "hellcreek_xmit", "is_cond": true, "line_numbers": [23, 24], "line_cids": ["", ""], "line_strs": ["", "\t/* Tag encoding */"]}]}

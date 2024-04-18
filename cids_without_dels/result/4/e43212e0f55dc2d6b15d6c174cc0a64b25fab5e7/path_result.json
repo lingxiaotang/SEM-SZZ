@@ -1,0 +1,1 @@
+{"drivers/hwmon/mr75203.c": [{"patch_file_name": "drivers/hwmon/mr75203.c", "func_decl_name": "pvt_init", "is_cond": true, "line_numbers": [390, 391], "line_cids": ["", ""], "line_strs": ["", "\t\tval = CFG1_VOL_MEAS_MODE | CFG1_PARALLEL_OUT |"]}]}

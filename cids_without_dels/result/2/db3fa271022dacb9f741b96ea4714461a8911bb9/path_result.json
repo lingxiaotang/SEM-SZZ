@@ -1,0 +1,1 @@
+{"net/ipv6/addrconf.c": [{"patch_file_name": "net/ipv6/addrconf.c", "func_decl_name": "inet6_set_link_af", "is_cond": true, "line_numbers": [5720, 5721], "line_cids": ["", ""], "line_strs": ["", "\tif (nla_parse_nested_deprecated(tb, IFLA_INET6_MAX, nla, NULL, NULL) < 0)"]}]}

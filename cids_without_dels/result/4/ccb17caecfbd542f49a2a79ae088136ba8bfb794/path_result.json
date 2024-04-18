@@ -1,0 +1,1 @@
+{"tools/perf/builtin-report.c": [{"patch_file_name": "tools/perf/builtin-report.c", "func_decl_name": "report__setup_sample_type", "is_cond": true, "line_numbers": [409, 410], "line_cids": ["", ""], "line_strs": ["\tif (sort__mode == SORT_MODE__MEMORY) {", "\t\tif (!is_pipe && !(sample_type & PERF_SAMPLE_DATA_SRC)) {"]}]}

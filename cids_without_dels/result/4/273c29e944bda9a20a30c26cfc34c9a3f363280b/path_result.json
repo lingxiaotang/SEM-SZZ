@@ -1,0 +1,1 @@
+{"drivers/net/ethernet/ibm/ibmvnic.c": [{"patch_file_name": "drivers/net/ethernet/ibm/ibmvnic.c", "func_decl_name": "handle_login_rsp", "is_cond": true, "line_numbers": [4710, 4711], "line_cids": ["", ""], "line_strs": ["", "\tnetdev->mtu = adapter->req_mtu - ETH_HLEN;"]}]}

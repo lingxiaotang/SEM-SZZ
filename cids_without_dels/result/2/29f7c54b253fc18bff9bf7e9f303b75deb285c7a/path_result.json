@@ -1,0 +1,1 @@
+{"drivers/base/platform.c": [{"patch_file_name": "drivers/base/platform.c", "func_decl_name": "devm_platform_get_irqs_affinity", "is_cond": true, "line_numbers": [368, 369], "line_cids": ["", ""], "line_strs": ["\tnvec = platform_irq_count(dev);", ""]}]}

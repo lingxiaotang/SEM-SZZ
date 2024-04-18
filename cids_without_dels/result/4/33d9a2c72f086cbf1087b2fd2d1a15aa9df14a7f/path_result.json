@@ -1,0 +1,1 @@
+{"net/core/dev.c": [{"patch_file_name": "net/core/dev.c", "func_decl_name": "napi_reuse_skb", "is_cond": false, "line_numbers": [5657, 5658], "line_cids": ["", ""], "line_strs": ["\tskb->skb_iif = 0;", "\tskb->encapsulation = 0;"]}]}

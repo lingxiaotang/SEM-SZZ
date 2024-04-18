@@ -1,0 +1,1 @@
+{"drivers/net/ethernet/microchip/lan743x_main.c": [{"patch_file_name": "drivers/net/ethernet/microchip/lan743x_main.c", "func_decl_name": "lan743x_rx_ring_init", "is_cond": true, "line_numbers": [2278, 2279], "line_cids": ["", ""], "line_strs": ["\t}", "\tring_allocation_size = ALIGN(rx->ring_size *"]}]}

@@ -1,0 +1,1 @@
+{"drivers/net/ethernet/freescale/dpaa2/dpaa2-eth.c": [{"patch_file_name": "drivers/net/ethernet/freescale/dpaa2/dpaa2-eth.c", "func_decl_name": "dpaa2_eth_disconnect_mac", "is_cond": true, "line_numbers": [4152, 4153], "line_cids": ["", ""], "line_strs": ["", "\tdpaa2_mac_close(priv->mac);"]}]}

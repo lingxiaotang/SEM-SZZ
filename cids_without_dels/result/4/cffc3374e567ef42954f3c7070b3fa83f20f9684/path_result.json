@@ -1,0 +1,1 @@
+{"fs/btrfs/extent-tree.c": [{"patch_file_name": "fs/btrfs/extent-tree.c", "func_decl_name": "select_delayed_ref", "is_cond": true, "line_numbers": [2301, 2302], "line_cids": ["", ""], "line_strs": ["", "\treturn list_entry(head->ref_list.next, struct btrfs_delayed_ref_node,"]}]}

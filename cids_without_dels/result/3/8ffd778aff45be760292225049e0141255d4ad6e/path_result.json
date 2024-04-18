@@ -1,0 +1,1 @@
+{"drivers/char/tpm/eventlog/efi.c": [{"patch_file_name": "drivers/char/tpm/eventlog/efi.c", "func_decl_name": "tpm_read_log_efi", "is_cond": true, "line_numbers": [43, 44], "line_cids": ["", ""], "line_strs": ["", "\tlog_tbl = memremap(efi.tpm_log, sizeof(*log_tbl) + log_size,"]}]}

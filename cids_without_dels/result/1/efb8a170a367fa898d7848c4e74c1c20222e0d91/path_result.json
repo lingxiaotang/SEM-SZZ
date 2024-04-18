@@ -1,0 +1,1 @@
+{"drivers/gpu/drm/msm/msm_gpu_devfreq.c": [{"patch_file_name": "drivers/gpu/drm/msm/msm_gpu_devfreq.c", "func_decl_name": "msm_devfreq_idle", "is_cond": true, "line_numbers": [188, 189], "line_cids": ["", ""], "line_strs": ["", "\t/*"]}]}

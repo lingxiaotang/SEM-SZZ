@@ -1,0 +1,1 @@
+{"drivers/dma/mv_xor_v2.c": [{"patch_file_name": "drivers/dma/mv_xor_v2.c", "func_decl_name": "mv_xor_v2_probe", "is_cond": true, "line_numbers": [695, 696], "line_cids": ["", ""], "line_strs": ["", "\txor_dev->clk = devm_clk_get(&pdev->dev, NULL);"]}]}

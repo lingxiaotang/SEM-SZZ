@@ -1,0 +1,1 @@
+{"tools/testing/selftests/kvm/dirty_log_perf_test.c": [{"patch_file_name": "tools/testing/selftests/kvm/dirty_log_perf_test.c", "func_decl_name": "main", "is_cond": true, "line_numbers": [314, 315], "line_cids": ["", ""], "line_strs": ["\t\t\tp.partition_vcpu_memory_access = false;", "\t\tcase 's':"]}]}

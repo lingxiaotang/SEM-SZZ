@@ -1,0 +1,1 @@
+{"drivers/net/ethernet/chelsio/inline_crypto/chtls/chtls_cm.c": [{"patch_file_name": "drivers/net/ethernet/chelsio/inline_crypto/chtls/chtls_cm.c", "func_decl_name": "chtls_recv_sock", "is_cond": true, "line_numbers": [1159, 1160], "line_cids": ["", ""], "line_strs": ["\t\tgoto free_dst;", "\tport_id = cxgb4_port_idx(ndev);"]}]}

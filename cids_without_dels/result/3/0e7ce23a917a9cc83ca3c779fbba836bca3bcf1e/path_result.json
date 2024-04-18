@@ -1,0 +1,1 @@
+{"drivers/net/ethernet/ibm/ehea/ehea_main.c": [{"patch_file_name": "drivers/net/ethernet/ibm/ehea/ehea_main.c", "func_decl_name": "ehea_register_port", "is_cond": false, "line_numbers": [2900, 2900], "line_cids": ["", ""], "line_strs": ["\tret = of_device_register(&port->ofdev);", "\tret = of_device_register(&port->ofdev);"]}]}

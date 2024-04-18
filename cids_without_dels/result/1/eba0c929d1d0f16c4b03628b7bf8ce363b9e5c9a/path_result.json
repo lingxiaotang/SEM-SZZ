@@ -1,0 +1,1 @@
+{"kernel/bpf/verifier.c": [{"patch_file_name": "kernel/bpf/verifier.c", "func_decl_name": "bpf_check", "is_cond": true, "line_numbers": [4476, 4477], "line_cids": ["", ""], "line_strs": ["", "\t/* 'struct bpf_verifier_env' can be global, but since it's not small,"]}]}

@@ -1,0 +1,1 @@
+{"drivers/gpu/drm/i915/gvt/fb_decoder.c": [{"patch_file_name": "drivers/gpu/drm/i915/gvt/fb_decoder.c", "func_decl_name": "intel_vgpu_decode_primary_plane", "is_cond": true, "line_numbers": [224, 225], "line_cids": ["", ""], "line_strs": ["\t\t\tval & PLANE_CTL_YUV422_ORDER_MASK);", "\t\tplane->bpp = skl_pixel_formats[fmt].bpp;"]}]}

@@ -1,0 +1,1 @@
+{"sound/soc/soc-dapm.c": [{"patch_file_name": "sound/soc/soc-dapm.c", "func_decl_name": "dapm_update_dai_unlocked", "is_cond": true, "line_numbers": [2582, 2583], "line_cids": ["", ""], "line_strs": ["", "\tdev_dbg(dai->dev, \"Update DAI routes for %s %s\\n\", dai->name,"]}]}

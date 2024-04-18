@@ -1,0 +1,1 @@
+{"drivers/perf/riscv_pmu_sbi.c": [{"patch_file_name": "drivers/perf/riscv_pmu_sbi.c", "func_decl_name": "pmu_sbi_start_overflow_mask", "is_cond": false, "line_numbers": [522, 531], "line_cids": ["", ""], "line_strs": ["\twhile (ctr_ovf_mask) {", "\t\tctr_ovf_mask = ctr_ovf_mask >> 1;"]}]}

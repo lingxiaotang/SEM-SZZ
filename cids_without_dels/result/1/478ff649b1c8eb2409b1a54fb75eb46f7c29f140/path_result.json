@@ -1,0 +1,1 @@
+{"drivers/of/overlay.c": [{"patch_file_name": "drivers/of/overlay.c", "func_decl_name": "dup_and_fixup_symbol_prop", "is_cond": false, "line_numbers": [259], "line_cids": [""], "line_strs": ["\tstrcpy(new_prop->value, target_path);"]}]}

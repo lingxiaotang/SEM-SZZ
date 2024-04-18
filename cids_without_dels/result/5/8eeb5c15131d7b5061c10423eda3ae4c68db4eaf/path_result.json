@@ -1,0 +1,1 @@
+{"sound/soc/codecs/88pm860x-codec.c": [{"patch_file_name": "sound/soc/codecs/88pm860x-codec.c", "func_decl_name": "pm860x_probe", "is_cond": true, "line_numbers": [1330, 1331], "line_cids": ["", ""], "line_strs": ["\tcodec->control_data = pm860x->regmap;", ""]}]}

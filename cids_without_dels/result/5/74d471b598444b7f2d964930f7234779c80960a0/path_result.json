@@ -1,0 +1,1 @@
+{"drivers/usb/serial/garmin_gps.c": [{"patch_file_name": "drivers/usb/serial/garmin_gps.c", "func_decl_name": "garmin_port_probe", "is_cond": true, "line_numbers": [1413, 1414], "line_cids": ["", ""], "line_strs": ["\tstatus = garmin_init_session(port);", ""]}]}

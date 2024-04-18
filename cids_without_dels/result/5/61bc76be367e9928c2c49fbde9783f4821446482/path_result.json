@@ -1,0 +1,1 @@
+{"drivers/firmware/arm_scmi/optee.c": [{"patch_file_name": "drivers/firmware/arm_scmi/optee.c", "func_decl_name": "scmi_optee_service_probe", "is_cond": false, "line_numbers": [508, 510], "line_cids": ["", ""], "line_strs": ["\tINIT_LIST_HEAD(&agent->channel_list);", "\tret = get_capabilities(agent);"]}]}

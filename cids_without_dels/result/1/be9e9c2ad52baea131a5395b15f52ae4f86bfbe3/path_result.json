@@ -1,0 +1,1 @@
+{"drivers/watchdog/da9063_wdt.c": [{"patch_file_name": "drivers/watchdog/da9063_wdt.c", "func_decl_name": "da9063_wdt_probe", "is_cond": true, "line_numbers": [208, 209], "line_cids": ["", ""], "line_strs": ["", "\treturn devm_watchdog_register_device(&pdev->dev, wdd);"]}]}

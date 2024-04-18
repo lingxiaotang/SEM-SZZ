@@ -1,0 +1,1 @@
+{"net/batman-adv/bat_v_elp.c": [{"patch_file_name": "net/batman-adv/bat_v_elp.c", "func_decl_name": "batadv_v_elp_get_throughput", "is_cond": true, "line_numbers": [113, 114], "line_cids": ["", ""], "line_strs": ["\t\t\tgoto default_throughput;", ""]}]}

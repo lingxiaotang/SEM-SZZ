@@ -1,0 +1,1 @@
+{"drivers/hwtracing/stm/policy.c": [{"patch_file_name": "drivers/hwtracing/stm/policy.c", "func_decl_name": "stp_policy_unbind", "is_cond": false, "line_numbers": [348, 349], "line_cids": ["", ""], "line_strs": ["\tstm_put_protocol(stm->pdrv);", "\tstm_put_device(stm);"]}]}

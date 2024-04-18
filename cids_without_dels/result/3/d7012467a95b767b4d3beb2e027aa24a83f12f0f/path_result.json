@@ -1,0 +1,1 @@
+{"drivers/infiniband/core/device.c": [{"patch_file_name": "drivers/infiniband/core/device.c", "func_decl_name": "ib_query_port", "is_cond": true, "line_numbers": [663, 664], "line_cids": ["", ""], "line_strs": ["", "\terr = ib_query_gid(device, port_num, 0, &gid, NULL);"]}]}

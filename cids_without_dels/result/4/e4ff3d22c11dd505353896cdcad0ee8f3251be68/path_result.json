@@ -1,0 +1,1 @@
+{"drivers/infiniband/core/rdma_core.c": [{"patch_file_name": "drivers/infiniband/core/rdma_core.c", "func_decl_name": "__uverbs_cleanup_ufile", "is_cond": false, "line_numbers": [883, 883], "line_cids": ["", ""], "line_strs": ["\t\tif (!uverbs_destroy_uobject(obj, reason))", "\t\tif (!uverbs_destroy_uobject(obj, reason))"]}]}

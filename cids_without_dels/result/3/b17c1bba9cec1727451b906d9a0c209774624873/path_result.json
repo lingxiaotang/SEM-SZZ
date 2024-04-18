@@ -1,0 +1,1 @@
+{"drivers/staging/greybus/timesync_platform.c": [{"patch_file_name": "drivers/staging/greybus/timesync_platform.c", "func_decl_name": "gb_timesync_platform_unlock_bus", "is_cond": true, "line_numbers": [53, 54], "line_cids": ["", ""], "line_strs": ["{", "\tarche_platform_change_state_cb(ARCHE_PLATFORM_STATE_ACTIVE, NULL);"]}]}

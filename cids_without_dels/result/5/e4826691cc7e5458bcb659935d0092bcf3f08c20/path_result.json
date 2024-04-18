@@ -1,0 +1,1 @@
+{"fs/xfs/xfs_iomap.c": [{"patch_file_name": "fs/xfs/xfs_iomap.c", "func_decl_name": "xfs_buffered_write_iomap_begin", "is_cond": true, "line_numbers": [862, 863], "line_cids": ["", ""], "line_strs": ["", "\t/* we can't use delayed allocations when using extent size hints */"]}]}

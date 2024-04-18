@@ -1,0 +1,1 @@
+{"kernel/trace/trace_events_filter.c": [{"patch_file_name": "kernel/trace/trace_events_filter.c", "func_decl_name": "regex_match_front", "is_cond": true, "line_numbers": [764, 765], "line_cids": ["", ""], "line_strs": ["{", "\tif (strncmp(str, r->pattern, r->len) == 0)"]}]}

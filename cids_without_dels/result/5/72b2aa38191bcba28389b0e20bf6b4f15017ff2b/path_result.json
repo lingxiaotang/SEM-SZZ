@@ -1,0 +1,1 @@
+{"tools/iio/iio_utils.c": [{"patch_file_name": "tools/iio/iio_utils.c", "func_decl_name": "calc_digits", "is_cond": true, "line_numbers": [549, 550], "line_cids": ["", ""], "line_strs": ["", "\twhile (num != 0) {"]}]}

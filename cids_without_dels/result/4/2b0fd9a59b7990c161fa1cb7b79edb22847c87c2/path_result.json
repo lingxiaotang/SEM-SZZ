@@ -1,0 +1,1 @@
+{"kernel/trace/trace.c": [{"patch_file_name": "kernel/trace/trace.c", "func_decl_name": "rb_simple_write", "is_cond": true, "line_numbers": [9056, 9056], "line_cids": ["", ""], "line_strs": ["\tif (buffer) {", "\tif (buffer) {"]}]}

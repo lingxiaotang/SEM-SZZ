@@ -1,0 +1,1 @@
+{"arch/x86/kvm/cpuid.c": [{"patch_file_name": "arch/x86/kvm/cpuid.c", "func_decl_name": "__do_cpuid_func", "is_cond": true, "line_numbers": [889, 890], "line_cids": ["", ""], "line_strs": ["", "\t\tperf_get_x86_pmu_capability(&cap);"]}]}

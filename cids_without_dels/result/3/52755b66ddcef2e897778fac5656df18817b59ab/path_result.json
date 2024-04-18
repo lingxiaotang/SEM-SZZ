@@ -1,0 +1,1 @@
+{"drivers/net/wan/cosa.c": [{"patch_file_name": "drivers/net/wan/cosa.c", "func_decl_name": "cosa_write", "is_cond": false, "line_numbers": [876], "line_cids": [""], "line_strs": ["\tcosa_start_tx(chan, kbuf, count);"]}]}

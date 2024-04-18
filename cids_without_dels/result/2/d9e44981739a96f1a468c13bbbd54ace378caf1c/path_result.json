@@ -1,0 +1,1 @@
+{"drivers/net/bareudp.c": [{"patch_file_name": "drivers/net/bareudp.c", "func_decl_name": "bareudp_setup", "is_cond": false, "line_numbers": [536, 537], "line_cids": ["", ""], "line_strs": ["\tdev->features    |= NETIF_F_RXCSUM;", "\tdev->features    |= NETIF_F_GSO_SOFTWARE;"]}]}

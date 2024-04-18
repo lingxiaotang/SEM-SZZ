@@ -1,0 +1,1 @@
+{"arch/s390/kernel/perf_cpum_sf.c": [{"patch_file_name": "arch/s390/kernel/perf_cpum_sf.c", "func_decl_name": "__hw_perf_event_init", "is_cond": true, "line_numbers": [755, 756], "line_cids": ["", ""], "line_strs": ["\tif (attr->freq) {", "\t\trate = freq_to_sample_rate(&si, attr->sample_freq);"]}]}

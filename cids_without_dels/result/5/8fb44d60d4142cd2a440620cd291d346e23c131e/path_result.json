@@ -1,0 +1,1 @@
+{"net/llc/llc_output.c": [{"patch_file_name": "net/llc/llc_output.c", "func_decl_name": "llc_build_and_send_ui_pkt", "is_cond": false, "line_numbers": [72, 72], "line_cids": ["", ""], "line_strs": ["\trc = llc_mac_hdr_init(skb, skb->dev->dev_addr, dmac);", "\trc = llc_mac_hdr_init(skb, skb->dev->dev_addr, dmac);"]}]}

@@ -1,0 +1,1 @@
+{"drivers/regulator/fan53555.c": [{"patch_file_name": "drivers/regulator/fan53555.c", "func_decl_name": "fan53526_voltages_setup_fairchild", "is_cond": false, "line_numbers": [284, 299], "line_cids": ["", ""], "line_strs": ["\t\t\tdi->vsel_step = 6250;", "\tdi->vsel_count = FAN53526_NVOLTAGES;"]}]}

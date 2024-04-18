@@ -1,0 +1,1 @@
+{"drivers/net/ethernet/hisilicon/hns3/hns3pf/hclge_main.c": [{"patch_file_name": "drivers/net/ethernet/hisilicon/hns3/hns3pf/hclge_main.c", "func_decl_name": "hclge_set_vf_vlan_common", "is_cond": true, "line_numbers": [4530, 4531], "line_cids": ["", ""], "line_strs": ["", "\t\tdev_err(&hdev->pdev->dev,"]}]}

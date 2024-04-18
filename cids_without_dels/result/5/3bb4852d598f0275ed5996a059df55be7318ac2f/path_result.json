@@ -1,0 +1,1 @@
+{"sound/soc/codecs/wcd934x.c": [{"patch_file_name": "sound/soc/codecs/wcd934x.c", "func_decl_name": "wcd934x_set_channel_map", "is_cond": true, "line_numbers": [1875, 1876], "line_cids": ["", ""], "line_strs": ["", "\tif (!tx_slot || !rx_slot) {"]}]}

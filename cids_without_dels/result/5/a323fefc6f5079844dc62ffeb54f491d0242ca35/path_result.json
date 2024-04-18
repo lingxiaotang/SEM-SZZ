@@ -1,0 +1,1 @@
+{"drivers/usb/serial/io_ti.c": [{"patch_file_name": "drivers/usb/serial/io_ti.c", "func_decl_name": "edge_startup", "is_cond": true, "line_numbers": [2548, 2549], "line_cids": ["", ""], "line_strs": ["", "\t/* create our private serial structure */"]}]}

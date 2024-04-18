@@ -1,0 +1,1 @@
+{"drivers/bluetooth/btusb.c": [{"patch_file_name": "drivers/bluetooth/btusb.c", "func_decl_name": "btusb_probe", "is_cond": true, "line_numbers": [3834, 3835], "line_cids": ["", ""], "line_strs": ["\t\tset_bit(BTUSB_WAKEUP_DISABLE, &data->flags);", "\t}"]}]}

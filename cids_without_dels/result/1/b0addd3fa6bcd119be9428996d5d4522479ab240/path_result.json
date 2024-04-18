@@ -1,0 +1,1 @@
+{"drivers/usb/misc/idmouse.c": [{"patch_file_name": "drivers/usb/misc/idmouse.c", "func_decl_name": "idmouse_probe", "is_cond": true, "line_numbers": [349, 350], "line_cids": ["", ""], "line_strs": ["", "\t/* allocate memory for our device state and initialize it */"]}]}

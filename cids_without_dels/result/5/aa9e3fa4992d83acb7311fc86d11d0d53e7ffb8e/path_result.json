@@ -1,0 +1,1 @@
+{"sound/soc/intel/catpt/pcm.c": [{"patch_file_name": "sound/soc/intel/catpt/pcm.c", "func_decl_name": "catpt_stream_update_position", "is_cond": true, "line_numbers": [536, 537], "line_cids": ["", ""], "line_strs": ["", "\t/* only offload is set_write_pos driven */"]}]}

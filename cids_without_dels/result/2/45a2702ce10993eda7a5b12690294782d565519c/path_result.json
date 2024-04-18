@@ -1,0 +1,1 @@
+{"sound/soc/codecs/rt5682-i2c.c": [{"patch_file_name": "sound/soc/codecs/rt5682-i2c.c", "func_decl_name": "rt5682_i2c_shutdown", "is_cond": false, "line_numbers": [274, 276], "line_cids": ["", ""], "line_strs": ["\tstruct rt5682_priv *rt5682 = i2c_get_clientdata(client);", "\trt5682_reset(rt5682);"]}]}

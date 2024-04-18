@@ -1,0 +1,1 @@
+{"drivers/net/ethernet/hisilicon/hns3/hns3pf/hclge_debugfs.c": [{"patch_file_name": "drivers/net/ethernet/hisilicon/hns3/hns3pf/hclge_debugfs.c", "func_decl_name": "hclge_dbg_get_imp_stats_info", "is_cond": true, "line_numbers": [1726, 1727], "line_cids": ["", ""], "line_strs": ["\tbd_num = le32_to_cpu(req->bd_num);", ""]}]}

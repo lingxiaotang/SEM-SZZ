@@ -1,0 +1,1 @@
+{"drivers/net/ethernet/broadcom/bcmsysport.c": [{"patch_file_name": "drivers/net/ethernet/broadcom/bcmsysport.c", "func_decl_name": "bcm_sysport_get_stats", "is_cond": true, "line_numbers": [451, 452], "line_cids": ["", ""], "line_strs": ["\t\t\tp = (char *)priv;", "\t\tp += s->stat_offset;"]}]}

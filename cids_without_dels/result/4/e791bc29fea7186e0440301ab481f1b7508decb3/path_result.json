@@ -1,0 +1,1 @@
+{"drivers/gpu/drm/msm/disp/dpu1/dpu_kms.c": [{"patch_file_name": "drivers/gpu/drm/msm/disp/dpu1/dpu_kms.c", "func_decl_name": "dpu_kms_init", "is_cond": true, "line_numbers": [1237, 1238], "line_cids": ["", ""], "line_strs": ["", "\tret = msm_kms_init(&dpu_kms->base, &kms_funcs);"]}]}

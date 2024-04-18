@@ -1,0 +1,1 @@
+{"net/tipc/crypto.c": [{"patch_file_name": "net/tipc/crypto.c", "func_decl_name": "tipc_crypto_start", "is_cond": true, "line_numbers": [1494, 1495], "line_cids": ["", ""], "line_strs": ["\tif (!c->stats) {", "\t\tkfree_sensitive(c);"]}]}

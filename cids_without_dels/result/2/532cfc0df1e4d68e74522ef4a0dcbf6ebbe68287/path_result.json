@@ -1,0 +1,1 @@
+{"drivers/net/ethernet/hisilicon/hns3/hns3pf/hclge_mbx.c": [{"patch_file_name": "drivers/net/ethernet/hisilicon/hns3/hns3pf/hclge_mbx.c", "func_decl_name": "hclge_get_rss_key", "is_cond": true, "line_numbers": [609, 610], "line_cids": ["", ""], "line_strs": ["", "\tmemcpy(resp_msg->data,"]}]}

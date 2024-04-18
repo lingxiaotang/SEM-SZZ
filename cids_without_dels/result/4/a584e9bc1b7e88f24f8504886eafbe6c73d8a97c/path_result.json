@@ -1,0 +1,1 @@
+{"drivers/net/can/m_can/m_can.c": [{"patch_file_name": "drivers/net/can/m_can/m_can.c", "func_decl_name": "m_can_stop", "is_cond": false, "line_numbers": [1415, 1418], "line_cids": ["", ""], "line_strs": ["\tm_can_disable_all_interrupts(cdev);", "\tcdev->can.state = CAN_STATE_STOPPED;"]}]}

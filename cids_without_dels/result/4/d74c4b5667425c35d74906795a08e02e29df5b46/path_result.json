@@ -1,0 +1,1 @@
+{"drivers/net/wireless/mediatek/mt76/mt7921/mac.c": [{"patch_file_name": "drivers/net/wireless/mediatek/mt76/mt7921/mac.c", "func_decl_name": "mt7921_reset", "is_cond": true, "line_numbers": [1356, 1357], "line_cids": ["", ""], "line_strs": ["", "\tif (!dev->hw_full_reset)"]}]}

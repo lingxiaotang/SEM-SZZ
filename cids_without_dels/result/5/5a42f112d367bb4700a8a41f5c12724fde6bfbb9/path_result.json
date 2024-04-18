@@ -1,0 +1,1 @@
+{"drivers/net/ethernet/intel/ice/ice_xsk.c": [{"patch_file_name": "drivers/net/ethernet/intel/ice/ice_xsk.c", "func_decl_name": "ice_xsk_pool_setup", "is_cond": true, "line_numbers": [331, 332], "line_cids": ["", ""], "line_strs": ["", "\tif (!is_power_of_2(vsi->rx_rings[qid]->count) ||"]}]}

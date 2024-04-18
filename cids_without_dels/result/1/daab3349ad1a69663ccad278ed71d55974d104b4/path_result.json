@@ -1,0 +1,1 @@
+{"drivers/net/phy/phylink.c": [{"patch_file_name": "drivers/net/phy/phylink.c", "func_decl_name": "phylink_destroy", "is_cond": true, "line_numbers": [614, 615], "line_cids": ["", ""], "line_strs": ["\t\tsfp_unregister_upstream(pl->sfp_bus);", ""]}]}

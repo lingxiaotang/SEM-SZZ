@@ -1,0 +1,1 @@
+{"drivers/acpi/acpi_video.c": [{"patch_file_name": "drivers/acpi/acpi_video.c", "func_decl_name": "dmi_is_desktop", "is_cond": true, "line_numbers": [2145, 2146], "line_cids": ["", ""], "line_strs": ["\tcase 0x07: /* Tower */", "\tcase 0x11: /* Main Server Chassis */"]}]}

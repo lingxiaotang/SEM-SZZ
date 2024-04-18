@@ -1,0 +1,1 @@
+{"net/bridge/br_vlan.c": [{"patch_file_name": "net/bridge/br_vlan.c", "func_decl_name": "__vlan_add", "is_cond": true, "line_numbers": [305, 306], "line_cids": ["", ""], "line_strs": ["\t\tif (masterv) {", "\t\t\tbr_vlan_put_master(masterv);"]}]}

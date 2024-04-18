@@ -1,0 +1,1 @@
+{"drivers/gpu/drm/drm_mm.c": [{"patch_file_name": "drivers/gpu/drm/drm_mm.c", "func_decl_name": "drm_mm_init", "is_cond": false, "line_numbers": [907, 908], "line_cids": ["", ""], "line_strs": ["\tINIT_LIST_HEAD(&mm->head_node.node_list);", "\tmm->head_node.hole_follows = 1;"]}]}

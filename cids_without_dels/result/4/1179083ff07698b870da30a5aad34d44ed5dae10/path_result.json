@@ -1,0 +1,1 @@
+{"drivers/firmware/google/gsmi.c": [{"patch_file_name": "drivers/firmware/google/gsmi.c", "func_decl_name": "gsmi_panic_callback", "is_cond": true, "line_numbers": [683, 684], "line_cids": ["", ""], "line_strs": ["{", "\tgsmi_shutdown_reason(GSMI_SHUTDOWN_PANIC);"]}]}

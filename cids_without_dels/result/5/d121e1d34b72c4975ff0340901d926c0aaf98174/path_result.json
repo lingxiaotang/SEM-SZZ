@@ -1,0 +1,1 @@
+{"tools/lib/bpf/libbpf.c": [{"patch_file_name": "tools/lib/bpf/libbpf.c", "func_decl_name": "bpf_core_find_cands", "is_cond": true, "line_numbers": [3875, 3876], "line_cids": ["", ""], "line_strs": ["", "\t\ttarg_essent_len = bpf_core_essential_name_len(targ_name);"]}]}

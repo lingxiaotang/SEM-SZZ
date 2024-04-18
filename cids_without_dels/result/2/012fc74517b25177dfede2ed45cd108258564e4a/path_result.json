@@ -1,0 +1,1 @@
+{"drivers/net/dsa/mv88e6xxx/chip.c": [{"patch_file_name": "drivers/net/dsa/mv88e6xxx/chip.c", "func_decl_name": "mv88e6xxx_devlink_atu_bin_get", "is_cond": false, "line_numbers": [2766, 2775], "line_cids": ["", ""], "line_strs": ["\terr = mv88e6xxx_g2_atu_stats_get(chip, &occupancy);", "\treturn occupancy;"]}]}

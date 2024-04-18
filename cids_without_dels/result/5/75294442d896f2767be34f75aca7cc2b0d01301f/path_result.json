@@ -1,0 +1,1 @@
+{"drivers/md/dm-thin.c": [{"patch_file_name": "drivers/md/dm-thin.c", "func_decl_name": "set_pool_mode", "is_cond": true, "line_numbers": [2505, 2506], "line_cids": ["", ""], "line_strs": ["\t\t\tnotify_of_pool_mode_change(pool, \"write\");", "\t\tpool->out_of_data_space = false;"]}]}

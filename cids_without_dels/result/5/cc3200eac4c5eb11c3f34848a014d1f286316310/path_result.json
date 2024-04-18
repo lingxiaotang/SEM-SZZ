@@ -1,0 +1,1 @@
+{"block/blk-mq-sched.c": [{"patch_file_name": "block/blk-mq-sched.c", "func_decl_name": "blk_mq_sched_insert_request", "is_cond": true, "line_numbers": [400, 400], "line_cids": ["", ""], "line_strs": ["\tif (blk_mq_sched_bypass_insert(hctx, !!e, rq)) {", "\tif (blk_mq_sched_bypass_insert(hctx, !!e, rq)) {"]}]}

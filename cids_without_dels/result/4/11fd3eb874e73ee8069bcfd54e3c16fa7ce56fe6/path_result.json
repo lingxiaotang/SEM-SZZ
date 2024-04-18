@@ -1,0 +1,1 @@
+{"tools/perf/util/probe-finder.c": [{"patch_file_name": "tools/perf/util/probe-finder.c", "func_decl_name": "fill_empty_trace_arg", "is_cond": true, "line_numbers": [1410, 1411], "line_cids": ["", ""], "line_strs": ["", "\tfor (i = 0; i < pev->nargs; i++) {"]}]}

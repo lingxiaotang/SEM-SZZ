@@ -1,0 +1,1 @@
+{"drivers/phy/qualcomm/phy-qcom-qmp.c": [{"patch_file_name": "drivers/phy/qualcomm/phy-qcom-qmp.c", "func_decl_name": "qcom_qmp_phy_create", "is_cond": true, "line_numbers": [5987, 5988], "line_cids": ["", ""], "line_strs": ["\t\t}", "\t}"]}]}

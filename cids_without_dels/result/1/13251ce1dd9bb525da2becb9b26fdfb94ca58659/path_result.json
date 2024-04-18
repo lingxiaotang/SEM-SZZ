@@ -1,0 +1,1 @@
+{"drivers/hid/hid-vivaldi.c": [{"patch_file_name": "drivers/hid/hid-vivaldi.c", "func_decl_name": "vivaldi_probe", "is_cond": true, "line_numbers": [59, 60], "line_cids": ["", ""], "line_strs": ["\tdrvdata = devm_kzalloc(&hdev->dev, sizeof(*drvdata), GFP_KERNEL);", "\thid_set_drvdata(hdev, drvdata);"]}]}

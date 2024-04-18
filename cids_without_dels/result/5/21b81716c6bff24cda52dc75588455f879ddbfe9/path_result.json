@@ -1,0 +1,1 @@
+{"drivers/scsi/ipr.c": [{"patch_file_name": "drivers/scsi/ipr.c", "func_decl_name": "ipr_store_update_fw", "is_cond": true, "line_numbers": [4011, 4012], "line_cids": ["", ""], "line_strs": ["", "\tif (request_firmware(&fw_entry, fname, &ioa_cfg->pdev->dev)) {"]}]}

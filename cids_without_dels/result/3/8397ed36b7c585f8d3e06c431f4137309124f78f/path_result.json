@@ -1,0 +1,1 @@
+{"net/ipv6/route.c": [{"patch_file_name": "net/ipv6/route.c", "func_decl_name": "fib6_ifdown", "is_cond": true, "line_numbers": [2804, 2807], "line_cids": ["", ""], "line_strs": ["\tif ((rt->dst.dev == dev || !dev) &&", "\t     !rt->rt6i_idev->cnf.ignore_routes_with_linkdown))"]}]}

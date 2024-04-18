@@ -1,0 +1,1 @@
+{"tools/lib/bpf/linker.c": [{"patch_file_name": "tools/lib/bpf/linker.c", "func_decl_name": "linker_fixup_btf", "is_cond": true, "line_numbers": [1315, 1316], "line_cids": ["", ""], "line_strs": ["", "\tn = btf__get_nr_types(obj->btf);"]}]}

@@ -1,0 +1,1 @@
+{"fs/gfs2/ops_fstype.c": [{"patch_file_name": "fs/gfs2/ops_fstype.c", "func_decl_name": "init_statfs", "is_cond": false, "line_numbers": [677, 677], "line_cids": ["", ""], "line_strs": ["\t\t\terror = PTR_ERR(lsi->si_sc_inode);", "\t\t\terror = PTR_ERR(lsi->si_sc_inode);"]}]}

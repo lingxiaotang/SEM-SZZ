@@ -1,0 +1,1 @@
+{"drivers/gpu/drm/amd/display/dc/core/dc_resource.c": [{"patch_file_name": "drivers/gpu/drm/amd/display/dc/core/dc_resource.c", "func_decl_name": "acquire_resource_from_hw_enabled_state", "is_cond": true, "line_numbers": [2158, 2159], "line_cids": ["", ""], "line_strs": ["", "\t\tfor (i = 0; i < numPipes; i++) {"]}]}

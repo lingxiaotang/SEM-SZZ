@@ -1,0 +1,1 @@
+{"drivers/hid/hid-asus.c": [{"patch_file_name": "drivers/hid/hid-asus.c", "func_decl_name": "asus_kbd_wmi_led_control_present", "is_cond": true, "line_numbers": [361, 362], "line_cids": ["", ""], "line_strs": ["", "\tret = asus_wmi_evaluate_method(ASUS_WMI_METHODID_DSTS2,"]}]}

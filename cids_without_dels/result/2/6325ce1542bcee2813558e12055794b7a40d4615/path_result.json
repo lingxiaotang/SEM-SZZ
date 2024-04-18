@@ -1,0 +1,1 @@
+{"drivers/platform/surface/surface_dtx.c": [{"patch_file_name": "drivers/platform/surface/surface_dtx.c", "func_decl_name": "surface_dtx_open", "is_cond": false, "line_numbers": [417, 430], "line_cids": ["", ""], "line_strs": ["\tfile->private_data = client;", "\t\tsdtx_device_put(client->ddev);"]}]}

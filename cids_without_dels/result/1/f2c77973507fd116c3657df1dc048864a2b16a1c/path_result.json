@@ -1,0 +1,1 @@
+{"fs/ext4/inode.c": [{"patch_file_name": "fs/ext4/inode.c", "func_decl_name": "__ext4_get_inode_loc", "is_cond": true, "line_numbers": [4279, 4280], "line_cids": ["", ""], "line_strs": ["\tlock_buffer(bh);", "\t/*"]}]}

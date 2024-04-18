@@ -1,0 +1,1 @@
+{"sound/usb/mixer.c": [{"patch_file_name": "sound/usb/mixer.c", "func_decl_name": "get_connector_value", "is_cond": true, "line_numbers": [1529, 1530], "line_cids": ["", ""], "line_strs": ["\t\t\tUAC_GET_CUR, validx, idx, cval->val_type);", "\t\treturn filter_error(cval, ret);"]}]}

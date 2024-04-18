@@ -1,0 +1,1 @@
+{"drivers/gpio/gpio-rockchip.c": [{"patch_file_name": "drivers/gpio/gpio-rockchip.c", "func_decl_name": "rockchip_gpio_set_direction", "is_cond": true, "line_numbers": [158, 159], "line_cids": ["", ""], "line_strs": ["", "\traw_spin_lock_irqsave(&bank->slock, flags);"]}]}

@@ -1,0 +1,1 @@
+{"drivers/infiniband/ulp/rtrs/rtrs-srv-sysfs.c": [{"patch_file_name": "drivers/infiniband/ulp/rtrs/rtrs-srv-sysfs.c", "func_decl_name": "rtrs_srv_disconnect_store", "is_cond": false, "line_numbers": [51, 54], "line_cids": ["", ""], "line_strs": ["\tsockaddr_to_str((struct sockaddr *)&sess->s.dst_addr, str, sizeof(str));", "\tclose_sess(sess);"]}]}

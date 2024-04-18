@@ -1,0 +1,1 @@
+{"drivers/net/dsa/b53/b53_common.c": [{"patch_file_name": "drivers/net/dsa/b53/b53_common.c", "func_decl_name": "b53_set_forwarding", "is_cond": true, "line_numbers": [338, 339], "line_cids": ["", ""], "line_strs": ["\tb53_write8(dev, B53_CTRL_PAGE, B53_SWITCH_MODE, mgmt);", "}"]}]}

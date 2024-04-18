@@ -1,0 +1,1 @@
+{"drivers/net/ethernet/mellanox/mlx5/core/en/port.c": [{"patch_file_name": "drivers/net/ethernet/mellanox/mlx5/core/en/port.c", "func_decl_name": "mlx5e_set_fec_mode", "is_cond": true, "line_numbers": [571, 572], "line_cids": ["", ""], "line_strs": ["", "\tMLX5_SET(pplm_reg, in, local_port, 1);"]}]}

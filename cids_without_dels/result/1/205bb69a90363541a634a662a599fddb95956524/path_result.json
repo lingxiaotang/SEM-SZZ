@@ -1,0 +1,1 @@
+{"drivers/gpu/drm/drm_dp_helper.c": [{"patch_file_name": "drivers/gpu/drm/drm_dp_helper.c", "func_decl_name": "drm_dp_read_downstream_info", "is_cond": true, "line_numbers": [685, 686], "line_cids": ["", ""], "line_strs": ["\tlen = drm_dp_downstream_port_count(dpcd);", "\tif (dpcd[DP_DOWNSTREAMPORT_PRESENT] & DP_DETAILED_CAP_INFO_AVAILABLE)"]}]}

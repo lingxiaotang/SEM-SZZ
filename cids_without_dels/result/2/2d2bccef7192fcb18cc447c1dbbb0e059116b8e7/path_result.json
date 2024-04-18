@@ -1,0 +1,1 @@
+{"drivers/gpu/drm/msm/msm_gpu.c": [{"patch_file_name": "drivers/gpu/drm/msm/msm_gpu.c", "func_decl_name": "recover_worker", "is_cond": false, "line_numbers": [292, 295], "line_cids": ["", ""], "line_strs": ["\t\t\tdev_err(dev->dev, \"%s: offending task: %s (%s)\\n\",", "\t\t\tmsm_rd_dump_submit(priv->hangrd, submit,"]}]}

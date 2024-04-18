@@ -1,0 +1,1 @@
+{"arch/x86/kernel/tsc.c": [{"patch_file_name": "arch/x86/kernel/tsc.c", "func_decl_name": "native_calibrate_tsc", "is_cond": true, "line_numbers": [614, 615], "line_cids": ["", ""], "line_strs": ["", "\t/*"]}]}

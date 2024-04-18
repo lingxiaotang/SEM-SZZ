@@ -1,0 +1,1 @@
+{"drivers/gpu/drm/drm_probe_helper.c": [{"patch_file_name": "drivers/gpu/drm/drm_probe_helper.c", "func_decl_name": "drm_helper_probe_single_connector_modes", "is_cond": true, "line_numbers": [481, 482], "line_cids": ["", ""], "line_strs": ["", "\tif (count == 0 && connector->status == connector_status_connected)"]}], "drivers/gpu/drm/drm_edid.c": []}

@@ -1,0 +1,1 @@
+{"drivers/phy/cadence/phy-cadence-torrent.c": [{"patch_file_name": "drivers/phy/cadence/phy-cadence-torrent.c", "func_decl_name": "cdns_torrent_phy_probe", "is_cond": false, "line_numbers": [2081, 2276], "line_cids": ["", ""], "line_strs": ["\tint ret, subnodes, node = 0, i;", "\t\t\t\tif (ret)"]}]}

@@ -1,0 +1,1 @@
+{"fs/iomap/swapfile.c": [{"patch_file_name": "fs/iomap/swapfile.c", "func_decl_name": "iomap_swapfile_add_extent", "is_cond": true, "line_numbers": [38, 39], "line_cids": ["", ""], "line_strs": ["", "\t/*"]}]}

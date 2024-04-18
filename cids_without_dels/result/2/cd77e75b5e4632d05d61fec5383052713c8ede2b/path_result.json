@@ -1,0 +1,1 @@
+{"net/netfilter/nf_tables_api.c": [{"patch_file_name": "net/netfilter/nf_tables_api.c", "func_decl_name": "nf_tables_parse_netdev_hooks", "is_cond": false, "line_numbers": [1682, 1682], "line_cids": ["", ""], "line_strs": ["\t\tif (nft_hook_list_find(hook_list, hook)) {", "\t\tif (nft_hook_list_find(hook_list, hook)) {"]}]}

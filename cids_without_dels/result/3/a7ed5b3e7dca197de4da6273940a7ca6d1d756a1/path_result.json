@@ -1,0 +1,1 @@
+{"drivers/staging/comedi/drivers/ni_tio.c": [{"patch_file_name": "drivers/staging/comedi/drivers/ni_tio.c", "func_decl_name": "ni_tio_set_gate_src", "is_cond": true, "line_numbers": [1072, 1073], "line_cids": ["", ""], "line_strs": ["\t\t\tret = ni_m_set_gate(counter, chan);", "\t\tcase ni_gpct_variant_660x:"]}]}

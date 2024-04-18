@@ -1,0 +1,1 @@
+{"drivers/net/vxlan.c": [{"patch_file_name": "drivers/net/vxlan.c", "func_decl_name": "vxlan_rcv", "is_cond": true, "line_numbers": [1733, 1734], "line_cids": ["", ""], "line_strs": ["", "\tstats = this_cpu_ptr(vxlan->dev->tstats);"]}]}

@@ -1,0 +1,1 @@
+{"drivers/gpu/drm/logicvc/logicvc_layer.c": [{"patch_file_name": "drivers/gpu/drm/logicvc/logicvc_layer.c", "func_decl_name": "logicvc_layer_init", "is_cond": false, "line_numbers": [484, 484], "line_cids": ["", ""], "line_strs": ["\tif (ret) {", "\tif (ret) {"]}]}

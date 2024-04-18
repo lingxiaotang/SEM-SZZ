@@ -1,0 +1,1 @@
+{"drivers/gpu/drm/nouveau/nouveau_svm.c": [{"patch_file_name": "drivers/gpu/drm/nouveau/nouveau_svm.c", "func_decl_name": "nouveau_svmm_init", "is_cond": true, "line_numbers": [317, 318], "line_cids": ["", ""], "line_strs": ["", "\t/* Allocate tracking for SVM-enabled VMM. */"]}]}

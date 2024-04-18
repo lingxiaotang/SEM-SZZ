@@ -1,0 +1,1 @@
+{"drivers/net/ethernet/mellanox/mlx5/core/en_ethtool.c": [{"patch_file_name": "drivers/net/ethernet/mellanox/mlx5/core/en_ethtool.c", "func_decl_name": "mlx5e_modify_rx_cqe_compression_locked", "is_cond": true, "line_numbers": [1896, 1897], "line_cids": ["", ""], "line_strs": ["", "\tnew_params = priv->channels.params;"]}]}

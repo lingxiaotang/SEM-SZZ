@@ -1,0 +1,1 @@
+{"drivers/staging/fsl-dpaa2/ethsw/ethsw.c": [{"patch_file_name": "drivers/staging/fsl-dpaa2/ethsw/ethsw.c", "func_decl_name": "port_switchdev_event", "is_cond": true, "line_numbers": [1088, 1088], "line_cids": ["", ""], "line_strs": ["\tdefault:", "\tdefault:"]}]}

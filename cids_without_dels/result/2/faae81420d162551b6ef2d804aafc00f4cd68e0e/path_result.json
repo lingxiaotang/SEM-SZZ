@@ -1,0 +1,1 @@
+{"drivers/net/ethernet/intel/ixgbevf/ixgbevf_main.c": [{"patch_file_name": "drivers/net/ethernet/intel/ixgbevf/ixgbevf_main.c", "func_decl_name": "ixgbevf_run_xdp", "is_cond": true, "line_numbers": [1069, 1070], "line_cids": ["", ""], "line_strs": ["\t\tresult = ixgbevf_xmit_xdp_ring(xdp_ring, xdp);", "\t\tbreak;"]}]}

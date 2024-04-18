@@ -1,0 +1,1 @@
+{"net/mac80211/agg-rx.c": [{"patch_file_name": "net/mac80211/agg-rx.c", "func_decl_name": "ieee80211_add_addbaext", "is_cond": true, "line_numbers": [191, 192], "line_cids": ["", ""], "line_strs": ["\tsband = ieee80211_get_sband(sdata);", "\the_cap = ieee80211_get_he_iftype_cap(sband, sdata->vif.type);"]}]}

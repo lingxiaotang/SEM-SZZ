@@ -1,0 +1,1 @@
+{"sound/soc/sof/ipc3-topology.c": [{"patch_file_name": "sound/soc/sof/ipc3-topology.c", "func_decl_name": "sof_ipc3_control_load_bytes", "is_cond": false, "line_numbers": [1646], "line_cids": [""], "line_strs": ["\tkfree(scontrol->ipc_control_data);"]}]}

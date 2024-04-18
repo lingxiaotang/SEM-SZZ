@@ -1,0 +1,1 @@
+{"drivers/crypto/qat/qat_common/adf_pf2vf_msg.c": [{"patch_file_name": "drivers/crypto/qat/qat_common/adf_pf2vf_msg.c", "func_decl_name": "__adf_iov_putmsg", "is_cond": true, "line_numbers": [158, 159], "line_cids": ["", ""], "line_strs": ["", "\tif (val & int_bit) {"]}]}

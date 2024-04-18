@@ -1,0 +1,1 @@
+{"security/selinux/ss/sidtab.c": [{"patch_file_name": "security/selinux/ss/sidtab.c", "func_decl_name": "sidtab_reverse_lookup", "is_cond": true, "line_numbers": [288, 289], "line_cids": ["", ""], "line_strs": ["", "\t/* insert context into new entry */"]}]}

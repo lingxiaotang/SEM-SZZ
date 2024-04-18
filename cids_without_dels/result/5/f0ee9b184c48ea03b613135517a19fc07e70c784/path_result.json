@@ -1,0 +1,1 @@
+{"drivers/gpu/drm/amd/display/amdgpu_dm/amdgpu_dm.c": [{"patch_file_name": "drivers/gpu/drm/amd/display/amdgpu_dm/amdgpu_dm.c", "func_decl_name": "amdgpu_dm_enable_crtc_interrupts", "is_cond": true, "line_numbers": [6159, 6159], "line_cids": ["", ""], "line_strs": ["\t\t\t   (!for_modeset && !modeset &&", "\t\t\t   (!for_modeset && !modeset &&"]}]}

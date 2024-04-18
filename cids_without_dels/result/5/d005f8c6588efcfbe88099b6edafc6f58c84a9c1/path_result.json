@@ -1,0 +1,1 @@
+{"drivers/mtd/ubi/wl.c": [{"patch_file_name": "drivers/mtd/ubi/wl.c", "func_decl_name": "ubi_thread", "is_cond": true, "line_numbers": [1641, 1642], "line_cids": ["", ""], "line_strs": ["\t\t\tspin_unlock(&ubi->wl_lock);", "\t\t\tschedule();"]}]}

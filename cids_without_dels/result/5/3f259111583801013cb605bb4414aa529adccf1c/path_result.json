@@ -1,0 +1,1 @@
+{"drivers/net/wireless/ath/ath10k/mac.c": [{"patch_file_name": "drivers/net/wireless/ath/ath10k/mac.c", "func_decl_name": "ath10k_update_channel_list", "is_cond": true, "line_numbers": [3107, 3107], "line_cids": ["", ""], "line_strs": ["\t\t\tif (WARN_ON_ONCE(ch->mode == MODE_UNKNOWN))", "\t\t\tif (WARN_ON_ONCE(ch->mode == MODE_UNKNOWN))"]}]}

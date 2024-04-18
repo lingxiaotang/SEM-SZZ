@@ -1,0 +1,1 @@
+{"drivers/net/ethernet/amazon/ena/ena_netdev.c": [{"patch_file_name": "drivers/net/ethernet/amazon/ena/ena_netdev.c", "func_decl_name": "ena_up", "is_cond": false, "line_numbers": [1824, 1826], "line_cids": ["", ""], "line_strs": ["\tena_free_all_io_tx_resources(adapter);", "\tena_free_io_irq(adapter);"]}]}

@@ -1,0 +1,1 @@
+{"kernel/trace/rethook.c": [{"patch_file_name": "kernel/trace/rethook.c", "func_decl_name": "rethook_try_get", "is_cond": true, "line_numbers": [156, 157], "line_cids": ["", ""], "line_strs": ["", "\tfn = freelist_try_get(&rh->pool);"]}]}

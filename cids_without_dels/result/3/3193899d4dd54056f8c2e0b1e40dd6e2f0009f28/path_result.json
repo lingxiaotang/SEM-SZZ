@@ -1,0 +1,1 @@
+{"kernel/trace/trace_events.c": [{"patch_file_name": "kernel/trace/trace_events.c", "func_decl_name": "update_event_printk", "is_cond": true, "line_numbers": [1762, 1762], "line_cids": ["", ""], "line_strs": ["\t\t\t} while (isalnum(*ptr));", "\t\t\t} while (isalnum(*ptr));"]}]}

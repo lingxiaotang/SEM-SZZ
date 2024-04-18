@@ -1,0 +1,1 @@
+{"net/batman-adv/hard-interface.c": [{"patch_file_name": "net/batman-adv/hard-interface.c", "func_decl_name": "batadv_is_on_batman_iface", "is_cond": true, "line_numbers": [110, 111], "line_cids": ["", ""], "line_strs": ["", "\tret = batadv_is_on_batman_iface(parent_dev);"]}]}

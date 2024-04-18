@@ -1,0 +1,1 @@
+{"drivers/usb/dwc2/drd.c": [{"patch_file_name": "drivers/usb/dwc2/drd.c", "func_decl_name": "dwc2_drd_role_sw_set", "is_cond": true, "line_numbers": [88, 89], "line_cids": ["", ""], "line_strs": ["", "\tspin_lock_irqsave(&hsotg->lock, flags);"]}]}

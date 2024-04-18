@@ -1,0 +1,1 @@
+{"drivers/platform/x86/dell/dell-smbios-wmi.c": [{"patch_file_name": "drivers/platform/x86/dell/dell-smbios-wmi.c", "func_decl_name": "run_smbios_call", "is_cond": false, "line_numbers": [63], "line_cids": [""], "line_strs": ["\tstatus = wmidev_evaluate_method(wdev, 0, 1, &input, &output);"]}]}

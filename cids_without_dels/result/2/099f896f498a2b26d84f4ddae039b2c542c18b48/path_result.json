@@ -1,0 +1,1 @@
+{"net/ipv4/udp.c": [{"patch_file_name": "net/ipv4/udp.c", "func_decl_name": "udp_read_sock", "is_cond": true, "line_numbers": [1809, 1810], "line_cids": ["", ""], "line_strs": ["\t\t\treturn err;", "\t\tused = recv_actor(desc, skb, 0, skb->len);"]}]}

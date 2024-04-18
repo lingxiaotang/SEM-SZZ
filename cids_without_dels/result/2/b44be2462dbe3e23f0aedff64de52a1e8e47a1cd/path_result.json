@@ -1,0 +1,1 @@
+{"drivers/usb/gadget/legacy/inode.c": [{"patch_file_name": "drivers/usb/gadget/legacy/inode.c", "func_decl_name": "ep_write", "is_cond": false, "line_numbers": [447, 447], "line_cids": ["", ""], "line_strs": ["\tvalue = ep_io (data, kbuf, len);", "\tvalue = ep_io (data, kbuf, len);"]}]}

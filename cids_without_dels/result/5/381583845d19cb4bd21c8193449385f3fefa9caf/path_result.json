@@ -1,0 +1,1 @@
+{"drivers/hid/hid-cp2112.c": [{"patch_file_name": "drivers/hid/hid-cp2112.c", "func_decl_name": "cp2112_xfer", "is_cond": true, "line_numbers": [792, 793], "line_cids": ["", ""], "line_strs": ["\tcase I2C_SMBUS_I2C_BLOCK_DATA:", "\t\tmemcpy(data->block + 1, buf, read_length);"]}]}

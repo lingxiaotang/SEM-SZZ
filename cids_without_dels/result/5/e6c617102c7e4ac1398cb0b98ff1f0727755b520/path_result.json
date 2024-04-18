@@ -1,0 +1,1 @@
+{"fs/btrfs/inode.c": [{"patch_file_name": "fs/btrfs/inode.c", "func_decl_name": "btrfs_rename_exchange", "is_cond": true, "line_numbers": [9746, 9747], "line_cids": ["", ""], "line_strs": ["\tif (commit_transaction) {", "\t\tret = btrfs_commit_transaction(trans);"]}]}

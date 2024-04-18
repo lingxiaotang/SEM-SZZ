@@ -1,0 +1,1 @@
+{"drivers/net/ethernet/neterion/vxge/vxge-config.c": [{"patch_file_name": "drivers/net/ethernet/neterion/vxge/vxge-config.c", "func_decl_name": "__vxge_hw_blockpool_malloc", "is_cond": false, "line_numbers": [2362, 2367], "line_cids": ["", ""], "line_strs": ["\t\tdma_object->addr = pci_map_single(devh->pdev, memblock, size,", "\t\t\tvxge_os_dma_free(devh->pdev, memblock,"]}]}

@@ -1,0 +1,1 @@
+{"arch/powerpc/kernel/process.c": [{"patch_file_name": "arch/powerpc/kernel/process.c", "func_decl_name": "giveup_all", "is_cond": false, "line_numbers": [440, 443], "line_cids": ["", ""], "line_strs": ["\tif (!tsk->thread.regs)", "\tusermsr = tsk->thread.regs->msr;"]}]}

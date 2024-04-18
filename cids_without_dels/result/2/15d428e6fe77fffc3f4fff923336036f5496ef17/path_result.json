@@ -1,0 +1,1 @@
+{"kernel/cgroup/cpuset.c": [{"patch_file_name": "kernel/cgroup/cpuset.c", "func_decl_name": "cpuset_hotplug_workfn", "is_cond": true, "line_numbers": [3168, 3169], "line_cids": ["", ""], "line_strs": ["", "\t/* synchronize cpus_allowed to cpu_active_mask */"]}]}

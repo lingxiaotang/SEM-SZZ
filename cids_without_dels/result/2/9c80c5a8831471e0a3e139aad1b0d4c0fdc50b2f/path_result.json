@@ -1,0 +1,1 @@
+{"sound/soc/intel/skylake/skl-topology.c": [{"patch_file_name": "sound/soc/intel/skylake/skl-topology.c", "func_decl_name": "skl_tplg_get_token", "is_cond": true, "line_numbers": [2462, 2463], "line_cids": ["", ""], "line_strs": ["\t\tmconfig->core_id = tkn_elem->value;", ""]}]}

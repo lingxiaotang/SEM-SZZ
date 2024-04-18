@@ -1,0 +1,1 @@
+{"drivers/media/platform/qcom/camss/camss-video.c": [{"patch_file_name": "drivers/media/platform/qcom/camss/camss-video.c", "func_decl_name": "msm_video_register", "is_cond": false, "line_numbers": [937, 938], "line_cids": ["", ""], "line_strs": ["\tret = media_entity_pads_init(&vdev->entity, 1, pad);", "\tif (ret < 0) {"]}]}

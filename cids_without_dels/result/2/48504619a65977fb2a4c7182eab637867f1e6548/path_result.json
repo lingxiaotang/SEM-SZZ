@@ -1,0 +1,1 @@
+{"drivers/clk/imx/clk-imx8qxp-lpcg.c": [{"patch_file_name": "drivers/clk/imx/clk-imx8qxp-lpcg.c", "func_decl_name": "imx8qxp_lpcg_clk_probe", "is_cond": true, "line_numbers": [171, 172], "line_cids": ["", ""], "line_strs": ["\tres = platform_get_resource(pdev, IORESOURCE_MEM, 0);", "\tbase = devm_ioremap(dev, res->start, resource_size(res));"]}]}

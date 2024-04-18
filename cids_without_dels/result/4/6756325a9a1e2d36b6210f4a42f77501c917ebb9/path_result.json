@@ -1,0 +1,1 @@
+{"drivers/ptp/ptp_chardev.c": [{"patch_file_name": "drivers/ptp/ptp_chardev.c", "func_decl_name": "ptp_ioctl", "is_cond": false, "line_numbers": [213, 277], "line_cids": ["", ""], "line_strs": ["\t\t\terr = PTR_ERR(sysoff);", "\tkfree(sysoff);"]}]}

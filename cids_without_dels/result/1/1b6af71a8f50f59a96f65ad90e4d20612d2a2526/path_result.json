@@ -1,0 +1,1 @@
+{"drivers/irqchip/irq-mips-gic.c": [{"patch_file_name": "drivers/irqchip/irq-mips-gic.c", "func_decl_name": "gic_local_irq_domain_map", "is_cond": false, "line_numbers": [607, 619], "line_cids": ["", ""], "line_strs": ["\t\tu32 val = GIC_MAP_TO_PIN_MSK | gic_cpu_pin;", "\t\t\tgic_write(GIC_REG(VPE_OTHER, GIC_VPE_TIMER_MAP), val);"]}]}

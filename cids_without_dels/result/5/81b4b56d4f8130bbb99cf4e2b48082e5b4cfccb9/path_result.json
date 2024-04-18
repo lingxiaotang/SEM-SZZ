@@ -1,0 +1,1 @@
+{"arch/x86/kvm/vmx/vmx.c": [{"patch_file_name": "arch/x86/kvm/vmx/vmx.c", "func_decl_name": "vmx_handle_exit_irqoff", "is_cond": true, "line_numbers": [6384, 6385], "line_cids": ["", ""], "line_strs": ["", "\tif (vmx->exit_reason.basic == EXIT_REASON_EXTERNAL_INTERRUPT)"]}]}

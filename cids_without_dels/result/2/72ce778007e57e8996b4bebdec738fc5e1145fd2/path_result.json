@@ -1,0 +1,1 @@
+{"lib/vdso/gettimeofday.c": [{"patch_file_name": "lib/vdso/gettimeofday.c", "func_decl_name": "do_hres", "is_cond": true, "line_numbers": [132, 133], "line_cids": ["", ""], "line_strs": ["\t\tcycles = __arch_get_hw_counter(vd->clock_mode);", "\t\tns = vdso_ts->nsec;"]}]}

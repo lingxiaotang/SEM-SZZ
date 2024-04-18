@@ -1,0 +1,1 @@
+{"drivers/gpu/drm/nouveau/nvkm/subdev/secboot/acr_r352.c": [{"patch_file_name": "drivers/gpu/drm/nouveau/nvkm/subdev/secboot/acr_r352.c", "func_decl_name": "acr_r352_load", "is_cond": false, "line_numbers": [791, 792], "line_cids": ["", ""], "line_strs": ["\tbl_desc = kzalloc(bl_desc_size, GFP_KERNEL);", "\tif (!bl_desc)"]}]}

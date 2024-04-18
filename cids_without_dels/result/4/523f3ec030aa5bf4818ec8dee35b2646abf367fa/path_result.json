@@ -1,0 +1,1 @@
+{"net/mac80211/mlme.c": [{"patch_file_name": "net/mac80211/mlme.c", "func_decl_name": "ieee80211_determine_chantype", "is_cond": false, "line_numbers": [166, 170], "line_cids": ["", ""], "line_strs": ["\t\tif (!ieee80211_chandef_he_6ghz_oper(sdata, he_oper, chandef))", "\t\tvht_chandef = *chandef;"]}]}

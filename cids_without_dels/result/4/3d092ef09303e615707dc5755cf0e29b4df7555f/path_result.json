@@ -1,0 +1,1 @@
+{"drivers/char/ipmi/ipmi_msghandler.c": [{"patch_file_name": "drivers/char/ipmi/ipmi_msghandler.c", "func_decl_name": "handle_one_recv_msg", "is_cond": true, "line_numbers": [4520, 4521], "line_cids": ["", ""], "line_strs": ["\t\t\tintf_start_seq_timer(intf, msg->msgid);", "\t} else if (((msg->rsp[0] >> 2) != ((msg->data[0] >> 2) | 1))"]}]}

@@ -1,0 +1,1 @@
+{"drivers/clk/clk-si5341.c": [{"patch_file_name": "drivers/clk/clk-si5341.c", "func_decl_name": "si5341_probe", "is_cond": true, "line_numbers": [1585, 1586], "line_cids": ["", ""], "line_strs": ["", "\t/* Free the names, clk framework makes copies */"]}]}

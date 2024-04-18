@@ -1,0 +1,1 @@
+{"drivers/usb/serial/quatech2.c": [{"patch_file_name": "drivers/usb/serial/quatech2.c", "func_decl_name": "qt2_update_lsr", "is_cond": true, "line_numbers": [872, 873], "line_cids": ["", ""], "line_strs": ["\tport_priv = usb_get_serial_port_data(port);", ""]}]}

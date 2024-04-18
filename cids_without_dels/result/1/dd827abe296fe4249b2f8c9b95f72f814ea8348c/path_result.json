@@ -1,0 +1,1 @@
+{"lib/mpi/mpi-mod.c": [{"patch_file_name": "lib/mpi/mpi-mod.c", "func_decl_name": "mpi_barrett_init", "is_cond": true, "line_numbers": [42, 43], "line_cids": ["", ""], "line_strs": ["\tctx = kcalloc(1, sizeof(*ctx), GFP_KERNEL);", ""]}]}

@@ -1,0 +1,1 @@
+{"kernel/bpf/sockmap.c": [{"patch_file_name": "kernel/bpf/sockmap.c", "func_decl_name": "sock_map_alloc", "is_cond": false, "line_numbers": [523, 523], "line_cids": ["", ""], "line_strs": ["\tif (err)", "\tif (err)"]}]}

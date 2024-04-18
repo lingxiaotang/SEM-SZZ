@@ -1,0 +1,1 @@
+{"kernel/bpf/verifier.c": [{"patch_file_name": "kernel/bpf/verifier.c", "func_decl_name": "check_alu_op", "is_cond": true, "line_numbers": [2495, 2496], "line_cids": ["", ""], "line_strs": ["", "\t\tif ((opcode == BPF_LSH || opcode == BPF_RSH ||"]}], "tools/testing/selftests/bpf/test_verifier.c": []}

@@ -1,0 +1,1 @@
+{"drivers/acpi/video_detect.c": [{"patch_file_name": "drivers/acpi/video_detect.c", "func_decl_name": "__acpi_video_get_backlight_type", "is_cond": true, "line_numbers": [732, 733], "line_cids": ["", ""], "line_strs": ["", "\t/* No ACPI video (old hw), use vendor specific fw methods. */"]}]}

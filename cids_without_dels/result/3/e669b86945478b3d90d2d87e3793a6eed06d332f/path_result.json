@@ -1,0 +1,1 @@
+{"net/ipv6/addrconf.c": [{"patch_file_name": "net/ipv6/addrconf.c", "func_decl_name": "addrconf_permanent_addr", "is_cond": false, "line_numbers": [3335, 3338], "line_cids": ["", ""], "line_strs": ["\t\tif ((ifp->flags & IFA_F_PERMANENT) &&", "\t\t\tipv6_del_addr(ifp);"]}]}

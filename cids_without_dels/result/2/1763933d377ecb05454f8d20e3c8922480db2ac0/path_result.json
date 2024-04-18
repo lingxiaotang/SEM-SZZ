@@ -1,0 +1,1 @@
+{"drivers/pinctrl/mediatek/pinctrl-paris.c": [{"patch_file_name": "drivers/pinctrl/mediatek/pinctrl-paris.c", "func_decl_name": "mtk_pctrl_show_one_pin", "is_cond": true, "line_numbers": [583, 584], "line_cids": ["", ""], "line_strs": ["", "\tdesc = (const struct mtk_pin_desc *)&hw->soc->pins[gpio];"]}]}

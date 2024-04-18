@@ -1,0 +1,1 @@
+{"net/core/rtnetlink.c": [{"patch_file_name": "net/core/rtnetlink.c", "func_decl_name": "rtnl_fdb_get", "is_cond": true, "line_numbers": [4106, 4107], "line_cids": ["", ""], "line_strs": ["", "\tif (brport_idx) {"]}]}

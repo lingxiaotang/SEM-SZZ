@@ -1,0 +1,1 @@
+{"sound/soc/jz4740/jz4740-i2s.c": [{"patch_file_name": "sound/soc/jz4740/jz4740-i2s.c", "func_decl_name": "jz4740_i2s_set_sysclk", "is_cond": true, "line_numbers": [314, 315], "line_cids": ["", ""], "line_strs": ["\t\tparent = clk_get(NULL, \"ext\");", "\t\tclk_set_parent(i2s->clk_i2s, parent);"]}]}

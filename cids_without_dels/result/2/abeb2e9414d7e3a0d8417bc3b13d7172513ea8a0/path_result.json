@@ -1,0 +1,1 @@
+{"drivers/tty/serial/sprd_serial.c": [{"patch_file_name": "drivers/tty/serial/sprd_serial.c", "func_decl_name": "sprd_handle_irq", "is_cond": true, "line_numbers": [681, 682], "line_cids": ["", ""], "line_strs": ["", "\tif (ims & (SPRD_IMSR_RX_FIFO_FULL | SPRD_IMSR_BREAK_DETECT |"]}]}

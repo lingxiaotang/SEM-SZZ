@@ -1,0 +1,1 @@
+{"drivers/cpufreq/tegra124-cpufreq.c": [{"patch_file_name": "drivers/cpufreq/tegra124-cpufreq.c", "func_decl_name": "tegra124_cpufreq_probe", "is_cond": false, "line_numbers": [115, 115], "line_cids": ["", ""], "line_strs": ["\tpriv->pllp_clk = of_clk_get_by_name(np, \"pll_p\");", "\tpriv->pllp_clk = of_clk_get_by_name(np, \"pll_p\");"]}]}

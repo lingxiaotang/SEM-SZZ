@@ -1,0 +1,1 @@
+{"net/sctp/socket.c": [{"patch_file_name": "net/sctp/socket.c", "func_decl_name": "sctp_setsockopt_enable_strreset", "is_cond": true, "line_numbers": [4283, 4284], "line_cids": ["", ""], "line_strs": ["", "\tif (params.assoc_id == SCTP_FUTURE_ASSOC ||"]}]}

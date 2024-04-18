@@ -1,0 +1,1 @@
+{"arch/powerpc/kernel/iommu.c": [{"patch_file_name": "arch/powerpc/kernel/iommu.c", "func_decl_name": "iommu_table_in_use", "is_cond": true, "line_numbers": [777, 778], "line_cids": ["", ""], "line_strs": ["\t\tstart = 1;", "\tend = tbl->it_reserved_start - tbl->it_offset;"]}]}

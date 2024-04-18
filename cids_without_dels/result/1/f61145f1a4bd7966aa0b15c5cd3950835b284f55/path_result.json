@@ -1,0 +1,1 @@
+{"drivers/gpu/drm/vc4/vc4_gem.c": [{"patch_file_name": "drivers/gpu/drm/vc4/vc4_gem.c", "func_decl_name": "vc4_submit_next_render_job", "is_cond": false, "line_numbers": [471, 477], "line_cids": ["", ""], "line_strs": ["\tstruct vc4_dev *vc4 = to_vc4_dev(dev);", "\tsubmit_cl(dev, 1, exec->ct1ca, exec->ct1ea);"]}]}

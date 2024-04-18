@@ -1,0 +1,1 @@
+{"fs/cifs/smb2ops.c": [{"patch_file_name": "fs/cifs/smb2ops.c", "func_decl_name": "smb2_copychunk_range", "is_cond": false, "line_numbers": [1876], "line_cids": [""], "line_strs": ["\t\t\tif (retbuf->TotalBytesWritten == 0) {"]}]}

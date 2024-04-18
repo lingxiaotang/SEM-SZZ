@@ -1,0 +1,1 @@
+{"drivers/usb/phy/phy-mxs-usb.c": [{"patch_file_name": "drivers/usb/phy/phy-mxs-usb.c", "func_decl_name": "mxs_phy_charger_detect", "is_cond": true, "line_numbers": [604, 605], "line_cids": ["", ""], "line_strs": ["", "\tif (mxs_charger_data_contact_detect(mxs_phy))"]}]}

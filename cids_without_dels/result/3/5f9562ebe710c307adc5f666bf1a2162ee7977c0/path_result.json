@@ -1,0 +1,1 @@
+{"net/rds/connection.c": [{"patch_file_name": "net/rds/connection.c", "func_decl_name": "__rds_conn_create", "is_cond": false, "line_numbers": [242, 256], "line_cids": ["", ""], "line_strs": ["\t\tconn->c_loopback = 1;", "\t\t\t\tkmem_cache_free(rds_conn_slab, conn);"]}]}

@@ -1,0 +1,1 @@
+{"drivers/tty/serial/8250/8250_exar.c": [{"patch_file_name": "drivers/tty/serial/8250/8250_exar.c", "func_decl_name": "default_setup", "is_cond": true, "line_numbers": [74, 75], "line_cids": ["", ""], "line_strs": ["", "\tport->port.iotype = UPIO_MEM;"]}]}

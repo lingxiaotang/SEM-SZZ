@@ -1,0 +1,1 @@
+{"arch/powerpc/sysdev/xive/native.c": [{"patch_file_name": "arch/powerpc/sysdev/xive/native.c", "func_decl_name": "__xive_native_disable_queue", "is_cond": true, "line_numbers": [182, 183], "line_cids": ["", ""], "line_strs": ["\t\trc = opal_xive_set_queue_info(vp_id, prio, 0, 0, 0);", "\t\t\tbreak;"]}]}

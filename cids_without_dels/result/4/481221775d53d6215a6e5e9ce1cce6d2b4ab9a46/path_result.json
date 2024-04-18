@@ -1,0 +1,1 @@
+{"drivers/net/netdevsim/bpf.c": [{"patch_file_name": "drivers/net/netdevsim/bpf.c", "func_decl_name": "nsim_bpf_map_alloc", "is_cond": true, "line_numbers": [509, 509], "line_cids": ["", ""], "line_strs": ["\t\tfor (i = 0; i < ARRAY_SIZE(nmap->entry); i++) {", "\t\tfor (i = 0; i < ARRAY_SIZE(nmap->entry); i++) {"]}]}

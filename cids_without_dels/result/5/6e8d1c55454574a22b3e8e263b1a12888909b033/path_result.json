@@ -1,0 +1,1 @@
+{"net/core/rtnetlink.c": [{"patch_file_name": "net/core/rtnetlink.c", "func_decl_name": "rtnl_bridge_dellink", "is_cond": true, "line_numbers": [2870, 2871], "line_cids": ["", ""], "line_strs": ["\t\t\tif (nla_type(attr) == IFLA_BRIDGE_FLAGS) {", "\t\t\t\thave_flags = true;"]}]}

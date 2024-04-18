@@ -1,0 +1,1 @@
+{"arch/x86/kvm/x86.c": [{"patch_file_name": "arch/x86/kvm/x86.c", "func_decl_name": "kvm_pv_enable_async_pf", "is_cond": true, "line_numbers": [2695, 2696], "line_cids": ["", ""], "line_strs": ["", "\tvcpu->arch.apf.msr_en_val = data;"]}]}

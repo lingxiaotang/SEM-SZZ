@@ -1,0 +1,1 @@
+{"drivers/net/ethernet/ibm/ibmvnic.c": [{"patch_file_name": "drivers/net/ethernet/ibm/ibmvnic.c", "func_decl_name": "reset_sub_crq_queues", "is_cond": true, "line_numbers": [2882, 2883], "line_cids": ["", ""], "line_strs": ["", "\tfor (i = 0; i < adapter->req_tx_queues; i++) {"]}]}

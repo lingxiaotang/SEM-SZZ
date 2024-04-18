@@ -1,0 +1,1 @@
+{"drivers/net/ethernet/qlogic/qed/qed_vf.c": [{"patch_file_name": "drivers/net/ethernet/qlogic/qed/qed_vf.c", "func_decl_name": "qed_vf_hw_prepare", "is_cond": true, "line_numbers": [515, 516], "line_cids": ["", ""], "line_strs": ["\t\t\t\t\t\t    GFP_KERNEL);", "\tDP_VERBOSE(p_hwfn, QED_MSG_IOV,"]}]}

@@ -1,0 +1,1 @@
+{"net/bluetooth/a2mp.c": [{"patch_file_name": "net/bluetooth/a2mp.c", "func_decl_name": "a2mp_createphyslink_req", "is_cond": false, "line_numbers": [492, 492], "line_cids": ["", ""], "line_strs": ["\tif (!hdev || hdev->amp_type == AMP_TYPE_BREDR) {", "\tif (!hdev || hdev->amp_type == AMP_TYPE_BREDR) {"]}]}

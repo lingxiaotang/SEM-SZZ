@@ -1,0 +1,1 @@
+{"drivers/thermal/qcom/qcom-spmi-adc-tm5.c": [{"patch_file_name": "drivers/thermal/qcom/qcom-spmi-adc-tm5.c", "func_decl_name": "adc_tm5_register_tzd", "is_cond": true, "line_numbers": [361, 361], "line_cids": ["", ""], "line_strs": ["\t\tif (IS_ERR(tzd)) {", "\t\tif (IS_ERR(tzd)) {"]}]}

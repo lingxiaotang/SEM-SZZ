@@ -1,0 +1,1 @@
+{"arch/powerpc/perf/isa207-common.c": [{"patch_file_name": "arch/powerpc/perf/isa207-common.c", "func_decl_name": "isa207_get_constraint", "is_cond": true, "line_numbers": [290, 291], "line_cids": ["", ""], "line_strs": ["\t\tvalue |= CNST_PMC_VAL(pmc);", "\t}"]}]}

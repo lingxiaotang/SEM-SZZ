@@ -1,0 +1,1 @@
+{"drivers/net/phy/phy_device.c": [{"patch_file_name": "drivers/net/phy/phy_device.c", "func_decl_name": "phy_shutdown", "is_cond": true, "line_numbers": [3127, 3128], "line_cids": ["", ""], "line_strs": ["", "\tphy_disable_interrupts(phydev);"]}]}

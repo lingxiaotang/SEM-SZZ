@@ -1,0 +1,1 @@
+{"sound/usb/mixer_scarlett_gen2.c": [{"patch_file_name": "sound/usb/mixer_scarlett_gen2.c", "func_decl_name": "scarlett2_update_monitor_other", "is_cond": true, "line_numbers": [2452, 2453], "line_cids": ["", ""], "line_strs": ["\t\t\t\t\t       1, &bitmap);", "\t\tfor (i = 0; i < num_mixes; i++, bitmap >>= 1)"]}]}

@@ -1,0 +1,1 @@
+{"drivers/net/ethernet/mellanox/mlx5/core/en_rep.c": [{"patch_file_name": "drivers/net/ethernet/mellanox/mlx5/core/en_rep.c", "func_decl_name": "mlx5e_build_rep_params", "is_cond": true, "line_numbers": [664, 665], "line_cids": ["", ""], "line_strs": ["\tparams->tunneled_offload_en = false;", ""]}]}

@@ -1,0 +1,1 @@
+{"drivers/auxdisplay/ks0108.c": [{"patch_file_name": "drivers/auxdisplay/ks0108.c", "func_decl_name": "ks0108_parport_attach", "is_cond": false, "line_numbers": [137, 137], "line_cids": ["", ""], "line_strs": ["\tks0108_pardevice = parport_register_dev_model(port, KS0108_NAME,", "\tks0108_pardevice = parport_register_dev_model(port, KS0108_NAME,"]}]}

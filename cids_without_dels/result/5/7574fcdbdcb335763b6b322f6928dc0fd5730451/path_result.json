@@ -1,0 +1,1 @@
+{"net/nfc/llcp_sock.c": [{"patch_file_name": "net/nfc/llcp_sock.c", "func_decl_name": "llcp_sock_connect", "is_cond": false, "line_numbers": [751], "line_cids": [""], "line_strs": ["\tnfc_llcp_put_ssap(local, llcp_sock->ssap);"]}]}

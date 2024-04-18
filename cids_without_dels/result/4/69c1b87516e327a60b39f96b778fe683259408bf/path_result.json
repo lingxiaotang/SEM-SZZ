@@ -1,0 +1,1 @@
+{"drivers/spi/spi-meson-spifc.c": [{"patch_file_name": "drivers/spi/spi-meson-spifc.c", "func_decl_name": "meson_spifc_probe", "is_cond": false, "line_numbers": [351], "line_cids": [""], "line_strs": ["\tclk_disable_unprepare(spifc->clk);"]}]}

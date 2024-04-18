@@ -1,0 +1,1 @@
+{"sound/soc/codecs/max98390.c": [{"patch_file_name": "sound/soc/codecs/max98390.c", "func_decl_name": "max98390_dsm_init", "is_cond": false, "line_numbers": [777, 777], "line_cids": ["", ""], "line_strs": ["\t\tif (ret)", "\t\tif (ret)"]}]}

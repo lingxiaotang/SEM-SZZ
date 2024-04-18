@@ -1,0 +1,1 @@
+{"drivers/net/macsec.c": [{"patch_file_name": "drivers/net/macsec.c", "func_decl_name": "macsec_upd_offload", "is_cond": true, "line_numbers": [2596, 2597], "line_cids": ["", ""], "line_strs": ["", "\toffload = nla_get_u8(tb_offload[MACSEC_OFFLOAD_ATTR_TYPE]);"]}]}

@@ -1,0 +1,1 @@
+{"drivers/pinctrl/mediatek/pinctrl-mtk-common-v2.c": [{"patch_file_name": "drivers/pinctrl/mediatek/pinctrl-mtk-common-v2.c", "func_decl_name": "mtk_pinconf_bias_set_rsel", "is_cond": true, "line_numbers": [711, 712], "line_cids": ["", ""], "line_strs": ["", "\tif (hw->rsel_si_unit) {"]}]}

@@ -1,0 +1,1 @@
+{"drivers/usb/serial/xr_serial.c": [{"patch_file_name": "drivers/usb/serial/xr_serial.c", "func_decl_name": "xr_probe", "is_cond": true, "line_numbers": [554, 555], "line_cids": ["", ""], "line_strs": ["\tcontrol_interface = usb_ifnum_to_if(usb_dev, 0);", "\tret = usb_driver_claim_interface(driver, control_interface, NULL);"]}]}

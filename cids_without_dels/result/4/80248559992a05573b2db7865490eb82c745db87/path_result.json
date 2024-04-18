@@ -1,0 +1,1 @@
+{"arch/s390/kvm/interrupt.c": [{"patch_file_name": "arch/s390/kvm/interrupt.c", "func_decl_name": "__write_machine_check", "is_cond": true, "line_numbers": [421, 422], "line_cids": ["", ""], "line_strs": ["\tsave_access_regs(vcpu->run->s.regs.acrs);", ""]}]}

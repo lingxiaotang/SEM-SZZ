@@ -1,0 +1,1 @@
+{"kernel/audit.c": [{"patch_file_name": "kernel/audit.c", "func_decl_name": "audit_receive_msg", "is_cond": true, "line_numbers": [1328, 1329], "line_cids": ["", ""], "line_strs": ["\t\t\treturn 0;", ""]}]}

@@ -1,0 +1,1 @@
+{"tools/perf/util/map.c": [{"patch_file_name": "tools/perf/util/map.c", "func_decl_name": "maps__insert", "is_cond": false, "line_numbers": [548, 551], "line_cids": ["", ""], "line_strs": ["\t\t\tstruct map **maps_by_name = realloc(maps->maps_by_name, nr_allocate * sizeof(map));", "\t\t\t\t__maps__free_maps_by_name(maps);"]}]}

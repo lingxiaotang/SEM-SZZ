@@ -1,0 +1,1 @@
+{"arch/x86/kvm/vmx/nested.c": [{"patch_file_name": "arch/x86/kvm/vmx/nested.c", "func_decl_name": "vmx_check_nested_events", "is_cond": false, "line_numbers": [3586, 3591], "line_cids": ["", ""], "line_strs": ["\tif (lapic_in_kernel(vcpu) &&", "\t\tnested_vmx_vmexit(vcpu, EXIT_REASON_INIT_SIGNAL, 0, 0);"]}]}

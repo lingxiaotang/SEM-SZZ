@@ -1,0 +1,1 @@
+{"net/ipv4/tcp_output.c": [{"patch_file_name": "net/ipv4/tcp_output.c", "func_decl_name": "tcp_write_xmit", "is_cond": false, "line_numbers": [2348, 2349], "line_cids": ["", ""], "line_strs": ["\t\t\tskb->skb_mstamp_ns = tp->tcp_wstamp_ns = tp->tcp_clock_cache;", "\t\t\tlist_move_tail(&skb->tcp_tsorted_anchor, &tp->tsorted_sent_queue);"]}]}

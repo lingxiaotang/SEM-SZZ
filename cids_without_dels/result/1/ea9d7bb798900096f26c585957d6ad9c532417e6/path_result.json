@@ -1,0 +1,1 @@
+{"drivers/thunderbolt/icm.c": [{"patch_file_name": "drivers/thunderbolt/icm.c", "func_decl_name": "icm_firmware_reset", "is_cond": true, "line_numbers": [1454, 1455], "line_cids": ["", ""], "line_strs": ["", "\t/* Put ARC to wait for CIO reset event to happen */"]}]}

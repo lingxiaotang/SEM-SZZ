@@ -1,0 +1,1 @@
+{"drivers/net/macvlan.c": [{"patch_file_name": "drivers/net/macvlan.c", "func_decl_name": "macvlan_do_ioctl", "is_cond": true, "line_numbers": [838, 839], "line_cids": ["", ""], "line_strs": ["\tcase SIOCSHWTSTAMP:", "\tcase SIOCGHWTSTAMP:"]}]}

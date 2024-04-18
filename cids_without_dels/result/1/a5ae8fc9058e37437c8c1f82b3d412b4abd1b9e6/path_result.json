@@ -1,0 +1,1 @@
+{"drivers/net/ethernet/mellanox/mlx5/core/dev.c": [{"patch_file_name": "drivers/net/ethernet/mellanox/mlx5/core/dev.c", "func_decl_name": "mlx5_rescan_drivers_locked", "is_cond": true, "line_numbers": [465, 466], "line_cids": ["", ""], "line_strs": ["\tlockdep_assert_held(&mlx5_intf_mutex);", ""]}]}

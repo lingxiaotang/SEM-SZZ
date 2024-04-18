@@ -1,0 +1,1 @@
+{"tools/lib/bpf/libbpf.c": [{"patch_file_name": "tools/lib/bpf/libbpf.c", "func_decl_name": "bpf_object__elf_collect", "is_cond": true, "line_numbers": [840, 841], "line_cids": ["", ""], "line_strs": ["\t\t\t\t\t   BTF_ELF_SEC, PTR_ERR(obj->btf));", "\t\t\t\tobj->btf = NULL;"]}]}

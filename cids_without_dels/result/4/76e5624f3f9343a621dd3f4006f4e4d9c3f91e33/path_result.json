@@ -1,0 +1,1 @@
+{"drivers/memory/pl353-smc.c": [{"patch_file_name": "drivers/memory/pl353-smc.c", "func_decl_name": "pl353_smc_probe", "is_cond": false, "line_numbers": [389, 389], "line_cids": ["", ""], "line_strs": ["\tif (err) {", "\tif (err) {"]}]}

@@ -1,0 +1,1 @@
+{"drivers/usb/host/xhci-mtk-sch.c": [{"patch_file_name": "drivers/usb/host/xhci-mtk-sch.c", "func_decl_name": "need_bw_sch", "is_cond": true, "line_numbers": [559, 560], "line_cids": ["", ""], "line_strs": ["", "\treturn true;"]}]}

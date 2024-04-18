@@ -1,0 +1,1 @@
+{"drivers/gpio/gpio-pca953x.c": [{"patch_file_name": "drivers/gpio/gpio-pca953x.c", "func_decl_name": "pca953x_gpio_set_multiple", "is_cond": true, "line_numbers": [377, 377], "line_cids": ["", ""], "line_strs": ["\tfor (bank = 0; bank < NBANK(chip); bank++) {", "\tfor (bank = 0; bank < NBANK(chip); bank++) {"]}]}

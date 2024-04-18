@@ -1,0 +1,1 @@
+{"drivers/net/wan/lapbether.c": [{"patch_file_name": "drivers/net/wan/lapbether.c", "func_decl_name": "lapbeth_open", "is_cond": false, "line_numbers": [321, 324], "line_cids": ["", ""], "line_strs": ["\tstruct lapbethdev *lapbeth = netdev_priv(dev);", "\tnapi_enable(&lapbeth->napi);"]}]}

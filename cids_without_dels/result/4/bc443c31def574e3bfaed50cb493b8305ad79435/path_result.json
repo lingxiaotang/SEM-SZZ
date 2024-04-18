@@ -1,0 +1,1 @@
+{"drivers/base/physical_location.c": [{"patch_file_name": "drivers/base/physical_location.c", "func_decl_name": "dev_add_physical_location", "is_cond": true, "line_numbers": [26, 27], "line_cids": ["", ""], "line_strs": ["\t\tkzalloc(sizeof(*dev->physical_location), GFP_KERNEL);", "\tdev->physical_location->panel = pld->panel;"]}]}

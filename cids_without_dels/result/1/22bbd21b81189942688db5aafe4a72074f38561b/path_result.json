@@ -1,0 +1,1 @@
+{"drivers/pinctrl/intel/pinctrl-baytrail.c": [{"patch_file_name": "drivers/pinctrl/intel/pinctrl-baytrail.c", "func_decl_name": "byt_gpio_dbg_show", "is_cond": true, "line_numbers": [1400, 1401], "line_cids": ["", ""], "line_strs": ["\t\t\t\t   \"Could not retrieve pin %i val reg\\n\", pin);", "\t\t}"]}]}

@@ -1,0 +1,1 @@
+{"drivers/bluetooth/btusb.c": [{"patch_file_name": "drivers/bluetooth/btusb.c", "func_decl_name": "btusb_setup_csr", "is_cond": true, "line_numbers": [1841, 1842], "line_cids": ["", ""], "line_strs": ["\telse if (le16_to_cpu(rp->lmp_subver) <= 0x034e &&", "\t\t le16_to_cpu(rp->hci_ver) > BLUETOOTH_VER_1_1)"]}]}

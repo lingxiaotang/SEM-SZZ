@@ -1,0 +1,1 @@
+{"sound/soc/codecs/rt5677-spi.c": [{"patch_file_name": "sound/soc/codecs/rt5677-spi.c", "func_decl_name": "rt5677_spi_pcm_probe", "is_cond": true, "line_numbers": [378, 379], "line_cids": ["", ""], "line_strs": ["\t\t\tGFP_KERNEL);", "\trt5677_dsp->dev = &g_spi->dev;"]}]}

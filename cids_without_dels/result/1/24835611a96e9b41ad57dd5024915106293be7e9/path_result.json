@@ -1,0 +1,1 @@
+{"drivers/mmc/host/meson-gx-mmc.c": [{"patch_file_name": "drivers/mmc/host/meson-gx-mmc.c", "func_decl_name": "meson_mmc_get_transfer_mode", "is_cond": true, "line_numbers": [212, 213], "line_cids": ["", ""], "line_strs": ["", "\tfor_each_sg(data->sg, sg, data->sg_len, i)"]}]}

@@ -1,0 +1,1 @@
+{"drivers/thermal/broadcom/sr-thermal.c": [{"patch_file_name": "drivers/thermal/broadcom/sr-thermal.c", "func_decl_name": "sr_thermal_probe", "is_cond": true, "line_numbers": [62, 63], "line_cids": ["", ""], "line_strs": ["\tres = platform_get_resource(pdev, IORESOURCE_MEM, 0);", "\tsr_thermal->regs = (void __iomem *)devm_memremap(&pdev->dev, res->start,"]}]}

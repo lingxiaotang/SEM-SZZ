@@ -1,0 +1,1 @@
+{"drivers/vdpa/mlx5/net/mlx5_vnet.c": [{"patch_file_name": "drivers/vdpa/mlx5/net/mlx5_vnet.c", "func_decl_name": "handle_ctrl_mq", "is_cond": true, "line_numbers": [1565, 1566], "line_cids": ["", ""], "line_strs": ["\tcase VIRTIO_NET_CTRL_MQ_VQ_PAIRS_SET:", "\t\tread = vringh_iov_pull_iotlb(&cvq->vring, &cvq->riov, (void *)&mq, sizeof(mq));"]}]}

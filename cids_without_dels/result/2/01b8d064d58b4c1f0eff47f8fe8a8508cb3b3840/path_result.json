@@ -1,0 +1,1 @@
+{"net/ipv6/ip6_gre.c": [{"patch_file_name": "net/ipv6/ip6_gre.c", "func_decl_name": "__gre6_xmit", "is_cond": true, "line_numbers": [700, 701], "line_cids": ["", ""], "line_strs": ["", "\t/* Push GRE header. */"]}]}

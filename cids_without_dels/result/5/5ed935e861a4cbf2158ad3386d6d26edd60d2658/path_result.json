@@ -1,0 +1,1 @@
+{"drivers/infiniband/core/iwpm_util.c": [{"patch_file_name": "drivers/infiniband/core/iwpm_util.c", "func_decl_name": "send_nlmsg_done", "is_cond": false, "line_numbers": [634, 634], "line_cids": ["", ""], "line_strs": ["\tif (!(ibnl_put_msg(skb, &nlh, 0, 0, nl_client,", "\tif (!(ibnl_put_msg(skb, &nlh, 0, 0, nl_client,"]}]}

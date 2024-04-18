@@ -1,0 +1,1 @@
+{"drivers/net/ethernet/xilinx/ll_temac_main.c": [{"patch_file_name": "drivers/net/ethernet/xilinx/ll_temac_main.c", "func_decl_name": "temac_probe", "is_cond": true, "line_numbers": [1435, 1436], "line_cids": ["", ""], "line_strs": ["\t\t\t\t\t\t GFP_KERNEL);", "\t\tspin_lock_init(lp->indirect_lock);"]}]}

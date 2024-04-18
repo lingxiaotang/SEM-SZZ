@@ -1,0 +1,1 @@
+{"kernel/bpf/verifier.c": [{"patch_file_name": "kernel/bpf/verifier.c", "func_decl_name": "set_user_ringbuf_callback_state", "is_cond": false, "line_numbers": [6946, 6948], "line_cids": ["", ""], "line_strs": ["\t__mark_reg_not_init(env, &callee->regs[BPF_REG_5]);", "\tcallee->in_callback_fn = true;"]}]}

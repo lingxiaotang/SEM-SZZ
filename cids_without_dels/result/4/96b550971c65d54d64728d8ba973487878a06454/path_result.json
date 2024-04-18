@@ -1,0 +1,1 @@
+{"drivers/video/fbdev/arkfb.c": [{"patch_file_name": "drivers/video/fbdev/arkfb.c", "func_decl_name": "arkfb_set_par", "is_cond": true, "line_numbers": [799, 800], "line_cids": ["", ""], "line_strs": ["", "\tmemset_io(info->screen_base, 0x00, screen_size);"]}]}

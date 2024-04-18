@@ -1,0 +1,1 @@
+{"drivers/net/ethernet/hisilicon/hns3/hns3pf/hclge_main.c": [{"patch_file_name": "drivers/net/ethernet/hisilicon/hns3/hns3pf/hclge_main.c", "func_decl_name": "hclge_reset_vf_queue", "is_cond": true, "line_numbers": [9821, 9822], "line_cids": ["", ""], "line_strs": ["", "\tqueue_gid = hclge_covert_handle_qid_global(&vport->nic, queue_id);"]}]}

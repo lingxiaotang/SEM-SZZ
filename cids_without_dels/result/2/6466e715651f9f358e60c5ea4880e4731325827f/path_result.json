@@ -1,0 +1,1 @@
+{"net/ipv4/tcp.c": [{"patch_file_name": "net/ipv4/tcp.c", "func_decl_name": "tcp_inq_hint", "is_cond": true, "line_numbers": [1939, 1940], "line_cids": ["", ""], "line_strs": ["\t}", "\treturn inq;"]}]}

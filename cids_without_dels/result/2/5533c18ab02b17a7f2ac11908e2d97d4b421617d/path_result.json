@@ -1,0 +1,1 @@
+{"drivers/infiniband/hw/mlx4/main.c": [{"patch_file_name": "drivers/infiniband/hw/mlx4/main.c", "func_decl_name": "mlx4_ib_create_flow", "is_cond": true, "line_numbers": [1706, 1707], "line_cids": ["", ""], "line_strs": ["", "\tif ((flow_attr->flags & IB_FLOW_ATTR_FLAGS_DONT_TRAP) &&"]}]}

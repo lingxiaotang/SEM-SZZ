@@ -1,0 +1,1 @@
+{"drivers/char/xillybus/xillyusb.c": [{"patch_file_name": "drivers/char/xillybus/xillyusb.c", "func_decl_name": "xillyusb_setup_base_eps", "is_cond": false, "line_numbers": [1914], "line_cids": [""], "line_strs": ["\tendpoint_dealloc(xdev->msg_ep); /* Also frees FIFO mem if allocated */"]}]}

@@ -1,0 +1,1 @@
+{"drivers/gpu/drm/qxl/qxl_draw.c": [{"patch_file_name": "drivers/gpu/drm/qxl/qxl_draw.c", "func_decl_name": "qxl_palette_create_1bit", "is_cond": true, "line_numbers": [138, 139], "line_cids": ["", ""], "line_strs": ["\tret = qxl_bo_kmap(palette_bo, (void **)&pal);", "\tpal->num_ents = 2;"]}]}

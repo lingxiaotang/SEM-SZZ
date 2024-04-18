@@ -1,0 +1,1 @@
+{"drivers/net/ethernet/mellanox/mlx5/core/en_flow_table.c": [{"patch_file_name": "drivers/net/ethernet/mellanox/mlx5/core/en_flow_table.c", "func_decl_name": "mlx5e_create_main_flow_table", "is_cond": true, "line_numbers": [724, 725], "line_cids": ["", ""], "line_strs": ["\tg = kcalloc(9, sizeof(*g), GFP_KERNEL);", ""]}]}

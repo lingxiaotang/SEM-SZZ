@@ -1,0 +1,1 @@
+{"arch/powerpc/kernel/interrupt.c": [{"patch_file_name": "arch/powerpc/kernel/interrupt.c", "func_decl_name": "system_call_exception", "is_cond": true, "line_numbers": [139, 140], "line_cids": ["", ""], "line_strs": ["", "\t/*"]}]}

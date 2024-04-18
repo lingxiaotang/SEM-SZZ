@@ -1,0 +1,1 @@
+{"drivers/infiniband/hw/cxgb4/cm.c": [{"patch_file_name": "drivers/infiniband/hw/cxgb4/cm.c", "func_decl_name": "get_skb", "is_cond": true, "line_numbers": [462, 463], "line_cids": ["", ""], "line_strs": ["\t\tskb = alloc_skb(len, gfp);", "\t}"]}]}

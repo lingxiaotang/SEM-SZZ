@@ -1,0 +1,1 @@
+{"drivers/gpu/drm/i915/display/intel_dp_mst.c": [{"patch_file_name": "drivers/gpu/drm/i915/display/intel_dp_mst.c", "func_decl_name": "intel_dp_add_mst_connector", "is_cond": false, "line_numbers": [835, 836], "line_cids": ["", ""], "line_strs": ["\tintel_connector->port = port;", "\tdrm_dp_mst_get_port_malloc(port);"]}]}

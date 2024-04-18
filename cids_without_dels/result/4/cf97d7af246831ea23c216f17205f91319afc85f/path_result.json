@@ -1,0 +1,1 @@
+{"drivers/usb/cdns3/cdnsp-gadget.c": [{"patch_file_name": "drivers/usb/cdns3/cdnsp-gadget.c", "func_decl_name": "cdnsp_gadget_ep_dequeue", "is_cond": true, "line_numbers": [1130, 1131], "line_cids": ["", ""], "line_strs": ["", "\tspin_lock_irqsave(&pdev->lock, flags);"]}]}

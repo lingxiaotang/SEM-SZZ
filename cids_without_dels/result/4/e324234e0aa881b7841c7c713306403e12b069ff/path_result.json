@@ -1,0 +1,1 @@
+{"arch/x86/events/intel/uncore_snbep.c": [{"patch_file_name": "arch/x86/events/intel/uncore_snbep.c", "func_decl_name": "skx_cha_hw_config", "is_cond": true, "line_numbers": [3610, 3611], "line_cids": ["", ""], "line_strs": ["\tint idx = 0;", ""]}]}

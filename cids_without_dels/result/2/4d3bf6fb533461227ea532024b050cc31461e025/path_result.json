@@ -1,0 +1,1 @@
+{"drivers/net/ethernet/marvell/octeon_ep/octep_main.c": [{"patch_file_name": "drivers/net/ethernet/marvell/octeon_ep/octep_main.c", "func_decl_name": "octep_request_irqs", "is_cond": false, "line_numbers": [268], "line_cids": [""], "line_strs": ["\t\tfree_irq(oct->msix_entries[i].vector, oct);"]}]}

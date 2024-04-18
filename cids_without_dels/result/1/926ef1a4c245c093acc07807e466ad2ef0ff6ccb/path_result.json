@@ -1,0 +1,1 @@
+{"sound/soc/codecs/cs42l42.c": [{"patch_file_name": "sound/soc/codecs/cs42l42.c", "func_decl_name": "cs42l42_pcm_hw_params", "is_cond": true, "line_numbers": [832, 833], "line_cids": ["", ""], "line_strs": ["", "\tswitch(substream->stream) {"]}]}

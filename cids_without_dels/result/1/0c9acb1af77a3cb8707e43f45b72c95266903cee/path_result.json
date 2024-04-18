@@ -1,0 +1,1 @@
+{"drivers/tty/vt/vc_screen.c": [{"patch_file_name": "drivers/tty/vt/vc_screen.c", "func_decl_name": "vcs_write", "is_cond": true, "line_numbers": [458, 459], "line_cids": ["", ""], "line_strs": ["", "\tcon_buf = (char *) __get_free_page(GFP_KERNEL);"]}]}

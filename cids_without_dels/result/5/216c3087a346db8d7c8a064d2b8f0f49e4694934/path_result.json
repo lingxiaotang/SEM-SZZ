@@ -1,0 +1,1 @@
+{"arch/powerpc/perf/imc-pmu.c": [{"patch_file_name": "arch/powerpc/perf/imc-pmu.c", "func_decl_name": "thread_imc_event_init", "is_cond": true, "line_numbers": [866, 867], "line_cids": ["", ""], "line_strs": ["", "\t/* Sampling not supported */"]}]}

@@ -1,0 +1,1 @@
+{"drivers/net/ethernet/microchip/sparx5/sparx5_switchdev.c": [{"patch_file_name": "drivers/net/ethernet/microchip/sparx5/sparx5_switchdev.c", "func_decl_name": "sparx5_handle_port_mdb_del", "is_cond": true, "line_numbers": [468, 469], "line_cids": ["", ""], "line_strs": ["", "\tif (netif_is_bridge_master(v->obj.orig_dev)) {"]}]}

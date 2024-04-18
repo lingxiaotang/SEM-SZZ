@@ -1,0 +1,1 @@
+{"drivers/gpu/drm/amd/amdgpu/si.c": [{"patch_file_name": "drivers/gpu/drm/amd/amdgpu/si.c", "func_decl_name": "si_init_golden_registers", "is_cond": true, "line_numbers": [1387, 1388], "line_cids": ["", ""], "line_strs": ["\t\t\t\t\t\t (const u32)ARRAY_SIZE(pitcairn_mgcg_cgcg_init));", "\tcase CHIP_VERDE:"]}]}

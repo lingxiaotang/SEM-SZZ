@@ -1,0 +1,1 @@
+{"net/xdp/xsk.c": [{"patch_file_name": "net/xdp/xsk.c", "func_decl_name": "xsk_bind", "is_cond": false, "line_numbers": [710, 713], "line_cids": ["", ""], "line_strs": ["\t\t\terr = xp_assign_dev_shared(xs->pool, umem_xs->umem,", "\t\t\t\txp_destroy(xs->pool);"]}]}

@@ -1,0 +1,1 @@
+{"drivers/mmc/host/ushc.c": [{"patch_file_name": "drivers/mmc/host/ushc.c", "func_decl_name": "ushc_probe", "is_cond": true, "line_numbers": [428, 429], "line_cids": ["", ""], "line_strs": ["", "\tmmc = mmc_alloc_host(sizeof(struct ushc_data), &intf->dev);"]}]}

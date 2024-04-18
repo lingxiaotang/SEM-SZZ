@@ -1,0 +1,1 @@
+{"drivers/i3c/master/dw-i3c-master.c": [{"patch_file_name": "drivers/i3c/master/dw-i3c-master.c", "func_decl_name": "dw_i3c_master_daa", "is_cond": true, "line_numbers": [795, 796], "line_cids": ["", ""], "line_strs": ["\tpos = dw_i3c_master_get_free_pos(master);", "\tcmd = &xfer->cmds[0];"]}]}

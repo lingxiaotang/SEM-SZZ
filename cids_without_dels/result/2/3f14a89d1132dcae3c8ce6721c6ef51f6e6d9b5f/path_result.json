@@ -1,0 +1,1 @@
+{"arch/x86/kvm/svm.c": [{"patch_file_name": "arch/x86/kvm/svm.c", "func_decl_name": "sev_guest_init", "is_cond": true, "line_numbers": [6280, 6281], "line_cids": ["", ""], "line_strs": ["\tret = -EBUSY;", "\tasid = sev_asid_new();"]}]}

@@ -1,0 +1,1 @@
+{"net/mac80211/tx.c": [{"patch_file_name": "net/mac80211/tx.c", "func_decl_name": "ieee80211_parse_tx_radiotap", "is_cond": true, "line_numbers": [2211, 2212], "line_cids": ["", ""], "line_strs": ["\t\t\tvht_mcs = iterator.this_arg[4] >> 4;", "\t\t\tvht_nss = iterator.this_arg[4] & 0xF;"]}]}

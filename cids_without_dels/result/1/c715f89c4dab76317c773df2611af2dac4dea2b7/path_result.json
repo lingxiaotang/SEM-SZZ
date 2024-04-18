@@ -1,0 +1,1 @@
+{"fs/cifs/dfs_cache.c": [{"patch_file_name": "fs/cifs/dfs_cache.c", "func_decl_name": "get_tgt_list", "is_cond": false, "line_numbers": [776, 778], "line_cids": ["", ""], "line_strs": ["\t\tit->it_name = kstrndup(t->t_name, strlen(t->t_name),", "\t\tif (!it->it_name) {"]}]}

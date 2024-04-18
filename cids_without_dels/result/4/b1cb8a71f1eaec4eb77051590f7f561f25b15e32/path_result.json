@@ -1,0 +1,1 @@
+{"net/batman-adv/hard-interface.c": [{"patch_file_name": "net/batman-adv/hard-interface.c", "func_decl_name": "batadv_hardif_enable_interface", "is_cond": true, "line_numbers": [702, 703], "line_cids": ["", ""], "line_strs": ["", "\tif (hard_iface->if_status != BATADV_IF_NOT_IN_USE)"]}]}

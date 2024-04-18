@@ -1,0 +1,1 @@
+{"drivers/irqchip/irq-gic-v3-its.c": [{"patch_file_name": "drivers/irqchip/irq-gic-v3-its.c", "func_decl_name": "its_alloc_tables", "is_cond": true, "line_numbers": [1948, 1949], "line_cids": ["", ""], "line_strs": ["\t\t\t\t\t\t\t    its->device_ids);", "\t\tcase GITS_BASER_TYPE_VCPU:"]}]}

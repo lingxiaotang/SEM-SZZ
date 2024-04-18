@@ -1,0 +1,1 @@
+{"net/sched/sch_hhf.c": [{"patch_file_name": "net/sched/sch_hhf.c", "func_decl_name": "hhf_destroy", "is_cond": true, "line_numbers": [479, 480], "line_cids": ["", ""], "line_strs": ["", "\tfor (i = 0; i < HH_FLOWS_CNT; i++) {"]}]}

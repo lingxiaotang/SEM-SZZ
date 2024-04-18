@@ -1,0 +1,1 @@
+{"drivers/net/ethernet/mellanox/mlxsw/spectrum_switchdev.c": [{"patch_file_name": "drivers/net/ethernet/mellanox/mlxsw/spectrum_switchdev.c", "func_decl_name": "__mlxsw_sp_port_flood_set", "is_cond": true, "line_numbers": [216, 217], "line_cids": ["", ""], "line_strs": ["\terr = mlxsw_reg_write(mlxsw_sp->core, MLXSW_REG(sftr), sftr_pl);", ""]}]}

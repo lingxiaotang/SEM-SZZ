@@ -1,0 +1,1 @@
+{"sound/soc/meson/aiu-fifo.c": [{"patch_file_name": "sound/soc/meson/aiu-fifo.c", "func_decl_name": "aiu_fifo_pcm_new", "is_cond": true, "line_numbers": [181, 182], "line_cids": ["", ""], "line_strs": ["\tsize_t size = fifo->pcm->buffer_bytes_max;", ""]}]}

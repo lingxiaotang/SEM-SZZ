@@ -1,0 +1,1 @@
+{"net/sched/cls_bpf.c": [{"patch_file_name": "net/sched/cls_bpf.c", "func_decl_name": "cls_bpf_modify_existing", "is_cond": true, "line_numbers": [182, 183], "line_cids": ["", ""], "line_strs": ["\tbpf_size = bpf_len * sizeof(*bpf_ops);", "\tbpf_ops = kzalloc(bpf_size, GFP_KERNEL);"]}]}

@@ -1,0 +1,1 @@
+{"drivers/net/ethernet/intel/ice/ice_main.c": [{"patch_file_name": "drivers/net/ethernet/intel/ice/ice_main.c", "func_decl_name": "ice_probe", "is_cond": true, "line_numbers": [4196, 4197], "line_cids": ["", ""], "line_strs": ["", "\t/* this driver uses devres, see"]}]}

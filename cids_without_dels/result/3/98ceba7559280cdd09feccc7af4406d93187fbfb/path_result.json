@@ -1,0 +1,1 @@
+{"drivers/usb/musb/mpfs.c": [{"patch_file_name": "drivers/usb/musb/mpfs.c", "func_decl_name": "mpfs_remove", "is_cond": false, "line_numbers": [240, 242], "line_cids": ["", ""], "line_strs": ["\tstruct mpfs_glue *glue = platform_get_drvdata(pdev);", "\tplatform_device_unregister(glue->musb);"]}]}

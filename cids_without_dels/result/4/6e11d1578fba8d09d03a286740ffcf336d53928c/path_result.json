@@ -1,0 +1,1 @@
+{"net/core/dev.c": [{"patch_file_name": "net/core/dev.c", "func_decl_name": "skb_tx_hash", "is_cond": true, "line_numbers": [3078, 3079], "line_cids": ["", ""], "line_strs": ["\t\thash = skb_get_rx_queue(skb);", "\t\twhile (unlikely(hash >= qcount))"]}]}

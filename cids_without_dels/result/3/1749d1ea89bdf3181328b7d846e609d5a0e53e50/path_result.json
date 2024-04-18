@@ -1,0 +1,1 @@
+{"fs/xfs/xfs_bmap_util.c": [{"patch_file_name": "fs/xfs/xfs_bmap_util.c", "func_decl_name": "xfs_prepare_shift", "is_cond": true, "line_numbers": [1195, 1196], "line_cids": ["", ""], "line_strs": ["\terror = xfs_flush_unmap_range(ip, offset, XFS_ISIZE(ip));", ""]}]}

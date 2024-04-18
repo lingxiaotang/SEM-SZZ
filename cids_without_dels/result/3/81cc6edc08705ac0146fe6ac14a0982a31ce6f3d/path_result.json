@@ -1,0 +1,1 @@
+{"drivers/dma/pl330.c": [{"patch_file_name": "drivers/dma/pl330.c", "func_decl_name": "pl330_terminate_all", "is_cond": false, "line_numbers": [2127, 2131], "line_cids": ["", ""], "line_strs": ["\tstruct pl330_dmac *pl330 = pch->dmac;", "\tspin_lock(&pl330->lock);"]}]}

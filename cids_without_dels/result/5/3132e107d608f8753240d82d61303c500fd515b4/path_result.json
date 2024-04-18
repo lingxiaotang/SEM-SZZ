@@ -1,0 +1,1 @@
+{"kernel/trace/trace.c": [{"patch_file_name": "kernel/trace/trace.c", "func_decl_name": "__trace_bputs", "is_cond": true, "line_numbers": [497, 498], "line_cids": ["", ""], "line_strs": ["", "\tlocal_save_flags(irq_flags);"]}]}

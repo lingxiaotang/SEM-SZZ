@@ -1,0 +1,1 @@
+{"fs/fuse/dir.c": [{"patch_file_name": "fs/fuse/dir.c", "func_decl_name": "fuse_dentry_automount", "is_cond": false, "line_numbers": [354, 356], "line_cids": ["", ""], "line_strs": ["\tfsc->root = dget(sb->s_root);", "\tup_write(&sb->s_umount);"]}]}

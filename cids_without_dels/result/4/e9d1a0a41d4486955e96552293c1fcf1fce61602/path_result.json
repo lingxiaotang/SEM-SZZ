@@ -1,0 +1,1 @@
+{"drivers/i2c/muxes/i2c-demux-pinctrl.c": [{"patch_file_name": "drivers/i2c/muxes/i2c-demux-pinctrl.c", "func_decl_name": "i2c_demux_pinctrl_probe", "is_cond": false, "line_numbers": [276], "line_cids": [""], "line_strs": ["\t\tof_node_put(priv->chan[j].parent_np);"]}]}

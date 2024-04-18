@@ -1,0 +1,1 @@
+{"net/ethtool/bitset.c": [{"patch_file_name": "net/ethtool/bitset.c", "func_decl_name": "ethnl_parse_bitset", "is_cond": true, "line_numbers": [630, 631], "line_cids": ["", ""], "line_strs": ["\t\tchange_bits = nla_get_u32(tb[ETHTOOL_A_BITSET_SIZE]);", "\t\tbitmap_from_arr32(val, nla_data(tb[ETHTOOL_A_BITSET_VALUE]),"]}]}

@@ -1,0 +1,1 @@
+{"drivers/gpio/gpio-mvebu.c": [{"patch_file_name": "drivers/gpio/gpio-mvebu.c", "func_decl_name": "mvebu_pwm_apply", "is_cond": true, "line_numbers": [709, 710], "line_cids": ["", ""], "line_strs": ["", "\tval = (unsigned long long) mvpwm->clk_rate * state->duty_cycle;"]}]}

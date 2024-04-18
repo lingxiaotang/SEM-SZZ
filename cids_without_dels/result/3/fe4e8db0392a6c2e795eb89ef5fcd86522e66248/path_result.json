@@ -1,0 +1,1 @@
+{"drivers/net/ethernet/realtek/r8169_main.c": [{"patch_file_name": "drivers/net/ethernet/realtek/r8169_main.c", "func_decl_name": "rtl_hw_start_8411_2", "is_cond": false, "line_numbers": [4669, 4670], "line_cids": ["", ""], "line_strs": ["\trtl_ephy_init(tp, e_info_8411_2);", "\trtl_hw_aspm_clkreq_enable(tp, true);"]}]}

@@ -1,0 +1,1 @@
+{"drivers/acpi/utils.c": [{"patch_file_name": "drivers/acpi/utils.c", "func_decl_name": "acpi_dev_present", "is_cond": false, "line_numbers": [802, 802], "line_cids": ["", ""], "line_strs": ["\tdev = bus_find_device(&acpi_bus_type, NULL, &match, acpi_dev_match_cb);", "\tdev = bus_find_device(&acpi_bus_type, NULL, &match, acpi_dev_match_cb);"]}]}

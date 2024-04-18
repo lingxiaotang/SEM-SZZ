@@ -1,0 +1,1 @@
+{"drivers/net/ethernet/intel/ice/ice_virtchnl_pf.c": [{"patch_file_name": "drivers/net/ethernet/intel/ice/ice_virtchnl_pf.c", "func_decl_name": "ice_set_vf_trust", "is_cond": true, "line_numbers": [4938, 4941], "line_cids": ["", ""], "line_strs": ["\tif (trusted == vf->trusted)", "\tvf->trusted = trusted;"]}]}

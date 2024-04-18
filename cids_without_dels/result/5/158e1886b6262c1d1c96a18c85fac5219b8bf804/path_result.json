@@ -1,0 +1,1 @@
+{"sound/hda/ext/hdac_ext_controller.c": [{"patch_file_name": "sound/hda/ext/hdac_ext_controller.c", "func_decl_name": "snd_hdac_ext_bus_get_link", "is_cond": true, "line_numbers": [150, 151], "line_cids": ["", ""], "line_strs": ["\t\treturn NULL;", ""]}]}

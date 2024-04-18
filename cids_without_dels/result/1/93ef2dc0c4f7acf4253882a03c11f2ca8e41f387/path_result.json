@@ -1,0 +1,1 @@
+{"drivers/usb/dwc3/dwc3-qcom.c": [{"patch_file_name": "drivers/usb/dwc3/dwc3-qcom.c", "func_decl_name": "dwc3_qcom_probe", "is_cond": false, "line_numbers": [485, 485], "line_cids": ["", ""], "line_strs": ["\tif (ret) {", "\tif (ret) {"]}]}

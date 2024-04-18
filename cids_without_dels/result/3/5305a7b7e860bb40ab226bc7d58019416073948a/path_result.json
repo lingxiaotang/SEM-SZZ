@@ -1,0 +1,1 @@
+{"drivers/pinctrl/pinctrl-at91-pio4.c": [{"patch_file_name": "drivers/pinctrl/pinctrl-at91-pio4.c", "func_decl_name": "atmel_conf_pin_config_group_set", "is_cond": true, "line_numbers": [711, 711], "line_cids": ["", ""], "line_strs": ["\tfor (i = 0; i < num_configs; i++) {", "\tfor (i = 0; i < num_configs; i++) {"]}]}

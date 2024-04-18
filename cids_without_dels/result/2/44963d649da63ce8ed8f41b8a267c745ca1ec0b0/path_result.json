@@ -1,0 +1,1 @@
+{"drivers/usb/gadget/function/f_fs.c": [{"patch_file_name": "drivers/usb/gadget/function/f_fs.c", "func_decl_name": "__ffs_epfile_read_data", "is_cond": true, "line_numbers": [777, 778], "line_cids": ["", ""], "line_strs": ["\tbuf = kmalloc(sizeof(*buf) + data_len, GFP_KERNEL);", "\tbuf->length = data_len;"]}]}

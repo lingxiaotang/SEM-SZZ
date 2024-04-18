@@ -1,0 +1,1 @@
+{"drivers/misc/lkdtm/bugs.c": [{"patch_file_name": "drivers/misc/lkdtm/bugs.c", "func_decl_name": "lkdtm_ARRAY_BOUNDS", "is_cond": true, "line_numbers": [329, 330], "line_cids": ["", ""], "line_strs": ["\tchecked = kmalloc(sizeof(*checked) * 2, GFP_KERNEL);", ""]}]}

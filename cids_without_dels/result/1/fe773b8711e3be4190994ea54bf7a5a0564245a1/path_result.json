@@ -1,0 +1,1 @@
+{"sound/usb/format.c": [{"patch_file_name": "sound/usb/format.c", "func_decl_name": "validate_sample_rate_table_v2v3", "is_cond": true, "line_numbers": [468, 469], "line_cids": ["", ""], "line_strs": ["", "\ttable = kcalloc(fp->nr_rates, sizeof(*table), GFP_KERNEL);"]}]}

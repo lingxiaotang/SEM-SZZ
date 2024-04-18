@@ -1,0 +1,1 @@
+{"drivers/infiniband/core/ucma.c": [{"patch_file_name": "drivers/infiniband/core/ucma.c", "func_decl_name": "ucma_init_qp_attr", "is_cond": true, "line_numbers": [1168, 1169], "line_cids": ["", ""], "line_strs": ["", "\tresp.qp_attr_mask = 0;"]}]}

@@ -1,0 +1,1 @@
+{"net/wireless/nl80211.c": [{"patch_file_name": "net/wireless/nl80211.c", "func_decl_name": "nl80211_start_ap", "is_cond": false, "line_numbers": [5509, 5509], "line_cids": ["", ""], "line_strs": ["\t\t\terr = PTR_ERR(params->acl);", "\t\t\terr = PTR_ERR(params->acl);"]}]}

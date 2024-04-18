@@ -1,0 +1,1 @@
+{"net/nfc/netlink.c": [{"patch_file_name": "net/nfc/netlink.c", "func_decl_name": "nfc_genl_stop_poll", "is_cond": false, "line_numbers": [853, 854], "line_cids": ["", ""], "line_strs": ["\tif (!dev->polling) {", "\t\tdevice_unlock(&dev->dev);"]}]}

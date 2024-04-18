@@ -1,0 +1,1 @@
+{"sound/soc/stm/stm32_spdifrx.c": [{"patch_file_name": "sound/soc/stm/stm32_spdifrx.c", "func_decl_name": "stm32_spdifrx_probe", "is_cond": true, "line_numbers": [1011, 1012], "line_cids": ["", ""], "line_strs": ["\t\tret = regmap_read(spdifrx->regmap, STM32_SPDIFRX_VERR, &ver);", ""]}]}

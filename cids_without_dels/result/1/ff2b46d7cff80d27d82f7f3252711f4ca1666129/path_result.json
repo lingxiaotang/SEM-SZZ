@@ -1,0 +1,1 @@
+{"drivers/iommu/intel/irq_remapping.c": [{"patch_file_name": "drivers/iommu/intel/irq_remapping.c", "func_decl_name": "intel_irq_remapping_alloc", "is_cond": true, "line_numbers": [1355, 1356], "line_cids": ["", ""], "line_strs": ["\t\tif (!irq_data || !irq_cfg) {", "\t\t\tret = -EINVAL;"]}]}

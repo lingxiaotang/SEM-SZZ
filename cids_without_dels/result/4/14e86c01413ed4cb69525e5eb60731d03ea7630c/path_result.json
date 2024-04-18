@@ -1,0 +1,1 @@
+{"drivers/gpu/drm/vkms/vkms_crc.c": [{"patch_file_name": "drivers/gpu/drm/vkms/vkms_crc.c", "func_decl_name": "_vkms_get_crc", "is_cond": false, "line_numbers": [117, 120], "line_cids": ["", ""], "line_strs": ["\tvoid *vaddr_out = kzalloc(vkms_obj->gem.size, GFP_KERNEL);", "\tif (!vaddr_out) {"]}]}

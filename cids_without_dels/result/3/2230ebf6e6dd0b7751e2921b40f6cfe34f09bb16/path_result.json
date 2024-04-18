@@ -1,0 +1,1 @@
+{"arch/powerpc/mm/hugetlbpage.c": [{"patch_file_name": "arch/powerpc/mm/hugetlbpage.c", "func_decl_name": "huge_pte_alloc", "is_cond": true, "line_numbers": [171, 171], "line_cids": ["", ""], "line_strs": ["\tBUG_ON(!hugepd_none(*hpdp) && !hugepd_ok(*hpdp));", "\tBUG_ON(!hugepd_none(*hpdp) && !hugepd_ok(*hpdp));"]}]}

@@ -1,0 +1,1 @@
+{"net/rds/ib_frmr.c": [{"patch_file_name": "net/rds/ib_frmr.c", "func_decl_name": "rds_ib_alloc_frmr", "is_cond": false, "line_numbers": [62, 62], "line_cids": ["", ""], "line_strs": ["\tif (IS_ERR(frmr->mr)) {", "\tif (IS_ERR(frmr->mr)) {"]}]}

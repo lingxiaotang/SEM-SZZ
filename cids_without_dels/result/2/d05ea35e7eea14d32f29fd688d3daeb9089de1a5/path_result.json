@@ -1,0 +1,1 @@
+{"kernel/trace/fprobe.c": [{"patch_file_name": "kernel/trace/fprobe.c", "func_decl_name": "fprobe_init_rethook", "is_cond": true, "line_numbers": [143, 144], "line_cids": ["", ""], "line_strs": ["\tfp->rethook = rethook_alloc((void *)fp, fprobe_exit_handler);", "\tfor (i = 0; i < size; i++) {"]}]}

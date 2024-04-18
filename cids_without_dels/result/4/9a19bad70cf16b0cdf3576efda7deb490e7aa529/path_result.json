@@ -1,0 +1,1 @@
+{"net/rxrpc/call_accept.c": [{"patch_file_name": "net/rxrpc/call_accept.c", "func_decl_name": "rxrpc_discard_prealloc", "is_cond": true, "line_numbers": [224, 224], "line_cids": ["", ""], "line_strs": ["\twhile (CIRC_CNT(head, tail, size) > 0) {", "\twhile (CIRC_CNT(head, tail, size) > 0) {"]}]}

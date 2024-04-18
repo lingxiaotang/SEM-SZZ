@@ -1,0 +1,1 @@
+{"drivers/hwmon/stts751.c": [{"patch_file_name": "drivers/hwmon/stts751.c", "func_decl_name": "stts751_read_chip_config", "is_cond": true, "line_numbers": [720, 721], "line_cids": ["", ""], "line_strs": ["\t\treturn ret;", "\tpriv->interval = ret;"]}]}

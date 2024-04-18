@@ -1,0 +1,1 @@
+{"drivers/crypto/ccp/sev-dev.c": [{"patch_file_name": "drivers/crypto/ccp/sev-dev.c", "func_decl_name": "__sev_do_cmd_locked", "is_cond": true, "line_numbers": [153, 154], "line_cids": ["", ""], "line_strs": ["", "\t/* Get the physical address of the command buffer */"]}]}

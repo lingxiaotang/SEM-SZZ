@@ -1,0 +1,1 @@
+{"samples/bpf/xdpsock_user.c": [{"patch_file_name": "samples/bpf/xdpsock_user.c", "func_decl_name": "tx_only", "is_cond": true, "line_numbers": [1277, 1278], "line_cids": ["", ""], "line_strs": ["\t\tcomplete_tx_only(xsk, batch_size);", "\t}"]}]}

@@ -1,0 +1,1 @@
+{"sound/soc/amd/raven/acp3x-pcm-dma.c": [{"patch_file_name": "sound/soc/amd/raven/acp3x-pcm-dma.c", "func_decl_name": "acp3x_dma_open", "is_cond": false, "line_numbers": [300], "line_cids": [""], "line_strs": ["\tif (!i2s_data)"]}]}

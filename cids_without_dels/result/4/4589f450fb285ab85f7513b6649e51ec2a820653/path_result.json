@@ -1,0 +1,1 @@
+{"kernel/irq/ipi.c": [{"patch_file_name": "kernel/irq/ipi.c", "func_decl_name": "irq_reserve_ipi", "is_cond": true, "line_numbers": [93, 93], "line_cids": ["", ""], "line_strs": ["\tfor (i = 0; i < nr_irqs; i++) {", "\tfor (i = 0; i < nr_irqs; i++) {"]}]}

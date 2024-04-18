@@ -1,0 +1,1 @@
+{"sound/firewire/oxfw/oxfw-stream.c": [{"patch_file_name": "sound/firewire/oxfw/oxfw-stream.c", "func_decl_name": "snd_oxfw_stream_reserve_duplex", "is_cond": true, "line_numbers": [293, 294], "line_cids": ["", ""], "line_strs": ["\tif (oxfw->substreams_count == 0 ||", "\t    formation.rate != rate || formation.pcm != pcm_channels) {"]}]}

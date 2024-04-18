@@ -1,0 +1,1 @@
+{"net/netfilter/ipset/ip_set_core.c": [{"patch_file_name": "net/netfilter/ipset/ip_set_core.c", "func_decl_name": "ip_set_elem_len", "is_cond": true, "line_numbers": [460, 460], "line_cids": ["", ""], "line_strs": ["\tfor (id = 0; id < IPSET_EXT_ID_MAX; id++) {", "\tfor (id = 0; id < IPSET_EXT_ID_MAX; id++) {"]}]}

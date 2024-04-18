@@ -1,0 +1,1 @@
+{"arch/x86/kvm/vmx.c": [{"patch_file_name": "arch/x86/kvm/vmx.c", "func_decl_name": "vmx_save_host_state", "is_cond": true, "line_numbers": [2354, 2365], "line_cids": ["", ""], "line_strs": ["\tint cpu = raw_smp_processor_id();", "\tvmx->host_state.ldt_sel = kvm_read_ldt();"]}]}

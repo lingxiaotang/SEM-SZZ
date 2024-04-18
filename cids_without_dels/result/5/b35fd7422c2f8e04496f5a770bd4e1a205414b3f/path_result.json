@@ -1,0 +1,1 @@
+{"block/blk-lib.c": [{"patch_file_name": "block/blk-lib.c", "func_decl_name": "__blkdev_issue_discard", "is_cond": true, "line_numbers": [49, 50], "line_cids": ["", ""], "line_strs": ["", "\tbs_mask = (bdev_logical_block_size(bdev) >> 9) - 1;"]}]}

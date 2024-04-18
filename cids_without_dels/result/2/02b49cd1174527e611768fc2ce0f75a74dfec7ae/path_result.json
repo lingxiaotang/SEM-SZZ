@@ -1,0 +1,1 @@
+{"drivers/bus/mhi/core/pm.c": [{"patch_file_name": "drivers/bus/mhi/core/pm.c", "func_decl_name": "mhi_pm_resume", "is_cond": true, "line_numbers": [928, 929], "line_cids": ["", ""], "line_strs": ["\t\t\t\t mhi_cntrl->dev_state == MHI_STATE_M0 ||", "\t\t\t\t MHI_PM_IN_ERROR_STATE(mhi_cntrl->pm_state),"]}]}

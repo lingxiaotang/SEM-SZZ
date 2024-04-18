@@ -1,0 +1,1 @@
+{"drivers/gpu/drm/amd/display/dc/dcn21/dcn21_resource.c": [{"patch_file_name": "drivers/gpu/drm/amd/display/dc/dcn21/dcn21_resource.c", "func_decl_name": "dcn21_clock_source_create", "is_cond": false, "line_numbers": [994, 994], "line_cids": ["", ""], "line_strs": ["\tif (dcn20_clk_src_construct(clk_src, ctx, bios, id,", "\tif (dcn20_clk_src_construct(clk_src, ctx, bios, id,"]}]}

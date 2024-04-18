@@ -1,0 +1,1 @@
+{"drivers/rtc/rtc-mt6397.c": [{"patch_file_name": "drivers/rtc/rtc-mt6397.c", "func_decl_name": "mtk_rtc_probe", "is_cond": true, "line_numbers": [271, 272], "line_cids": ["", ""], "line_strs": ["\tres = platform_get_resource(pdev, IORESOURCE_MEM, 0);", "\trtc->addr_base = res->start;"]}]}

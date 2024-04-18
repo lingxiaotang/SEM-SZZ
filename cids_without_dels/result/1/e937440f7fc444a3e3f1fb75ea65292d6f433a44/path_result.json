@@ -1,0 +1,1 @@
+{"drivers/spi/spi-meson-spicc.c": [{"patch_file_name": "drivers/spi/spi-meson-spicc.c", "func_decl_name": "meson_spicc_probe", "is_cond": true, "line_numbers": [695, 696], "line_cids": ["", ""], "line_strs": ["\tirq = platform_get_irq(pdev, 0);", "\tret = devm_request_irq(&pdev->dev, irq, meson_spicc_irq,"]}]}

@@ -1,0 +1,1 @@
+{"arch/powerpc/kernel/time.c": [{"patch_file_name": "arch/powerpc/kernel/time.c", "func_decl_name": "register_decrementer_clockevent", "is_cond": false, "line_numbers": [986, 988], "line_cids": ["", ""], "line_strs": ["\tdec->cpumask = cpumask_of(cpu);", "\tclockevents_config_and_register(dec, ppc_tb_freq, 2, decrementer_max);"]}]}

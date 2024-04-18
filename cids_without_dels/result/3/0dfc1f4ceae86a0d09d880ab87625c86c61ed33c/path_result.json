@@ -1,0 +1,1 @@
+{"drivers/md/dm-bufio.c": [{"patch_file_name": "drivers/md/dm-bufio.c", "func_decl_name": "dm_bufio_client_create", "is_cond": true, "line_numbers": [1860, 1861], "line_cids": ["", ""], "line_strs": ["\tmutex_destroy(&c->lock);", "\tkfree(c);"]}]}

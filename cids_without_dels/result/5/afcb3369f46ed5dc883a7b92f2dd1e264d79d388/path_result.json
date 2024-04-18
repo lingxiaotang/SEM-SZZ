@@ -1,0 +1,1 @@
+{"net/bluetooth/hci_event.c": [{"patch_file_name": "net/bluetooth/hci_event.c", "func_decl_name": "hci_cmd_complete_evt", "is_cond": true, "line_numbers": [4181, 4182], "line_cids": ["", ""], "line_strs": ["", "\thandle_cmd_cnt_and_timer(hdev, ev->ncmd);"]}]}

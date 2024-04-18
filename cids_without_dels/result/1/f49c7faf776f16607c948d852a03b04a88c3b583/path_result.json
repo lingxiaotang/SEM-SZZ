@@ -1,0 +1,1 @@
+{"drivers/of/address.c": [{"patch_file_name": "drivers/of/address.c", "func_decl_name": "of_dma_get_range", "is_cond": true, "line_numbers": [987, 988], "line_cids": ["", ""], "line_strs": ["\t\t}", "\t\tdma_offset = range.cpu_addr - range.bus_addr;"]}]}

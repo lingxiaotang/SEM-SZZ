@@ -1,0 +1,1 @@
+{"kernel/trace/trace_osnoise.c": [{"patch_file_name": "kernel/trace/trace_osnoise.c", "func_decl_name": "osnoise_workload_stop", "is_cond": true, "line_numbers": [2202, 2203], "line_cids": ["", ""], "line_strs": ["", "\ttrace_osnoise_callback_enabled = false;"]}]}

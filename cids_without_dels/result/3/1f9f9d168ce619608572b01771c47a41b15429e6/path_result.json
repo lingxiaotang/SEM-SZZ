@@ -1,0 +1,1 @@
+{"drivers/usb/typec/ucsi/ucsi_acpi.c": [{"patch_file_name": "drivers/usb/typec/ucsi/ucsi_acpi.c", "func_decl_name": "ucsi_acpi_probe", "is_cond": true, "line_numbers": [81, 82], "line_cids": ["", ""], "line_strs": ["", "\t/*"]}]}

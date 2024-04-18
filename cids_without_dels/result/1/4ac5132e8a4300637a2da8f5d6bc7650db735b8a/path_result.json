@@ -1,0 +1,1 @@
+{"drivers/usb/host/ohci-tmio.c": [{"patch_file_name": "drivers/usb/host/ohci-tmio.c", "func_decl_name": "ohci_hcd_tmio_drv_probe", "is_cond": true, "line_numbers": [204, 205], "line_cids": ["", ""], "line_strs": ["", "\thcd = usb_create_hcd(&ohci_tmio_hc_driver, &dev->dev, dev_name(&dev->dev));"]}]}

@@ -1,0 +1,1 @@
+{"drivers/iio/imu/inv_mpu6050/inv_mpu_core.c": [{"patch_file_name": "drivers/iio/imu/inv_mpu6050/inv_mpu_core.c", "func_decl_name": "inv_mpu_core_probe", "is_cond": true, "line_numbers": [961, 962], "line_cids": ["", ""], "line_strs": ["\tirq_type = irqd_get_trigger_type(desc);", "\tif (irq_type == IRQF_TRIGGER_RISING)"]}]}

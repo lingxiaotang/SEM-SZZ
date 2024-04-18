@@ -1,0 +1,1 @@
+{"drivers/infiniband/hw/i40iw/i40iw_verbs.c": [{"patch_file_name": "drivers/infiniband/hw/i40iw/i40iw_verbs.c", "func_decl_name": "i40iw_alloc_mr", "is_cond": false, "line_numbers": [1636, 1640], "line_cids": ["", ""], "line_strs": ["\tif (!stag) {", "\tiwmr->stag = stag;"]}]}

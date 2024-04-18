@@ -1,0 +1,1 @@
+{"drivers/infiniband/core/counters.c": [{"patch_file_name": "drivers/infiniband/core/counters.c", "func_decl_name": "rdma_counter_get_hwstat_value", "is_cond": true, "line_numbers": [395, 396], "line_cids": ["", ""], "line_strs": ["\tport_counter = &dev->port_data[port].port_counter;", "\tsum = get_running_counters_hwstat_sum(dev, port, index);"]}]}

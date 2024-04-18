@@ -1,0 +1,1 @@
+{"drivers/s390/scsi/zfcp_scsi.c": [{"patch_file_name": "drivers/s390/scsi/zfcp_scsi.c", "func_decl_name": "zfcp_task_mgmt_function", "is_cond": true, "line_numbers": [275, 275], "line_cids": ["", ""], "line_strs": ["\twhile (retry--) {", "\twhile (retry--) {"]}]}

@@ -1,0 +1,1 @@
+{"drivers/block/rsxx/core.c": [{"patch_file_name": "drivers/block/rsxx/core.c", "func_decl_name": "rsxx_pci_probe", "is_cond": false, "line_numbers": [864, 864], "line_cids": ["", ""], "line_strs": ["\tif (st) {", "\tif (st) {"]}]}

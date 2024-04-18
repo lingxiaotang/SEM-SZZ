@@ -1,0 +1,1 @@
+{"arch/x86/kvm/lapic.c": [{"patch_file_name": "arch/x86/kvm/lapic.c", "func_decl_name": "kvm_pv_send_ipi", "is_cond": true, "line_numbers": [578, 579], "line_cids": ["", ""], "line_strs": ["", "\tif (min > map->max_apic_id)"]}]}

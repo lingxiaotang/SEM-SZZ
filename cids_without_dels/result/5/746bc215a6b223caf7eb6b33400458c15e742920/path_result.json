@@ -1,0 +1,1 @@
+{"net/sctp/socket.c": [{"patch_file_name": "net/sctp/socket.c", "func_decl_name": "sctp_setsockopt_maxburst", "is_cond": true, "line_numbers": [3684, 3685], "line_cids": ["", ""], "line_strs": ["", "\tif (params.assoc_id == SCTP_FUTURE_ASSOC ||"]}]}

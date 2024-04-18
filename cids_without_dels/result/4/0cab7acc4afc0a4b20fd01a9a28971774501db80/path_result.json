@@ -1,0 +1,1 @@
+{"fs/btrfs/space-info.c": [{"patch_file_name": "fs/btrfs/space-info.c", "func_decl_name": "handle_reserve_ticket", "is_cond": true, "line_numbers": [953, 954], "line_cids": ["", ""], "line_strs": ["\tASSERT(list_empty(&ticket->list));", "\treturn ret;"]}]}

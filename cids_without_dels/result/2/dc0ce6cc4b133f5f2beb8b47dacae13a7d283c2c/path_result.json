@@ -1,0 +1,1 @@
+{"lib/test_kmod.c": [{"patch_file_name": "lib/test_kmod.c", "func_decl_name": "register_test_dev_kmod", "is_cond": false, "line_numbers": [1148, 1151], "line_cids": ["", ""], "line_strs": ["\tret = misc_register(&test_dev->misc_dev);", "\t\tfree_test_dev_kmod(test_dev);"]}]}

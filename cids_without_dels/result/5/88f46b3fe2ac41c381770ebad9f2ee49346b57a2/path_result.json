@@ -1,0 +1,1 @@
+{"drivers/net/ieee802154/ca8210.c": [{"patch_file_name": "drivers/net/ieee802154/ca8210.c", "func_decl_name": "ca8210_dev_com_init", "is_cond": false, "line_numbers": [2926, 2927], "line_cids": ["", ""], "line_strs": ["\tif (!priv->irq_workqueue) {", "\t\tdev_crit(&priv->spi->dev, \"alloc of irq_workqueue failed!\\n\");"]}]}

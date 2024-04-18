@@ -1,0 +1,1 @@
+{"drivers/usb/serial/keyspan_pda.c": [{"patch_file_name": "drivers/usb/serial/keyspan_pda.c", "func_decl_name": "keyspan_pda_close", "is_cond": false, "line_numbers": [650], "line_cids": [""], "line_strs": ["\tusb_kill_urb(port->write_urb);"]}]}

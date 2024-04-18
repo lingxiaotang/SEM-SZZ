@@ -1,0 +1,1 @@
+{"drivers/gpu/drm/amd/powerplay/amd_powerplay.c": [{"patch_file_name": "drivers/gpu/drm/amd/powerplay/amd_powerplay.c", "func_decl_name": "pp_dpm_get_current_power_state", "is_cond": true, "line_numbers": [541, 542], "line_cids": ["", ""], "line_strs": ["\t\tpm_type = POWER_STATE_TYPE_BATTERY;", "\tcase PP_StateUILabel_Balanced:"]}]}

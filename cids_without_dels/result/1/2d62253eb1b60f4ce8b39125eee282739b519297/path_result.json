@@ -1,0 +1,1 @@
+{"drivers/scsi/scsi_debug.c": [{"patch_file_name": "drivers/scsi/scsi_debug.c", "func_decl_name": "zbc_rwp_zone", "is_cond": true, "line_numbers": [4670, 4671], "line_cids": ["", ""], "line_strs": ["", "\tzsp->z_non_seq_resource = false;"]}]}

@@ -1,0 +1,1 @@
+{"sound/soc/codecs/sgtl5000.c": [{"patch_file_name": "sound/soc/codecs/sgtl5000.c", "func_decl_name": "sgtl5000_i2c_remove", "is_cond": false, "line_numbers": [1796, 1798], "line_cids": ["", ""], "line_strs": ["\tstruct sgtl5000_priv *sgtl5000 = i2c_get_clientdata(client);", "\tclk_disable_unprepare(sgtl5000->mclk);"]}]}

@@ -1,0 +1,1 @@
+{"drivers/infiniband/sw/rxe/rxe.c": [{"patch_file_name": "drivers/infiniband/sw/rxe/rxe.c", "func_decl_name": "rxe_init_device_param", "is_cond": false, "line_numbers": [78, 80], "line_cids": ["", ""], "line_strs": ["\trxe->max_inline_data\t\t\t= RXE_MAX_INLINE_DATA;", "\trxe->attr.max_mr_size\t\t\t= RXE_MAX_MR_SIZE;"]}]}

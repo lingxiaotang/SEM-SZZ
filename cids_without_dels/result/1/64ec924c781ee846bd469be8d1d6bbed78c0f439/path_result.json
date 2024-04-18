@@ -1,0 +1,1 @@
+{"sound/soc/mediatek/mt8195/mt8195-mt6359.c": [{"patch_file_name": "sound/soc/mediatek/mt8195/mt8195-mt6359.c", "func_decl_name": "mt8195_mt6359_dev_probe", "is_cond": true, "line_numbers": [1386, 1387], "line_cids": ["", ""], "line_strs": ["\t\tcard->late_probe = mtk_sof_card_late_probe;", "\t\tsof_on = 1;"]}]}

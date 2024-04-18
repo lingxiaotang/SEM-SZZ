@@ -1,0 +1,1 @@
+{"fs/nfs/write.c": [{"patch_file_name": "fs/nfs/write.c", "func_decl_name": "nfs_write_error", "is_cond": false, "line_numbers": [594], "line_cids": [""], "line_strs": ["\tnfs_mapping_set_error(req->wb_page, error);"]}]}

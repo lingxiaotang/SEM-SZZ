@@ -1,0 +1,1 @@
+{"net/l2tp/l2tp_netlink.c": [{"patch_file_name": "net/l2tp/l2tp_netlink.c", "func_decl_name": "l2tp_nl_session_send", "is_cond": true, "line_numbers": [762, 764], "line_cids": ["", ""], "line_strs": ["\tif ((session->ifname[0] &&", "\t    (session->cookie_len &&"]}]}

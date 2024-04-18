@@ -1,0 +1,1 @@
+{"sound/firewire/tascam/tascam-pcm.c": [{"patch_file_name": "sound/firewire/tascam/tascam-pcm.c", "func_decl_name": "pcm_open", "is_cond": true, "line_numbers": [58, 59], "line_cids": ["", ""], "line_strs": ["\terr = snd_tscm_stream_get_clock(tscm, &clock);", "\tif (clock != SND_TSCM_CLOCK_INTERNAL ||"]}]}

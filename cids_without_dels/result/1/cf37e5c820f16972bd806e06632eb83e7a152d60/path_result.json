@@ -1,0 +1,1 @@
+{"drivers/gpu/drm/i915/gt/uc/intel_guc_submission.c": [{"patch_file_name": "drivers/gpu/drm/i915/gt/uc/intel_guc_submission.c", "func_decl_name": "queue_request", "is_cond": false, "line_numbers": [1049, 1050], "line_cids": ["", ""], "line_strs": ["\tlist_add_tail(&rq->sched.link,", "\t\t      i915_sched_lookup_priolist(sched_engine, prio));"]}]}

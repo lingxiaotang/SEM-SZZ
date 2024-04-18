@@ -1,0 +1,1 @@
+{"drivers/mtd/nand/raw/cadence-nand-controller.c": [{"patch_file_name": "drivers/mtd/nand/raw/cadence-nand-controller.c", "func_decl_name": "cadence_nand_cdma_send", "is_cond": false, "line_numbers": [1000, 1004], "line_cids": ["", ""], "line_strs": ["\tcadence_nand_reset_irq(cdns_ctrl);", "\twritel_relaxed(0, cdns_ctrl->reg + CMD_REG3);"]}]}

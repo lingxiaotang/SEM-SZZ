@@ -1,0 +1,1 @@
+{"drivers/vfio/vfio_iommu_type1.c": [{"patch_file_name": "drivers/vfio/vfio_iommu_type1.c", "func_decl_name": "vfio_pin_pages_remote", "is_cond": true, "line_numbers": [741, 742], "line_cids": ["", ""], "line_strs": ["unpin_out:", "\tif (ret < 0) {"]}]}

@@ -1,0 +1,1 @@
+{"drivers/net/ethernet/broadcom/bnxt/bnxt.c": [{"patch_file_name": "drivers/net/ethernet/broadcom/bnxt/bnxt.c", "func_decl_name": "bnxt_start_xmit", "is_cond": false, "line_numbers": [398], "line_cids": [""], "line_strs": ["\tstruct bnxt *bp = netdev_priv(dev);"]}]}

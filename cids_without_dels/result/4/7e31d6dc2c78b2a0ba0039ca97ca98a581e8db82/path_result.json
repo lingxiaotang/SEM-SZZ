@@ -1,0 +1,1 @@
+{"drivers/vfio/pci/vfio_pci_zdev.c": [{"patch_file_name": "drivers/vfio/pci/vfio_pci_zdev.c", "func_decl_name": "zpci_pfip_cap", "is_cond": true, "line_numbers": [96, 97], "line_cids": ["", ""], "line_strs": ["\tcap = kmalloc(cap_size, GFP_KERNEL);", ""]}]}

@@ -1,0 +1,1 @@
+{"mm/page_alloc.c": [{"patch_file_name": "mm/page_alloc.c", "func_decl_name": "__free_one_page", "is_cond": true, "line_numbers": [1110, 1111], "line_cids": ["", ""], "line_strs": ["\t\tbuddy = page + (buddy_pfn - pfn);", "\t\tbuddy_mt = get_pageblock_migratetype(buddy);"]}]}

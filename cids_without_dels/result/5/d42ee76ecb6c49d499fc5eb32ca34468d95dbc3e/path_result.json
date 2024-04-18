@@ -1,0 +1,1 @@
+{"net/sctp/auth.c": [{"patch_file_name": "net/sctp/auth.c", "func_decl_name": "sctp_auth_init_hmacs", "is_cond": false, "line_numbers": [496], "line_cids": [""], "line_strs": ["\tsctp_auth_destroy_hmacs(ep->auth_hmacs);"]}]}

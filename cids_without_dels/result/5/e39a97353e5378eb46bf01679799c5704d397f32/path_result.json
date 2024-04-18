@@ -1,0 +1,1 @@
+{"drivers/scsi/scsi_lib.c": [{"patch_file_name": "drivers/scsi/scsi_lib.c", "func_decl_name": "__scsi_error_from_host_byte", "is_cond": true, "line_numbers": [722, 723], "line_cids": ["", ""], "line_strs": ["\tswitch (host_byte(result)) {", "\tcase DID_TRANSPORT_FAILFAST:"]}]}

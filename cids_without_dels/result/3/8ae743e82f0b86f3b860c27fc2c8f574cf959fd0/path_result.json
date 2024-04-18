@@ -1,0 +1,1 @@
+{"sound/pci/hda/patch_hdmi.c": [{"patch_file_name": "sound/pci/hda/patch_hdmi.c", "func_decl_name": "intel_pin_eld_notify", "is_cond": true, "line_numbers": [2354, 2355], "line_cids": ["", ""], "line_strs": ["", "\tcheck_presence_and_report(codec, pin_nid);"]}]}

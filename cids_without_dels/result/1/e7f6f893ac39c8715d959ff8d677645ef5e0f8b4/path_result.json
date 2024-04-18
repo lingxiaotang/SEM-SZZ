@@ -1,0 +1,1 @@
+{"drivers/net/wireless/mediatek/mt76/usb.c": [{"patch_file_name": "drivers/net/wireless/mediatek/mt76/usb.c", "func_decl_name": "mt76u_status_worker", "is_cond": true, "line_numbers": [818, 819], "line_cids": ["", ""], "line_strs": ["\t\tq = dev->phy.q_tx[i];", ""]}]}

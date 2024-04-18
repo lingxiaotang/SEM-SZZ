@@ -1,0 +1,1 @@
+{"arch/x86/kernel/ima_arch.c": [{"patch_file_name": "arch/x86/kernel/ima_arch.c", "func_decl_name": "get_sb_mode", "is_cond": true, "line_numbers": [20, 21], "line_cids": ["", ""], "line_strs": ["", "\t/* Get variable contents into buffer */"]}]}

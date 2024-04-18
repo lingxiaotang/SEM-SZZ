@@ -1,0 +1,1 @@
+{"fs/nfs/nfs4client.c": [{"patch_file_name": "fs/nfs/nfs4client.c", "func_decl_name": "nfs40_init_client", "is_cond": false, "line_numbers": [346, 349], "line_cids": ["", ""], "line_strs": ["\tret = nfs4_setup_slot_table(tbl, NFS4_MAX_SLOT_TABLE,", "\t\tkfree(tbl);"]}]}

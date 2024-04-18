@@ -1,0 +1,1 @@
+{"drivers/net/ethernet/marvell/prestera/prestera_devlink.c": [{"patch_file_name": "drivers/net/ethernet/marvell/prestera/prestera_devlink.c", "func_decl_name": "prestera_devlink_traps_register", "is_cond": false, "line_numbers": [531], "line_cids": [""], "line_strs": ["\t\tdevlink_traps_unregister(devlink, &prestera_trap->trap, 1);"]}]}

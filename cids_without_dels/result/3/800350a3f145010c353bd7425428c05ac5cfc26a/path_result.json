@@ -1,0 +1,1 @@
+{"drivers/net/ethernet/mellanox/mlx5/core/fs_core.c": [{"patch_file_name": "drivers/net/ethernet/mellanox/mlx5/core/fs_core.c", "func_decl_name": "clean_tree", "is_cond": false, "line_numbers": [2067, 2071], "line_cids": ["", ""], "line_strs": ["\tif (node) {", "\t\tlist_for_each_entry_safe(iter, temp, &node->children, list)"]}]}

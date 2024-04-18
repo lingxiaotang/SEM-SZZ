@@ -1,0 +1,1 @@
+{"drivers/mfd/arizona-core.c": [{"patch_file_name": "drivers/mfd/arizona-core.c", "func_decl_name": "arizona_dev_exit", "is_cond": true, "line_numbers": [1450, 1451], "line_cids": ["", ""], "line_strs": ["", "\tmfd_remove_devices(arizona->dev);"]}]}

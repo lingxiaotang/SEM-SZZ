@@ -1,0 +1,1 @@
+{"drivers/spi/spi-ti-qspi.c": [{"patch_file_name": "drivers/spi/spi-ti-qspi.c", "func_decl_name": "ti_qspi_setup", "is_cond": false, "line_numbers": [175, 177], "line_cids": ["", ""], "line_strs": ["\tret = pm_runtime_get_sync(qspi->dev);", "\t\tdev_err(qspi->dev, \"pm_runtime_get_sync() failed\\n\");"]}]}

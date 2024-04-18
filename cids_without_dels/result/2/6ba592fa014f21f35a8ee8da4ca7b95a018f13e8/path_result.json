@@ -1,0 +1,1 @@
+{"drivers/video/fbdev/s3fb.c": [{"patch_file_name": "drivers/video/fbdev/s3fb.c", "func_decl_name": "s3fb_set_par", "is_cond": true, "line_numbers": [907, 908], "line_cids": ["", ""], "line_strs": ["", "\tmemset_io(info->screen_base, 0x00, screen_size);"]}]}

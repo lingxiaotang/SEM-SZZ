@@ -1,0 +1,1 @@
+{"drivers/net/ethernet/realtek/r8169_main.c": [{"patch_file_name": "drivers/net/ethernet/realtek/r8169_main.c", "func_decl_name": "r8169_apply_firmware", "is_cond": false, "line_numbers": [2063, 2065], "line_cids": ["", ""], "line_strs": ["\t\trtl_fw_write_firmware(tp, tp->rtl_fw);", "\t\ttp->ocp_base = OCP_STD_PHY_BASE;"]}]}

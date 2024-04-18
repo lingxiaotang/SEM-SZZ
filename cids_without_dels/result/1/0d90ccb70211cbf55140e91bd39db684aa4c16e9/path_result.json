@@ -1,0 +1,1 @@
+{"drivers/gpu/drm/i915/i915_request.c": [{"patch_file_name": "drivers/gpu/drm/i915/i915_request.c", "func_decl_name": "emit_semaphore_wait", "is_cond": true, "line_numbers": [790, 791], "line_cids": ["", ""], "line_strs": ["", "\terr = i915_sw_fence_await_dma_fence(&to->semaphore,"]}]}

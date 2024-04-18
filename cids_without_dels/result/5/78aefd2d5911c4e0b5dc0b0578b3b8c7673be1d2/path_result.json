@@ -1,0 +1,1 @@
+{"drivers/thermal/rcar_gen3_thermal.c": [{"patch_file_name": "drivers/thermal/rcar_gen3_thermal.c", "func_decl_name": "r8a7796_thermal_init", "is_cond": false, "line_numbers": [219], "line_cids": [""], "line_strs": ["\tusleep_range(1000, 2000);"]}]}

@@ -1,0 +1,1 @@
+{"drivers/pci/pci.c": [{"patch_file_name": "drivers/pci/pci.c", "func_decl_name": "do_pci_enable_device", "is_cond": true, "line_numbers": [1194, 1195], "line_cids": ["", ""], "line_strs": ["", "\tpci_read_config_byte(dev, PCI_INTERRUPT_PIN, &pin);"]}]}

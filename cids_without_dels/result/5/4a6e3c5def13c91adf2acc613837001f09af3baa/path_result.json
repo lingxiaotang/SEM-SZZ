@@ -1,0 +1,1 @@
+{"net/ipv6/ndisc.c": [{"patch_file_name": "net/ipv6/ndisc.c", "func_decl_name": "ndisc_netdev_event", "is_cond": true, "line_numbers": [1750, 1751], "line_cids": ["", ""], "line_strs": ["\t\tfib6_run_gc(0, net, false);", "\t\tidev = in6_dev_get(dev);"]}]}

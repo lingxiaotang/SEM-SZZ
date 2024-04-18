@@ -1,0 +1,1 @@
+{"arch/x86/kvm/x86.c": [{"patch_file_name": "arch/x86/kvm/x86.c", "func_decl_name": "__kvm_set_or_clear_apicv_inhibit", "is_cond": false, "line_numbers": [10404, 10407], "line_cids": ["", ""], "line_strs": ["\t\tkvm->arch.apicv_inhibit_reasons = new;", "\t\t\tkvm_zap_gfn_range(kvm, gfn, gfn+1);"]}]}

@@ -1,0 +1,1 @@
+{"drivers/media/platform/rockchip/rga/rga-buf.c": [{"patch_file_name": "drivers/media/platform/rockchip/rga/rga-buf.c", "func_decl_name": "rga_buf_start_streaming", "is_cond": false, "line_numbers": [82, 82], "line_cids": ["", ""], "line_strs": ["\tret = pm_runtime_get_sync(rga->dev);", "\tret = pm_runtime_get_sync(rga->dev);"]}]}

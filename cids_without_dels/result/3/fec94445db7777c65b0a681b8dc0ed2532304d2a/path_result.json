@@ -1,0 +1,1 @@
+{"drivers/usb/core/phy.c": [{"patch_file_name": "drivers/usb/core/phy.c", "func_decl_name": "usb_phy_roothub_alloc", "is_cond": true, "line_numbers": [52, 53], "line_cids": ["", ""], "line_strs": ["", "\tnum_phys = of_count_phandle_with_args(dev->of_node, \"phys\","]}]}

@@ -1,0 +1,1 @@
+{"sound/soc/soc-pcm.c": [{"patch_file_name": "sound/soc/soc-pcm.c", "func_decl_name": "dpcm_be_connect", "is_cond": false, "line_numbers": [1207, 1207], "line_cids": ["", ""], "line_strs": ["\t\t\tstream ? \"capture\" : \"playback\",  fe->dai_link->name,", "\t\t\tstream ? \"capture\" : \"playback\",  fe->dai_link->name,"]}]}

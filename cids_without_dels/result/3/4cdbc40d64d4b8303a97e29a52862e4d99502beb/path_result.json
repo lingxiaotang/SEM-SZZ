@@ -1,0 +1,1 @@
+{"drivers/clk/sunxi-ng/ccu_nm.c": [{"patch_file_name": "drivers/clk/sunxi-ng/ccu_nm.c", "func_decl_name": "ccu_nm_round_rate", "is_cond": true, "line_numbers": [101, 102], "line_cids": ["", ""], "line_strs": ["", "\t_nm.min_n = nm->n.min ?: 1;"]}]}

@@ -1,0 +1,1 @@
+{"drivers/net/ethernet/mellanox/mlx5/core/rdma.c": [{"patch_file_name": "drivers/net/ethernet/mellanox/mlx5/core/rdma.c", "func_decl_name": "mlx5_rdma_enable_roce", "is_cond": true, "line_numbers": [158, 159], "line_cids": ["", ""], "line_strs": ["", "\terr = mlx5_nic_vport_enable_roce(dev);"]}]}

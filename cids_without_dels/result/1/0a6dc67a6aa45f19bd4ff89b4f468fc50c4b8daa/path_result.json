@@ -1,0 +1,1 @@
+{"fs/isofs/dir.c": [], "fs/isofs/namei.c": [{"patch_file_name": "fs/isofs/namei.c", "func_decl_name": "isofs_find_entry", "is_cond": false, "line_numbers": [76], "line_cids": [""], "line_strs": ["\t\tblock_saved = bh->b_blocknr;"]}]}

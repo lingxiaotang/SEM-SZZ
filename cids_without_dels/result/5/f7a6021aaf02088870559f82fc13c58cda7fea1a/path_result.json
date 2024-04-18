@@ -1,0 +1,1 @@
+{"sound/soc/codecs/cpcap.c": [{"patch_file_name": "sound/soc/codecs/cpcap.c", "func_decl_name": "cpcap_codec_probe", "is_cond": true, "line_numbers": [1669, 1670], "line_cids": ["", ""], "line_strs": ["\t\tof_get_child_by_name(pdev->dev.parent->of_node, \"audio-codec\");", ""]}]}

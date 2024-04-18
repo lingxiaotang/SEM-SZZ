@@ -1,0 +1,1 @@
+{"drivers/net/ipa/ipa_endpoint.c": [{"patch_file_name": "drivers/net/ipa/ipa_endpoint.c", "func_decl_name": "ipa_endpoint_modem_hol_block_clear_all", "is_cond": false, "line_numbers": [883, 886], "line_cids": ["", ""], "line_strs": ["\t\tif (endpoint->toward_ipa || endpoint->ee_id != GSI_EE_MODEM)", "\t\tipa_endpoint_init_hol_block_timer(endpoint, 0);"]}]}

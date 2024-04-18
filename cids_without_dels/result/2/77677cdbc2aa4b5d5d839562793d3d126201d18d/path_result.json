@@ -1,0 +1,1 @@
+{"mm/memory-failure.c": [{"patch_file_name": "mm/memory-failure.c", "func_decl_name": "kill_accessing_process", "is_cond": true, "line_numbers": [747, 748], "line_cids": ["", ""], "line_strs": ["", "\tmmap_read_lock(p->mm);"]}]}

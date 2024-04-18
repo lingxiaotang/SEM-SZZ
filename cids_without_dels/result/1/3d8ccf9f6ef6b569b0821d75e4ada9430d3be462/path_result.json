@@ -1,0 +1,1 @@
+{"drivers/crypto/chelsio/chtls/chtls_cm.c": [{"patch_file_name": "drivers/crypto/chelsio/chtls/chtls_cm.c", "func_decl_name": "chtls_wr_ack", "is_cond": true, "line_numbers": [2107, 2108], "line_cids": ["", ""], "line_strs": ["\tsk = lookup_tid(cdev->tids, hwtid);", "\tprocess_cpl_msg(chtls_rx_ack, sk, skb);"]}]}

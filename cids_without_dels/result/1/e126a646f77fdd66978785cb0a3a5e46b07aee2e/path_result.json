@@ -1,0 +1,1 @@
+{"sound/soc/codecs/max98090.c": [{"patch_file_name": "sound/soc/codecs/max98090.c", "func_decl_name": "max98090_readable_register", "is_cond": true, "line_numbers": [338, 339], "line_cids": ["", ""], "line_strs": ["\tcase M98090_REG_DMIC34_BIQUAD_BASE ... M98090_REG_DMIC34_BIQUAD_BASE + 0x0E:", "\t\treturn true;"]}]}

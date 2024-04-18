@@ -1,0 +1,1 @@
+{"sound/soc/codecs/lpass-rx-macro.c": [{"patch_file_name": "sound/soc/codecs/lpass-rx-macro.c", "func_decl_name": "rx_macro_load_compander_coeff", "is_cond": true, "line_numbers": [2041, 2042], "line_cids": ["", ""], "line_strs": ["", "\tif (!rx->comp_enabled[comp])"]}]}

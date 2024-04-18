@@ -1,0 +1,1 @@
+{"drivers/gpu/drm/amd/amdgpu/amdgpu_connectors.c": [{"patch_file_name": "drivers/gpu/drm/amd/amdgpu/amdgpu_connectors.c", "func_decl_name": "amdgpu_connector_lcd_native_mode", "is_cond": true, "line_numbers": [389, 390], "line_cids": ["", ""], "line_strs": ["\t\tmode = drm_mode_duplicate(dev, native_mode);", "\t\tmode->type = DRM_MODE_TYPE_PREFERRED | DRM_MODE_TYPE_DRIVER;"]}]}

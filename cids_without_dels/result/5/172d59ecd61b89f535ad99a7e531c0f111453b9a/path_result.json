@@ -1,0 +1,1 @@
+{"drivers/dma/ti/k3-psil.c": [{"patch_file_name": "drivers/dma/ti/k3-psil.c", "func_decl_name": "psil_get_ep_config", "is_cond": false, "line_numbers": [22], "line_cids": [""], "line_strs": ["\tmutex_lock(&ep_map_mutex);"]}]}

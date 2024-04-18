@@ -1,0 +1,1 @@
+{"drivers/usb/gadget/udc/renesas_usb3.c": [{"patch_file_name": "drivers/usb/gadget/udc/renesas_usb3.c", "func_decl_name": "handle_ext_role_switch_states", "is_cond": true, "line_numbers": [2380, 2381], "line_cids": ["", ""], "line_strs": ["\t\tusb3->connection_state = USB_ROLE_NONE;", "\t\tif (usb3->driver)"]}]}

@@ -1,0 +1,1 @@
+{"net/batman-adv/tp_meter.c": [{"patch_file_name": "net/batman-adv/tp_meter.c", "func_decl_name": "batadv_tp_send", "is_cond": false, "line_numbers": [830, 830], "line_cids": ["", ""], "line_strs": ["\torig_node = batadv_orig_hash_find(bat_priv, tp_vars->other_end);", "\torig_node = batadv_orig_hash_find(bat_priv, tp_vars->other_end);"]}]}

@@ -1,0 +1,1 @@
+{"drivers/gpu/drm/omapdrm/omap_gem.c": [{"patch_file_name": "drivers/gpu/drm/omapdrm/omap_gem.c", "func_decl_name": "omap_gem_unpin_locked", "is_cond": true, "line_numbers": [848, 849], "line_cids": ["", ""], "line_strs": ["", "\tif (refcount_dec_and_test(&omap_obj->dma_addr_cnt)) {"]}]}

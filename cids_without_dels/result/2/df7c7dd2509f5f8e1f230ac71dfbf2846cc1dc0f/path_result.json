@@ -1,0 +1,1 @@
+{"drivers/net/ethernet/netronome/nfp/flower/main.c": [{"patch_file_name": "drivers/net/ethernet/netronome/nfp/flower/main.c", "func_decl_name": "nfp_flower_clean", "is_cond": false, "line_numbers": [359], "line_cids": [""], "line_strs": ["\tvfree(app->priv);"]}]}

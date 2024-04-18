@@ -1,0 +1,1 @@
+{"drivers/net/ethernet/mellanox/mlx5/core/cmd.c": [{"patch_file_name": "drivers/net/ethernet/mellanox/mlx5/core/cmd.c", "func_decl_name": "mlx5_cmd_invoke", "is_cond": true, "line_numbers": [1047, 1048], "line_cids": ["", ""], "line_strs": ["\t\tgoto out;", ""]}]}

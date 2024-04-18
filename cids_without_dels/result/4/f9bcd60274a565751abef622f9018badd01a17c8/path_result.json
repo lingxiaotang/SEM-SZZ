@@ -1,0 +1,1 @@
+{"drivers/net/ethernet/qlogic/qed/qed_ll2.c": [{"patch_file_name": "drivers/net/ethernet/qlogic/qed/qed_ll2.c", "func_decl_name": "qed_ll2_lb_rxq_handler", "is_cond": true, "line_numbers": [619, 620], "line_cids": ["", ""], "line_strs": ["", "\t\tif (cqe_type != CORE_RX_CQE_TYPE_REGULAR) {"]}]}

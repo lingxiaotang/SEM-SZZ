@@ -1,0 +1,1 @@
+{"drivers/media/platform/davinci/vpif.c": [{"patch_file_name": "drivers/media/platform/davinci/vpif.c", "func_decl_name": "vpif_remove", "is_cond": false, "line_numbers": [498], "line_cids": [""], "line_strs": ["\tpm_runtime_disable(&pdev->dev);"]}]}

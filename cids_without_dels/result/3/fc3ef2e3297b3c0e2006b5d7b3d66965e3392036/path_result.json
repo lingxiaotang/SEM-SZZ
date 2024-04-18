@@ -1,0 +1,1 @@
+{"drivers/hid/hid-thrustmaster.c": [{"patch_file_name": "drivers/hid/hid-thrustmaster.c", "func_decl_name": "thrustmaster_interrupts", "is_cond": true, "line_numbers": [162, 163], "line_cids": ["", ""], "line_strs": ["", "\tep = &usbif->cur_altsetting->endpoint[1];"]}]}

@@ -1,0 +1,1 @@
+{"kernel/trace/trace_uprobe.c": [{"patch_file_name": "kernel/trace/trace_uprobe.c", "func_decl_name": "fetch_store_string", "is_cond": false, "line_numbers": [161, 166], "line_cids": ["", ""], "line_strs": ["\t\tif (ret == maxlen)", "\treturn ret;"]}]}

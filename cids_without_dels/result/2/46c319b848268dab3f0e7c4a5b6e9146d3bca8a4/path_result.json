@@ -1,0 +1,1 @@
+{"drivers/watchdog/pcwd_usb.c": [{"patch_file_name": "drivers/watchdog/pcwd_usb.c", "func_decl_name": "usb_pcwd_probe", "is_cond": true, "line_numbers": [632, 633], "line_cids": ["", ""], "line_strs": ["", "\t/* check out the endpoint: it has to be Interrupt & IN */"]}]}

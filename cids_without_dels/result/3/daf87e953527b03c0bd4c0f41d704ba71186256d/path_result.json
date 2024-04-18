@@ -1,0 +1,1 @@
+{"fs/btrfs/lzo.c": [{"patch_file_name": "fs/btrfs/lzo.c", "func_decl_name": "lzo_compress_pages", "is_cond": true, "line_numbers": [278, 279], "line_cids": ["", ""], "line_strs": ["out:", "\t*out_pages = DIV_ROUND_UP(cur_out, PAGE_SIZE);"]}]}

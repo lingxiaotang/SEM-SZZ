@@ -1,0 +1,1 @@
+{"arch/powerpc/net/bpf_jit_comp64.c": [{"patch_file_name": "arch/powerpc/net/bpf_jit_comp64.c", "func_decl_name": "bpf_jit_emit_tail_call", "is_cond": false, "line_numbers": [236, 243], "line_cids": ["", ""], "line_strs": ["\tint b2p_index = b2p[BPF_REG_3];", "\tPPC_CMPLW(b2p_index, b2p[TMP_REG_1]);"]}]}

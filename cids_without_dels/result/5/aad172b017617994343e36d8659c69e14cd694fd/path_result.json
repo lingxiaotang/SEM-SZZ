@@ -1,0 +1,1 @@
+{"drivers/iio/adc/meson_saradc.c": [{"patch_file_name": "drivers/iio/adc/meson_saradc.c", "func_decl_name": "meson_sar_adc_clk_init", "is_cond": true, "line_numbers": [660, 661], "line_cids": ["", ""], "line_strs": ["\t\t\t\t   indio_dev->dev.of_node);", "\tinit.flags = 0;"]}]}

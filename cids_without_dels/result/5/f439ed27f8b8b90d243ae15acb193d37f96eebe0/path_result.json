@@ -1,0 +1,1 @@
+{"arch/x86/kvm/x86.c": [{"patch_file_name": "arch/x86/kvm/x86.c", "func_decl_name": "kvm_vcpu_reload_apic_access_page", "is_cond": true, "line_numbers": [6032, 6033], "line_cids": ["", ""], "line_strs": ["", "\tif (!kvm_x86_ops->set_apic_access_page_addr)"]}]}

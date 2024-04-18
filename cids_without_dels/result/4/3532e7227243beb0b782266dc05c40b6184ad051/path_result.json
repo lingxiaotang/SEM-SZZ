@@ -1,0 +1,1 @@
+{"block/blk-iocost.c": [{"patch_file_name": "block/blk-iocost.c", "func_decl_name": "blk_iocost_init", "is_cond": false, "line_numbers": [1873, 1879], "line_cids": ["", ""], "line_strs": ["\tspin_unlock_irq(&ioc->lock);", "\t\tkfree(ioc);"]}]}

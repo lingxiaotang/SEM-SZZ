@@ -1,0 +1,1 @@
+{"drivers/net/ethernet/ni/nixge.c": [{"patch_file_name": "drivers/net/ethernet/ni/nixge.c", "func_decl_name": "nixge_open", "is_cond": false, "line_numbers": [901, 905], "line_cids": ["", ""], "line_strs": ["\tfree_irq(priv->tx_irq, ndev);", "\ttasklet_kill(&priv->dma_err_tasklet);"]}]}

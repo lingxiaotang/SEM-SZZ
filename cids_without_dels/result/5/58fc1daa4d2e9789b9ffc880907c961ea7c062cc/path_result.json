@@ -1,0 +1,1 @@
+{"drivers/usb/class/cdc-acm.c": [{"patch_file_name": "drivers/usb/class/cdc-acm.c", "func_decl_name": "acm_process_notification", "is_cond": true, "line_numbers": [342, 343], "line_cids": ["", ""], "line_strs": ["", "\t\tif (difference)"]}]}

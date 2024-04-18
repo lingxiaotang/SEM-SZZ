@@ -1,0 +1,1 @@
+{"drivers/net/usb/lan78xx.c": [{"patch_file_name": "drivers/net/usb/lan78xx.c", "func_decl_name": "lan78xx_probe", "is_cond": true, "line_numbers": [4124, 4125], "line_cids": ["", ""], "line_strs": ["", "\t/* driver requires remote-wakeup capability during autosuspend. */"]}]}

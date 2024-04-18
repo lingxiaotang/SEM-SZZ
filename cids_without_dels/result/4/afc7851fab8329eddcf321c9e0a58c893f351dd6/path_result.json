@@ -1,0 +1,1 @@
+{"drivers/tty/serial/pxa.c": [{"patch_file_name": "drivers/tty/serial/pxa.c", "func_decl_name": "serial_pxa_probe", "is_cond": true, "line_numbers": [887, 888], "line_cids": ["", ""], "line_strs": ["\t\tgoto err_clk;", "\tsnprintf(sport->name, PXA_NAME_LEN - 1, \"UART%d\", sport->port.line + 1);"]}]}

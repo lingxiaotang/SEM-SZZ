@@ -1,0 +1,1 @@
+{"net/mptcp/pm_netlink.c": [{"patch_file_name": "net/mptcp/pm_netlink.c", "func_decl_name": "mptcp_pm_create_subflow_or_signal_addr", "is_cond": true, "line_numbers": [548, 549], "line_cids": ["", ""], "line_strs": ["", "\t\tif (local) {"]}]}

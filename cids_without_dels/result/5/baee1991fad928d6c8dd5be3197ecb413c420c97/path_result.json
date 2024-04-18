@@ -1,0 +1,1 @@
+{"drivers/net/ethernet/mediatek/mtk_star_emac.c": [{"patch_file_name": "drivers/net/ethernet/mediatek/mtk_star_emac.c", "func_decl_name": "mtk_star_enable", "is_cond": false, "line_numbers": [956, 956], "line_cids": ["", ""], "line_strs": ["\tif (ret)", "\tif (ret)"]}]}

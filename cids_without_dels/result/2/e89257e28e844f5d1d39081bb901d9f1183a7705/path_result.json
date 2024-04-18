@@ -1,0 +1,1 @@
+{"arch/powerpc/platforms/cell/pervasive.c": [{"patch_file_name": "arch/powerpc/platforms/cell/pervasive.c", "func_decl_name": "cbe_system_reset_exception", "is_cond": true, "line_numbers": [80, 81], "line_cids": ["", ""], "line_strs": ["\t\tset_dec(1);", "\tcase SRR1_WAKEEE:"]}]}

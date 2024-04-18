@@ -1,0 +1,1 @@
+{"drivers/net/can/m_can/m_can_platform.c": [{"patch_file_name": "drivers/net/can/m_can/m_can_platform.c", "func_decl_name": "m_can_plat_probe", "is_cond": true, "line_numbers": [65, 66], "line_cids": ["", ""], "line_strs": ["\tmcan_class = m_can_class_allocate_dev(&pdev->dev);", "\tpriv = devm_kzalloc(&pdev->dev, sizeof(*priv), GFP_KERNEL);"]}]}

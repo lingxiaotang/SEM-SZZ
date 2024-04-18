@@ -1,0 +1,1 @@
+{"drivers/usb/serial/usb_wwan.c": [{"patch_file_name": "drivers/usb/serial/usb_wwan.c", "func_decl_name": "usb_wwan_indat_callback", "is_cond": true, "line_numbers": [272, 273], "line_cids": ["", ""], "line_strs": ["\t\t\t__func__, status, endpoint);", "\t} else {"]}]}

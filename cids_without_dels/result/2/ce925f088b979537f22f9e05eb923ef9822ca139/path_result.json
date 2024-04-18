@@ -1,0 +1,1 @@
+{"sound/firewire/oxfw/oxfw.c": [{"patch_file_name": "sound/firewire/oxfw/oxfw.c", "func_decl_name": "do_registration", "is_cond": false, "line_numbers": [273, 274], "line_cids": ["", ""], "line_strs": ["\tsnd_card_free(oxfw->card);", "\tdev_info(&oxfw->unit->device,"]}]}

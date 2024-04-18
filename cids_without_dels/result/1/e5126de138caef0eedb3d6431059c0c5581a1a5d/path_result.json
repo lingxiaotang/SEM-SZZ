@@ -1,0 +1,1 @@
+{"fs/erofs/zdata.c": [{"patch_file_name": "fs/erofs/zdata.c", "func_decl_name": "z_erofs_read_fragment", "is_cond": true, "line_numbers": [662, 663], "line_cids": ["", ""], "line_strs": ["", "\tpos += EROFS_I(inode)->z_fragmentoff;"]}]}

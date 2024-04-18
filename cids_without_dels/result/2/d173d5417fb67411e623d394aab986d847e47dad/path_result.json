@@ -1,0 +1,1 @@
+{"mm/memory-failure.c": [{"patch_file_name": "mm/memory-failure.c", "func_decl_name": "memory_failure", "is_cond": true, "line_numbers": [1862, 1863], "line_cids": ["", ""], "line_strs": ["\tif (PageTransHuge(hpage)) {", "\t\t/*"]}]}

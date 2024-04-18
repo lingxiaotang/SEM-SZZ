@@ -1,0 +1,1 @@
+{"fs/erofs/zmap.c": [{"patch_file_name": "fs/erofs/zmap.c", "func_decl_name": "z_erofs_do_map_blocks", "is_cond": true, "line_numbers": [632, 633], "line_cids": ["", ""], "line_strs": ["\t\t\tmap->m_la = (m.lcn << lclusterbits) | m.clusterofs;", "\t\t\tbreak;"]}]}

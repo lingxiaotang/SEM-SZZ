@@ -1,0 +1,1 @@
+{"drivers/md/dm-mpath.c": [{"patch_file_name": "drivers/md/dm-mpath.c", "func_decl_name": "process_queued_bios", "is_cond": true, "line_numbers": [627, 628], "line_cids": ["", ""], "line_strs": ["\t\t\tbio_endio(bio);", "\t\tcase DM_MAPIO_REQUEUE:"]}]}

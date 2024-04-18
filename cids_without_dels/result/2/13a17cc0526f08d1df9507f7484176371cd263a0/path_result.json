@@ -1,0 +1,1 @@
+{"arch/s390/kvm/kvm-s390.c": [{"patch_file_name": "arch/s390/kvm/kvm-s390.c", "func_decl_name": "kvm_s390_vm_start_migration", "is_cond": true, "line_numbers": [1020, 1021], "line_cids": ["", ""], "line_strs": ["\t\tms = slots->memslots + slotnr;", "\t\t/*"]}]}

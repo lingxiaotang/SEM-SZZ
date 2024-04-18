@@ -1,0 +1,1 @@
+{"drivers/mmc/host/dw_mmc-k3.c": [{"patch_file_name": "drivers/mmc/host/dw_mmc-k3.c", "func_decl_name": "dw_mci_hi6220_parse_dt", "is_cond": true, "line_numbers": [137, 138], "line_cids": ["", ""], "line_strs": ["", "\thost->priv = priv;"]}]}

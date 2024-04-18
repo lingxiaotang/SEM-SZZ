@@ -1,0 +1,1 @@
+{"net/packet/af_packet.c": [{"patch_file_name": "net/packet/af_packet.c", "func_decl_name": "packet_set_ring", "is_cond": true, "line_numbers": [3785, 3786], "line_cids": ["", ""], "line_strs": ["\t\t\tgoto out;", "\t\tif (unlikely(req->tp_frame_size < po->tp_hdrlen +"]}]}

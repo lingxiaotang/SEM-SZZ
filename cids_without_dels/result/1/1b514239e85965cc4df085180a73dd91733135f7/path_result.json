@@ -1,0 +1,1 @@
+{"kernel/bpf/net_namespace.c": [{"patch_file_name": "kernel/bpf/net_namespace.c", "func_decl_name": "netns_bpf_prog_attach", "is_cond": true, "line_numbers": [211, 212], "line_cids": ["", ""], "line_strs": ["", "\ttype = to_netns_bpf_attach_type(attr->attach_type);"]}]}

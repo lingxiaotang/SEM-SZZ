@@ -1,0 +1,1 @@
+{"drivers/gpu/drm/i915/intel_display.c": [{"patch_file_name": "drivers/gpu/drm/i915/intel_display.c", "func_decl_name": "intel_crtc_disable_noatomic", "is_cond": true, "line_numbers": [6852, 6853], "line_cids": ["", ""], "line_strs": ["\tstate = drm_atomic_state_alloc(crtc->dev);", "\tstate->acquire_ctx = crtc->dev->mode_config.acquire_ctx;"]}]}

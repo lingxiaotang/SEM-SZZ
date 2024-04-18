@@ -1,0 +1,1 @@
+{"arch/powerpc/perf/imc-pmu.c": [{"patch_file_name": "arch/powerpc/perf/imc-pmu.c", "func_decl_name": "nest_imc_event_init", "is_cond": true, "line_numbers": [489, 490], "line_cids": ["", ""], "line_strs": ["\tchip_id = cpu_to_chip_id(event->cpu);", "\tpcni = pmu->mem_info;"]}]}

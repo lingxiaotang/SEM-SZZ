@@ -1,0 +1,1 @@
+{"fs/io_uring.c": [{"patch_file_name": "fs/io_uring.c", "func_decl_name": "io_fallback_req_func", "is_cond": false, "line_numbers": [2477], "line_cids": [""], "line_strs": ["\tstruct llist_node *node = llist_del_all(&ctx->fallback_llist);"]}]}

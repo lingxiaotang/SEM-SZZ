@@ -1,0 +1,1 @@
+{"drivers/net/wireless/intel/iwlwifi/iwl-nvm-parse.c": [{"patch_file_name": "drivers/net/wireless/intel/iwlwifi/iwl-nvm-parse.c", "func_decl_name": "iwl_nvm_fixup_sband_iftd", "is_cond": true, "line_numbers": [786, 787], "line_cids": ["", ""], "line_strs": ["\tcase IWL_CFG_RF_TYPE_MR:", "\t\tiftype_data->he_cap.he_cap_elem.phy_cap_info[9] |="]}]}

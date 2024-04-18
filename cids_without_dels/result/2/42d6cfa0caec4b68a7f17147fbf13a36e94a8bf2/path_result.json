@@ -1,0 +1,1 @@
+{"drivers/usb/gadget/legacy/inode.c": [{"patch_file_name": "drivers/usb/gadget/legacy/inode.c", "func_decl_name": "ep_write", "is_cond": false, "line_numbers": [443, 443], "line_cids": ["", ""], "line_strs": ["\t\tvalue = PTR_ERR(kbuf);", "\t\tvalue = PTR_ERR(kbuf);"]}]}

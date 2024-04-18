@@ -1,0 +1,1 @@
+{"arch/x86/kvm/vmx/nested.c": [{"patch_file_name": "arch/x86/kvm/vmx/nested.c", "func_decl_name": "nested_check_vm_execution_controls", "is_cond": true, "line_numbers": [2475, 2476], "line_cids": ["", ""], "line_strs": ["", "\tif (nested_cpu_has_ept(vmcs12) &&"]}]}

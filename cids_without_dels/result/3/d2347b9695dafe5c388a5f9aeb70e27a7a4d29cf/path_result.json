@@ -1,0 +1,1 @@
+{"fs/io_uring.c": [{"patch_file_name": "fs/io_uring.c", "func_decl_name": "io_get_ext_arg", "is_cond": true, "line_numbers": [10713, 10714], "line_cids": ["", ""], "line_strs": ["\t\treturn -EFAULT;", "\t*sig = u64_to_user_ptr(arg.sigmask);"]}]}

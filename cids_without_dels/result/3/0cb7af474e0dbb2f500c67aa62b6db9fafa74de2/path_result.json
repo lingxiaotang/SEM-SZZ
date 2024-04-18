@@ -1,0 +1,1 @@
+{"drivers/firmware/arm_scmi/driver.c": [{"patch_file_name": "drivers/firmware/arm_scmi/driver.c", "func_decl_name": "scmi_handle_response", "is_cond": true, "line_numbers": [346, 346], "line_cids": ["", ""], "line_strs": ["\tif (msg_type == MSG_TYPE_DELAYED_RESP) {", "\tif (msg_type == MSG_TYPE_DELAYED_RESP) {"]}]}

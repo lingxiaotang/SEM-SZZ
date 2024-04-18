@@ -1,0 +1,1 @@
+{"arch/x86/kvm/vmx.c": [{"patch_file_name": "arch/x86/kvm/vmx.c", "func_decl_name": "vmx_handle_exit", "is_cond": true, "line_numbers": [8214, 8217], "line_cids": ["", ""], "line_strs": ["\tif ((vectoring_info & VECTORING_INFO_VALID_MASK) &&", "\t\t\texit_reason != EXIT_REASON_TASK_SWITCH)) {"]}]}

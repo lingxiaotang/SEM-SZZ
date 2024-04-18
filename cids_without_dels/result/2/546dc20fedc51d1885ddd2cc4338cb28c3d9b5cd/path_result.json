@@ -1,0 +1,1 @@
+{"drivers/gpu/drm/amd/amdgpu/amdgpu_amdkfd_gpuvm.c": [{"patch_file_name": "drivers/gpu/drm/amd/amdgpu/amdgpu_amdkfd_gpuvm.c", "func_decl_name": "kfd_mem_dmaunmap_userptr", "is_cond": false, "line_numbers": [565, 566], "line_cids": ["", ""], "line_strs": ["\tsg_free_table(ttm->sg);", "\tttm->sg = NULL;"]}]}

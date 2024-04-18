@@ -1,0 +1,1 @@
+{"drivers/media/usb/dvb-usb-v2/zd1301.c": [{"patch_file_name": "drivers/media/usb/dvb-usb-v2/zd1301.c", "func_decl_name": "zd1301_frontend_attach", "is_cond": true, "line_numbers": [170, 171], "line_cids": ["", ""], "line_strs": ["\tfrontend = zd1301_demod_get_dvb_frontend(pdev);", ""]}]}

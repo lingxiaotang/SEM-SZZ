@@ -1,0 +1,1 @@
+{"drivers/usb/phy/phy-fsl-usb.c": [{"patch_file_name": "drivers/usb/phy/phy-fsl-usb.c", "func_decl_name": "usb_otg_start", "is_cond": true, "line_numbers": [875, 876], "line_cids": ["", ""], "line_strs": ["\tp_otg->irq = platform_get_irq(pdev, 0);", "\tstatus = request_irq(p_otg->irq, fsl_otg_isr,"]}]}

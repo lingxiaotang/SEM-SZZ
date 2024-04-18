@@ -1,0 +1,1 @@
+{"net/xfrm/xfrm_user.c": [{"patch_file_name": "net/xfrm/xfrm_user.c", "func_decl_name": "xfrm_add_acquire", "is_cond": true, "line_numbers": [2277, 2277], "line_cids": ["", ""], "line_strs": ["\tif (err)", "\tif (err)"]}]}

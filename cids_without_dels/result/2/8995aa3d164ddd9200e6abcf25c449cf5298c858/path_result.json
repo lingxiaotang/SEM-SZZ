@@ -1,0 +1,1 @@
+{"drivers/dma/mcf-edma.c": [{"patch_file_name": "drivers/dma/mcf-edma.c", "func_decl_name": "mcf_edma_tx_handler", "is_cond": true, "line_numbers": [31, 31], "line_cids": ["", ""], "line_strs": ["\tfor (ch = 0; ch < mcf_edma->n_chans; ch++) {", "\tfor (ch = 0; ch < mcf_edma->n_chans; ch++) {"]}]}

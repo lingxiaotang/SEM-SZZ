@@ -1,0 +1,1 @@
+{"net/core/sock_map.c": [{"patch_file_name": "net/core/sock_map.c", "func_decl_name": "sock_hash_alloc", "is_cond": true, "line_numbers": [993, 994], "line_cids": ["", ""], "line_strs": ["\t}", ""]}]}

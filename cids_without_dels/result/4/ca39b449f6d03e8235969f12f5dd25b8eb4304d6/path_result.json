@@ -1,0 +1,1 @@
+{"drivers/gpu/drm/vc4/vc4_bo.c": [{"patch_file_name": "drivers/gpu/drm/vc4/vc4_bo.c", "func_decl_name": "vc4_free_object", "is_cond": true, "line_numbers": [319, 320], "line_cids": ["", ""], "line_strs": ["", "\tcache_list = vc4_get_cache_list_for_size(dev, gem_bo->size);"]}]}

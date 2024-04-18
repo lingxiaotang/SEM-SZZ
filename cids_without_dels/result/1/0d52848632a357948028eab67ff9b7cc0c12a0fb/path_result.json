@@ -1,0 +1,1 @@
+{"drivers/net/ethernet/qlogic/qlcnic/qlcnic_main.c": [{"patch_file_name": "drivers/net/ethernet/qlogic/qlcnic/qlcnic_main.c", "func_decl_name": "qlcnic_probe", "is_cond": true, "line_numbers": [2494, 2494], "line_cids": ["", ""], "line_strs": ["\tdefault:", "\tdefault:"]}]}

@@ -1,0 +1,1 @@
+{"kernel/freezer.c": [{"patch_file_name": "kernel/freezer.c", "func_decl_name": "freezing_slow_path", "is_cond": true, "line_numbers": [44, 45], "line_cids": ["", ""], "line_strs": ["", "\tif (pm_nosig_freezing || cgroup_freezing(p))"]}]}

@@ -1,0 +1,1 @@
+{"drivers/firmware/arm_scmi/base.c": [{"patch_file_name": "drivers/firmware/arm_scmi/base.c", "func_decl_name": "scmi_base_implementation_list_get", "is_cond": true, "line_numbers": [199, 200], "line_cids": ["", ""], "line_strs": ["\t\tloop_num_ret = le32_to_cpu(*num_ret);", "\t\tif (loop_num_ret > MAX_PROTOCOLS_IMP - tot_num_ret) {"]}]}

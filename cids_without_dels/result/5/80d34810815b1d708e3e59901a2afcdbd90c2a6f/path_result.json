@@ -1,0 +1,1 @@
+{"fs/overlayfs/inode.c": [{"patch_file_name": "fs/overlayfs/inode.c", "func_decl_name": "ovl_fiemap", "is_cond": true, "line_numbers": [469, 470], "line_cids": ["", ""], "line_strs": ["\told_cred = ovl_override_creds(inode->i_sb);", "\terr = realinode->i_op->fiemap(realinode, fieinfo, start, len);"]}]}

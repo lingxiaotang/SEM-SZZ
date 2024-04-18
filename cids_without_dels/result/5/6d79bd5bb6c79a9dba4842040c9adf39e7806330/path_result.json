@@ -1,0 +1,1 @@
+{"drivers/staging/android/ion/ion_cma_heap.c": [{"patch_file_name": "drivers/staging/android/ion/ion_cma_heap.c", "func_decl_name": "ion_cma_allocate", "is_cond": true, "line_numbers": [44, 45], "line_cids": ["", ""], "line_strs": ["", "\ttable = kmalloc(sizeof(*table), GFP_KERNEL);"]}]}

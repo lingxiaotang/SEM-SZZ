@@ -1,0 +1,1 @@
+{"drivers/extcon/extcon-usbc-cros-ec.c": [{"patch_file_name": "drivers/extcon/extcon-usbc-cros-ec.c", "func_decl_name": "cros_ec_pd_command", "is_cond": true, "line_numbers": [70, 71], "line_cids": ["", ""], "line_strs": ["\tmsg = kzalloc(sizeof(*msg) + max(outsize, insize), GFP_KERNEL);", ""]}]}

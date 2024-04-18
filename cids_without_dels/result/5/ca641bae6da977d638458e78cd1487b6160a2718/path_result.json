@@ -1,0 +1,1 @@
+{"drivers/staging/vc04_services/interface/vchiq_arm/vchiq_2835_arm.c": [{"patch_file_name": "drivers/staging/vc04_services/interface/vchiq_arm/vchiq_2835_arm.c", "func_decl_name": "create_pagelist", "is_cond": true, "line_numbers": [370, 371], "line_cids": ["", ""], "line_strs": ["", "\toffset = ((unsigned int)(unsigned long)buf & (PAGE_SIZE - 1));"]}]}

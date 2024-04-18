@@ -1,0 +1,1 @@
+{"net/wireless/reg.c": [{"patch_file_name": "net/wireless/reg.c", "func_decl_name": "reg_wdev_chan_valid", "is_cond": true, "line_numbers": [2391, 2392], "line_cids": ["", ""], "line_strs": ["\t\tcase NL80211_IFTYPE_P2P_GO:", "\t\tcase NL80211_IFTYPE_MESH_POINT:"]}]}

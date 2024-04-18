@@ -1,0 +1,1 @@
+{"drivers/net/ethernet/pensando/ionic/ionic_lif.c": [{"patch_file_name": "drivers/net/ethernet/pensando/ionic/ionic_lif.c", "func_decl_name": "ionic_lif_qcq_deinit", "is_cond": false, "line_numbers": [276, 278], "line_cids": ["", ""], "line_strs": ["\t\tionic_intr_mask(idev->intr_ctrl, qcq->intr.index,", "\t\tdevm_free_irq(dev, qcq->intr.vector, &qcq->napi);"]}]}

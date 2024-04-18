@@ -1,0 +1,1 @@
+{"drivers/usb/typec/mux/intel_pmc_mux.c": [{"patch_file_name": "drivers/usb/typec/mux/intel_pmc_mux.c", "func_decl_name": "pmc_usb_probe_iom", "is_cond": true, "line_numbers": [588, 589], "line_cids": ["", ""], "line_strs": ["", "\tpmc->iom_adev = adev;"]}]}

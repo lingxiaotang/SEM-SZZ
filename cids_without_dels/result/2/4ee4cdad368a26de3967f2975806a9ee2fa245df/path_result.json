@@ -1,0 +1,1 @@
+{"drivers/crypto/caam/ctrl.c": [{"patch_file_name": "drivers/crypto/caam/ctrl.c", "func_decl_name": "caam_probe", "is_cond": true, "line_numbers": [857, 858], "line_cids": ["", ""], "line_strs": ["\t\t\t */", "\t\t\tif (!(ctrlpriv->rng4_sh_init || inst_handles)) {"]}]}

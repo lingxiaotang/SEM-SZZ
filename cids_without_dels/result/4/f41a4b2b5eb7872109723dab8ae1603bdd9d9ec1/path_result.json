@@ -1,0 +1,1 @@
+{"net/bluetooth/hci_core.c": [{"patch_file_name": "net/bluetooth/hci_core.c", "func_decl_name": "hci_inquiry", "is_cond": true, "line_numbers": [1345, 1346], "line_cids": ["", ""], "line_strs": ["", "\thci_dev_lock(hdev);"]}]}

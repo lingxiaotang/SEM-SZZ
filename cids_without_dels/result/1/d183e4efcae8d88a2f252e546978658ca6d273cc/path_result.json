@@ -1,0 +1,1 @@
+{"drivers/media/i2c/tvp5150.c": [{"patch_file_name": "drivers/media/i2c/tvp5150.c", "func_decl_name": "tvp5150_s_ctrl", "is_cond": true, "line_numbers": [820, 821], "line_cids": ["", ""], "line_strs": ["\t\ttvp5150_write(sd, TVP5150_HUE_CTL, ctrl->val);", "\tcase V4L2_CID_TEST_PATTERN:"]}]}

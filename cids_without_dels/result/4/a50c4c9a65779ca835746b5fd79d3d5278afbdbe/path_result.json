@@ -1,0 +1,1 @@
+{"drivers/staging/vc04_services/interface/vchiq_arm/vchiq_core.c": [{"patch_file_name": "drivers/staging/vc04_services/interface/vchiq_arm/vchiq_core.c", "func_decl_name": "remote_event_signal_local", "is_cond": false, "line_numbers": [449], "line_cids": [""], "line_strs": ["\tevent->armed = 0;"]}]}

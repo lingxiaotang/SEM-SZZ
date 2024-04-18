@@ -1,0 +1,1 @@
+{"fs/seq_file.c": [{"patch_file_name": "fs/seq_file.c", "func_decl_name": "seq_buf_alloc", "is_cond": true, "line_numbers": [34, 35], "line_cids": ["", ""], "line_strs": ["{", "\treturn kvmalloc(size, GFP_KERNEL_ACCOUNT);"]}]}

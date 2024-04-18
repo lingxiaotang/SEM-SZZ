@@ -1,0 +1,1 @@
+{"drivers/infiniband/core/sysfs.c": [{"patch_file_name": "drivers/infiniband/core/sysfs.c", "func_decl_name": "setup_hw_stats", "is_cond": true, "line_numbers": [924, 924], "line_cids": ["", ""], "line_strs": ["\tfor (i = 0; i < stats->num_counters; i++) {", "\tfor (i = 0; i < stats->num_counters; i++) {"]}]}

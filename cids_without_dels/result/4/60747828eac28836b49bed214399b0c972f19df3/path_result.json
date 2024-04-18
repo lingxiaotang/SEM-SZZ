@@ -1,0 +1,1 @@
+{"net/socket.c": [{"patch_file_name": "net/socket.c", "func_decl_name": "sock_ioctl", "is_cond": true, "line_numbers": [1175, 1176], "line_cids": ["", ""], "line_strs": ["\t\t\t\t\t\t   !IS_ENABLED(CONFIG_64BIT));", "\t\tcase SIOCGSTAMP_NEW:"]}]}

@@ -1,0 +1,1 @@
+{"drivers/pinctrl/core.c": [{"patch_file_name": "drivers/pinctrl/core.c", "func_decl_name": "pinctrl_enable", "is_cond": false, "line_numbers": [2101, 2103], "line_cids": ["", ""], "line_strs": ["\t\tdev_err(pctldev->dev, \"could not claim hogs: %i\\n\",", "\t\tmutex_destroy(&pctldev->mutex);"]}]}

@@ -1,0 +1,1 @@
+{"drivers/net/ethernet/mellanox/mlxfw/mlxfw_mfa2.c": [{"patch_file_name": "drivers/net/ethernet/mellanox/mlxfw/mlxfw_mfa2.c", "func_decl_name": "mlxfw_mfa2_file_component_get", "is_cond": false, "line_numbers": [589, 589], "line_cids": ["", ""], "line_strs": ["\tif (err) {", "\tif (err) {"]}]}

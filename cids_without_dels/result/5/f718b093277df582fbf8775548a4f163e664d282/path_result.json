@@ -1,0 +1,1 @@
+{"block/bfq-iosched.c": [{"patch_file_name": "block/bfq-iosched.c", "func_decl_name": "bfq_better_to_idle", "is_cond": true, "line_numbers": [4171, 4172], "line_cids": ["", ""], "line_strs": ["", "\tif (unlikely(bfqd->strict_guarantees))"]}]}

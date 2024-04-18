@@ -1,0 +1,1 @@
+{"drivers/mfd/rn5t618.c": [{"patch_file_name": "drivers/mfd/rn5t618.c", "func_decl_name": "rn5t618_volatile_reg", "is_cond": true, "line_numbers": [28, 29], "line_cids": ["", ""], "line_strs": ["\tcase RN5T618_ILIMDATAH ... RN5T618_AIN0DATAL:", "\tcase RN5T618_IR_ADC1 ... RN5T618_IR_ADC3:"]}]}

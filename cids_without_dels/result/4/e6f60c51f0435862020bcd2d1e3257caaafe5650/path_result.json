@@ -1,0 +1,1 @@
+{"drivers/net/ethernet/google/gve/gve_utils.c": [{"patch_file_name": "drivers/net/ethernet/google/gve/gve_utils.c", "func_decl_name": "gve_rx_copy", "is_cond": true, "line_numbers": [70, 71], "line_cids": ["", ""], "line_strs": ["\t\tskb = napi_alloc_skb(napi, len);", "\t\tset_protocol = true;"]}]}

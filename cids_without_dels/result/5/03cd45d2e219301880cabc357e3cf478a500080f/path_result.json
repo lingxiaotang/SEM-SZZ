@@ -1,0 +1,1 @@
+{"drivers/thunderbolt/switch.c": [{"patch_file_name": "drivers/thunderbolt/switch.c", "func_decl_name": "register_nvmem", "is_cond": false, "line_numbers": [396, 397], "line_cids": ["", ""], "line_strs": ["\t\tconfig.reg_write = tb_switch_nvm_write;", "\t\tconfig.root_only = true;"]}]}

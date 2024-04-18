@@ -1,0 +1,1 @@
+{"drivers/remoteproc/remoteproc_virtio.c": [{"patch_file_name": "drivers/remoteproc/remoteproc_virtio.c", "func_decl_name": "rproc_add_virtio_dev", "is_cond": true, "line_numbers": [337, 338], "line_cids": ["", ""], "line_strs": ["", "\t/* Try to find dedicated vdev buffer carveout */"]}]}

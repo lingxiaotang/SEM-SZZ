@@ -1,0 +1,1 @@
+{"net/dsa/port.c": [{"patch_file_name": "net/dsa/port.c", "func_decl_name": "dsa_port_pre_bridge_leave", "is_cond": true, "line_numbers": [375, 376], "line_cids": ["", ""], "line_strs": ["", "\tswitchdev_bridge_port_unoffload(brport_dev, dp,"]}]}

@@ -1,0 +1,1 @@
+{"arch/s390/kvm/kvm-s390.c": [{"patch_file_name": "arch/s390/kvm/kvm-s390.c", "func_decl_name": "kvm_vm_ioctl_get_dirty_log", "is_cond": true, "line_numbers": [444, 445], "line_cids": ["", ""], "line_strs": ["", "\tmutex_lock(&kvm->slots_lock);"]}]}

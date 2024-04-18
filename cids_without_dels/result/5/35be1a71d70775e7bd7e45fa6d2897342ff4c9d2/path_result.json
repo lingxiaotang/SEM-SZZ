@@ -1,0 +1,1 @@
+{"drivers/usb/serial/keyspan.c": [{"patch_file_name": "drivers/usb/serial/keyspan.c", "func_decl_name": "keyspan_release", "is_cond": false, "line_numbers": [2377, 2379], "line_cids": ["", ""], "line_strs": ["\ts_priv = usb_get_serial_data(serial);", "\tusb_free_urb(s_priv->instat_urb);"]}]}

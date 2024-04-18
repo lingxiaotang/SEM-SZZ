@@ -1,0 +1,1 @@
+{"drivers/tty/serial/st-asc.c": [{"patch_file_name": "drivers/tty/serial/st-asc.c", "func_decl_name": "asc_init_port", "is_cond": false, "line_numbers": [759, 760], "line_cids": ["", ""], "line_strs": ["\t\tret = PTR_ERR(ascport->pinctrl);", "\t\tdev_err(&pdev->dev, \"Failed to get Pinctrl: %d\\n\", ret);"]}]}

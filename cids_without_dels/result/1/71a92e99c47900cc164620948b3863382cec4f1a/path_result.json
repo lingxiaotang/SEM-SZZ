@@ -1,0 +1,1 @@
+{"arch/powerpc/platforms/powernv/opal.c": [{"patch_file_name": "arch/powerpc/platforms/powernv/opal.c", "func_decl_name": "opal_export_attrs", "is_cond": false, "line_numbers": [887, 888], "line_cids": ["", ""], "line_strs": ["\tnp = of_find_node_by_path(\"/ibm,opal/firmware/exports\");", "\tif (!np)"]}]}

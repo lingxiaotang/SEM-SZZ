@@ -1,0 +1,1 @@
+{"drivers/infiniband/core/cma.c": [{"patch_file_name": "drivers/infiniband/core/cma.c", "func_decl_name": "cma_resolve_iboe_route", "is_cond": false, "line_numbers": [2979, 2980], "line_cids": ["", ""], "line_strs": ["\tkfree(route->path_rec);", "\troute->path_rec = NULL;"]}]}

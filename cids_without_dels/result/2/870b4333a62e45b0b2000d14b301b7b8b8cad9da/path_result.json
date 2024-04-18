@@ -1,0 +1,1 @@
+{"arch/x86/mm/ioremap.c": [{"patch_file_name": "arch/x86/mm/ioremap.c", "func_decl_name": "__ioremap_check_other", "is_cond": true, "line_numbers": [117, 118], "line_cids": ["", ""], "line_strs": ["", "\tif (efi_mem_type(addr) == EFI_RUNTIME_SERVICES_DATA)"]}]}

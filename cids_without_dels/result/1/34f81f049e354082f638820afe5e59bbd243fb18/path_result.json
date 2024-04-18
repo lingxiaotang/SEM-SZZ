@@ -1,0 +1,1 @@
+{"drivers/net/ethernet/hisilicon/hns3/hns3vf/hclgevf_cmd.c": [{"patch_file_name": "drivers/net/ethernet/hisilicon/hns3/hns3vf/hclgevf_cmd.c", "func_decl_name": "hclgevf_cmd_uninit", "is_cond": false, "line_numbers": [367], "line_cids": [""], "line_strs": ["\thclgevf_free_cmd_desc(&hdev->hw.cmq.csq);"]}]}

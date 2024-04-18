@@ -1,0 +1,1 @@
+{"drivers/extcon/extcon-ptn5150.c": [{"patch_file_name": "drivers/extcon/extcon-ptn5150.c", "func_decl_name": "ptn5150_i2c_probe", "is_cond": true, "line_numbers": [286, 287], "line_cids": ["", ""], "line_strs": ["", "\t/*"]}]}

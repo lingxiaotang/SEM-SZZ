@@ -1,0 +1,1 @@
+{"fs/erofs/xattr.c": [{"patch_file_name": "fs/erofs/xattr.c", "func_decl_name": "erofs_listxattr", "is_cond": true, "line_numbers": [651, 652], "line_cids": ["", ""], "line_strs": ["\tret = init_inode_xattrs(d_inode(dentry));", "\tif (ret)"]}]}

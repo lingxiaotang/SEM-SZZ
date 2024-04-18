@@ -1,0 +1,1 @@
+{"drivers/gpu/drm/vmwgfx/vmwgfx_msg.c": [{"patch_file_name": "drivers/gpu/drm/vmwgfx/vmwgfx_msg.c", "func_decl_name": "vmw_mksstat_add_ioctl", "is_cond": false, "line_numbers": [1066, 1066], "line_cids": ["", ""], "line_strs": ["\tpdesc = page_address(page);", "\tpdesc = page_address(page);"]}]}

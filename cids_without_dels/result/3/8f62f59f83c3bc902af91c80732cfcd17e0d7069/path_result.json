@@ -1,0 +1,1 @@
+{"drivers/mtd/parsers/qcomsmempart.c": [{"patch_file_name": "drivers/mtd/parsers/qcomsmempart.c", "func_decl_name": "parse_qcomsmem_part", "is_cond": true, "line_numbers": [67, 68], "line_cids": ["", ""], "line_strs": ["", "\tpr_debug(\"Parsing partition table info from SMEM\\n\");"]}]}

@@ -1,0 +1,1 @@
+{"drivers/scsi/sr.c": [{"patch_file_name": "drivers/scsi/sr.c", "func_decl_name": "sr_probe", "is_cond": false, "line_numbers": [817], "line_cids": [""], "line_strs": ["\tkfree(cd);"]}]}

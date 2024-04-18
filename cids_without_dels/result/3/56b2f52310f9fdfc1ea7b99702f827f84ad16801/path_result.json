@@ -1,0 +1,1 @@
+{"drivers/infiniband/hw/i40iw/i40iw_ctrl.c": [{"patch_file_name": "drivers/infiniband/hw/i40iw/i40iw_ctrl.c", "func_decl_name": "i40iw_sc_cqp_init", "is_cond": false, "line_numbers": [484, 486], "line_cids": ["", ""], "line_strs": ["\tcqp->dev->cqp_cmd_stats[OP_COMPLETED_COMMANDS] = 0;", "\ti40iw_debug(cqp->dev, I40IW_DEBUG_WQE,"]}]}

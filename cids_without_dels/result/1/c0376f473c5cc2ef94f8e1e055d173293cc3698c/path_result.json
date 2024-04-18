@@ -1,0 +1,1 @@
+{"drivers/net/ethernet/marvell/octeontx2/nic/otx2_vf.c": [{"patch_file_name": "drivers/net/ethernet/marvell/octeontx2/nic/otx2_vf.c", "func_decl_name": "otx2vf_remove", "is_cond": false, "line_numbers": [618, 620], "line_cids": ["", ""], "line_strs": ["\tvf = netdev_priv(netdev);", "\totx2vf_disable_mbox_intr(vf);"]}]}

@@ -1,0 +1,1 @@
+{"net/bridge/br_netlink.c": [{"patch_file_name": "net/bridge/br_netlink.c", "func_decl_name": "br_afspec", "is_cond": true, "line_numbers": [459, 460], "line_cids": ["", ""], "line_strs": ["\t\tvinfo = nla_data(attr);", "\t\tif (vinfo->flags & BRIDGE_VLAN_INFO_RANGE_BEGIN) {"]}]}

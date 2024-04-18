@@ -1,0 +1,1 @@
+{"drivers/phy/cadence/phy-cadence-sierra.c": [{"patch_file_name": "drivers/phy/cadence/phy-cadence-sierra.c", "func_decl_name": "cdns_sierra_phy_probe", "is_cond": false, "line_numbers": [920, 920], "line_cids": ["", ""], "line_strs": ["\t\t\tif (ret) {", "\t\t\tif (ret) {"]}]}

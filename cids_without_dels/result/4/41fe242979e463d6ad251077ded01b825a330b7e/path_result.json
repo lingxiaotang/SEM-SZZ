@@ -1,0 +1,1 @@
+{"drivers/mtd/spi-nor/fsl-quadspi.c": [{"patch_file_name": "drivers/mtd/spi-nor/fsl-quadspi.c", "func_decl_name": "fsl_qspi_get_seqid", "is_cond": true, "line_numbers": [480, 481], "line_cids": ["", ""], "line_strs": ["\tcase SPINOR_OP_READ_1_1_4:", "\t\treturn SEQID_READ;"]}]}

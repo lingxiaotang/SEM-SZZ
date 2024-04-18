@@ -1,0 +1,1 @@
+{"kernel/trace/ring_buffer.c": [{"patch_file_name": "kernel/trace/ring_buffer.c", "func_decl_name": "ring_buffer_free_read_page", "is_cond": true, "line_numbers": [4408, 4409], "line_cids": ["", ""], "line_strs": ["", "\tlocal_irq_save(flags);"]}]}

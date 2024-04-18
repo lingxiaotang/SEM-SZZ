@@ -1,0 +1,1 @@
+{"net/can/j1939/transport.c": [{"patch_file_name": "net/can/j1939/transport.c", "func_decl_name": "j1939_tp_txtimer", "is_cond": true, "line_numbers": [1122, 1123], "line_cids": ["", ""], "line_strs": ["\t\tbreak;", "\tcase 0:"]}]}

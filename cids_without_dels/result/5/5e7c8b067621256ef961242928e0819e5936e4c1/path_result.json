@@ -1,0 +1,1 @@
+{"drivers/gpu/drm/amd/amdgpu/gfx_v9_0.c": [{"patch_file_name": "drivers/gpu/drm/amd/amdgpu/gfx_v9_0.c", "func_decl_name": "gfx_v9_0_mec_init", "is_cond": true, "line_numbers": [874, 875], "line_cids": ["", ""], "line_strs": ["\tcase CHIP_VEGA10:", "\t\tadev->gfx.mec.num_mec = 2;"]}]}

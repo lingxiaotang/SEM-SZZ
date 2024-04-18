@@ -1,0 +1,1 @@
+{"arch/x86/kvm/svm/svm.c": [{"patch_file_name": "arch/x86/kvm/svm/svm.c", "func_decl_name": "svm_set_msr", "is_cond": true, "line_numbers": [2894, 2895], "line_cids": ["", ""], "line_strs": ["", "\t\t/*"]}]}

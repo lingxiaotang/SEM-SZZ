@@ -1,0 +1,1 @@
+{"drivers/net/ppp/pppoe.c": [{"patch_file_name": "drivers/net/ppp/pppoe.c", "func_decl_name": "pppoe_unbind_sock_work", "is_cond": true, "line_numbers": [467, 468], "line_cids": ["", ""], "line_strs": ["\tlock_sock(sk);", "\tpppox_unbind_sock(sk);"]}]}

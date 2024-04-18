@@ -1,0 +1,1 @@
+{"drivers/net/ethernet/aquantia/atlantic/aq_ring.c": [{"patch_file_name": "drivers/net/ethernet/aquantia/atlantic/aq_ring.c", "func_decl_name": "aq_ring_init", "is_cond": false, "line_numbers": [102, 103], "line_cids": ["", ""], "line_strs": ["\tself->sw_head = 0;", "\tself->sw_tail = 0;"]}]}

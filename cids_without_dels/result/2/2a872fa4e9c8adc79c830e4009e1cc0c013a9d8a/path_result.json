@@ -1,0 +1,1 @@
+{"kernel/trace/ring_buffer.c": [{"patch_file_name": "kernel/trace/ring_buffer.c", "func_decl_name": "__rb_allocate_pages", "is_cond": true, "line_numbers": [1166, 1167], "line_cids": ["", ""], "line_strs": ["", "\tfor (i = 0; i < nr_pages; i++) {"]}]}
